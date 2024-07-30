@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-07-16 19:38</created_at>
+  <created_at>2024-07-30 13:54</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20,7 +20,7 @@
           <link>https://www.flowerkickz.gr/products/nocta-hot-step-air-terra-black-university-gold</link>
           <availability>In Stock</availability>
           <manufacturersku>DH4692-002.40.5</manufacturersku>
-          <price_with_vat>310</price_with_vat>
+          <price_with_vat>340</price_with_vat>
           <size>40.5</size>
           <quantity>1</quantity>
         </variation>
@@ -117,7 +117,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-coconut-milk</link>
           <availability>In Stock</availability>
           <manufacturersku>BQ6472-121.44</manufacturersku>
-          <price_with_vat>320</price_with_vat>
+          <price_with_vat>330</price_with_vat>
           <size>44</size>
           <quantity>2</quantity>
         </variation>
@@ -129,19 +129,19 @@
       <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Black_White-CW1591-100-0.png?v=1713678454</image>
       <category>Sneakers</category>
-      <price_with_vat>160</price_with_vat>
+      <price_with_vat>185</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
       <size>35.5,36,36.5,38.5,40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47,47.5</size>
       <description>Dunk Low Black White</description>
-      <quantity>62</quantity>
+      <quantity>61</quantity>
       <variations>
         <variation>
           <variationid>45207484137603.35.5</variationid>
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.35.5</manufacturersku>
-          <price_with_vat>215</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>35.5</size>
           <quantity>3</quantity>
         </variation>
@@ -150,7 +150,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.36</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>36</size>
           <quantity>4</quantity>
         </variation>
@@ -159,7 +159,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.36.5</manufacturersku>
-          <price_with_vat>140</price_with_vat>
+          <price_with_vat>190</price_with_vat>
           <size>36.5</size>
           <quantity>5</quantity>
         </variation>
@@ -168,7 +168,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.38.5</manufacturersku>
-          <price_with_vat>170</price_with_vat>
+          <price_with_vat>190</price_with_vat>
           <size>38.5</size>
           <quantity>2</quantity>
         </variation>
@@ -177,7 +177,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.40</manufacturersku>
-          <price_with_vat>160</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>40</size>
           <quantity>5</quantity>
         </variation>
@@ -186,7 +186,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.40.5</manufacturersku>
-          <price_with_vat>160</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>40.5</size>
           <quantity>3</quantity>
         </variation>
@@ -195,7 +195,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.41</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>230</price_with_vat>
           <size>41</size>
           <quantity>6</quantity>
         </variation>
@@ -204,7 +204,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.42</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>230</price_with_vat>
           <size>42</size>
           <quantity>4</quantity>
         </variation>
@@ -222,7 +222,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.43</manufacturersku>
-          <price_with_vat>185</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>43</size>
           <quantity>4</quantity>
         </variation>
@@ -231,7 +231,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.44</manufacturersku>
-          <price_with_vat>160</price_with_vat>
+          <price_with_vat>205</price_with_vat>
           <size>44</size>
           <quantity>4</quantity>
         </variation>
@@ -240,7 +240,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.44.5</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>205</price_with_vat>
           <size>44.5</size>
           <quantity>4</quantity>
         </variation>
@@ -258,7 +258,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.45.5</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>205</price_with_vat>
           <size>45.5</size>
           <quantity>5</quantity>
         </variation>
@@ -267,16 +267,16 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.46</manufacturersku>
-          <price_with_vat>340</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>46</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>45207484137603.47</variationid>
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.47</manufacturersku>
-          <price_with_vat>170</price_with_vat>
+          <price_with_vat>230</price_with_vat>
           <size>47</size>
           <quantity>1</quantity>
         </variation>
@@ -285,7 +285,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-black-white</link>
           <availability>In Stock</availability>
           <manufacturersku>CW1591-100.47.5</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>240</price_with_vat>
           <size>47.5</size>
           <quantity>1</quantity>
         </variation>
@@ -689,7 +689,7 @@
       <price_with_vat>195</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>37,43,44.5,46</size>
+      <size>37,42,43,44.5,46</size>
       <description>Yeezy Slide Resin (Restock Pair)</description>
       <quantity>23</quantity>
       <variations>
@@ -703,13 +703,22 @@
           <quantity>2</quantity>
         </variation>
         <variation>
+          <variationid>45130176659587.42</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-slide-resin-restock-pair</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FZ5904.42</manufacturersku>
+          <price_with_vat>190</price_with_vat>
+          <size>42</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
           <variationid>45130176659587.43</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-slide-resin-restock-pair</link>
           <availability>In Stock</availability>
           <manufacturersku>FZ5904.43</manufacturersku>
           <price_with_vat>190</price_with_vat>
           <size>43</size>
-          <quantity>10</quantity>
+          <quantity>9</quantity>
         </variation>
         <variation>
           <variationid>45130176659587.44.5</variationid>
@@ -742,7 +751,7 @@
       <availability>In Stock</availability>
       <size>37,39,42,43</size>
       <description>Yeezy Slide Flax</description>
-      <quantity>22</quantity>
+      <quantity>20</quantity>
       <variations>
         <variation>
           <variationid>45130172924035.37</variationid>
@@ -760,14 +769,14 @@
           <manufacturersku>FZ5896.39</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>39</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45130172924035.42</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-slide-flax</link>
           <availability>In Stock</availability>
           <manufacturersku>FZ5896.42</manufacturersku>
-          <price_with_vat>160</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>42</size>
           <quantity>9</quantity>
         </variation>
@@ -776,9 +785,9 @@
           <link>https://www.flowerkickz.gr/products/yeezy-slide-flax</link>
           <availability>In Stock</availability>
           <manufacturersku>FZ5896.43</manufacturersku>
-          <price_with_vat>160</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>43</size>
-          <quantity>11</quantity>
+          <quantity>10</quantity>
         </variation>
       </variations>
     </product>
@@ -788,7 +797,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-low-sp-travis-scott-black-phantom</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Low_SP_Travis_Scott_Black_Phantom-DM7866-001-0.png?v=1713668462</image>
       <category>Sneakers</category>
-      <price_with_vat>1595</price_with_vat>
+      <price_with_vat>1685</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>36,36.5,37.5,38,38.5,39,40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47.5</size>
@@ -800,7 +809,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-sp-travis-scott-black-phantom</link>
           <availability>In Stock</availability>
           <manufacturersku>DM7866-001.36</manufacturersku>
-          <price_with_vat>1270</price_with_vat>
+          <price_with_vat>1300</price_with_vat>
           <size>36</size>
           <quantity>1</quantity>
         </variation>
@@ -809,7 +818,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-sp-travis-scott-black-phantom</link>
           <availability>In Stock</availability>
           <manufacturersku>DM7866-001.36.5</manufacturersku>
-          <price_with_vat>1330</price_with_vat>
+          <price_with_vat>1360</price_with_vat>
           <size>36.5</size>
           <quantity>2</quantity>
         </variation>
@@ -818,7 +827,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-sp-travis-scott-black-phantom</link>
           <availability>In Stock</availability>
           <manufacturersku>DM7866-001.37.5</manufacturersku>
-          <price_with_vat>1330</price_with_vat>
+          <price_with_vat>1360</price_with_vat>
           <size>37.5</size>
           <quantity>1</quantity>
         </variation>
@@ -845,7 +854,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-sp-travis-scott-black-phantom</link>
           <availability>In Stock</availability>
           <manufacturersku>DM7866-001.39</manufacturersku>
-          <price_with_vat>1405</price_with_vat>
+          <price_with_vat>1450</price_with_vat>
           <size>39</size>
           <quantity>1</quantity>
         </variation>
@@ -854,7 +863,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-sp-travis-scott-black-phantom</link>
           <availability>In Stock</availability>
           <manufacturersku>DM7866-001.40</manufacturersku>
-          <price_with_vat>1130</price_with_vat>
+          <price_with_vat>1180</price_with_vat>
           <size>40</size>
           <quantity>2</quantity>
         </variation>
@@ -863,7 +872,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-sp-travis-scott-black-phantom</link>
           <availability>In Stock</availability>
           <manufacturersku>DM7866-001.40.5</manufacturersku>
-          <price_with_vat>1120</price_with_vat>
+          <price_with_vat>1185</price_with_vat>
           <size>40.5</size>
           <quantity>2</quantity>
         </variation>
@@ -872,7 +881,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-sp-travis-scott-black-phantom</link>
           <availability>In Stock</availability>
           <manufacturersku>DM7866-001.41</manufacturersku>
-          <price_with_vat>1120</price_with_vat>
+          <price_with_vat>1185</price_with_vat>
           <size>41</size>
           <quantity>2</quantity>
         </variation>
@@ -917,7 +926,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-sp-travis-scott-black-phantom</link>
           <availability>In Stock</availability>
           <manufacturersku>DM7866-001.44.5</manufacturersku>
-          <price_with_vat>1595</price_with_vat>
+          <price_with_vat>1685</price_with_vat>
           <size>44.5</size>
           <quantity>1</quantity>
         </variation>
@@ -935,7 +944,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-sp-travis-scott-black-phantom</link>
           <availability>In Stock</availability>
           <manufacturersku>DM7866-001.45.5</manufacturersku>
-          <price_with_vat>1405</price_with_vat>
+          <price_with_vat>1470</price_with_vat>
           <size>45.5</size>
           <quantity>2</quantity>
         </variation>
@@ -953,7 +962,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-sp-travis-scott-black-phantom</link>
           <availability>In Stock</availability>
           <manufacturersku>DM7866-001.47.5</manufacturersku>
-          <price_with_vat>1385</price_with_vat>
+          <price_with_vat>1425</price_with_vat>
           <size>47.5</size>
           <quantity>1</quantity>
         </variation>
@@ -1442,7 +1451,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-court-purple-2022</link>
           <availability>In Stock</availability>
           <manufacturersku>DD1391-104.41</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>41</size>
           <quantity>3</quantity>
         </variation>
@@ -1451,7 +1460,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-court-purple-2022</link>
           <availability>In Stock</availability>
           <manufacturersku>DD1391-104.44</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>44</size>
           <quantity>3</quantity>
         </variation>
@@ -1460,7 +1469,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-court-purple-2022</link>
           <availability>In Stock</availability>
           <manufacturersku>DD1391-104.44.5</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>44.5</size>
           <quantity>3</quantity>
         </variation>
@@ -1469,7 +1478,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-court-purple-2022</link>
           <availability>In Stock</availability>
           <manufacturersku>DD1391-104.45.5</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>45.5</size>
           <quantity>3</quantity>
         </variation>
@@ -1640,7 +1649,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-animal-print-black</link>
           <availability>In Stock</availability>
           <manufacturersku>DD7099-001.37.5</manufacturersku>
-          <price_with_vat>280</price_with_vat>
+          <price_with_vat>285</price_with_vat>
           <size>37.5</size>
           <quantity>1</quantity>
         </variation>
@@ -1670,7 +1679,7 @@
       <link>https://www.flowerkickz.gr/products/dunk-low-chlorophyll</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Chlorophyll-DH9765-301-0.png?v=1713678597</image>
       <category>Sneakers</category>
-      <price_with_vat>140</price_with_vat>
+      <price_with_vat>160</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
       <size>40,40.5,41,42,42.5,43,44,44.5,47</size>
@@ -1682,7 +1691,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-chlorophyll</link>
           <availability>In Stock</availability>
           <manufacturersku>DH9765-300.40</manufacturersku>
-          <price_with_vat>140</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>40</size>
           <quantity>2</quantity>
         </variation>
@@ -1766,7 +1775,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-high-chicago-lost-and-found-reimagined</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_Chicago_Lost_And_Found_Reimagined_-DZ5485-612-0.png?v=1713666683</image>
       <category>Sneakers</category>
-      <price_with_vat>625</price_with_vat>
+      <price_with_vat>735</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>45.5,46,47</size>
@@ -1778,7 +1787,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-high-chicago-lost-and-found-reimagined</link>
           <availability>In Stock</availability>
           <manufacturersku>DZ5485-612.45.5</manufacturersku>
-          <price_with_vat>625</price_with_vat>
+          <price_with_vat>735</price_with_vat>
           <size>45.5</size>
           <quantity>1</quantity>
         </variation>
@@ -1787,7 +1796,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-high-chicago-lost-and-found-reimagined</link>
           <availability>In Stock</availability>
           <manufacturersku>DZ5485-612.46</manufacturersku>
-          <price_with_vat>635</price_with_vat>
+          <price_with_vat>770</price_with_vat>
           <size>46</size>
           <quantity>1</quantity>
         </variation>
@@ -1796,7 +1805,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-high-chicago-lost-and-found-reimagined</link>
           <availability>In Stock</availability>
           <manufacturersku>DZ5485-612.47</manufacturersku>
-          <price_with_vat>635</price_with_vat>
+          <price_with_vat>770</price_with_vat>
           <size>47</size>
           <quantity>1</quantity>
         </variation>
@@ -1965,29 +1974,9 @@
       <price_with_vat>335</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
-      <size>40.5,43</size>
+      <size>40.5</size>
       <description>Air Max Plus Triple Black</description>
-      <quantity>2</quantity>
-      <variations>
-        <variation>
-          <variationid>45172001603715.40.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-max-plus-triple-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>604133-050.40.5</manufacturersku>
-          <price_with_vat>335</price_with_vat>
-          <size>40.5</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45172001603715.43</variationid>
-          <link>https://www.flowerkickz.gr/products/air-max-plus-triple-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>604133-050.43</manufacturersku>
-          <price_with_vat>355</price_with_vat>
-          <size>43</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>CT8480-001</id>
@@ -2081,7 +2070,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44,44.5,45,45.5,47.5</size>
       <description>Air Force 1 Low Black Supreme</description>
-      <quantity>66</quantity>
+      <quantity>64</quantity>
       <variations>
         <variation>
           <variationid>45212023324803.41</variationid>
@@ -2106,7 +2095,7 @@
           <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-001.42.5</manufacturersku>
-          <price_with_vat>285</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>42.5</size>
           <quantity>6</quantity>
         </variation>
@@ -2117,7 +2106,7 @@
           <manufacturersku>CU9225-001.43</manufacturersku>
           <price_with_vat>420</price_with_vat>
           <size>43</size>
-          <quantity>10</quantity>
+          <quantity>9</quantity>
         </variation>
         <variation>
           <variationid>45212023324803.44</variationid>
@@ -2126,14 +2115,14 @@
           <manufacturersku>CU9225-001.44</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>44</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>45212023324803.44.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-001.44.5</manufacturersku>
-          <price_with_vat>275</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>44.5</size>
           <quantity>10</quantity>
         </variation>
@@ -2142,7 +2131,7 @@
           <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-001.45</manufacturersku>
-          <price_with_vat>335</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>45</size>
           <quantity>8</quantity>
         </variation>
@@ -2151,7 +2140,7 @@
           <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-001.45.5</manufacturersku>
-          <price_with_vat>285</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>45.5</size>
           <quantity>6</quantity>
         </variation>
@@ -2160,7 +2149,7 @@
           <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-001.47.5</manufacturersku>
-          <price_with_vat>310</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>47.5</size>
           <quantity>4</quantity>
         </variation>
@@ -2790,19 +2779,6 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>79474529</id>
-      <name>Kith Tight Lines Tee Black</name>
-      <link>https://www.flowerkickz.gr/products/kith-tight-lines-tee-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/KithTightLinesTeeBlack.png?v=1700743653</image>
-      <category>Sneakers</category>
-      <price_with_vat>125</price_with_vat>
-      <manufacturer>Kith Clothing</manufacturer>
-      <availability>In Stock</availability>
-      <size>SMALL</size>
-      <description>Kith Tight Lines Tee Black</description>
-      <quantity>1</quantity>
-    </product>
-    <product>
       <id>B-TJ004</id>
       <name>Bape Jacket Anorak 1st Camo Purple</name>
       <link>https://www.flowerkickz.gr/products/bape-jacket-anorak-1st-camo-purple</link>
@@ -2977,7 +2953,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,45.5,46,47,47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS &quot;Η Επιστροφή&quot;</description>
-      <quantity>71</quantity>
+      <quantity>69</quantity>
       <variations>
         <variation>
           <variationid>44936150679683.40</variationid>
@@ -3004,7 +2980,7 @@
           <manufacturersku>FK1974.45.5</manufacturersku>
           <price_with_vat>225</price_with_vat>
           <size>45.5</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>44936150679683.46</variationid>
@@ -3013,7 +2989,7 @@
           <manufacturersku>FK1974.46</manufacturersku>
           <price_with_vat>225</price_with_vat>
           <size>46</size>
-          <quantity>9</quantity>
+          <quantity>8</quantity>
         </variation>
         <variation>
           <variationid>44936150679683.47</variationid>
@@ -3652,24 +3628,15 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-4-se-craft-photon-dust</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_SE_Craft_Photon_Dust-DV3742-021-0.png?v=1713672761</image>
       <category>Sneakers</category>
-      <price_with_vat>465</price_with_vat>
+      <price_with_vat>455</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
-      <size>40.5,41,42,43,44,44.5,48.5</size>
+      <size>41,42,43,44,44.5,48.5</size>
       <description>Air Jordan 4 SE Craft Photon Dust</description>
-      <quantity>9</quantity>
+      <quantity>8</quantity>
       <variations>
         <variation>
-          <variationid>45210000294019.40.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-4-se-craft-photon-dust</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DV3742-021.40.5</manufacturersku>
-          <price_with_vat>465</price_with_vat>
-          <size>40.5</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45210000294019.41</variationid>
+          <variationid>45210000326787.41</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-4-se-craft-photon-dust</link>
           <availability>In Stock</availability>
           <manufacturersku>DV3742-021.41</manufacturersku>
@@ -3678,7 +3645,7 @@
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>45210000294019.42</variationid>
+          <variationid>45210000326787.42</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-4-se-craft-photon-dust</link>
           <availability>In Stock</availability>
           <manufacturersku>DV3742-021.42</manufacturersku>
@@ -3687,7 +3654,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>45210000294019.43</variationid>
+          <variationid>45210000326787.43</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-4-se-craft-photon-dust</link>
           <availability>In Stock</availability>
           <manufacturersku>DV3742-021.43</manufacturersku>
@@ -3696,7 +3663,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>45210000294019.44</variationid>
+          <variationid>45210000326787.44</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-4-se-craft-photon-dust</link>
           <availability>In Stock</availability>
           <manufacturersku>DV3742-021.44</manufacturersku>
@@ -3705,7 +3672,7 @@
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>45210000294019.44.5</variationid>
+          <variationid>45210000326787.44.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-4-se-craft-photon-dust</link>
           <availability>In Stock</availability>
           <manufacturersku>DV3742-021.44.5</manufacturersku>
@@ -3714,7 +3681,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>45210000294019.48.5</variationid>
+          <variationid>45210000326787.48.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-4-se-craft-photon-dust</link>
           <availability>In Stock</availability>
           <manufacturersku>DV3742-021.48.5</manufacturersku>
@@ -4020,7 +3987,7 @@
       </variations>
     </product>
     <product>
-      <id>56916847</id>
+      <id>12993892</id>
       <name>Trapstar Can't Trap A Trapper Tee White</name>
       <link>https://www.flowerkickz.gr/products/trapstar-cant-trap-a-trapper-tee-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TrapstarCan_tTrapATrapperTeeWhite.png?v=1686213605</image>
@@ -4028,42 +3995,33 @@
       <price_with_vat>145</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
       <availability>In Stock</availability>
-      <size>2X-LARGE,LARGE,MEDIUM,X-LARGE</size>
+      <size>2X-LARGE,LARGE,X-LARGE</size>
       <description>Trapstar Can't Trap A Trapper Tee White</description>
       <quantity>5</quantity>
       <variations>
         <variation>
-          <variationid>48497027481933.2X-LARGE</variationid>
+          <variationid>48497027514701.2X-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-cant-trap-a-trapper-tee-white</link>
           <availability>In Stock</availability>
-          <manufacturersku>56916847.2X-LARGE</manufacturersku>
+          <manufacturersku>12993892.2X-LARGE</manufacturersku>
           <price_with_vat>145</price_with_vat>
           <size>2X-LARGE</size>
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>48497027481933.LARGE</variationid>
+          <variationid>48497027514701.LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-cant-trap-a-trapper-tee-white</link>
           <availability>In Stock</availability>
-          <manufacturersku>56916847.LARGE</manufacturersku>
+          <manufacturersku>12993892.LARGE</manufacturersku>
           <price_with_vat>145</price_with_vat>
           <size>LARGE</size>
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>48497027481933.MEDIUM</variationid>
+          <variationid>48497027514701.X-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-cant-trap-a-trapper-tee-white</link>
           <availability>In Stock</availability>
-          <manufacturersku>56916847.MEDIUM</manufacturersku>
-          <price_with_vat>145</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>48497027481933.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-cant-trap-a-trapper-tee-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>56916847.X-LARGE</manufacturersku>
+          <manufacturersku>12993892.X-LARGE</manufacturersku>
           <price_with_vat>145</price_with_vat>
           <size>X-LARGE</size>
           <quantity>1</quantity>
@@ -4135,12 +4093,12 @@
       <link>https://www.flowerkickz.gr/products/air-force-1-low-white-supreme</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_White_Supreme-CU9225-100-0.png?v=1713665987</image>
       <category>Sneakers</category>
-      <price_with_vat>310</price_with_vat>
+      <price_with_vat>365</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
       <size>40,40.5,41,42,43,44,44.5,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>57</quantity>
+      <quantity>56</quantity>
       <variations>
         <variation>
           <variationid>45132063670403.40</variationid>
@@ -4165,7 +4123,7 @@
           <link>https://www.flowerkickz.gr/products/air-force-1-low-white-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-100.41</manufacturersku>
-          <price_with_vat>320</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>41</size>
           <quantity>7</quantity>
         </variation>
@@ -4174,7 +4132,7 @@
           <link>https://www.flowerkickz.gr/products/air-force-1-low-white-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-100.42</manufacturersku>
-          <price_with_vat>260</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>42</size>
           <quantity>5</quantity>
         </variation>
@@ -4183,7 +4141,7 @@
           <link>https://www.flowerkickz.gr/products/air-force-1-low-white-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-100.43</manufacturersku>
-          <price_with_vat>340</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>43</size>
           <quantity>4</quantity>
         </variation>
@@ -4192,7 +4150,7 @@
           <link>https://www.flowerkickz.gr/products/air-force-1-low-white-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-100.44</manufacturersku>
-          <price_with_vat>320</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>44</size>
           <quantity>4</quantity>
         </variation>
@@ -4201,7 +4159,7 @@
           <link>https://www.flowerkickz.gr/products/air-force-1-low-white-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-100.44.5</manufacturersku>
-          <price_with_vat>340</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>44.5</size>
           <quantity>4</quantity>
         </variation>
@@ -4210,16 +4168,16 @@
           <link>https://www.flowerkickz.gr/products/air-force-1-low-white-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-100.45.5</manufacturersku>
-          <price_with_vat>260</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>45.5</size>
-          <quantity>7</quantity>
+          <quantity>6</quantity>
         </variation>
         <variation>
           <variationid>45132063670403.46</variationid>
           <link>https://www.flowerkickz.gr/products/air-force-1-low-white-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-100.46</manufacturersku>
-          <price_with_vat>310</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>46</size>
           <quantity>7</quantity>
         </variation>
@@ -4228,7 +4186,7 @@
           <link>https://www.flowerkickz.gr/products/air-force-1-low-white-supreme</link>
           <availability>In Stock</availability>
           <manufacturersku>CU9225-100.47.5</manufacturersku>
-          <price_with_vat>250</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>47.5</size>
           <quantity>5</quantity>
         </variation>
@@ -4240,7 +4198,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-4-midnight-navy</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Midnight_Navy-DH6927-140-0.png?v=1713672469</image>
       <category>Sneakers</category>
-      <price_with_vat>580</price_with_vat>
+      <price_with_vat>770</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>45,45.5,46,49.5</size>
@@ -4252,7 +4210,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-midnight-navy</link>
           <availability>In Stock</availability>
           <manufacturersku>DH6927-140.45</manufacturersku>
-          <price_with_vat>590</price_with_vat>
+          <price_with_vat>770</price_with_vat>
           <size>45</size>
           <quantity>1</quantity>
         </variation>
@@ -4261,7 +4219,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-midnight-navy</link>
           <availability>In Stock</availability>
           <manufacturersku>DH6927-140.45.5</manufacturersku>
-          <price_with_vat>580</price_with_vat>
+          <price_with_vat>770</price_with_vat>
           <size>45.5</size>
           <quantity>1</quantity>
         </variation>
@@ -4270,7 +4228,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-midnight-navy</link>
           <availability>In Stock</availability>
           <manufacturersku>DH6927-140.46</manufacturersku>
-          <price_with_vat>635</price_with_vat>
+          <price_with_vat>770</price_with_vat>
           <size>46</size>
           <quantity>1</quantity>
         </variation>
@@ -4279,7 +4237,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-midnight-navy</link>
           <availability>In Stock</availability>
           <manufacturersku>DH6927-140.49.5</manufacturersku>
-          <price_with_vat>580</price_with_vat>
+          <price_with_vat>770</price_with_vat>
           <size>49.5</size>
           <quantity>1</quantity>
         </variation>
@@ -4624,10 +4582,10 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-sb-pine-green</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_SB_Pine_Green-DR5415-103-0.png?v=1713672625</image>
       <category>Sneakers</category>
-      <price_with_vat>670</price_with_vat>
+      <price_with_vat>725</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
-      <size>36.5,42</size>
+      <size>36.5,46</size>
       <description>Air Jordan 4 Retro SB Pine Green</description>
       <quantity>2</quantity>
       <variations>
@@ -4636,17 +4594,17 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-sb-pine-green</link>
           <availability>In Stock</availability>
           <manufacturersku>DR5415-103.36.5</manufacturersku>
-          <price_with_vat>670</price_with_vat>
+          <price_with_vat>725</price_with_vat>
           <size>36.5</size>
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>48487884652877.42</variationid>
+          <variationid>48487884652877.46</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-sb-pine-green</link>
           <availability>In Stock</availability>
-          <manufacturersku>DR5415-103.42</manufacturersku>
-          <price_with_vat>690</price_with_vat>
-          <size>42</size>
+          <manufacturersku>DR5415-103.46</manufacturersku>
+          <price_with_vat>1065</price_with_vat>
+          <size>46</size>
           <quantity>1</quantity>
         </variation>
       </variations>
@@ -4748,7 +4706,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-se-sport-spice</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_SE_Sport_Spice-DV1302-100-0.png?v=1713670104</image>
       <category>Sneakers</category>
-      <price_with_vat>240</price_with_vat>
+      <price_with_vat>260</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>36,36.5,40.5,42,42.5,43,44</size>
@@ -4814,7 +4772,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-se-sport-spice</link>
           <availability>In Stock</availability>
           <manufacturersku>DV1302-100.44</manufacturersku>
-          <price_with_vat>240</price_with_vat>
+          <price_with_vat>260</price_with_vat>
           <size>44</size>
           <quantity>1</quantity>
         </variation>
@@ -5053,7 +5011,7 @@
       <availability>In Stock</availability>
       <size>43</size>
       <description>Yeezy Slide Glow Green (Restock Pair 2022)</description>
-      <quantity>2</quantity>
+      <quantity>3</quantity>
     </product>
     <product>
       <id>554724-371</id>
@@ -5376,9 +5334,9 @@
       <price_with_vat>420</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
-      <size>41,42.5,44,44.5,45,46</size>
+      <size>41,42.5,44,45,46</size>
       <description>Air Jordan 1 High OG Patent Bred</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <variations>
         <variation>
           <variationid>45142123806851.41</variationid>
@@ -5405,15 +5363,6 @@
           <manufacturersku>555088-063.44</manufacturersku>
           <price_with_vat>425</price_with_vat>
           <size>44</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45142123806851.44.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-high-og-patent-bred</link>
-          <availability>In Stock</availability>
-          <manufacturersku>555088-063.44.5</manufacturersku>
-          <price_with_vat>430</price_with_vat>
-          <size>44.5</size>
           <quantity>1</quantity>
         </variation>
         <variation>
@@ -5455,7 +5404,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-4-military-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Military_Black-408452-111-0.png?v=1713672498</image>
       <category>Sneakers</category>
-      <price_with_vat>980</price_with_vat>
+      <price_with_vat>1055</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>41,47,47.5</size>
@@ -5467,7 +5416,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-military-black</link>
           <availability>In Stock</availability>
           <manufacturersku>DH6927-111.41</manufacturersku>
-          <price_with_vat>1110</price_with_vat>
+          <price_with_vat>1165</price_with_vat>
           <size>41</size>
           <quantity>1</quantity>
         </variation>
@@ -5476,7 +5425,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-military-black</link>
           <availability>In Stock</availability>
           <manufacturersku>DH6927-111.47</manufacturersku>
-          <price_with_vat>980</price_with_vat>
+          <price_with_vat>1055</price_with_vat>
           <size>47</size>
           <quantity>4</quantity>
         </variation>
@@ -5485,7 +5434,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-military-black</link>
           <availability>In Stock</availability>
           <manufacturersku>DH6927-111.47.5</manufacturersku>
-          <price_with_vat>920</price_with_vat>
+          <price_with_vat>985</price_with_vat>
           <size>47.5</size>
           <quantity>5</quantity>
         </variation>
@@ -5515,19 +5464,6 @@
       <availability>In Stock</availability>
       <size>44</size>
       <description>Air Jordan 4 Retro Union Guava Ice</description>
-      <quantity>1</quantity>
-    </product>
-    <product>
-      <id>CZ2239-600</id>
-      <name>SB Dunk Low What The P-Rod</name>
-      <link>https://www.flowerkickz.gr/products/sb-dunk-low-what-the-p-rod</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_What_The_P-Rod-CZ2239-600-0.png?v=1713685682</image>
-      <category>Sneakers</category>
-      <price_with_vat>1335</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <availability>In Stock</availability>
-      <size>44</size>
-      <description>SB Dunk Low What The P-Rod</description>
       <quantity>1</quantity>
     </product>
     <product>
@@ -5562,7 +5498,7 @@
       <link>https://www.flowerkickz.gr/products/sb-dunk-high-rx-0-unicorn-gundam-02-banshee</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzSB_Dunk_High_RX-0_Unicorn_Gundam_02_Banshee-DH7717-400-0_96e577aa-3def-4684-b6eb-334fa70e8b6f.png?v=1691152870</image>
       <category>Sneakers</category>
-      <price_with_vat>660</price_with_vat>
+      <price_with_vat>600</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
       <size>45.5</size>
@@ -5876,7 +5812,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-3-retro-varsity-royal</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzAir_Jordan_3_Retro_Varsity_Royal--0.png?v=1646148847</image>
       <category>Sneakers</category>
-      <price_with_vat>635</price_with_vat>
+      <price_with_vat>580</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>46</size>
@@ -5948,7 +5884,7 @@
       <link>https://www.flowerkickz.gr/products/yeezy-slide-onyx</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Onyx-HQ6448-0.png?v=1713688370</image>
       <category>Sneakers</category>
-      <price_with_vat>240</price_with_vat>
+      <price_with_vat>310</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
       <size>37</size>
@@ -5964,7 +5900,7 @@
       <price_with_vat>280</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>37,40.5,42,50</size>
+      <size>37,40.5,43,50</size>
       <description>Yeezy Foam RNNR Clay Taupe</description>
       <quantity>4</quantity>
       <variations>
@@ -5987,12 +5923,12 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>48914560024909.42</variationid>
+          <variationid>48914560024909.43</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-foam-rnnr-clay-taupe</link>
           <availability>In Stock</availability>
-          <manufacturersku>GV6842.42</manufacturersku>
+          <manufacturersku>GV6842.43</manufacturersku>
           <price_with_vat>195</price_with_vat>
-          <size>42</size>
+          <size>43</size>
           <quantity>1</quantity>
         </variation>
         <variation>
@@ -6015,7 +5951,7 @@
       <price_with_vat>215</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>37,38,48.5</size>
+      <size>37,38,43,48.5</size>
       <description>Yeezy Foam RNNR MX Brown Blue</description>
       <quantity>8</quantity>
       <variations>
@@ -6035,7 +5971,16 @@
           <manufacturersku>ID4126.38</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>38</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
+        </variation>
+        <variation>
+          <variationid>48886632481101.43</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-foam-rnnr-mx-brown-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID4126.43</manufacturersku>
+          <price_with_vat>190</price_with_vat>
+          <size>43</size>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48886632481101.48.5</variationid>
@@ -6369,7 +6314,7 @@
       <availability>In Stock</availability>
       <size>SMALL</size>
       <description>Fear of God Essentials T-Shirt Plum SS23</description>
-      <quantity>3</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>15629672</id>
@@ -6413,29 +6358,9 @@
       <price_with_vat>190</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <availability>In Stock</availability>
-      <size>LARGE,X-LARGE</size>
+      <size>LARGE</size>
       <description>Fear of God Essentials T-Shirt Seafoam</description>
-      <quantity>8</quantity>
-      <variations>
-        <variation>
-          <variationid>49041339056461.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-seafoam</link>
-          <availability>In Stock</availability>
-          <manufacturersku>96119478.LARGE</manufacturersku>
-          <price_with_vat>190</price_with_vat>
-          <size>LARGE</size>
-          <quantity>7</quantity>
-        </variation>
-        <variation>
-          <variationid>49041339056461.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-seafoam</link>
-          <availability>In Stock</availability>
-          <manufacturersku>96119478.X-LARGE</manufacturersku>
-          <price_with_vat>190</price_with_vat>
-          <size>X-LARGE</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
+      <quantity>7</quantity>
     </product>
     <product>
       <id>53408164</id>
@@ -6490,7 +6415,7 @@
       <availability>In Stock</availability>
       <size>LARGE,X-LARGE</size>
       <description>Fear of God Essentials T-Shirt Stretch-Limo</description>
-      <quantity>15</quantity>
+      <quantity>12</quantity>
       <variations>
         <variation>
           <variationid>49041271456077.LARGE</variationid>
@@ -6499,7 +6424,7 @@
           <manufacturersku>80997194.LARGE</manufacturersku>
           <price_with_vat>190</price_with_vat>
           <size>LARGE</size>
-          <quantity>11</quantity>
+          <quantity>8</quantity>
         </variation>
         <variation>
           <variationid>49041271456077.X-LARGE</variationid>
@@ -6798,19 +6723,6 @@
       </variations>
     </product>
     <product>
-      <id>62798510</id>
-      <name>Trapstar TRP Tee Black/Revolution Edition</name>
-      <link>https://www.flowerkickz.gr/products/trapstar-trap-trp-tee-black-revolution-edition</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TRPtee.png?v=1689080131</image>
-      <category>Sneakers</category>
-      <price_with_vat>145</price_with_vat>
-      <manufacturer>Trapstar</manufacturer>
-      <availability>In Stock</availability>
-      <size>X-LARGE</size>
-      <description>Trapstar TRP Tee Black/Revolution Edition</description>
-      <quantity>1</quantity>
-    </product>
-    <product>
       <id>99976842</id>
       <name>Trapstar TRP Tee White/Revolution Edition</name>
       <link>https://www.flowerkickz.gr/products/trapstar-trap-trp-tee-white-revolution-edition</link>
@@ -7079,7 +6991,7 @@
       <price_with_vat>455</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>36 2/3,40 2/3,45 1/3</size>
+      <size>36 2/3,44,45 1/3</size>
       <description>Yeezy Boost 350 V2 Bone</description>
       <quantity>3</quantity>
       <variations>
@@ -7093,12 +7005,12 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>45130135273603.40-2/3</variationid>
+          <variationid>45130135273603.44</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-bone-1</link>
           <availability>In Stock</availability>
-          <manufacturersku>HQ6316.40-2/3</manufacturersku>
-          <price_with_vat>565</price_with_vat>
-          <size>40 2/3</size>
+          <manufacturersku>HQ6316.44</manufacturersku>
+          <price_with_vat>510</price_with_vat>
+          <size>44</size>
           <quantity>1</quantity>
         </variation>
         <variation>
@@ -7621,7 +7533,7 @@
       <availability>In Stock</availability>
       <size>42,43,44,44.5,45,45.5,47,47.5,48.5,49.5</size>
       <description>Dunk Low Clear Jade</description>
-      <quantity>25</quantity>
+      <quantity>24</quantity>
       <variations>
         <variation>
           <variationid>49020818751821.42</variationid>
@@ -7646,7 +7558,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.44</manufacturersku>
-          <price_with_vat>160</price_with_vat>
+          <price_with_vat>195</price_with_vat>
           <size>44</size>
           <quantity>3</quantity>
         </variation>
@@ -7655,7 +7567,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.44.5</manufacturersku>
-          <price_with_vat>160</price_with_vat>
+          <price_with_vat>195</price_with_vat>
           <size>44.5</size>
           <quantity>3</quantity>
         </variation>
@@ -7664,16 +7576,16 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.45</manufacturersku>
-          <price_with_vat>160</price_with_vat>
+          <price_with_vat>195</price_with_vat>
           <size>45</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>49020818751821.45.5</variationid>
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.45.5</manufacturersku>
-          <price_with_vat>160</price_with_vat>
+          <price_with_vat>195</price_with_vat>
           <size>45.5</size>
           <quantity>3</quantity>
         </variation>
@@ -7682,7 +7594,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.47</manufacturersku>
-          <price_with_vat>160</price_with_vat>
+          <price_with_vat>195</price_with_vat>
           <size>47</size>
           <quantity>3</quantity>
         </variation>
@@ -7767,7 +7679,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-high-og-spider-man-across-the-spider-verse</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Spider-Man_Across_the_Spider-Verse-DV1748-601-0.png?v=1713666930</image>
       <category>Sneakers</category>
-      <price_with_vat>375</price_with_vat>
+      <price_with_vat>385</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>42.5</size>
@@ -7780,15 +7692,15 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-low-light-smoke-grey</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Low_Light_Smoke_Grey-553558-030-0.png?v=1713667805</image>
       <category>Sneakers</category>
-      <price_with_vat>430</price_with_vat>
+      <price_with_vat>365</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
-      <size>36,42,42.5,43</size>
+      <size>36,42.5,43</size>
       <description>Air Jordan 1 Low Light Smoke Grey</description>
       <quantity>3</quantity>
       <variations>
         <variation>
-          <variationid>45129047277699.36</variationid>
+          <variationid>45129047310467.36</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-light-smoke-grey</link>
           <availability>In Stock</availability>
           <manufacturersku>553558-030.36</manufacturersku>
@@ -7797,16 +7709,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>45129047277699.42</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-light-smoke-grey</link>
-          <availability>In Stock</availability>
-          <manufacturersku>553558-030.42</manufacturersku>
-          <price_with_vat>430</price_with_vat>
-          <size>42</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>45129047277699.42.5</variationid>
+          <variationid>45129047310467.42.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-light-smoke-grey</link>
           <availability>In Stock</availability>
           <manufacturersku>553558-030.42.5</manufacturersku>
@@ -7815,7 +7718,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>45129047277699.43</variationid>
+          <variationid>45129047310467.43</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-light-smoke-grey</link>
           <availability>In Stock</availability>
           <manufacturersku>553558-030.43</manufacturersku>
@@ -7831,7 +7734,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-low-og-sp-travis-scott-olive</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Olive-DZ4137-106-0.png?v=1713671552</image>
       <category>Sneakers</category>
-      <price_with_vat>1900</price_with_vat>
+      <price_with_vat>1210</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>40.5</size>
@@ -7870,7 +7773,7 @@
       <link>https://www.flowerkickz.gr/products/air-kukini-spiridon-cage-2-stussy-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzAir_Kukini_Spiridon_Cage_2_Stussy_White--0.png?v=1646149461</image>
       <category>Sneakers</category>
-      <price_with_vat>465</price_with_vat>
+      <price_with_vat>420</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
       <size>42.5</size>
@@ -7886,9 +7789,9 @@
       <price_with_vat>215</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
-      <size>35.5,36,36.5,37.5,40.5,41,42,42.5</size>
+      <size>35.5,36,36.5,37.5,40.5,42,42.5</size>
       <description>Dunk Low Cacao Wow</description>
-      <quantity>12</quantity>
+      <quantity>11</quantity>
       <variations>
         <variation>
           <variationid>49202541101389.35.5</variationid>
@@ -7922,7 +7825,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-cacao-wow</link>
           <availability>In Stock</availability>
           <manufacturersku>DD1503-124.37.5</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>250</price_with_vat>
           <size>37.5</size>
           <quantity>2</quantity>
         </variation>
@@ -7936,29 +7839,20 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>49202541101389.41</variationid>
-          <link>https://www.flowerkickz.gr/products/dunk-low-cacao-wow</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DD1503-124.41</manufacturersku>
-          <price_with_vat>215</price_with_vat>
-          <size>41</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
           <variationid>49202541101389.42</variationid>
           <link>https://www.flowerkickz.gr/products/dunk-low-cacao-wow</link>
           <availability>In Stock</availability>
           <manufacturersku>DD1503-124.42</manufacturersku>
-          <price_with_vat>215</price_with_vat>
+          <price_with_vat>250</price_with_vat>
           <size>42</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49202541101389.42.5</variationid>
           <link>https://www.flowerkickz.gr/products/dunk-low-cacao-wow</link>
           <availability>In Stock</availability>
           <manufacturersku>DD1503-124.42.5</manufacturersku>
-          <price_with_vat>215</price_with_vat>
+          <price_with_vat>250</price_with_vat>
           <size>42.5</size>
           <quantity>3</quantity>
         </variation>
@@ -8343,9 +8237,9 @@
       <price_with_vat>285</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
-      <size>36,38,39,40,42.5</size>
+      <size>36,38,40,42.5</size>
       <description>Dunk Low SE 85 Neptune Green</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>45129736093827.36</variationid>
@@ -8363,15 +8257,6 @@
           <manufacturersku>DO9457-101.38</manufacturersku>
           <price_with_vat>260</price_with_vat>
           <size>38</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45129736093827.39</variationid>
-          <link>https://www.flowerkickz.gr/products/dunk-low-se-85-neptune-green</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DO9457-101.39</manufacturersku>
-          <price_with_vat>230</price_with_vat>
-          <size>39</size>
           <quantity>1</quantity>
         </variation>
         <variation>
@@ -8685,24 +8570,15 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-low-og-unc-2022</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Low_OG_UNC_2022_-CZ0790-104-0.png?v=1713667911</image>
       <category>Sneakers</category>
-      <price_with_vat>340</price_with_vat>
+      <price_with_vat>335</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
-      <size>38,40.5,41,42.5,44</size>
+      <size>40.5,41,42.5,44</size>
       <description>Air Jordan 1 Low OG UNC (2022)</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
-          <variationid>45129053339779.38</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-og-unc-2022</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CZ0790-104.38</manufacturersku>
-          <price_with_vat>340</price_with_vat>
-          <size>38</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45129053339779.40.5</variationid>
+          <variationid>45129053470851.40.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-og-unc-2022</link>
           <availability>In Stock</availability>
           <manufacturersku>CZ0790-104.40.5</manufacturersku>
@@ -8711,7 +8587,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>45129053339779.41</variationid>
+          <variationid>45129053470851.41</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-og-unc-2022</link>
           <availability>In Stock</availability>
           <manufacturersku>CZ0790-104.41</manufacturersku>
@@ -8720,7 +8596,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>45129053339779.42.5</variationid>
+          <variationid>45129053470851.42.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-og-unc-2022</link>
           <availability>In Stock</availability>
           <manufacturersku>CZ0790-104.42.5</manufacturersku>
@@ -8729,7 +8605,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>45129053339779.44</variationid>
+          <variationid>45129053470851.44</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-og-unc-2022</link>
           <availability>In Stock</availability>
           <manufacturersku>CZ0790-104.44</manufacturersku>
@@ -8796,7 +8672,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-ice-blue</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Ice_Blue-555112-401-0.png?v=1713669443</image>
       <category>Sneakers</category>
-      <price_with_vat>250</price_with_vat>
+      <price_with_vat>1685</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38.5,39</size>
@@ -8808,7 +8684,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-ice-blue</link>
           <availability>In Stock</availability>
           <manufacturersku>555112-401.35.5</manufacturersku>
-          <price_with_vat>250</price_with_vat>
+          <price_with_vat>1685</price_with_vat>
           <size>35.5</size>
           <quantity>1</quantity>
         </variation>
@@ -8826,7 +8702,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-ice-blue</link>
           <availability>In Stock</availability>
           <manufacturersku>555112-401.36.5</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>250</price_with_vat>
           <size>36.5</size>
           <quantity>2</quantity>
         </variation>
@@ -8835,7 +8711,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-ice-blue</link>
           <availability>In Stock</availability>
           <manufacturersku>555112-401.37.5</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>250</price_with_vat>
           <size>37.5</size>
           <quantity>2</quantity>
         </variation>
@@ -8844,7 +8720,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-ice-blue</link>
           <availability>In Stock</availability>
           <manufacturersku>555112-401.38.5</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>250</price_with_vat>
           <size>38.5</size>
           <quantity>1</quantity>
         </variation>
@@ -8853,7 +8729,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-ice-blue</link>
           <availability>In Stock</availability>
           <manufacturersku>555112-401.39</manufacturersku>
-          <price_with_vat>250</price_with_vat>
+          <price_with_vat>285</price_with_vat>
           <size>39</size>
           <quantity>1</quantity>
         </variation>
@@ -9471,19 +9347,6 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>AJ4219-400U</id>
-      <name>Air Max 97/1 Sean Wotherspoon (USED)</name>
-      <link>https://www.flowerkickz.gr/products/air-max-97-1-sean-wotherspoon-used</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_971_Sean_Wotherspoon-AJ4219-400-0_945001b4-2ec2-4a07-a2f6-0cc5e3d7d47e.png?v=1694524349</image>
-      <category>Sneakers</category>
-      <price_with_vat>2105</price_with_vat>
-      <manufacturer>Used</manufacturer>
-      <availability>In Stock</availability>
-      <size>45.5</size>
-      <description>Air Max 97/1 Sean Wotherspoon (USED)</description>
-      <quantity>1</quantity>
-    </product>
-    <product>
       <id>DH2684-400U</id>
       <name>LD Waffle Sacai Fragment Blue Void (USED)</name>
       <link>https://www.flowerkickz.gr/products/ld-waffle-sacai-fragment-blue-void-used</link>
@@ -9573,39 +9436,6 @@
       <size>46</size>
       <description>Air Jordan 1 High OG Heritage (USED)</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id>AQ9129-001</id>
-      <name>Air Jordan 4 Retro Frozen Moments</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-frozen-moments</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Frozen_Moments-AQ9129-001-0_39342979-9590-4a00-bb2c-8dea5ee333d8.png?v=1713676052</image>
-      <category>Sneakers</category>
-      <price_with_vat>530</price_with_vat>
-      <manufacturer>Air Jordan</manufacturer>
-      <availability>In Stock</availability>
-      <size>41,44</size>
-      <description>Air Jordan 4 Retro Frozen Moments</description>
-      <quantity>1</quantity>
-      <variations>
-        <variation>
-          <variationid>49239941775693.41</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-frozen-moments</link>
-          <availability>In Stock</availability>
-          <manufacturersku>AQ9129-001.41</manufacturersku>
-          <price_with_vat>530</price_with_vat>
-          <size>41</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49239941775693.44</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-frozen-moments</link>
-          <availability>In Stock</availability>
-          <manufacturersku>AQ9129-001.44</manufacturersku>
-          <price_with_vat>535</price_with_vat>
-          <size>44</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>CT8527-700U</id>
@@ -9701,28 +9531,10 @@
       <price_with_vat>465</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
-      <size>36.5,41,42.5,43,44.5,46,47</size>
+      <size>42.5,43,44.5,46,47</size>
       <description>Air Jordan 4 Red Cement</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <variations>
-        <variation>
-          <variationid>49343293915469.36.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-4-red-cement</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DH6927-161.36.5</manufacturersku>
-          <price_with_vat>400</price_with_vat>
-          <size>36.5</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>49343293915469.41</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-4-red-cement</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DH6927-161.41</manufacturersku>
-          <price_with_vat>535</price_with_vat>
-          <size>41</size>
-          <quantity>0</quantity>
-        </variation>
         <variation>
           <variationid>49343293915469.42.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-4-red-cement</link>
@@ -9991,10 +9803,37 @@
       <price_with_vat>385</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>38,39 1/3</size>
+      <size>35,36,36 2/3,38,39 1/3</size>
       <description>Campus 00s Grey White</description>
-      <quantity>2</quantity>
+      <quantity>5</quantity>
       <variations>
+        <variation>
+          <variationid>48743025017165.35</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.35</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>35</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48743025017165.36</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.36</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>36</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48743025017165.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.36-2/3</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>1</quantity>
+        </variation>
         <variation>
           <variationid>48743025017165.38</variationid>
           <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
@@ -10550,9 +10389,9 @@
       <price_with_vat>490</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>36,37 1/3,38,38 2/3,40 2/3</size>
+      <size>36,37 1/3,38,38 2/3</size>
       <description>Yeezy Boost 350 V2 Static (Non-Reflective)</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <variations>
         <variation>
           <variationid>45130124066947.36</variationid>
@@ -10588,15 +10427,6 @@
           <manufacturersku>EF2905.38-2/3</manufacturersku>
           <price_with_vat>580</price_with_vat>
           <size>38 2/3</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45130124066947.40-2/3</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-static-non-reflective</link>
-          <availability>In Stock</availability>
-          <manufacturersku>EF2905.40-2/3</manufacturersku>
-          <price_with_vat>510</price_with_vat>
-          <size>40 2/3</size>
           <quantity>1</quantity>
         </variation>
       </variations>
@@ -10837,7 +10667,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-grey-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7658-100.42</manufacturersku>
-          <price_with_vat>355</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>42</size>
           <quantity>3</quantity>
         </variation>
@@ -10863,7 +10693,7 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>Travis Scott x Reese's Puffs Cereal Limited Edition Box w/ Acrylic Case</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>75000384</id>
@@ -10876,19 +10706,6 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>Travis Scott Reese's Puffs Bowl &amp; Spoon</description>
-      <quantity>1</quantity>
-    </product>
-    <product>
-      <id>75566637</id>
-      <name>Kith Arrow Tee Camo</name>
-      <link>https://www.flowerkickz.gr/products/kith-arrow-tee-camo</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/KithArrowTeeCamo.png?v=1700743710</image>
-      <category>Sneakers</category>
-      <price_with_vat>125</price_with_vat>
-      <manufacturer>Kith Clothing</manufacturer>
-      <availability>In Stock</availability>
-      <size>MEDIUM</size>
-      <description>Kith Arrow Tee Camo</description>
       <quantity>1</quantity>
     </product>
     <product>
@@ -10978,9 +10795,29 @@
       <price_with_vat>145</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
       <availability>In Stock</availability>
-      <size>2X-LARGE</size>
+      <size>2X-LARGE,X-LARGE</size>
       <description>Trapstar Distortion Tee Black</description>
       <quantity>1</quantity>
+      <variations>
+        <variation>
+          <variationid>48497024106829.2X-LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-distortion-tee-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>95563633.2X-LARGE</manufacturersku>
+          <price_with_vat>145</price_with_vat>
+          <size>2X-LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48497024106829.X-LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-distortion-tee-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>95563633.X-LARGE</manufacturersku>
+          <price_with_vat>145</price_with_vat>
+          <size>X-LARGE</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>GY0189</id>
@@ -11164,7 +11001,7 @@
       <link>https://www.flowerkickz.gr/products/yeezy-700-v2-static</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_700_V2_Static-EF2829-0.png?v=1713687161</image>
       <category>Sneakers</category>
-      <price_with_vat>635</price_with_vat>
+      <price_with_vat>705</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
       <size>40</size>
@@ -11259,7 +11096,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5</size>
       <description>Yeezy Foam RNNR Onyx</description>
-      <quantity>32</quantity>
+      <quantity>30</quantity>
       <variations>
         <variation>
           <variationid>45130154934403.37</variationid>
@@ -11286,7 +11123,7 @@
           <manufacturersku>HP8739.39</manufacturersku>
           <price_with_vat>275</price_with_vat>
           <size>39</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>45130154934403.40.5</variationid>
@@ -11313,7 +11150,7 @@
           <manufacturersku>HP8739.43</manufacturersku>
           <price_with_vat>260</price_with_vat>
           <size>43</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45130154934403.44.5</variationid>
@@ -11481,7 +11318,7 @@
       <availability>In Stock</availability>
       <size>2X-SMALL</size>
       <description>Fear of God Essentials T-Shirt Black Velvet Taupe</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
     </product>
     <product>
       <id>74139757</id>
@@ -11594,7 +11431,7 @@
           <manufacturersku>31970704.35/40.5</manufacturersku>
           <price_with_vat>15</price_with_vat>
           <size>35/40.5</size>
-          <quantity>8</quantity>
+          <quantity>6</quantity>
         </variation>
         <variation>
           <variationid>49816970101069.41/48</variationid>
@@ -11603,22 +11440,9 @@
           <manufacturersku>31970704.41/48</manufacturersku>
           <price_with_vat>15</price_with_vat>
           <size>41/48</size>
-          <quantity>4</quantity>
+          <quantity>6</quantity>
         </variation>
       </variations>
-    </product>
-    <product>
-      <id>05511771</id>
-      <name>Supreme Box Logo Hooded Sweatshirt Light Green</name>
-      <link>https://www.flowerkickz.gr/products/supreme-box-logo-hooded-sweatshirt</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/LIGHT.png?v=1702039962</image>
-      <category>Sneakers</category>
-      <price_with_vat>400</price_with_vat>
-      <manufacturer>Supreme Clothing</manufacturer>
-      <availability>In Stock</availability>
-      <size>SMALL</size>
-      <description>Supreme Box Logo Hooded Sweatshirt Light Green</description>
-      <quantity>1</quantity>
     </product>
     <product>
       <id>CZ8065-100</id>
@@ -11626,7 +11450,7 @@
       <link>https://www.flowerkickz.gr/products/air-force-1-low-nocta-drake-certified-lover-boy</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_NOCTA_Drake_Certified_Lover_Boy-CZ8065-100-0.png?v=1713665370</image>
       <category>Sneakers</category>
-      <price_with_vat>295</price_with_vat>
+      <price_with_vat>310</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
       <size>36,36.5,48.5</size>
@@ -11638,7 +11462,7 @@
           <link>https://www.flowerkickz.gr/products/air-force-1-low-nocta-drake-certified-lover-boy</link>
           <availability>In Stock</availability>
           <manufacturersku>CZ8065-100.36</manufacturersku>
-          <price_with_vat>295</price_with_vat>
+          <price_with_vat>310</price_with_vat>
           <size>36</size>
           <quantity>1</quantity>
         </variation>
@@ -11663,19 +11487,6 @@
       </variations>
     </product>
     <product>
-      <id>88598121</id>
-      <name>Supreme Box Logo Tee Navy</name>
-      <link>https://www.flowerkickz.gr/products/supreme-box-logo-tee-navy</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/black.png?v=1702636062</image>
-      <category>Sneakers</category>
-      <price_with_vat>205</price_with_vat>
-      <manufacturer>Supreme Clothing</manufacturer>
-      <availability>In Stock</availability>
-      <size>SMALL</size>
-      <description>Supreme Box Logo Tee Navy</description>
-      <quantity>1</quantity>
-    </product>
-    <product>
       <id>13161735</id>
       <name>Fear of God Essentials Hoodie SSENSE Tan</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-ssense-tan</link>
@@ -11686,19 +11497,6 @@
       <availability>In Stock</availability>
       <size>X-LARGE</size>
       <description>Fear of God Essentials Hoodie SSENSE Tan</description>
-      <quantity>1</quantity>
-    </product>
-    <product>
-      <id>1A9V9U</id>
-      <name>Air Force 1 Low Louis Vuitton White</name>
-      <link>https://www.flowerkickz.gr/products/air-force-1-low-louis-vuitton-white</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Louis_Vuitton_White-1A9V9U-0.png?v=1713665211</image>
-      <category>Sneakers</category>
-      <price_with_vat>12095</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <availability>In Stock</availability>
-      <size>42.5</size>
-      <description>Air Force 1 Low Louis Vuitton White</description>
       <quantity>1</quantity>
     </product>
     <product>
@@ -12109,7 +11907,7 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>ΜΠΑΣΟΚ Bucket Hat White</description>
-      <quantity>6</quantity>
+      <quantity>4</quantity>
     </product>
     <product>
       <id/>
@@ -12338,7 +12136,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-metallic-purple</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzAir_Jordan_4_Retro_Metallic_Purple-408452-115-0.png?v=1691143358</image>
       <category>Sneakers</category>
-      <price_with_vat>2240</price_with_vat>
+      <price_with_vat>2105</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>40</size>
@@ -12413,9 +12211,29 @@
       <price_with_vat>285</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>36 2/3</size>
+      <size>36 2/3,43 1/3</size>
       <description>Gazelle Indoor Beam Orange</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
+      <variations>
+        <variation>
+          <variationid>48781635125581.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-beam-orange</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ9016.36-2/3</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48781635125581.43-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-beam-orange</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ9016.43-1/3</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>43 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>97212823</id>
@@ -12867,12 +12685,12 @@
       <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-onyx</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Onyx-HQ4540-0.webp?v=1713687766</image>
       <category>Sneakers</category>
-      <price_with_vat>465</price_with_vat>
+      <price_with_vat>490</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3,41 1/3,42,42 2/3,43 1/3,44,44 2/3,45 1/3,46</size>
       <description>Yeezy Boost 350 V2 Onyx</description>
-      <quantity>76</quantity>
+      <quantity>75</quantity>
       <variations>
         <variation>
           <variationid>45130120429699.36</variationid>
@@ -12906,7 +12724,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>HQ4540.38</manufacturersku>
-          <price_with_vat>510</price_with_vat>
+          <price_with_vat>535</price_with_vat>
           <size>38</size>
           <quantity>5</quantity>
         </variation>
@@ -12915,7 +12733,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>HQ4540.38-2/3</manufacturersku>
-          <price_with_vat>490</price_with_vat>
+          <price_with_vat>535</price_with_vat>
           <size>38 2/3</size>
           <quantity>5</quantity>
         </variation>
@@ -12924,7 +12742,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>HQ4540.39-1/3</manufacturersku>
-          <price_with_vat>490</price_with_vat>
+          <price_with_vat>535</price_with_vat>
           <size>39 1/3</size>
           <quantity>3</quantity>
         </variation>
@@ -12933,7 +12751,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>HQ4540.40</manufacturersku>
-          <price_with_vat>500</price_with_vat>
+          <price_with_vat>535</price_with_vat>
           <size>40</size>
           <quantity>3</quantity>
         </variation>
@@ -12951,7 +12769,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>HQ4540.41-1/3</manufacturersku>
-          <price_with_vat>485</price_with_vat>
+          <price_with_vat>535</price_with_vat>
           <size>41 1/3</size>
           <quantity>6</quantity>
         </variation>
@@ -12969,9 +12787,9 @@
           <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>HQ4540.42-2/3</manufacturersku>
-          <price_with_vat>455</price_with_vat>
+          <price_with_vat>490</price_with_vat>
           <size>42 2/3</size>
-          <quantity>7</quantity>
+          <quantity>6</quantity>
         </variation>
         <variation>
           <variationid>45130120429699.43-1/3</variationid>
@@ -12996,7 +12814,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>HQ4540.44-2/3</manufacturersku>
-          <price_with_vat>465</price_with_vat>
+          <price_with_vat>490</price_with_vat>
           <size>44 2/3</size>
           <quantity>5</quantity>
         </variation>
@@ -13142,61 +12960,133 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>DD1391-103</id>
-      <name>Dunk Low Grey Fog</name>
-      <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Grey_Fog-DD1391-103-0_3cdb6ffd-e1d3-4882-8034-c6344579f088.png?v=1713679084</image>
+      <id>315115-112</id>
+      <name>Air Force 1 Low '07 Triple White</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Triple_White-315115-112-0.png?v=1713664808</image>
       <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
+      <price_with_vat>215</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
-      <size>41,42,42.5,43,44</size>
-      <description>Dunk Low Grey Fog</description>
-      <quantity>14</quantity>
+      <size>40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47,47.5</size>
+      <description>Air Force 1 Low '07 Triple White</description>
+      <quantity>136</quantity>
       <variations>
         <variation>
-          <variationid>45171591381123.41</variationid>
-          <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
+          <variationid>45207330488451.40</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
           <availability>In Stock</availability>
-          <manufacturersku>DD1391-103.41</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <manufacturersku>315115-112.40</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>40</size>
+          <quantity>12</quantity>
+        </variation>
+        <variation>
+          <variationid>45207330488451.40.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>315115-112.40.5</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>40.5</size>
+          <quantity>12</quantity>
+        </variation>
+        <variation>
+          <variationid>45207330488451.41</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>315115-112.41</manufacturersku>
+          <price_with_vat>215</price_with_vat>
           <size>41</size>
-          <quantity>3</quantity>
+          <quantity>12</quantity>
         </variation>
         <variation>
-          <variationid>45171591381123.42</variationid>
-          <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
+          <variationid>45207330488451.42</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
           <availability>In Stock</availability>
-          <manufacturersku>DD1391-103.42</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <manufacturersku>315115-112.42</manufacturersku>
+          <price_with_vat>215</price_with_vat>
           <size>42</size>
-          <quantity>3</quantity>
+          <quantity>12</quantity>
         </variation>
         <variation>
-          <variationid>45171591381123.42.5</variationid>
-          <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
+          <variationid>45207330488451.42.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
           <availability>In Stock</availability>
-          <manufacturersku>DD1391-103.42.5</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <manufacturersku>315115-112.42.5</manufacturersku>
+          <price_with_vat>215</price_with_vat>
           <size>42.5</size>
+          <quantity>12</quantity>
+        </variation>
+        <variation>
+          <variationid>45207330488451.43</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>315115-112.43</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>43</size>
+          <quantity>6</quantity>
+        </variation>
+        <variation>
+          <variationid>45207330488451.44</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>315115-112.44</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>44</size>
+          <quantity>15</quantity>
+        </variation>
+        <variation>
+          <variationid>45207330488451.44.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>315115-112.44.5</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>44.5</size>
+          <quantity>12</quantity>
+        </variation>
+        <variation>
+          <variationid>45207330488451.45</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>315115-112.45</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>45</size>
+          <quantity>12</quantity>
+        </variation>
+        <variation>
+          <variationid>45207330488451.45.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>315115-112.45.5</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>45.5</size>
+          <quantity>12</quantity>
+        </variation>
+        <variation>
+          <variationid>45207330488451.46</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>315115-112.46</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>46</size>
+          <quantity>12</quantity>
+        </variation>
+        <variation>
+          <variationid>45207330488451.47</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>315115-112.47</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>47</size>
           <quantity>4</quantity>
         </variation>
         <variation>
-          <variationid>45171591381123.43</variationid>
-          <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
+          <variationid>45207330488451.47.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-white</link>
           <availability>In Stock</availability>
-          <manufacturersku>DD1391-103.43</manufacturersku>
-          <price_with_vat>195</price_with_vat>
-          <size>43</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45171591381123.44</variationid>
-          <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DD1391-103.44</manufacturersku>
-          <price_with_vat>195</price_with_vat>
-          <size>44</size>
+          <manufacturersku>315115-112.47.5</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>47.5</size>
           <quantity>3</quantity>
         </variation>
       </variations>
@@ -13252,6 +13142,57 @@
       <size>38</size>
       <description>Yeezy Boost 350 V2 Core Black Red</description>
       <quantity>1</quantity>
+    </product>
+    <product>
+      <id>DD1391-103</id>
+      <name>Dunk Low Grey Fog</name>
+      <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Grey_Fog-DD1391-103-0_3cdb6ffd-e1d3-4882-8034-c6344579f088.png?v=1713679084</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <availability>In Stock</availability>
+      <size>41,42,42.5,44</size>
+      <description>Dunk Low Grey Fog</description>
+      <quantity>11</quantity>
+      <variations>
+        <variation>
+          <variationid>45171591348355.41</variationid>
+          <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DD1391-103.41</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>41</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>45171591348355.42</variationid>
+          <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DD1391-103.42</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>42</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>45171591348355.42.5</variationid>
+          <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DD1391-103.42.5</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>42.5</size>
+          <quantity>4</quantity>
+        </variation>
+        <variation>
+          <variationid>45171591348355.44</variationid>
+          <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DD1391-103.44</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>44</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>DO6485-600</id>
@@ -13567,32 +13508,6 @@
       </variations>
     </product>
     <product>
-      <id>12438264 -1</id>
-      <name>Bape Tee Souvenir White</name>
-      <link>https://www.flowerkickz.gr/products/bape-tee-souvenir-white</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/souvenir.png?v=1714744209</image>
-      <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <availability>In Stock</availability>
-      <size>SMALL</size>
-      <description>Bape Tee Souvenir White</description>
-      <quantity>1</quantity>
-    </product>
-    <product>
-      <id>18461055 -2</id>
-      <name>Bape Tee Japan Katakana College City Black</name>
-      <link>https://www.flowerkickz.gr/products/bape-tee-japan-katakana-college-city-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/REDDDDD.png?v=1714744376</image>
-      <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <availability>In Stock</availability>
-      <size>MEDIUM</size>
-      <description>Bape Tee Japan Katakana College City Black</description>
-      <quantity>1</quantity>
-    </product>
-    <product>
       <id>52403808 -1</id>
       <name>Bape Tee Japan College Black</name>
       <link>https://www.flowerkickz.gr/products/bape-tee-japan-college-black</link>
@@ -13749,19 +13664,6 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>DR0500-101</id>
-      <name>Air Force 1 Mid SP Off-White Varsity Maize</name>
-      <link>https://www.flowerkickz.gr/products/air-force-1-mid-sp-off-white-varsity-maize</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Mid_SP_Off-White_Varsity_Maize-DR0500-101-0_bd78b2a2-e148-4137-8576-e8b17f65fbda.png?v=1713666156</image>
-      <category>Sneakers</category>
-      <price_with_vat>340</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <availability>In Stock</availability>
-      <size>45</size>
-      <description>Air Force 1 Mid SP Off-White Varsity Maize</description>
-      <quantity>1</quantity>
-    </product>
-    <product>
       <id/>
       <name>Stüssy Tee Basic White</name>
       <link>https://www.flowerkickz.gr/products/stussy-tee-basic-white</link>
@@ -13770,41 +13672,8 @@
       <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
       <availability>In Stock</availability>
-      <size>LARGE,X-LARGE</size>
+      <size>LARGE</size>
       <description>Stüssy Tee Basic White</description>
-      <quantity>2</quantity>
-      <variations>
-        <variation>
-          <variationid>51025385619789.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/stussy-tee-basic-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>.LARGE</manufacturersku>
-          <price_with_vat>170</price_with_vat>
-          <size>LARGE</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>51025385619789.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/stussy-tee-basic-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>.X-LARGE</manufacturersku>
-          <price_with_vat>170</price_with_vat>
-          <size>X-LARGE</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
-    </product>
-    <product>
-      <id>26673795 -3</id>
-      <name>Stüssy Tee Built Tough Black</name>
-      <link>https://www.flowerkickz.gr/products/stussy-tee-built-tough-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYBUILTTOUGHTEEBLACKBACK.png?v=1717055585</image>
-      <category>Sneakers</category>
-      <price_with_vat>170</price_with_vat>
-      <manufacturer>STUSSY</manufacturer>
-      <availability>In Stock</availability>
-      <size>X-LARGE</size>
-      <description>Stüssy Tee Built Tough Black</description>
       <quantity>1</quantity>
     </product>
     <product>
@@ -13842,9 +13711,9 @@
       <price_with_vat>340</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
-      <size>35.5,36,36.5,37.5,38,38.5,39,43</size>
+      <size>35.5,36,36.5,37.5,38,38.5,39,40.5,41,42,42.5,43,44,44.5</size>
       <description>Air Jordan 4 Retro Military Blue (2024)</description>
-      <quantity>17</quantity>
+      <quantity>42</quantity>
       <variations>
         <variation>
           <variationid>50826654875981.35.5</variationid>
@@ -13869,7 +13738,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
           <availability>In Stock</availability>
           <manufacturersku>HF4281-141.36.5</manufacturersku>
-          <price_with_vat>335</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>36.5</size>
           <quantity>2</quantity>
         </variation>
@@ -13880,7 +13749,7 @@
           <manufacturersku>HF4281-141.37.5</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>37.5</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>50826654875981.38</variationid>
@@ -13889,14 +13758,14 @@
           <manufacturersku>HF4281-141.38</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>38</size>
-          <quantity>3</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50826654875981.38.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
           <availability>In Stock</availability>
           <manufacturersku>HF4281-141.38.5</manufacturersku>
-          <price_with_vat>340</price_with_vat>
+          <price_with_vat>420</price_with_vat>
           <size>38.5</size>
           <quantity>3</quantity>
         </variation>
@@ -13905,18 +13774,72 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
           <availability>In Stock</availability>
           <manufacturersku>HF4281-141.39</manufacturersku>
-          <price_with_vat>375</price_with_vat>
+          <price_with_vat>410</price_with_vat>
           <size>39</size>
           <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>50826654875981.40.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HF4281-141.40.5</manufacturersku>
+          <price_with_vat>455</price_with_vat>
+          <size>40.5</size>
+          <quantity>4</quantity>
+        </variation>
+        <variation>
+          <variationid>50826654875981.41</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HF4281-141.41</manufacturersku>
+          <price_with_vat>590</price_with_vat>
+          <size>41</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>50826654875981.42</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HF4281-141.42</manufacturersku>
+          <price_with_vat>580</price_with_vat>
+          <size>42</size>
+          <quantity>6</quantity>
+        </variation>
+        <variation>
+          <variationid>50826654875981.42.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HF4281-141.42.5</manufacturersku>
+          <price_with_vat>430</price_with_vat>
+          <size>42.5</size>
+          <quantity>6</quantity>
         </variation>
         <variation>
           <variationid>50826654875981.43</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
           <availability>In Stock</availability>
           <manufacturersku>HF4281-141.43</manufacturersku>
-          <price_with_vat>420</price_with_vat>
+          <price_with_vat>635</price_with_vat>
           <size>43</size>
-          <quantity>0</quantity>
+          <quantity>5</quantity>
+        </variation>
+        <variation>
+          <variationid>50826654875981.44</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HF4281-141.44</manufacturersku>
+          <price_with_vat>430</price_with_vat>
+          <size>44</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>50826654875981.44.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HF4281-141.44.5</manufacturersku>
+          <price_with_vat>590</price_with_vat>
+          <size>44.5</size>
+          <quantity>3</quantity>
         </variation>
       </variations>
     </product>
@@ -14004,7 +13927,7 @@
       <link>https://www.flowerkickz.gr/products/hot-step-2-nocta-total-orange</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzHot_Step_2_NOCTA_Total_Orange-DZ7293-800-0.webp?v=1713683071</image>
       <category>Sneakers</category>
-      <price_with_vat>565</price_with_vat>
+      <price_with_vat>705</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
       <size>45</size>
@@ -14020,9 +13943,9 @@
       <price_with_vat>195</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>37,38,46</size>
+      <size>37,38</size>
       <description>Yeezy Slide Slate Marine</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>51121397170509.37</variationid>
@@ -14040,15 +13963,6 @@
           <manufacturersku>ID2349.38</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>38</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>51121397170509.46</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-slide-slate-marine</link>
-          <availability>In Stock</availability>
-          <manufacturersku>ID2349.46</manufacturersku>
-          <price_with_vat>195</price_with_vat>
-          <size>46</size>
           <quantity>1</quantity>
         </variation>
       </variations>
@@ -14110,7 +14024,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38,38 2/3,39 1/3,41 1/3,42,42 2/3,43 1/3,44,44 2/3,45 1/3</size>
       <description>Yeezy Boost 350 V2 Jade Ash</description>
-      <quantity>33</quantity>
+      <quantity>32</quantity>
       <variations>
         <variation>
           <variationid>45171616579715.36-2/3</variationid>
@@ -14173,7 +14087,7 @@
           <manufacturersku>HQ2060.42</manufacturersku>
           <price_with_vat>545</price_with_vat>
           <size>42</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>45171616579715.42-2/3</variationid>
@@ -14295,7 +14209,7 @@
           <link>https://www.flowerkickz.gr/products/handball-spezial-semi-green-spark</link>
           <availability>In Stock</availability>
           <manufacturersku>IH7498.38</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>240</price_with_vat>
           <size>38</size>
           <quantity>1</quantity>
         </variation>
@@ -14439,7 +14353,7 @@
           <link>https://www.flowerkickz.gr/products/handball-spezial-wonder-silver-gum</link>
           <availability>In Stock</availability>
           <manufacturersku>IF6491.39-1/3</manufacturersku>
-          <price_with_vat>215</price_with_vat>
+          <price_with_vat>230</price_with_vat>
           <size>39 1/3</size>
           <quantity>1</quantity>
         </variation>
@@ -14493,7 +14407,7 @@
       <link>https://www.flowerkickz.gr/products/handball-spezial-preloved-green-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzHandball_Spezial_Preloved_Green_White-IG6192-0.webp?v=1713682973</image>
       <category>Sneakers</category>
-      <price_with_vat>260</price_with_vat>
+      <price_with_vat>285</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
       <size>36,39 1/3,40 2/3</size>
@@ -14505,7 +14419,7 @@
           <link>https://www.flowerkickz.gr/products/handball-spezial-preloved-green-white</link>
           <availability>In Stock</availability>
           <manufacturersku>IG6192.36</manufacturersku>
-          <price_with_vat>260</price_with_vat>
+          <price_with_vat>285</price_with_vat>
           <size>36</size>
           <quantity>1</quantity>
         </variation>
@@ -14608,7 +14522,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-slide-granite</link>
           <availability>In Stock</availability>
           <manufacturersku>ID4132.38</manufacturersku>
-          <price_with_vat>250</price_with_vat>
+          <price_with_vat>275</price_with_vat>
           <size>38</size>
           <quantity>0</quantity>
         </variation>
@@ -14667,7 +14581,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5</size>
       <description>Yeezy Foam RNNR MX Granite</description>
-      <quantity>32</quantity>
+      <quantity>30</quantity>
       <variations>
         <variation>
           <variationid>50778258964813.37</variationid>
@@ -14703,7 +14617,7 @@
           <manufacturersku>IE4931.40.5</manufacturersku>
           <price_with_vat>275</price_with_vat>
           <size>40.5</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>50778258964813.42</variationid>
@@ -14721,7 +14635,7 @@
           <manufacturersku>IE4931.43</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>43</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>50778258964813.44.5</variationid>
@@ -14737,7 +14651,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-foam-rnnr-mx-granite</link>
           <availability>In Stock</availability>
           <manufacturersku>IE4931.46</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>230</price_with_vat>
           <size>46</size>
           <quantity>3</quantity>
         </variation>
@@ -14767,73 +14681,73 @@
       <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-0.webp?v=1713688439</image>
       <category>Sneakers</category>
-      <price_with_vat>215</price_with_vat>
+      <price_with_vat>250</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
       <size>38,39,40.5,42,43,44.5,46,47,48.5,50</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>76</quantity>
+      <quantity>63</quantity>
       <variations>
         <variation>
           <variationid>50742287892813.38</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>ID5103.38</manufacturersku>
-          <price_with_vat>215</price_with_vat>
+          <price_with_vat>250</price_with_vat>
           <size>38</size>
-          <quantity>11</quantity>
+          <quantity>10</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.39</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>ID5103.39</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>280</price_with_vat>
           <size>39</size>
-          <quantity>5</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.40.5</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>ID5103.40.5</manufacturersku>
-          <price_with_vat>215</price_with_vat>
+          <price_with_vat>250</price_with_vat>
           <size>40.5</size>
-          <quantity>9</quantity>
+          <quantity>7</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.42</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>ID5103.42</manufacturersku>
-          <price_with_vat>215</price_with_vat>
+          <price_with_vat>260</price_with_vat>
           <size>42</size>
-          <quantity>14</quantity>
+          <quantity>12</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.43</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>ID5103.43</manufacturersku>
-          <price_with_vat>215</price_with_vat>
+          <price_with_vat>250</price_with_vat>
           <size>43</size>
-          <quantity>11</quantity>
+          <quantity>10</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.44.5</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>ID5103.44.5</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>280</price_with_vat>
           <size>44.5</size>
-          <quantity>9</quantity>
+          <quantity>7</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.46</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>ID5103.46</manufacturersku>
-          <price_with_vat>215</price_with_vat>
+          <price_with_vat>285</price_with_vat>
           <size>46</size>
           <quantity>0</quantity>
         </variation>
@@ -14842,16 +14756,16 @@
           <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>ID5103.47</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>280</price_with_vat>
           <size>47</size>
-          <quantity>7</quantity>
+          <quantity>6</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.48.5</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>ID5103.48.5</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>280</price_with_vat>
           <size>48.5</size>
           <quantity>6</quantity>
         </variation>
@@ -14860,7 +14774,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
           <availability>In Stock</availability>
           <manufacturersku>ID5103.50</manufacturersku>
-          <price_with_vat>240</price_with_vat>
+          <price_with_vat>310</price_with_vat>
           <size>50</size>
           <quantity>4</quantity>
         </variation>
@@ -14872,7 +14786,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-low-og-sp-travis-scott-canary</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Canary-DZ4137-700-0.webp?v=1716601658</image>
       <category>Sneakers</category>
-      <price_with_vat>630</price_with_vat>
+      <price_with_vat>685</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>38,45</size>
@@ -14884,7 +14798,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-low-og-sp-travis-scott-canary</link>
           <availability>In Stock</availability>
           <manufacturersku>DZ4137-700.38</manufacturersku>
-          <price_with_vat>630</price_with_vat>
+          <price_with_vat>685</price_with_vat>
           <size>38</size>
           <quantity>1</quantity>
         </variation>
@@ -14893,7 +14807,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-low-og-sp-travis-scott-canary</link>
           <availability>In Stock</availability>
           <manufacturersku>DZ4137-700.45</manufacturersku>
-          <price_with_vat>920</price_with_vat>
+          <price_with_vat>1040</price_with_vat>
           <size>45</size>
           <quantity>0</quantity>
         </variation>
@@ -15003,7 +14917,7 @@
       <link>https://www.flowerkickz.gr/products/yeezy-slide-azure</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Azure-ID4133-0.png?v=1713688279</image>
       <category>Sneakers</category>
-      <price_with_vat>170</price_with_vat>
+      <price_with_vat>185</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
       <size>38</size>
@@ -15021,7 +14935,7 @@
       <availability>In Stock</availability>
       <size>40.5,41,42,42.5,43,44,44.5,45,45.5,47.5</size>
       <description>Air Jordan 4 Oxidized Green</description>
-      <quantity>15</quantity>
+      <quantity>11</quantity>
       <variations>
         <variation>
           <variationid>50976850248013.40.5</variationid>
@@ -15030,7 +14944,7 @@
           <manufacturersku>FQ8138-103.40.5</manufacturersku>
           <price_with_vat>400</price_with_vat>
           <size>40.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.41</variationid>
@@ -15084,7 +14998,7 @@
           <manufacturersku>FQ8138-103.44.5</manufacturersku>
           <price_with_vat>375</price_with_vat>
           <size>44.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.45</variationid>
@@ -15093,7 +15007,7 @@
           <manufacturersku>FQ8138-103.45</manufacturersku>
           <price_with_vat>365</price_with_vat>
           <size>45</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.45.5</variationid>
@@ -15102,7 +15016,7 @@
           <manufacturersku>FQ8138-103.45.5</manufacturersku>
           <price_with_vat>385</price_with_vat>
           <size>45.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.47.5</variationid>
@@ -15121,19 +15035,19 @@
       <link>https://www.flowerkickz.gr/products/dunk-low-polar-blue</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Polar_Blue-DV0833-400-0.png?v=1713680116</image>
       <category>Sneakers</category>
-      <price_with_vat>230</price_with_vat>
+      <price_with_vat>260</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
       <size>42,42.5,43,44</size>
       <description>Dunk Low Polar Blue</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <variations>
         <variation>
           <variationid>49518978629965.42</variationid>
           <link>https://www.flowerkickz.gr/products/dunk-low-polar-blue</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-400.42</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>260</price_with_vat>
           <size>42</size>
           <quantity>3</quantity>
         </variation>
@@ -15162,7 +15076,7 @@
           <manufacturersku>DV0833-400.44</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>44</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -15193,7 +15107,7 @@
           <link>https://www.flowerkickz.gr/products/gazelle-bold-pink-glow</link>
           <availability>In Stock</availability>
           <manufacturersku>H06122.37-1/3</manufacturersku>
-          <price_with_vat>535</price_with_vat>
+          <price_with_vat>335</price_with_vat>
           <size>37 1/3</size>
           <quantity>4</quantity>
         </variation>
@@ -15202,7 +15116,7 @@
           <link>https://www.flowerkickz.gr/products/gazelle-bold-pink-glow</link>
           <availability>In Stock</availability>
           <manufacturersku>H06122.38</manufacturersku>
-          <price_with_vat>535</price_with_vat>
+          <price_with_vat>310</price_with_vat>
           <size>38</size>
           <quantity>4</quantity>
         </variation>
@@ -15257,9 +15171,29 @@
       <price_with_vat>420</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
-      <size>42.5</size>
+      <size>42.5,44</size>
       <description>Air Max 180 Ultramarine (2024)</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
+      <variations>
+        <variation>
+          <variationid>50976934756685.42.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-180-ultramarine-2024</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FJ9259-100.42.5</manufacturersku>
+          <price_with_vat>420</price_with_vat>
+          <size>42.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>50976934756685.44</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-180-ultramarine-2024</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FJ9259-100.44</manufacturersku>
+          <price_with_vat>490</price_with_vat>
+          <size>44</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>HP7870</id>
@@ -15270,10 +15204,19 @@
       <price_with_vat>420</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>36 2/3,37 1/3</size>
+      <size>36,36 2/3,37 1/3</size>
       <description>Yeezy Boost 350 V2 Slate</description>
-      <quantity>2</quantity>
+      <quantity>8</quantity>
       <variations>
+        <variation>
+          <variationid>45130123182211.36</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-slate</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HP7870.36</manufacturersku>
+          <price_with_vat>445</price_with_vat>
+          <size>36</size>
+          <quantity>3</quantity>
+        </variation>
         <variation>
           <variationid>45130123182211.36-2/3</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-slate</link>
@@ -15281,7 +15224,7 @@
           <manufacturersku>HP7870.36-2/3</manufacturersku>
           <price_with_vat>420</price_with_vat>
           <size>36 2/3</size>
-          <quantity>1</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>45130123182211.37-1/3</variationid>
@@ -15290,7 +15233,7 @@
           <manufacturersku>HP7870.37-1/3</manufacturersku>
           <price_with_vat>520</price_with_vat>
           <size>37 1/3</size>
-          <quantity>1</quantity>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
@@ -15305,6 +15248,603 @@
       <availability>In Stock</availability>
       <size>46</size>
       <description>Yeezy Slide Salt</description>
+      <quantity>0</quantity>
+    </product>
+    <product>
+      <id>FD0860-001</id>
+      <name>SB Dunk Low Jarritos</name>
+      <link>https://www.flowerkickz.gr/products/sb-dunk-low-jarritos</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Jarritos-FD0860-001-0.png?v=1713685277</image>
+      <category>Sneakers</category>
+      <price_with_vat>1425</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <availability>In Stock</availability>
+      <size>45.5</size>
+      <description>SB Dunk Low Jarritos</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>HF6061-400</id>
+      <name>SB Dunk Low Futura Laboratories Bleached Aqua</name>
+      <link>https://www.flowerkickz.gr/products/sb-dunk-low-futura-laboratories-bleached-aqua</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Futura_Laboratories_Bleached_Aqua-HF6061-400-0.webp?v=1716432513</image>
+      <category>Sneakers</category>
+      <price_with_vat>775</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <availability>In Stock</availability>
+      <size>44.5</size>
+      <description>SB Dunk Low Futura Laboratories Bleached Aqua</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>FD9749-400</id>
+      <name>Dunk Low Summit White Midnight Navy</name>
+      <link>https://www.flowerkickz.gr/products/dunk-low-summit-white-midnight-navy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Summit_White_Midnight_Navy-FD9749-400-0_129985b9-b0d5-470e-befc-d046f9f0e41e.png?v=1713680880</image>
+      <category>Sneakers</category>
+      <price_with_vat>355</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <availability>In Stock</availability>
+      <size>43</size>
+      <description>Dunk Low Summit White Midnight Navy</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>GR530CA</id>
+      <name>530 Navy White</name>
+      <link>https://www.flowerkickz.gr/products/530-navy-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2_860d3124-b205-400f-8596-37a233d96bcd.png?v=1721994542</image>
+      <category>Sneakers</category>
+      <price_with_vat>260</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <availability>In Stock</availability>
+      <size>35.5,36,37,37.5,38,38.5,39,40</size>
+      <description>530 Navy White</description>
+      <quantity>5</quantity>
+      <variations>
+        <variation>
+          <variationid>51920286449997.35.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.35.5</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>35.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>51920286449997.36</variationid>
+          <link>https://www.flowerkickz.gr/products/530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.36</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>36</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51920286449997.37</variationid>
+          <link>https://www.flowerkickz.gr/products/530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.37</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>37</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51920286449997.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.37.5</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>37.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>51920286449997.38</variationid>
+          <link>https://www.flowerkickz.gr/products/530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.38</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51920286449997.38.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.38.5</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>38.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>51920286449997.39</variationid>
+          <link>https://www.flowerkickz.gr/products/530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.39</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>39</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51920286449997.40</variationid>
+          <link>https://www.flowerkickz.gr/products/530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.40</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>ID4811</id>
+      <name>Yeezy Boost 350 V2 MX Dark Sea Salt</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-dark-sea-salt</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_MX_Dark_Sea_Salt-ID4811-0_e949cd7e-e839-4170-9156-d75c752cb431.png?v=1713687717</image>
+      <category>Sneakers</category>
+      <price_with_vat>490</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36 2/3,37 1/3,38,39 1/3</size>
+      <description>Yeezy Boost 350 V2 MX Dark Sea Salt</description>
+      <quantity>9</quantity>
+      <variations>
+        <variation>
+          <variationid>49235164594509.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-dark-sea-salt</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID4811.36-2/3</manufacturersku>
+          <price_with_vat>490</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>49235164594509.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-dark-sea-salt</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID4811.37-1/3</manufacturersku>
+          <price_with_vat>455</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>49235164594509.38</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-dark-sea-salt</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID4811.38</manufacturersku>
+          <price_with_vat>510</price_with_vat>
+          <size>38</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>49235164594509.39-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-dark-sea-salt</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID4811.39-1/3</manufacturersku>
+          <price_with_vat>705</price_with_vat>
+          <size>39 1/3</size>
+          <quantity>3</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>GW3774</id>
+      <name>Yeezy Boost 350 V2 MX Rock</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-rock</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_MX_Rock-GW3774-0.png?v=1713687740</image>
+      <category>Sneakers</category>
+      <price_with_vat>545</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36 2/3</size>
+      <description>Yeezy Boost 350 V2 MX Rock</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>DR8577-300</id>
+      <name>Dunk Low Snakeskin Washed Teal Bleached Coral</name>
+      <link>https://www.flowerkickz.gr/products/dunk-low-snakeskin-washed-teal-bleached-coral</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Snakeskin_Washed_Teal_Bleached_Coral-DR8577-300-0_0c77021c-d44a-4acc-be2b-155944149334.png?v=1713680760</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <availability>In Stock</availability>
+      <size>43</size>
+      <description>Dunk Low Snakeskin Washed Teal Bleached Coral</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>DQ4137-200</id>
+      <name>Air Force 1 Low Billie Eilish Mushroom</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-low-billie-eilish-mushroom</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Billie_Eilish_Mushroom-DQ4137-200-0.png?v=1713664895</image>
+      <category>Sneakers</category>
+      <price_with_vat>310</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>42.5</size>
+      <description>Air Force 1 Low Billie Eilish Mushroom</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Flower Kickz Credit (Copy)</name>
+      <link>https://www.flowerkickz.gr/products/flower-kickz-credit-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FlowerKickzFinalJPEG_New.jpg?v=1688564354</image>
+      <category>Sneakers</category>
+      <price_with_vat>230</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <availability>In Stock</availability>
+      <size>€200.00</size>
+      <description>Flower Kickz Credit (Copy)</description>
+      <quantity>0</quantity>
+    </product>
+    <product>
+      <id>MR530SG</id>
+      <name>530 White Grey Navy</name>
+      <link>https://www.flowerkickz.gr/products/530-white-grey-navy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz530_White_Grey_Navy-MR530SG-0.png?v=1713662419</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <availability>In Stock</availability>
+      <size>37,39.5,40,42.5,44</size>
+      <description>530 White Grey Navy</description>
+      <quantity>6</quantity>
+      <variations>
+        <variation>
+          <variationid>49053060137293.37</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-grey-navy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530SG.37</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>37</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49053060137293.39.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-grey-navy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530SG.39.5</manufacturersku>
+          <price_with_vat>280</price_with_vat>
+          <size>39.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49053060137293.40</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-grey-navy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530SG.40</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>40</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>49053060137293.42.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-grey-navy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530SG.42.5</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>42.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49053060137293.44</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-grey-navy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530SG.44</manufacturersku>
+          <price_with_vat>205</price_with_vat>
+          <size>44</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>GY9474</id>
+      <name>Campus 00s Amber Tint</name>
+      <link>https://www.flowerkickz.gr/products/campus-00s-amber-tint</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Amber_Tint-GY9474-0_09f40df4-6834-4322-b3f2-6285600ddd4a.png?v=1713676504</image>
+      <category>Sneakers</category>
+      <price_with_vat>230</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>40 2/3,41 1/3,42,42 2/3,43 1/3,44,44 2/3,45 1/3</size>
+      <description>Campus 00s Amber Tint</description>
+      <quantity>8</quantity>
+      <variations>
+        <variation>
+          <variationid>49266297798989.40-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-amber-tint</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY9474.40-2/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>40 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49266297798989.41-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-amber-tint</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY9474.41-1/3</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>41 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49266297798989.42</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-amber-tint</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY9474.42</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>42</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49266297798989.42-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-amber-tint</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY9474.42-2/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>42 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49266297798989.43-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-amber-tint</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY9474.43-1/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>43 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49266297798989.44</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-amber-tint</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY9474.44</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>44</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49266297798989.44-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-amber-tint</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY9474.44-2/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>44 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49266297798989.45-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-amber-tint</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY9474.45-1/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>45 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>H03471</id>
+      <name>Campus 00s Lucid Blue</name>
+      <link>https://www.flowerkickz.gr/products/campus-00s-lucid-blue</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Lucid_Blue-H03471-0.png?v=1713676842</image>
+      <category>Sneakers</category>
+      <price_with_vat>205</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36 2/3,37 1/3,43 1/3,44,44 2/3,45 1/3,46</size>
+      <description>Campus 00s Lucid Blue</description>
+      <quantity>7</quantity>
+      <variations>
+        <variation>
+          <variationid>48644566057293.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-lucid-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>H03471.36-2/3</manufacturersku>
+          <price_with_vat>205</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48644566057293.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-lucid-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>H03471.37-1/3</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48644566057293.43-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-lucid-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>H03471.43-1/3</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>43 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48644566057293.44</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-lucid-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>H03471.44</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>44</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48644566057293.44-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-lucid-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>H03471.44-2/3</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>44 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48644566057293.45-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-lucid-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>H03471.45-1/3</manufacturersku>
+          <price_with_vat>205</price_with_vat>
+          <size>45 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48644566057293.46</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-lucid-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>H03471.46</manufacturersku>
+          <price_with_vat>205</price_with_vat>
+          <size>46</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>HQ6638</id>
+      <name>Campus 00s Core Black</name>
+      <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzCampus_00s_Core_Black-HQ8708-0.png?v=1691146895</image>
+      <category>Sneakers</category>
+      <price_with_vat>310</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>35,36</size>
+      <description>Campus 00s Core Black</description>
+      <quantity>2</quantity>
+      <variations>
+        <variation>
+          <variationid>49439412781389.35</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6638.35</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>35</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49439412781389.36</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6638.36</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>36</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>MR530RA</id>
+      <name>530 White Light Chrome Blue</name>
+      <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1.png?v=1722328191</image>
+      <category>Sneakers</category>
+      <price_with_vat>260</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <availability>In Stock</availability>
+      <size>37,37.5</size>
+      <description>530 White Light Chrome Blue</description>
+      <quantity>2</quantity>
+      <variations>
+        <variation>
+          <variationid>51944798880077.37</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RA.37</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>37</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944798880077.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RA.37.5</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>37.5</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>MR530RB</id>
+      <name>530 White New Spruce</name>
+      <link>https://www.flowerkickz.gr/products/530-white-new-spruce</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_06f1a464-462e-4800-aac9-a7d3a737b770.png?v=1722328523</image>
+      <category>Sneakers</category>
+      <price_with_vat>260</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <availability>In Stock</availability>
+      <size>37.5</size>
+      <description>530 White New Spruce</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>IH7495</id>
+      <name>Gazelle Bold Semi Green Spark</name>
+      <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark-1</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_bc8324ea-c4be-4b31-a1b5-8babacb82469.png?v=1722329121</image>
+      <category>Sneakers</category>
+      <price_with_vat>310</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36,36 2/3,37 1/3,38 2/3</size>
+      <description>Gazelle Bold Semi Green Spark</description>
+      <quantity>4</quantity>
+      <variations>
+        <variation>
+          <variationid>51944948302157.36</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark-1</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.36</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>36</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944948302157.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark-1</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.36-2/3</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944948302157.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark-1</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.37-1/3</manufacturersku>
+          <price_with_vat>335</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944948302157.38-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark-1</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.38-2/3</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>38 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>DZ7293-100</id>
+      <name>Hot Step 2 NOCTA Drake White</name>
+      <link>https://www.flowerkickz.gr/products/hot-step-2-nocta-drake-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzHot_Step_2_NOCTA_Drake_White-DZ7293-100-0.webp?v=1715135958</image>
+      <category>Sneakers</category>
+      <price_with_vat>635</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <availability>In Stock</availability>
+      <size>43</size>
+      <description>Hot Step 2 NOCTA Drake White</description>
       <quantity>1</quantity>
     </product>
   </products>
