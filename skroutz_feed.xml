@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-02 20:03</created_at>
+  <created_at>2024-08-02 21:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -16513,30 +16513,21 @@
       <price_with_vat>115</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
-      <size>46,47,47.5,48</size>
+      <size>47,47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</description>
-      <quantity>47</quantity>
+      <quantity>46</quantity>
       <variations>
         <variation>
-          <variationid>51967381078349.46</variationid>
-          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-          <availability>In Stock</availability>
-          <manufacturersku>None.46</manufacturersku>
-          <price_with_vat>115</price_with_vat>
-          <size>46</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>51967381078349.47</variationid>
+          <variationid>51967381111117.47</variationid>
           <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
           <availability>In Stock</availability>
           <manufacturersku>None.47</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>47</size>
-          <quantity>20</quantity>
+          <quantity>19</quantity>
         </variation>
         <variation>
-          <variationid>51967381078349.47.5</variationid>
+          <variationid>51967381111117.47.5</variationid>
           <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
           <availability>In Stock</availability>
           <manufacturersku>None.47.5</manufacturersku>
@@ -16545,7 +16536,7 @@
           <quantity>20</quantity>
         </variation>
         <variation>
-          <variationid>51967381078349.48</variationid>
+          <variationid>51967381111117.48</variationid>
           <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
           <availability>In Stock</availability>
           <manufacturersku>None.48</manufacturersku>
