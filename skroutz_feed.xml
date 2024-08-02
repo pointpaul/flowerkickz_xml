@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-02 09:03</created_at>
+  <created_at>2024-08-02 10:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -2941,84 +2941,6 @@
       <size>41</size>
       <description>LD Waffle Sacai Triple Black</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id>FK1974</id>
-      <name>ΜΠΑΣΟΚ LOWS &quot;Η Επιστροφή&quot;</name>
-      <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/image.jpg?v=1678731553</image>
-      <category>Sneakers</category>
-      <price_with_vat>225</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
-      <availability>In Stock</availability>
-      <size>40,40.5,45.5,46,47,47.5,48</size>
-      <description>ΜΠΑΣΟΚ LOWS &quot;Η Επιστροφή&quot;</description>
-      <quantity>69</quantity>
-      <variations>
-        <variation>
-          <variationid>44936150679683.40</variationid>
-          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-          <availability>In Stock</availability>
-          <manufacturersku>FK1974.40</manufacturersku>
-          <price_with_vat>225</price_with_vat>
-          <size>40</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>44936150679683.40.5</variationid>
-          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-          <availability>In Stock</availability>
-          <manufacturersku>FK1974.40.5</manufacturersku>
-          <price_with_vat>225</price_with_vat>
-          <size>40.5</size>
-          <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>44936150679683.45.5</variationid>
-          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-          <availability>In Stock</availability>
-          <manufacturersku>FK1974.45.5</manufacturersku>
-          <price_with_vat>225</price_with_vat>
-          <size>45.5</size>
-          <quantity>4</quantity>
-        </variation>
-        <variation>
-          <variationid>44936150679683.46</variationid>
-          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-          <availability>In Stock</availability>
-          <manufacturersku>FK1974.46</manufacturersku>
-          <price_with_vat>225</price_with_vat>
-          <size>46</size>
-          <quantity>8</quantity>
-        </variation>
-        <variation>
-          <variationid>44936150679683.47</variationid>
-          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-          <availability>In Stock</availability>
-          <manufacturersku>FK1974.47</manufacturersku>
-          <price_with_vat>225</price_with_vat>
-          <size>47</size>
-          <quantity>22</quantity>
-        </variation>
-        <variation>
-          <variationid>44936150679683.47.5</variationid>
-          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-          <availability>In Stock</availability>
-          <manufacturersku>FK1974.47.5</manufacturersku>
-          <price_with_vat>225</price_with_vat>
-          <size>47.5</size>
-          <quantity>24</quantity>
-        </variation>
-        <variation>
-          <variationid>44936150679683.48</variationid>
-          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-          <availability>In Stock</availability>
-          <manufacturersku>FK1974.48</manufacturersku>
-          <price_with_vat>225</price_with_vat>
-          <size>48</size>
-          <quantity>8</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>554724-078</id>
@@ -16581,6 +16503,110 @@
           <quantity>1</quantity>
         </variation>
       </variations>
+    </product>
+    <product>
+      <id/>
+      <name>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</name>
+      <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/IMG-6894_97008f62-be1c-42e8-8b53-cdd8e7df539e.png?v=1722591599</image>
+      <category>Sneakers</category>
+      <price_with_vat>225</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <availability>In Stock</availability>
+      <size>40,40.5,45.5,46,47,47.5,48</size>
+      <description>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</description>
+      <quantity>69</quantity>
+      <variations>
+        <variation>
+          <variationid>51967380750669.40</variationid>
+          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.40</manufacturersku>
+          <price_with_vat>225</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51967380750669.40.5</variationid>
+          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.40.5</manufacturersku>
+          <price_with_vat>225</price_with_vat>
+          <size>40.5</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>51967380750669.45.5</variationid>
+          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.45.5</manufacturersku>
+          <price_with_vat>225</price_with_vat>
+          <size>45.5</size>
+          <quantity>4</quantity>
+        </variation>
+        <variation>
+          <variationid>51967380750669.46</variationid>
+          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.46</manufacturersku>
+          <price_with_vat>225</price_with_vat>
+          <size>46</size>
+          <quantity>8</quantity>
+        </variation>
+        <variation>
+          <variationid>51967380750669.47</variationid>
+          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.47</manufacturersku>
+          <price_with_vat>225</price_with_vat>
+          <size>47</size>
+          <quantity>22</quantity>
+        </variation>
+        <variation>
+          <variationid>51967380750669.47.5</variationid>
+          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.47.5</manufacturersku>
+          <price_with_vat>225</price_with_vat>
+          <size>47.5</size>
+          <quantity>24</quantity>
+        </variation>
+        <variation>
+          <variationid>51967380750669.48</variationid>
+          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.48</manufacturersku>
+          <price_with_vat>225</price_with_vat>
+          <size>48</size>
+          <quantity>8</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>DQ8580-100</id>
+      <name>Dunk Low Vintage Green</name>
+      <link>https://www.flowerkickz.gr/products/dunk-low-vintage-green</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Vintage_Green-DQ8580-100-0.png?v=1714530722</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <availability>In Stock</availability>
+      <size>46</size>
+      <description>Dunk Low Vintage Green</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>FD5088-200</id>
+      <name>Air Max 1 Crepe Hemp</name>
+      <link>https://www.flowerkickz.gr/products/air-max-1-crepe-hemp</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_1_Crepe_Hemp-FD5088-200-0.png?v=1713673589</image>
+      <category>Sneakers</category>
+      <price_with_vat>400</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <availability>In Stock</availability>
+      <size>46</size>
+      <description>Air Max 1 Crepe Hemp</description>
+      <quantity>1</quantity>
     </product>
   </products>
 </FlowerKickz>
