@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-02 08:03</created_at>
+  <created_at>2024-08-02 09:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -15560,6 +15560,147 @@
       <quantity>0</quantity>
     </product>
     <product>
+      <id>IH7495</id>
+      <name>Gazelle Bold Semi Green Spark</name>
+      <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_bc8324ea-c4be-4b31-a1b5-8babacb82469.png?v=1722329121</image>
+      <category>Sneakers</category>
+      <price_with_vat>310</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36,36 2/3,37 1/3,38,38,38 2/3,38 2/3,39 1/3,39 1/3,40,40,40 2/3,40 2/3,41 1/3</size>
+      <description>Gazelle Bold Semi Green Spark</description>
+      <quantity>14</quantity>
+      <variations>
+        <variation>
+          <variationid>51944874606925.36</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.36</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>36</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.36-2/3</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.37-1/3</manufacturersku>
+          <price_with_vat>335</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.38</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.38</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.38</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.38</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.38-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.38-2/3</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>38 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.38-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.38-2/3</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>38 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.39-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.39-1/3</manufacturersku>
+          <price_with_vat>335</price_with_vat>
+          <size>39 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.39-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.39-1/3</manufacturersku>
+          <price_with_vat>335</price_with_vat>
+          <size>39 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.40</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.40</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.40</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.40</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.40-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.40-2/3</manufacturersku>
+          <price_with_vat>335</price_with_vat>
+          <size>40 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.40-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.40-2/3</manufacturersku>
+          <price_with_vat>335</price_with_vat>
+          <size>40 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51944874606925.41-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7495.41-1/3</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>41 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
       <id>MR530SG</id>
       <name>530 White Grey Navy</name>
       <link>https://www.flowerkickz.gr/products/530-white-grey-navy</link>
@@ -15793,9 +15934,9 @@
       <price_with_vat>310</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>35,36</size>
+      <size>35,36,37 1/3,38,38 2/3,46</size>
       <description>Campus 00s Core Black</description>
-      <quantity>2</quantity>
+      <quantity>9</quantity>
       <variations>
         <variation>
           <variationid>49439412781389.35</variationid>
@@ -15813,6 +15954,42 @@
           <manufacturersku>HQ6638.36</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>36</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>49439412781389.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6638.37-1/3</manufacturersku>
+          <price_with_vat>320</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>49439412781389.38</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6638.38</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>38</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>49439412781389.38-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6638.38-2/3</manufacturersku>
+          <price_with_vat>320</price_with_vat>
+          <size>38 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49439412781389.46</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6638.46</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>46</size>
           <quantity>1</quantity>
         </variation>
       </variations>
@@ -15862,57 +16039,6 @@
       <size>37.5</size>
       <description>530 White New Spruce</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id>IH7495</id>
-      <name>Gazelle Bold Semi Green Spark</name>
-      <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark-1</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_bc8324ea-c4be-4b31-a1b5-8babacb82469.png?v=1722329121</image>
-      <category>Sneakers</category>
-      <price_with_vat>310</price_with_vat>
-      <manufacturer>Adidas</manufacturer>
-      <availability>In Stock</availability>
-      <size>36,36 2/3,37 1/3,38 2/3</size>
-      <description>Gazelle Bold Semi Green Spark</description>
-      <quantity>4</quantity>
-      <variations>
-        <variation>
-          <variationid>51944948302157.36</variationid>
-          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark-1</link>
-          <availability>In Stock</availability>
-          <manufacturersku>IH7495.36</manufacturersku>
-          <price_with_vat>310</price_with_vat>
-          <size>36</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>51944948302157.36-2/3</variationid>
-          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark-1</link>
-          <availability>In Stock</availability>
-          <manufacturersku>IH7495.36-2/3</manufacturersku>
-          <price_with_vat>310</price_with_vat>
-          <size>36 2/3</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>51944948302157.37-1/3</variationid>
-          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark-1</link>
-          <availability>In Stock</availability>
-          <manufacturersku>IH7495.37-1/3</manufacturersku>
-          <price_with_vat>335</price_with_vat>
-          <size>37 1/3</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>51944948302157.38-2/3</variationid>
-          <link>https://www.flowerkickz.gr/products/gazelle-bold-semi-green-spark-1</link>
-          <availability>In Stock</availability>
-          <manufacturersku>IH7495.38-2/3</manufacturersku>
-          <price_with_vat>295</price_with_vat>
-          <size>38 2/3</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>DZ7293-100</id>
@@ -16194,6 +16320,265 @@
           <price_with_vat>275</price_with_vat>
           <size>47.5</size>
           <quantity>3</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>IH7502</id>
+      <name>Gazelle Indoor Cream White Collegiate Green Gum</name>
+      <link>https://www.flowerkickz.gr/products/gazelle-indoor-cream-white-collegiate-green-gum</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzGazelle_Indoor_Cream_White_Collegiate_Green_Gum-IH7502-0_164f3db6-aaac-439d-a476-fa5a5387459f.png?v=1713681912</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3</size>
+      <description>Gazelle Indoor Cream White Collegiate Green Gum</description>
+      <quantity>7</quantity>
+      <variations>
+        <variation>
+          <variationid>50722731753805.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-cream-white-collegiate-green-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7502.36-2/3</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>50722731753805.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-cream-white-collegiate-green-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7502.37-1/3</manufacturersku>
+          <price_with_vat>275</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>50722731753805.38</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-cream-white-collegiate-green-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7502.38</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>50722731753805.38-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-cream-white-collegiate-green-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7502.38-2/3</manufacturersku>
+          <price_with_vat>280</price_with_vat>
+          <size>38 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>50722731753805.39-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-cream-white-collegiate-green-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7502.39-1/3</manufacturersku>
+          <price_with_vat>275</price_with_vat>
+          <size>39 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>50722731753805.40</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-cream-white-collegiate-green-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7502.40</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>50722731753805.40-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-cream-white-collegiate-green-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7502.40-2/3</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>40 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>IF3967</id>
+      <name>Campus 00s Preloved Green Solar Yellow</name>
+      <link>https://www.flowerkickz.gr/products/campus-00s-preloved-green-solar-yellow-1</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Preloved_Green_Solar_Yellow_-IF3967-0_5444750f-7046-47b4-9f4f-52d13a5d1c6d.png?v=1713676905</image>
+      <category>Sneakers</category>
+      <price_with_vat>160</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>37 1/3</size>
+      <description>Campus 00s Preloved Green Solar Yellow</description>
+      <quantity>2</quantity>
+    </product>
+    <product>
+      <id>IH7492</id>
+      <name>Campus 00s Dark Green Cloud White (Enfant)</name>
+      <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white-enfant</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Dark_Green_Cloud_White_Enfant_-IH7492-0.png?v=1713676713</image>
+      <category>Sneakers</category>
+      <price_with_vat>190</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36,37 1/3,38,40</size>
+      <description>Campus 00s Dark Green Cloud White (Enfant)</description>
+      <quantity>4</quantity>
+      <variations>
+        <variation>
+          <variationid>50711030989133.36</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white-enfant</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7492.36</manufacturersku>
+          <price_with_vat>190</price_with_vat>
+          <size>36</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>50711030989133.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white-enfant</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7492.37-1/3</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>50711030989133.38</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white-enfant</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7492.38</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>50711030989133.40</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white-enfant</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7492.40</manufacturersku>
+          <price_with_vat>170</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>ID7056</id>
+      <name>Gazelle Bold Magic Beige Collegiate Green</name>
+      <link>https://www.flowerkickz.gr/products/gazelle-bold-magic-beige-collegiate-green</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzGazelle_Bold_Magic_Beige_Collegiate_Green-ID7056-0.png?v=1713681613</image>
+      <category>Sneakers</category>
+      <price_with_vat>280</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>39 1/3</size>
+      <description>Gazelle Bold Magic Beige Collegiate Green</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>IE0420</id>
+      <name>Gazelle Bold True Pink Green Cloud White</name>
+      <link>https://www.flowerkickz.gr/products/gazelle-bold-true-pink-green-cloud-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzGazelle_Bold_True_Pink_Green_Cloud_White-IE0420-0.png?v=1713681714</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>39 1/3</size>
+      <description>Gazelle Bold True Pink Green Cloud White</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>U9060EED</id>
+      <name>9060 Chrome Blue</name>
+      <link>https://www.flowerkickz.gr/products/9060-chrome-blue</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz9060_Chrome_Blue-U9060EED-0.webp?v=1714525864</image>
+      <category>Sneakers</category>
+      <price_with_vat>455</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <availability>In Stock</availability>
+      <size>45.5</size>
+      <description>9060 Chrome Blue</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>IE0419</id>
+      <name>Gazelle Bold Energy Ink Gum</name>
+      <link>https://www.flowerkickz.gr/products/gazelle-bold-energy-ink-gum</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_0200b678-144b-47d1-bc2a-f6c66b20a974.png?v=1722520702</image>
+      <category>Sneakers</category>
+      <price_with_vat>310</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36 2/3,37 1/3,38,38 2/3,39 1/3,40,41 1/3</size>
+      <description>Gazelle Bold Energy Ink Gum</description>
+      <quantity>10</quantity>
+      <variations>
+        <variation>
+          <variationid>51962439237965.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.36-2/3</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51962439237965.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.37-1/3</manufacturersku>
+          <price_with_vat>335</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51962439237965.38</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.38</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>51962439237965.38-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.38-2/3</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>38 2/3</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>51962439237965.39-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.39-1/3</manufacturersku>
+          <price_with_vat>335</price_with_vat>
+          <size>39 1/3</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>51962439237965.40</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.40</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>40</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>51962439237965.41-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.41-1/3</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>41 1/3</size>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
