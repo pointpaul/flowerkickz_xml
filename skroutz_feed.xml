@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-02 02:03</created_at>
+  <created_at>2024-08-02 03:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -1688,7 +1688,7 @@
       <link>https://www.flowerkickz.gr/products/dunk-low-chlorophyll</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Chlorophyll-DH9765-301-0.png?v=1713678597</image>
       <category>Sneakers</category>
-      <price_with_vat>160</price_with_vat>
+      <price_with_vat>365</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
       <size>40,40.5,41,42,42.5,44,44.5,47</size>
@@ -1700,7 +1700,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-chlorophyll</link>
           <availability>In Stock</availability>
           <manufacturersku>DH9765-300.40</manufacturersku>
-          <price_with_vat>160</price_with_vat>
+          <price_with_vat>365</price_with_vat>
           <size>40</size>
           <quantity>2</quantity>
         </variation>
