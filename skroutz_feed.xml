@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-02 13:04</created_at>
+  <created_at>2024-08-02 14:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -16513,9 +16513,9 @@
       <price_with_vat>115</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
-      <size>40,40.5,46,47,47.5,48</size>
+      <size>40,46,47,47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</description>
-      <quantity>51</quantity>
+      <quantity>50</quantity>
       <variations>
         <variation>
           <variationid>51967380750669.40</variationid>
@@ -16524,15 +16524,6 @@
           <manufacturersku>None.40</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>51967380750669.40.5</variationid>
-          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-          <availability>In Stock</availability>
-          <manufacturersku>None.40.5</manufacturersku>
-          <price_with_vat>115</price_with_vat>
-          <size>40.5</size>
           <quantity>0</quantity>
         </variation>
         <variation>
@@ -16560,7 +16551,7 @@
           <manufacturersku>None.47.5</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>47.5</size>
-          <quantity>21</quantity>
+          <quantity>20</quantity>
         </variation>
         <variation>
           <variationid>51967380750669.48</variationid>
