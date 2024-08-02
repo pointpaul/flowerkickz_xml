@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-02 14:04</created_at>
+  <created_at>2024-08-02 15:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -2519,7 +2519,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,44</size>
       <description>Dunk Low Next Nature Light Curry</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>45131118542979.40</variationid>
@@ -2528,7 +2528,7 @@
           <manufacturersku>DN1431-001.40</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>40</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45131118542979.40.5</variationid>
@@ -16513,21 +16513,12 @@
       <price_with_vat>115</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
-      <size>40,46,47,47.5,48</size>
+      <size>46,47,47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</description>
       <quantity>50</quantity>
       <variations>
         <variation>
-          <variationid>51967380750669.40</variationid>
-          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-          <availability>In Stock</availability>
-          <manufacturersku>None.40</manufacturersku>
-          <price_with_vat>115</price_with_vat>
-          <size>40</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>51967380750669.46</variationid>
+          <variationid>51967381078349.46</variationid>
           <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
           <availability>In Stock</availability>
           <manufacturersku>None.46</manufacturersku>
@@ -16536,7 +16527,7 @@
           <quantity>0</quantity>
         </variation>
         <variation>
-          <variationid>51967380750669.47</variationid>
+          <variationid>51967381078349.47</variationid>
           <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
           <availability>In Stock</availability>
           <manufacturersku>None.47</manufacturersku>
@@ -16545,7 +16536,7 @@
           <quantity>22</quantity>
         </variation>
         <variation>
-          <variationid>51967380750669.47.5</variationid>
+          <variationid>51967381078349.47.5</variationid>
           <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
           <availability>In Stock</availability>
           <manufacturersku>None.47.5</manufacturersku>
@@ -16554,7 +16545,7 @@
           <quantity>20</quantity>
         </variation>
         <variation>
-          <variationid>51967380750669.48</variationid>
+          <variationid>51967381078349.48</variationid>
           <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
           <availability>In Stock</availability>
           <manufacturersku>None.48</manufacturersku>
