@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-03 01:03</created_at>
+  <created_at>2024-08-03 02:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -4408,7 +4408,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-skyline</link>
           <availability>In Stock</availability>
           <manufacturersku>DX0054-805.43</manufacturersku>
-          <price_with_vat>385</price_with_vat>
+          <price_with_vat>400</price_with_vat>
           <size>43</size>
           <quantity>1</quantity>
         </variation>
@@ -7970,7 +7970,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-alternate-bred-toe</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Alternate_Bred_Toe-554724-079-0.png?v=1713668770</image>
       <category>Sneakers</category>
-      <price_with_vat>215</price_with_vat>
+      <price_with_vat>295</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>41,42,45,45.5</size>
@@ -7991,7 +7991,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-alternate-bred-toe</link>
           <availability>In Stock</availability>
           <manufacturersku>554724-079.42</manufacturersku>
-          <price_with_vat>215</price_with_vat>
+          <price_with_vat>295</price_with_vat>
           <size>42</size>
           <quantity>1</quantity>
         </variation>
