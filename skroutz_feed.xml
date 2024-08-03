@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-03 03:03</created_at>
+  <created_at>2024-08-03 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -2517,19 +2517,10 @@
       <price_with_vat>205</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
-      <size>40,40.5,41,44</size>
+      <size>40.5,41,44</size>
       <description>Dunk Low Next Nature Light Curry</description>
       <quantity>4</quantity>
       <variations>
-        <variation>
-          <variationid>45131118542979.40</variationid>
-          <link>https://www.flowerkickz.gr/products/dunk-low-next-nature-light-curry</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DN1431-001.40</manufacturersku>
-          <price_with_vat>205</price_with_vat>
-          <size>40</size>
-          <quantity>0</quantity>
-        </variation>
         <variation>
           <variationid>45131118542979.40.5</variationid>
           <link>https://www.flowerkickz.gr/products/dunk-low-next-nature-light-curry</link>
@@ -13236,19 +13227,6 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id/>
-      <name>Bape Tee Liquid Camo College White Blue</name>
-      <link>https://www.flowerkickz.gr/products/bape-tee-liquid-camo-college-white-blue</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/whiteape.png?v=1714740655</image>
-      <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <availability>In Stock</availability>
-      <size>X-LARGE</size>
-      <description>Bape Tee Liquid Camo College White Blue</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
       <id>91388790 -1</id>
       <name>Bape Tee Bleached Check College Black</name>
       <link>https://www.flowerkickz.gr/products/bape-tee-bleached-check-college-black</link>
@@ -14570,7 +14548,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-foam-rnnr-mx-granite</link>
           <availability>In Stock</availability>
           <manufacturersku>IE4931.38</manufacturersku>
-          <price_with_vat>275</price_with_vat>
+          <price_with_vat>355</price_with_vat>
           <size>38</size>
           <quantity>4</quantity>
         </variation>
@@ -14579,7 +14557,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-foam-rnnr-mx-granite</link>
           <availability>In Stock</availability>
           <manufacturersku>IE4931.39</manufacturersku>
-          <price_with_vat>250</price_with_vat>
+          <price_with_vat>355</price_with_vat>
           <size>39</size>
           <quantity>2</quantity>
         </variation>
@@ -14624,7 +14602,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-foam-rnnr-mx-granite</link>
           <availability>In Stock</availability>
           <manufacturersku>IE4931.46</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>310</price_with_vat>
           <size>46</size>
           <quantity>3</quantity>
         </variation>
@@ -14633,7 +14611,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-foam-rnnr-mx-granite</link>
           <availability>In Stock</availability>
           <manufacturersku>IE4931.47</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>310</price_with_vat>
           <size>47</size>
           <quantity>3</quantity>
         </variation>
@@ -14642,7 +14620,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-foam-rnnr-mx-granite</link>
           <availability>In Stock</availability>
           <manufacturersku>IE4931.48.5</manufacturersku>
-          <price_with_vat>250</price_with_vat>
+          <price_with_vat>310</price_with_vat>
           <size>48.5</size>
           <quantity>2</quantity>
         </variation>
@@ -16515,7 +16493,7 @@
       <availability>In Stock</availability>
       <size>47,47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</description>
-      <quantity>41</quantity>
+      <quantity>40</quantity>
       <variations>
         <variation>
           <variationid>51967381111117.47</variationid>
@@ -16524,7 +16502,7 @@
           <manufacturersku>None.47</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>47</size>
-          <quantity>14</quantity>
+          <quantity>13</quantity>
         </variation>
         <variation>
           <variationid>51967381111117.47.5</variationid>
