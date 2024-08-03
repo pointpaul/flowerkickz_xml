@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-03 02:03</created_at>
+  <created_at>2024-08-03 03:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -1688,7 +1688,7 @@
       <link>https://www.flowerkickz.gr/products/dunk-low-chlorophyll</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Chlorophyll-DH9765-301-0.png?v=1713678597</image>
       <category>Sneakers</category>
-      <price_with_vat>365</price_with_vat>
+      <price_with_vat>160</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
       <size>40,40.5,41,42,42.5,44,44.5,47</size>
@@ -1700,7 +1700,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-chlorophyll</link>
           <availability>In Stock</availability>
           <manufacturersku>DH9765-300.40</manufacturersku>
-          <price_with_vat>365</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>40</size>
           <quantity>2</quantity>
         </variation>
@@ -7588,7 +7588,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-thunder-2023</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Thunder_2023_-DH6927-017-0.png?v=1713672652</image>
       <category>Sneakers</category>
-      <price_with_vat>410</price_with_vat>
+      <price_with_vat>685</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
       <size>37.5</size>
@@ -13654,7 +13654,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
           <availability>In Stock</availability>
           <manufacturersku>HF4281-141.42</manufacturersku>
-          <price_with_vat>580</price_with_vat>
+          <price_with_vat>535</price_with_vat>
           <size>42</size>
           <quantity>6</quantity>
         </variation>
@@ -13663,7 +13663,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
           <availability>In Stock</availability>
           <manufacturersku>HF4281-141.42.5</manufacturersku>
-          <price_with_vat>565</price_with_vat>
+          <price_with_vat>535</price_with_vat>
           <size>42.5</size>
           <quantity>6</quantity>
         </variation>
@@ -16107,7 +16107,7 @@
           <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white</link>
           <availability>In Stock</availability>
           <manufacturersku>H03472.44-2/3</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>44 2/3</size>
           <quantity>1</quantity>
         </variation>
@@ -16515,7 +16515,7 @@
       <availability>In Stock</availability>
       <size>47,47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</description>
-      <quantity>42</quantity>
+      <quantity>41</quantity>
       <variations>
         <variation>
           <variationid>51967381111117.47</variationid>
@@ -16524,7 +16524,7 @@
           <manufacturersku>None.47</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>47</size>
-          <quantity>15</quantity>
+          <quantity>14</quantity>
         </variation>
         <variation>
           <variationid>51967381111117.47.5</variationid>
