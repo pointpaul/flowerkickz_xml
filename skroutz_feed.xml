@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-03 10:03</created_at>
+  <created_at>2024-08-03 11:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -143,7 +143,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,38.5,40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47,47.5</size>
       <description>Dunk Low Black White</description>
-      <quantity>61</quantity>
+      <quantity>60</quantity>
       <variations>
         <variation>
           <variationid>45207484137603.35.5</variationid>
@@ -188,7 +188,7 @@
           <manufacturersku>CW1591-100.40</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>40</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>45207484137603.40.5</variationid>
@@ -16493,7 +16493,7 @@
       <availability>In Stock</availability>
       <size>47,47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</description>
-      <quantity>39</quantity>
+      <quantity>37</quantity>
       <variations>
         <variation>
           <variationid>51967381111117.47</variationid>
@@ -16511,7 +16511,7 @@
           <manufacturersku>None.47.5</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>47.5</size>
-          <quantity>20</quantity>
+          <quantity>19</quantity>
         </variation>
         <variation>
           <variationid>51967381111117.48</variationid>
@@ -16520,7 +16520,7 @@
           <manufacturersku>None.48</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>48</size>
-          <quantity>7</quantity>
+          <quantity>6</quantity>
         </variation>
       </variations>
     </product>
