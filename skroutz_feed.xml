@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-05 08:04</created_at>
+  <created_at>2024-08-05 09:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -11946,7 +11946,7 @@
       <availability>In Stock</availability>
       <size>36,36.5,37.5,38,38.5,39,40</size>
       <description>Dunk Low UNC</description>
-      <quantity>36</quantity>
+      <quantity>35</quantity>
       <variations>
         <variation>
           <variationid>45207527719043.36</variationid>
@@ -12009,7 +12009,7 @@
           <manufacturersku>CW1590-103.40</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>40</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
       </variations>
     </product>
