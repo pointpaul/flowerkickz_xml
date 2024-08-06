@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-06 03:03</created_at>
+  <created_at>2024-08-06 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -5655,19 +5655,6 @@
       </variations>
     </product>
     <product>
-      <id>DX6775-400</id>
-      <name>SB Dunk Low Pro PRM 90s Backpack</name>
-      <link>https://www.flowerkickz.gr/products/sb-dunk-low-pro-prm-90s-backpack</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Pro_PRM_90s_Backpack-DX6775-400-0.png?v=1713685461</image>
-      <category>Sneakers</category>
-      <price_with_vat>295</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <availability>In Stock</availability>
-      <size>44</size>
-      <description>SB Dunk Low Pro PRM 90s Backpack</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
       <id>DQ4485-600</id>
       <name>SB Dunk High Sweet Beet</name>
       <link>https://www.flowerkickz.gr/products/sb-dunk-high-sweet-beet</link>
@@ -10903,19 +10890,6 @@
       <size>44 2/3</size>
       <description>Yeezy 700 Analog</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id>EG7487</id>
-      <name>Yeezy 700 Salt</name>
-      <link>https://www.flowerkickz.gr/products/yeezy-700-salt</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_700_Salt--0.png?v=1713687088</image>
-      <category>Sneakers</category>
-      <price_with_vat>555</price_with_vat>
-      <manufacturer>Adidas</manufacturer>
-      <availability>In Stock</availability>
-      <size>46</size>
-      <description>Yeezy 700 Salt</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>EF2829</id>
