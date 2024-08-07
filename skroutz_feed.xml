@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-07 15:03</created_at>
+  <created_at>2024-08-07 16:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6891,9 +6891,9 @@
       <price_with_vat>455</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>36,36 2/3,44,45 1/3</size>
+      <size>36,36 2/3,37 1/3,44,45 1/3</size>
       <description>Yeezy Boost 350 V2 Bone</description>
-      <quantity>6</quantity>
+      <quantity>10</quantity>
       <variations>
         <variation>
           <variationid>45130135273603.36</variationid>
@@ -6902,7 +6902,7 @@
           <manufacturersku>HQ6316.36</manufacturersku>
           <price_with_vat>455</price_with_vat>
           <size>36</size>
-          <quantity>1</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>45130135273603.36-2/3</variationid>
@@ -6911,7 +6911,16 @@
           <manufacturersku>HQ6316.36-2/3</manufacturersku>
           <price_with_vat>455</price_with_vat>
           <size>36 2/3</size>
-          <quantity>3</quantity>
+          <quantity>5</quantity>
+        </variation>
+        <variation>
+          <variationid>45130135273603.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-bone-1</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6316.37-1/3</manufacturersku>
+          <price_with_vat>580</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45130135273603.44</variationid>
@@ -12595,7 +12604,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3,41 1/3,42,42 2/3,43 1/3,44,44 2/3,45 1/3,46</size>
       <description>Yeezy Boost 350 V2 Onyx</description>
-      <quantity>86</quantity>
+      <quantity>112</quantity>
       <variations>
         <variation>
           <variationid>45130120429699.36</variationid>
@@ -12604,7 +12613,7 @@
           <manufacturersku>HQ4540.36</manufacturersku>
           <price_with_vat>490</price_with_vat>
           <size>36</size>
-          <quantity>5</quantity>
+          <quantity>9</quantity>
         </variation>
         <variation>
           <variationid>45130120429699.36-2/3</variationid>
@@ -12613,7 +12622,7 @@
           <manufacturersku>HQ4540.36-2/3</manufacturersku>
           <price_with_vat>490</price_with_vat>
           <size>36 2/3</size>
-          <quantity>9</quantity>
+          <quantity>13</quantity>
         </variation>
         <variation>
           <variationid>45130120429699.37-1/3</variationid>
@@ -12622,7 +12631,7 @@
           <manufacturersku>HQ4540.37-1/3</manufacturersku>
           <price_with_vat>490</price_with_vat>
           <size>37 1/3</size>
-          <quantity>5</quantity>
+          <quantity>9</quantity>
         </variation>
         <variation>
           <variationid>45130120429699.38</variationid>
@@ -12631,7 +12640,7 @@
           <manufacturersku>HQ4540.38</manufacturersku>
           <price_with_vat>490</price_with_vat>
           <size>38</size>
-          <quantity>10</quantity>
+          <quantity>17</quantity>
         </variation>
         <variation>
           <variationid>45130120429699.38-2/3</variationid>
@@ -12640,7 +12649,7 @@
           <manufacturersku>HQ4540.38-2/3</manufacturersku>
           <price_with_vat>490</price_with_vat>
           <size>38 2/3</size>
-          <quantity>8</quantity>
+          <quantity>14</quantity>
         </variation>
         <variation>
           <variationid>45130120429699.39-1/3</variationid>
@@ -12649,7 +12658,7 @@
           <manufacturersku>HQ4540.39-1/3</manufacturersku>
           <price_with_vat>490</price_with_vat>
           <size>39 1/3</size>
-          <quantity>3</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>45130120429699.40</variationid>
@@ -12658,7 +12667,7 @@
           <manufacturersku>HQ4540.40</manufacturersku>
           <price_with_vat>490</price_with_vat>
           <size>40</size>
-          <quantity>3</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>45130120429699.40-2/3</variationid>
@@ -12685,7 +12694,7 @@
           <manufacturersku>HQ4540.42</manufacturersku>
           <price_with_vat>490</price_with_vat>
           <size>42</size>
-          <quantity>7</quantity>
+          <quantity>6</quantity>
         </variation>
         <variation>
           <variationid>45130120429699.42-2/3</variationid>
@@ -14620,7 +14629,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>157</quantity>
+      <quantity>188</quantity>
       <variations>
         <variation>
           <variationid>50742287892813.37</variationid>
@@ -14638,7 +14647,7 @@
           <manufacturersku>ID5103.38</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>38</size>
-          <quantity>12</quantity>
+          <quantity>13</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.39</variationid>
@@ -14647,7 +14656,7 @@
           <manufacturersku>ID5103.39</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>39</size>
-          <quantity>8</quantity>
+          <quantity>13</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.40.5</variationid>
@@ -14656,7 +14665,7 @@
           <manufacturersku>ID5103.40.5</manufacturersku>
           <price_with_vat>210</price_with_vat>
           <size>40.5</size>
-          <quantity>10</quantity>
+          <quantity>17</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.42</variationid>
@@ -14665,7 +14674,7 @@
           <manufacturersku>ID5103.42</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>42</size>
-          <quantity>15</quantity>
+          <quantity>21</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.43</variationid>
@@ -14674,7 +14683,7 @@
           <manufacturersku>ID5103.43</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>43</size>
-          <quantity>21</quantity>
+          <quantity>26</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.44.5</variationid>
@@ -14683,7 +14692,7 @@
           <manufacturersku>ID5103.44.5</manufacturersku>
           <price_with_vat>190</price_with_vat>
           <size>44.5</size>
-          <quantity>32</quantity>
+          <quantity>36</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.46</variationid>
@@ -14701,7 +14710,7 @@
           <manufacturersku>ID5103.47</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>47</size>
-          <quantity>14</quantity>
+          <quantity>16</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.48.5</variationid>
@@ -14710,7 +14719,7 @@
           <manufacturersku>ID5103.48.5</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>48.5</size>
-          <quantity>7</quantity>
+          <quantity>8</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.50</variationid>
@@ -15433,10 +15442,19 @@
       <price_with_vat>545</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>36 2/3,41 1/3</size>
+      <size>36,36 2/3,38,40,40 2/3,41 1/3</size>
       <description>Yeezy Boost 350 V2 MX Rock</description>
-      <quantity>5</quantity>
+      <quantity>12</quantity>
       <variations>
+        <variation>
+          <variationid>45130118594691.36</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-rock</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GW3774.36</manufacturersku>
+          <price_with_vat>565</price_with_vat>
+          <size>36</size>
+          <quantity>2</quantity>
+        </variation>
         <variation>
           <variationid>45130118594691.36-2/3</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-rock</link>
@@ -15444,6 +15462,33 @@
           <manufacturersku>GW3774.36-2/3</manufacturersku>
           <price_with_vat>545</price_with_vat>
           <size>36 2/3</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>45130118594691.38</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-rock</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GW3774.38</manufacturersku>
+          <price_with_vat>600</price_with_vat>
+          <size>38</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>45130118594691.40</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-rock</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GW3774.40</manufacturersku>
+          <price_with_vat>600</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>45130118594691.40-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-rock</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GW3774.40-2/3</manufacturersku>
+          <price_with_vat>635</price_with_vat>
+          <size>40 2/3</size>
           <quantity>1</quantity>
         </variation>
         <variation>
@@ -16618,9 +16663,9 @@
       <price_with_vat>510</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>36,36 2/3,43 1/3,44</size>
+      <size>36,36 2/3,37 1/3,38,42,43 1/3,44,47 1/3</size>
       <description>Yeezy Boost 350 V2 Sesame</description>
-      <quantity>6</quantity>
+      <quantity>16</quantity>
       <variations>
         <variation>
           <variationid>45130122297475.36</variationid>
@@ -16629,7 +16674,7 @@
           <manufacturersku>F99710.36</manufacturersku>
           <price_with_vat>510</price_with_vat>
           <size>36</size>
-          <quantity>2</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>45130122297475.36-2/3</variationid>
@@ -16638,7 +16683,34 @@
           <manufacturersku>F99710.36-2/3</manufacturersku>
           <price_with_vat>520</price_with_vat>
           <size>36 2/3</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>45130122297475.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-sesame</link>
+          <availability>In Stock</availability>
+          <manufacturersku>F99710.37-1/3</manufacturersku>
+          <price_with_vat>520</price_with_vat>
+          <size>37 1/3</size>
           <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>45130122297475.38</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-sesame</link>
+          <availability>In Stock</availability>
+          <manufacturersku>F99710.38</manufacturersku>
+          <price_with_vat>530</price_with_vat>
+          <size>38</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>45130122297475.42</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-sesame</link>
+          <availability>In Stock</availability>
+          <manufacturersku>F99710.42</manufacturersku>
+          <price_with_vat>475</price_with_vat>
+          <size>42</size>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45130122297475.43-1/3</variationid>
@@ -16656,6 +16728,15 @@
           <manufacturersku>F99710.44</manufacturersku>
           <price_with_vat>500</price_with_vat>
           <size>44</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>45130122297475.47-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-sesame</link>
+          <availability>In Stock</availability>
+          <manufacturersku>F99710.47-1/3</manufacturersku>
+          <price_with_vat>475</price_with_vat>
+          <size>47 1/3</size>
           <quantity>1</quantity>
         </variation>
       </variations>
