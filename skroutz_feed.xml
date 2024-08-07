@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-07 14:03</created_at>
+  <created_at>2024-08-07 15:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -4213,7 +4213,7 @@
       <availability>In Stock</availability>
       <size>44,44.5,45.5,47,49.5</size>
       <description>Dunk Low World Champ</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>45129776169091.44</variationid>
@@ -4249,7 +4249,7 @@
           <manufacturersku>DR9511-100.47</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>47</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45129776169091.49.5</variationid>
@@ -6260,7 +6260,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Fear of God Essentials T-Shirt Seafoam</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
     </product>
     <product>
       <id>53408164</id>
