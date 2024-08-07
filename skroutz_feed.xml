@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-07 13:03</created_at>
+  <created_at>2024-08-07 14:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -12990,7 +12990,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,44</size>
       <description>Dunk Low Grey Fog</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <variations>
         <variation>
           <variationid>45171591348355.41</variationid>
@@ -13008,7 +13008,7 @@
           <manufacturersku>DD1391-103.42</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>42</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>45171591348355.42.5</variationid>
