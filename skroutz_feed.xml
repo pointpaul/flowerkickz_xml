@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-08 03:02</created_at>
+  <created_at>2024-08-08 04:02</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -4211,7 +4211,7 @@
       <price_with_vat>340</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
-      <size>44,44.5,45.5,47,49.5</size>
+      <size>44,44.5,45.5,49.5</size>
       <description>Dunk Low World Champ</description>
       <quantity>4</quantity>
       <variations>
@@ -4241,15 +4241,6 @@
           <price_with_vat>340</price_with_vat>
           <size>45.5</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45129776169091.47</variationid>
-          <link>https://www.flowerkickz.gr/products/dunk-low-world-champ</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DR9511-100.47</manufacturersku>
-          <price_with_vat>340</price_with_vat>
-          <size>47</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45129776169091.49.5</variationid>
