@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-08 14:03</created_at>
+  <created_at>2024-08-08 15:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -16756,6 +16756,93 @@
           <price_with_vat>475</price_with_vat>
           <size>47 1/3</size>
           <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>MR530PC</id>
+      <name>530 White Light Chrome Blue Clay Ash</name>
+      <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_a9142651-d31a-4229-a1ee-a5df842ff5c1.png?v=1723126051</image>
+      <category>Sneakers</category>
+      <price_with_vat>260</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <availability>In Stock</availability>
+      <size>35.5,36,37,37.5,38,38.5,39,40</size>
+      <description>530 White Light Chrome Blue Clay Ash</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>52008724627789.35.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.35.5</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>35.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008724627789.36</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.36</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008724627789.37</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.37</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>37</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008724627789.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.37.5</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>37.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008724627789.38</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.38</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008724627789.38.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.38.5</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>38.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008724627789.39</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.39</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>39</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008724627789.40</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.40</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>40</size>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
