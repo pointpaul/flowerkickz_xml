@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-09 13:03</created_at>
+  <created_at>2024-08-09 14:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -16535,7 +16535,7 @@
       <availability>In Stock</availability>
       <size>47,47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</description>
-      <quantity>27</quantity>
+      <quantity>26</quantity>
       <variations>
         <variation>
           <variationid>51967381111117.47</variationid>
@@ -16544,7 +16544,7 @@
           <manufacturersku>None.47</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>47</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>51967381111117.47.5</variationid>
