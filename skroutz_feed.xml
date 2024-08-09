@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-09 12:03</created_at>
+  <created_at>2024-08-09 13:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -3803,7 +3803,7 @@
       <link>https://www.flowerkickz.gr/products/dunk-low-active-fuchsia</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Active_Fuchsia-FJ0704-100-0.png?v=1713678279</image>
       <category>Sneakers</category>
-      <price_with_vat>310</price_with_vat>
+      <price_with_vat>285</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
       <size>36,36.5,37.5,38,38.5,39</size>
@@ -3815,7 +3815,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-active-fuchsia</link>
           <availability>In Stock</availability>
           <manufacturersku>FJ0704-100.36</manufacturersku>
-          <price_with_vat>275</price_with_vat>
+          <price_with_vat>260</price_with_vat>
           <size>36</size>
           <quantity>3</quantity>
         </variation>
@@ -3824,7 +3824,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-active-fuchsia</link>
           <availability>In Stock</availability>
           <manufacturersku>FJ0704-100.36.5</manufacturersku>
-          <price_with_vat>285</price_with_vat>
+          <price_with_vat>275</price_with_vat>
           <size>36.5</size>
           <quantity>3</quantity>
         </variation>
@@ -3833,7 +3833,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-active-fuchsia</link>
           <availability>In Stock</availability>
           <manufacturersku>FJ0704-100.37.5</manufacturersku>
-          <price_with_vat>310</price_with_vat>
+          <price_with_vat>285</price_with_vat>
           <size>37.5</size>
           <quantity>4</quantity>
         </variation>
@@ -3842,7 +3842,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-active-fuchsia</link>
           <availability>In Stock</availability>
           <manufacturersku>FJ0704-100.38</manufacturersku>
-          <price_with_vat>310</price_with_vat>
+          <price_with_vat>285</price_with_vat>
           <size>38</size>
           <quantity>3</quantity>
         </variation>
@@ -3851,7 +3851,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-active-fuchsia</link>
           <availability>In Stock</availability>
           <manufacturersku>FJ0704-100.38.5</manufacturersku>
-          <price_with_vat>310</price_with_vat>
+          <price_with_vat>285</price_with_vat>
           <size>38.5</size>
           <quantity>3</quantity>
         </variation>
@@ -3860,7 +3860,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-active-fuchsia</link>
           <availability>In Stock</availability>
           <manufacturersku>FJ0704-100.39</manufacturersku>
-          <price_with_vat>310</price_with_vat>
+          <price_with_vat>285</price_with_vat>
           <size>39</size>
           <quantity>3</quantity>
         </variation>
@@ -7437,7 +7437,7 @@
       <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Clear_Jade-DV0833-101-0.png?v=1713678612</image>
       <category>Sneakers</category>
-      <price_with_vat>230</price_with_vat>
+      <price_with_vat>215</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <availability>In Stock</availability>
       <size>42,43,44,44.5,45,45.5,47,47.5,48.5,49.5</size>
@@ -7449,7 +7449,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.42</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>42</size>
           <quantity>1</quantity>
         </variation>
@@ -7458,7 +7458,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.43</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>43</size>
           <quantity>2</quantity>
         </variation>
@@ -7467,7 +7467,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.44</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>44</size>
           <quantity>3</quantity>
         </variation>
@@ -7476,7 +7476,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.44.5</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>44.5</size>
           <quantity>3</quantity>
         </variation>
@@ -7485,7 +7485,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.45</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>45</size>
           <quantity>3</quantity>
         </variation>
@@ -7494,7 +7494,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.45.5</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>45.5</size>
           <quantity>3</quantity>
         </variation>
@@ -7503,7 +7503,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.47</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>47</size>
           <quantity>3</quantity>
         </variation>
@@ -7512,7 +7512,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.47.5</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>47.5</size>
           <quantity>2</quantity>
         </variation>
@@ -7521,7 +7521,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.48.5</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>48.5</size>
           <quantity>2</quantity>
         </variation>
@@ -7530,7 +7530,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.49.5</manufacturersku>
-          <price_with_vat>230</price_with_vat>
+          <price_with_vat>215</price_with_vat>
           <size>49.5</size>
           <quantity>2</quantity>
         </variation>
@@ -14598,7 +14598,7 @@
           <manufacturersku>ID5103.38</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>38</size>
-          <quantity>16</quantity>
+          <quantity>17</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.39</variationid>
@@ -14607,7 +14607,7 @@
           <manufacturersku>ID5103.39</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>39</size>
-          <quantity>13</quantity>
+          <quantity>12</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.40.5</variationid>
