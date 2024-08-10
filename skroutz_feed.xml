@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-10 14:03</created_at>
+  <created_at>2024-08-10 15:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -9772,7 +9772,7 @@
       <price_with_vat>385</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>35,36,36 2/3,38,39 1/3</size>
+      <size>35,36,36 2/3,38,39 1/3,44,44 2/3,45 1/3,46,46 2/3</size>
       <description>Campus 00s Grey White</description>
       <quantity>2</quantity>
       <variations>
@@ -9820,6 +9820,51 @@
           <price_with_vat>385</price_with_vat>
           <size>39 1/3</size>
           <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48743025017165.44</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.44</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>44</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48743025017165.44-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.44-2/3</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>44 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48743025017165.45-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.45-1/3</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>45 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48743025017165.46</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.46</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>46</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48743025017165.46-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.46-2/3</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>46 2/3</size>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -14845,10 +14890,64 @@
       <price_with_vat>400</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <availability>In Stock</availability>
-      <size>40.5,41,42,42.5,43,44,44.5,45,45.5,47.5</size>
+      <size>35.5,36,36.5,37.5,38,38.5,40.5,41,42,42.5,43,44,44.5,45,45.5,47.5</size>
       <description>Air Jordan 4 Oxidized Green</description>
       <quantity>9</quantity>
       <variations>
+        <variation>
+          <variationid>50976850248013.35.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-oxidized-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FQ8138-103.35.5</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>35.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50976850248013.36</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-oxidized-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FQ8138-103.36</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50976850248013.36.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-oxidized-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FQ8138-103.36.5</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>36.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50976850248013.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-oxidized-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FQ8138-103.37.5</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>37.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50976850248013.38</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-oxidized-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FQ8138-103.38</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50976850248013.38.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-oxidized-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FQ8138-103.38.5</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>38.5</size>
+          <quantity>0</quantity>
+        </variation>
         <variation>
           <variationid>50976850248013.40.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-4-oxidized-green</link>
@@ -15876,7 +15975,7 @@
       <price_with_vat>310</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>36,37 1/3,38,38 2/3,46,48</size>
+      <size>36,36 2/3,37 1/3,38,38 2/3,43 1/3,44,45 1/3,46,46 2/3,47 1/3,48</size>
       <description>Campus 00s Core Black</description>
       <quantity>0</quantity>
       <variations>
@@ -15887,6 +15986,15 @@
           <manufacturersku>HQ8708.36</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024066893.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8708.36-2/3</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>36 2/3</size>
           <quantity>0</quantity>
         </variation>
         <variation>
@@ -15917,12 +16025,57 @@
           <quantity>0</quantity>
         </variation>
         <variation>
+          <variationid>48743024066893.43-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8708.43-1/3</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>43 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024066893.44</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8708.44</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>44</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024066893.45-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8708.45-1/3</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>45 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
           <variationid>48743024066893.46</variationid>
           <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
           <availability>In Stock</availability>
           <manufacturersku>HQ8708.46</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>46</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024066893.46-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8708.46-2/3</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>46 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024066893.47-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8708.47-1/3</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>47 1/3</size>
           <quantity>0</quantity>
         </variation>
         <variation>
@@ -16274,7 +16427,7 @@
       <price_with_vat>285</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3</size>
+      <size>36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3,41 1/3</size>
       <description>Gazelle Indoor Cream White Collegiate Green Gum</description>
       <quantity>0</quantity>
       <variations>
@@ -16339,6 +16492,15 @@
           <manufacturersku>IH7502.40-2/3</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>40 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722731753805.41-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-cream-white-collegiate-green-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7502.41-1/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>41 1/3</size>
           <quantity>0</quantity>
         </variation>
       </variations>
@@ -16719,7 +16881,7 @@
       <price_with_vat>260</price_with_vat>
       <manufacturer>New Balance</manufacturer>
       <availability>In Stock</availability>
-      <size>35.5,36,37,37.5,38,38.5,39,40</size>
+      <size>35.5,36,36,37,37,37.5,37.5,38,38,38.5,38.5,39,39.5,40,40,40.5,42</size>
       <description>530 White Light Chrome Blue Clay Ash</description>
       <quantity>0</quantity>
       <variations>
@@ -16742,11 +16904,29 @@
           <quantity>0</quantity>
         </variation>
         <variation>
+          <variationid>52008724627789.36</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.36</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
           <variationid>52008724627789.37</variationid>
           <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
           <availability>In Stock</availability>
           <manufacturersku>MR530PC.37</manufacturersku>
           <price_with_vat>250</price_with_vat>
+          <size>37</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008724627789.37</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.37</manufacturersku>
+          <price_with_vat>240</price_with_vat>
           <size>37</size>
           <quantity>0</quantity>
         </variation>
@@ -16760,11 +16940,29 @@
           <quantity>0</quantity>
         </variation>
         <variation>
+          <variationid>52008724627789.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.37.5</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>37.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
           <variationid>52008724627789.38</variationid>
           <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
           <availability>In Stock</availability>
           <manufacturersku>MR530PC.38</manufacturersku>
           <price_with_vat>250</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008724627789.38</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.38</manufacturersku>
+          <price_with_vat>240</price_with_vat>
           <size>38</size>
           <quantity>0</quantity>
         </variation>
@@ -16778,6 +16976,15 @@
           <quantity>0</quantity>
         </variation>
         <variation>
+          <variationid>52008724627789.38.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.38.5</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>38.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
           <variationid>52008724627789.39</variationid>
           <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
           <availability>In Stock</availability>
@@ -16787,12 +16994,1103 @@
           <quantity>0</quantity>
         </variation>
         <variation>
+          <variationid>52008724627789.39.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.39.5</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>39.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
           <variationid>52008724627789.40</variationid>
           <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
           <availability>In Stock</availability>
           <manufacturersku>MR530PC.40</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>40</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008724627789.40</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.40</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>40</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008724627789.40.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.40.5</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>40.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008724627789.42</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.42</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>42</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>HQ6638</id>
+      <name>Campus 00s Core Black (Enfant)</name>
+      <link>https://www.flowerkickz.gr/products/campus-00s-core-black-enfant</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Core_Black_Enfant_-HQ6638-0.png?v=1713676648</image>
+      <category>Sneakers</category>
+      <price_with_vat>160</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>35 1/2,36</size>
+      <description>Campus 00s Core Black (Enfant)</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>49768175993165.35-1/2</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black-enfant</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6638.35-1/2</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>35 1/2</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>49768175993165.36</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-core-black-enfant</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6638.36</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>HQ6507</id>
+      <name>Campus 00s Grey White (Enfant)</name>
+      <link>https://www.flowerkickz.gr/products/campus-00s-grey-white-enfant</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Grey_White_Enfant_-HQ6507-0.png?v=1713676785</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>35 1/2,36,36 2/3</size>
+      <description>Campus 00s Grey White (Enfant)</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>50711046193485.35-1/2</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white-enfant</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6507.35-1/2</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>35 1/2</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50711046193485.36</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white-enfant</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6507.36</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50711046193485.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white-enfant</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6507.36-2/3</manufacturersku>
+          <price_with_vat>185</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>IF3967</id>
+      <name>Campus 00s Preloved Green Solar Yellow Enfant</name>
+      <link>https://www.flowerkickz.gr/products/campus-00s-preloved-green-solar-yellow</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Preloved_Green_Solar_Yellow_-IF3967-0.png?v=1713611026</image>
+      <category>Sneakers</category>
+      <price_with_vat>160</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>37 1/3</size>
+      <description>Campus 00s Preloved Green Solar Yellow Enfant</description>
+      <quantity>0</quantity>
+    </product>
+    <product>
+      <id>IF8763</id>
+      <name>Campus 00s Collegiate Green Core Black</name>
+      <link>https://www.flowerkickz.gr/products/campus-00s-collegiate-green-core-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Collegiate_Green_Core_Black-IF8763-0_3509c603-999d-4e17-8b59-ee7f91606069.png?v=1713676630</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36 2/3,38 2/3,39 1/3,40,40 2/3,41 1/3,44 2/3</size>
+      <description>Campus 00s Collegiate Green Core Black</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>49934991589709.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-collegiate-green-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IF8763.36-2/3</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>49934991589709.38-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-collegiate-green-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IF8763.38-2/3</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>38 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>49934991589709.39-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-collegiate-green-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IF8763.39-1/3</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>39 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>49934991589709.40</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-collegiate-green-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IF8763.40</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>40</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>49934991589709.40-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-collegiate-green-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IF8763.40-2/3</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>40 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>49934991589709.41-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-collegiate-green-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IF8763.41-1/3</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>41 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>49934991589709.44-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-collegiate-green-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IF8763.44-2/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>44 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>MR530EC</id>
+      <name>530 White Palm Leaf</name>
+      <link>https://www.flowerkickz.gr/products/530-white-palm-leaf</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz530_White_Palm_Leaf-MR530EC-0_0194d99c-b4c7-4808-a5e3-278ef66536f4.webp?v=1713662440</image>
+      <category>Sneakers</category>
+      <price_with_vat>230</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <availability>In Stock</availability>
+      <size>36,37,37.5,38,38.5,39.5,40.5,41.5,42</size>
+      <description>530 White Palm Leaf</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>50697489056077.36</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-palm-leaf</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EC.36</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697489056077.37</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-palm-leaf</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EC.37</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>37</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697489056077.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-palm-leaf</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EC.37.5</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>37.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697489056077.38</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-palm-leaf</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EC.38</manufacturersku>
+          <price_with_vat>170</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697489056077.38.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-palm-leaf</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EC.38.5</manufacturersku>
+          <price_with_vat>170</price_with_vat>
+          <size>38.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697489056077.39.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-palm-leaf</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EC.39.5</manufacturersku>
+          <price_with_vat>170</price_with_vat>
+          <size>39.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697489056077.40.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-palm-leaf</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EC.40.5</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>40.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697489056077.41.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-palm-leaf</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EC.41.5</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>41.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697489056077.42</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-palm-leaf</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EC.42</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>42</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>MR530EA</id>
+      <name>530 White Blue Oasis</name>
+      <link>https://www.flowerkickz.gr/products/530-white-blue-oasis</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz530_White_Blue_Oasis-MR530EA-0_81037d3f-1a2a-4f1f-8d07-ccc39172efd8.webp?v=1713662393</image>
+      <category>Sneakers</category>
+      <price_with_vat>230</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <availability>In Stock</availability>
+      <size>36,37,37.5,38,38.5,39.5,40,42</size>
+      <description>530 White Blue Oasis</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>50697485418829.36</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-blue-oasis</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EA.36</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697485418829.37</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-blue-oasis</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EA.37</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>37</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697485418829.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-blue-oasis</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EA.37.5</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>37.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697485418829.38</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-blue-oasis</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EA.38</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697485418829.38.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-blue-oasis</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EA.38.5</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>38.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697485418829.39.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-blue-oasis</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EA.39.5</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>39.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697485418829.40</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-blue-oasis</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EA.40</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>40</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50697485418829.42</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-blue-oasis</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530EA.42</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>42</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>IE0422</id>
+      <name>Gazelle Bold Black Bold Gold</name>
+      <link>https://www.flowerkickz.gr/products/gazelle-bold-black-bold-gold</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_36085016-f6bb-4b0b-9d56-ddefe7f11c4f.png?v=1723126767</image>
+      <category>Sneakers</category>
+      <price_with_vat>230</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>39 1/3</size>
+      <description>Gazelle Bold Black Bold Gold</description>
+      <quantity>0</quantity>
+    </product>
+    <product>
+      <id>GY0042</id>
+      <name>Campus 00's Crystal White Core Black</name>
+      <link>https://www.flowerkickz.gr/products/campus-00s-crystal-white-core-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00_s_Crystal_White_Core_Black-GY0042-0.png?v=1713676479</image>
+      <category>Sneakers</category>
+      <price_with_vat>230</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36 2/3,37 1/3,38,38 2/3,40 2/3,41 1/3,42,42 2/3,43 1/3</size>
+      <description>Campus 00's Crystal White Core Black</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>48800148259149.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-crystal-white-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY0042.36-2/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48800148259149.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-crystal-white-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY0042.37-1/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48800148259149.38</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-crystal-white-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY0042.38</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48800148259149.38-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-crystal-white-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY0042.38-2/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>38 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48800148259149.40-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-crystal-white-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY0042.40-2/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>40 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48800148259149.41-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-crystal-white-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY0042.41-1/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>41 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48800148259149.42</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-crystal-white-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY0042.42</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>42</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48800148259149.42-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-crystal-white-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY0042.42-2/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>42 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48800148259149.43-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-crystal-white-core-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY0042.43-1/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>43 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>U9060SFA</id>
+      <name>9060 Shadow Purple</name>
+      <link>https://www.flowerkickz.gr/products/9060-shadow-purple</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz9060_Shadow_Purple-U9060SFA-0.webp?v=1715994805</image>
+      <category>Sneakers</category>
+      <price_with_vat>355</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <availability>In Stock</availability>
+      <size>40,40.5,41.5,42,42.5,44,44.5,45,45.5,46.5</size>
+      <description>9060 Shadow Purple</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>50917936562509.40</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-shadow-purple</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060SFA.40</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>40</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50917936562509.40.5</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-shadow-purple</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060SFA.40.5</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>40.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50917936562509.41.5</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-shadow-purple</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060SFA.41.5</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>41.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50917936562509.42</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-shadow-purple</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060SFA.42</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>42</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50917936562509.42.5</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-shadow-purple</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060SFA.42.5</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>42.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50917936562509.44</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-shadow-purple</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060SFA.44</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>44</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50917936562509.44.5</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-shadow-purple</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060SFA.44.5</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>44.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50917936562509.45</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-shadow-purple</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060SFA.45</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>45</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50917936562509.45.5</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-shadow-purple</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060SFA.45.5</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>45.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50917936562509.46.5</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-shadow-purple</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060SFA.46.5</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>46.5</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>IE2960</id>
+      <name>Gazelle Indoor Semi Blue Burst Almost Yellow</name>
+      <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-blue-burst-almost-yellow</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzGazelle_Indoor_Semi_Blue_Burst_Almost_Yellow-IE2960-0.webp?v=1713681995</image>
+      <category>Sneakers</category>
+      <price_with_vat>230</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36,36 2/3,37 1/3,40 2/3,41 1/3,42,42 2/3,43 1/3,44,44.5,45 1/3</size>
+      <description>Gazelle Indoor Semi Blue Burst Almost Yellow</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>50722735849805.36</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-blue-burst-almost-yellow</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE2960.36</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722735849805.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-blue-burst-almost-yellow</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE2960.36-2/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722735849805.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-blue-burst-almost-yellow</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE2960.37-1/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722735849805.40-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-blue-burst-almost-yellow</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE2960.40-2/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>40 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722735849805.41-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-blue-burst-almost-yellow</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE2960.41-1/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>41 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722735849805.42</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-blue-burst-almost-yellow</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE2960.42</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>42</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722735849805.42-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-blue-burst-almost-yellow</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE2960.42-2/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>42 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722735849805.43-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-blue-burst-almost-yellow</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE2960.43-1/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>43 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722735849805.44</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-blue-burst-almost-yellow</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE2960.44</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>44</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722735849805.44.5</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-blue-burst-almost-yellow</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE2960.44.5</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>44.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722735849805.45-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-blue-burst-almost-yellow</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE2960.45-1/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>45 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>IH7499</id>
+      <name>Gazelle Indoor Easy Orange</name>
+      <link>https://www.flowerkickz.gr/products/gazelle-indoor-easy-orange</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzGazelle_Indoor_Easy_Orange-IH7499-0_ef1001fc-d884-493e-af12-03d1a685d6e9.png?v=1713681921</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36,36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3,41 1/3,42</size>
+      <description>Gazelle Indoor Easy Orange</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>50722732409165.36</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-easy-orange</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7499.36</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722732409165.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-easy-orange</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7499.36-2/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722732409165.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-easy-orange</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7499.37-1/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722732409165.38</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-easy-orange</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7499.38</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722732409165.38-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-easy-orange</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7499.38-2/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>38 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722732409165.39-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-easy-orange</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7499.39-1/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>39 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722732409165.40</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-easy-orange</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7499.40</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>40</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722732409165.40-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-easy-orange</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7499.40-2/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>40 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722732409165.41-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-easy-orange</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7499.41-1/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>41 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722732409165.42</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-easy-orange</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7499.42</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>42</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>IH7500</id>
+      <name>Gazelle Indoor Semi Court Green</name>
+      <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-court-green</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzGazelle_Indoor_Semi_Court_Green-IH7500-0_66ef7e4f-23da-4c82-bf9e-c7d5b0860792.webp?v=1713682003</image>
+      <category>Sneakers</category>
+      <price_with_vat>230</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>36,36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3,41 1/3,42</size>
+      <description>Gazelle Indoor Semi Court Green</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>50722736308557.36</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-court-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7500.36</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722736308557.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-court-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7500.36-2/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722736308557.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-court-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7500.37-1/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722736308557.38</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-court-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7500.38</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722736308557.38-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-court-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7500.38-2/3</manufacturersku>
+          <price_with_vat>280</price_with_vat>
+          <size>38 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722736308557.39-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-court-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7500.39-1/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>39 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722736308557.40</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-court-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7500.40</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>40</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722736308557.40-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-court-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7500.40-2/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>40 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722736308557.41-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-court-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7500.41-1/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>41 1/3</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50722736308557.42</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-indoor-semi-court-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IH7500.42</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>42</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>ie0421</id>
+      <name>Gazelle Bold Active Pink Blue Burst</name>
+      <link>https://www.flowerkickz.gr/products/gazelle-bold-active-pink-blue-burst</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzGazelle_Bold_Active_Pink_Blue_Burst_-IE0421-0_ed2a9431-679f-44de-8b7f-44ac53abfb2a.png?v=1713681525</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <availability>In Stock</availability>
+      <size>35.5,36,36 2/3</size>
+      <description>Gazelle Bold Active Pink Blue Burst</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>52008809857357.35.5</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-active-pink-blue-burst</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ie0421.35.5</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>35.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008809857357.36</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-active-pink-blue-burst</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ie0421.36</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008809857357.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/gazelle-bold-active-pink-blue-burst</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ie0421.36-2/3</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>MR530RE</id>
+      <name>530 White Violet</name>
+      <link>https://www.flowerkickz.gr/products/530-white-violet</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_e548618b-b0c6-4d43-96e9-46ffb2a35a1c.png?v=1723128121</image>
+      <category>Sneakers</category>
+      <price_with_vat>240</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <availability>In Stock</availability>
+      <size>36,37.5,38,38.5</size>
+      <description>530 White Violet</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>52008853307725.36</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-violet</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RE.36</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008853307725.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-violet</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RE.37.5</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>37.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008853307725.38</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-violet</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RE.38</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008853307725.38.5</variationid>
+          <link>https://www.flowerkickz.gr/products/530-white-violet</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RE.38.5</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>38.5</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>U9060SFB</id>
+      <name>9060 Granite Pink</name>
+      <link>https://www.flowerkickz.gr/products/9060-granite-pink</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz9060_Granite_Pink-U9060SFB-0.webp?v=1713663522</image>
+      <category>Sneakers</category>
+      <price_with_vat>330</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <availability>In Stock</availability>
+      <size>45,47</size>
+      <description>9060 Granite Pink</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>52008821162317.45</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-granite-pink</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060SFB.45</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>45</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52008821162317.47</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-granite-pink</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060SFB.47</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>47</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>U9060ESC</id>
+      <name>9060 Magenta</name>
+      <link>https://www.flowerkickz.gr/products/9060-magenta</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz9060_Magenta-U9060ESC-0.webp?v=1715908317</image>
+      <category>Sneakers</category>
+      <price_with_vat>355</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <availability>In Stock</availability>
+      <size>44.5,45,45.5</size>
+      <description>9060 Magenta</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>50909374972237.44.5</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-magenta</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060ESC.44.5</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>44.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50909374972237.45</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-magenta</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060ESC.45</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>45</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>50909374972237.45.5</variationid>
+          <link>https://www.flowerkickz.gr/products/9060-magenta</link>
+          <availability>In Stock</availability>
+          <manufacturersku>U9060ESC.45.5</manufacturersku>
+          <price_with_vat>375</price_with_vat>
+          <size>45.5</size>
           <quantity>0</quantity>
         </variation>
       </variations>
