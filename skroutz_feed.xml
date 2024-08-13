@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-13 14:03</created_at>
+  <created_at>2024-08-13 15:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -811,7 +811,7 @@
       <availability>In Stock</availability>
       <size>36,36.5,37.5,38,38.5,39,40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47.5</size>
       <description>Air Jordan 1 Low SP Travis Scott Black Phantom</description>
-      <quantity>27</quantity>
+      <quantity>26</quantity>
       <variations>
         <variation>
           <variationid>45207398449283.36</variationid>
@@ -964,7 +964,7 @@
           <manufacturersku>DM7866-001.46</manufacturersku>
           <price_with_vat>1330</price_with_vat>
           <size>46</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45207398449283.47.5</variationid>
