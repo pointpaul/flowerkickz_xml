@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-14 10:04</created_at>
+  <created_at>2024-08-14 11:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -9792,7 +9792,7 @@
       <availability>In Stock</availability>
       <size>35,36,36 2/3,38,39 1/3,44,44 2/3,45 1/3,46,46 2/3</size>
       <description>Campus 00s Grey White</description>
-      <quantity>2</quantity>
+      <quantity>13</quantity>
       <variations>
         <variation>
           <variationid>48743025017165.35</variationid>
@@ -9819,7 +9819,7 @@
           <manufacturersku>HQ8707.36-2/3</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48743025017165.38</variationid>
@@ -9846,7 +9846,7 @@
           <manufacturersku>HQ8707.44</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>44</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48743025017165.44-2/3</variationid>
@@ -9855,7 +9855,7 @@
           <manufacturersku>HQ8707.44-2/3</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>44 2/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48743025017165.45-1/3</variationid>
@@ -9864,7 +9864,7 @@
           <manufacturersku>HQ8707.45-1/3</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>45 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48743025017165.46</variationid>
@@ -9873,7 +9873,7 @@
           <manufacturersku>HQ8707.46</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>46</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48743025017165.46-2/3</variationid>
@@ -9882,7 +9882,7 @@
           <manufacturersku>HQ8707.46-2/3</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>46 2/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
@@ -14621,7 +14621,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>252</quantity>
+      <quantity>251</quantity>
       <variations>
         <variation>
           <variationid>50742287892813.37</variationid>
@@ -14675,7 +14675,7 @@
           <manufacturersku>ID5103.43</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>43</size>
-          <quantity>29</quantity>
+          <quantity>28</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.44.5</variationid>
@@ -14908,7 +14908,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38,38.5,40.5,41,42,42.5,43,44,44.5,45,45.5,47.5</size>
       <description>Air Jordan 4 Oxidized Green</description>
-      <quantity>9</quantity>
+      <quantity>25</quantity>
       <variations>
         <variation>
           <variationid>50976850248013.35.5</variationid>
@@ -14917,7 +14917,7 @@
           <manufacturersku>FQ8138-103.35.5</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>35.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.36</variationid>
@@ -14926,7 +14926,7 @@
           <manufacturersku>FQ8138-103.36</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.36.5</variationid>
@@ -14935,7 +14935,7 @@
           <manufacturersku>FQ8138-103.36.5</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>36.5</size>
-          <quantity>0</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.37.5</variationid>
@@ -14944,7 +14944,7 @@
           <manufacturersku>FQ8138-103.37.5</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>37.5</size>
-          <quantity>0</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.38</variationid>
@@ -14953,7 +14953,7 @@
           <manufacturersku>FQ8138-103.38</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.38.5</variationid>
@@ -14962,7 +14962,7 @@
           <manufacturersku>FQ8138-103.38.5</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>38.5</size>
-          <quantity>0</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.40.5</variationid>
@@ -15325,9 +15325,9 @@
       <price_with_vat>260</price_with_vat>
       <manufacturer>New Balance</manufacturer>
       <availability>In Stock</availability>
-      <size>35.5,36,37,37.5,38.5,39,40</size>
+      <size>35.5,36,37,37.5,38,38.5,39,40</size>
       <description>530 Navy White</description>
-      <quantity>0</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>51920286449997.35.5</variationid>
@@ -15345,7 +15345,7 @@
           <manufacturersku>GR530CA.36</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51920286449997.37</variationid>
@@ -15354,7 +15354,7 @@
           <manufacturersku>GR530CA.37</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>37</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51920286449997.37.5</variationid>
@@ -15363,6 +15363,15 @@
           <manufacturersku>GR530CA.37.5</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>37.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>51920286449997.38</variationid>
+          <link>https://www.flowerkickz.gr/products/530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.38</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>38</size>
           <quantity>0</quantity>
         </variation>
         <variation>
@@ -15381,7 +15390,7 @@
           <manufacturersku>GR530CA.39</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>39</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51920286449997.40</variationid>
@@ -15390,7 +15399,7 @@
           <manufacturersku>GR530CA.40</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -15636,7 +15645,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,38,38,38 2/3,38 2/3,39 1/3,39 1/3,40,40,40 2/3,40 2/3,41 1/3</size>
       <description>Gazelle Bold Semi Green Spark</description>
-      <quantity>0</quantity>
+      <quantity>10</quantity>
       <variations>
         <variation>
           <variationid>51944874606925.36</variationid>
@@ -15645,7 +15654,7 @@
           <manufacturersku>IH7495.36</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51944874606925.36-2/3</variationid>
@@ -15654,7 +15663,7 @@
           <manufacturersku>IH7495.36-2/3</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51944874606925.37-1/3</variationid>
@@ -15663,7 +15672,7 @@
           <manufacturersku>IH7495.37-1/3</manufacturersku>
           <price_with_vat>335</price_with_vat>
           <size>37 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51944874606925.38</variationid>
@@ -15681,7 +15690,7 @@
           <manufacturersku>IH7495.38</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51944874606925.38-2/3</variationid>
@@ -15699,7 +15708,7 @@
           <manufacturersku>IH7495.38-2/3</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>38 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51944874606925.39-1/3</variationid>
@@ -15717,7 +15726,7 @@
           <manufacturersku>IH7495.39-1/3</manufacturersku>
           <price_with_vat>335</price_with_vat>
           <size>39 1/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>51944874606925.40</variationid>
@@ -15735,7 +15744,7 @@
           <manufacturersku>IH7495.40</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51944874606925.40-2/3</variationid>
@@ -15753,7 +15762,7 @@
           <manufacturersku>IH7495.40-2/3</manufacturersku>
           <price_with_vat>335</price_with_vat>
           <size>40 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51944874606925.41-1/3</variationid>
@@ -15762,7 +15771,7 @@
           <manufacturersku>IH7495.41-1/3</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>41 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -15777,7 +15786,7 @@
       <availability>In Stock</availability>
       <size>37,39.5,40,42.5,44</size>
       <description>530 White Grey Navy</description>
-      <quantity>0</quantity>
+      <quantity>8</quantity>
       <variations>
         <variation>
           <variationid>49053060137293.37</variationid>
@@ -15786,7 +15795,7 @@
           <manufacturersku>MR530SG.37</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>37</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49053060137293.39.5</variationid>
@@ -15795,7 +15804,7 @@
           <manufacturersku>MR530SG.39.5</manufacturersku>
           <price_with_vat>280</price_with_vat>
           <size>39.5</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>49053060137293.40</variationid>
@@ -15804,7 +15813,7 @@
           <manufacturersku>MR530SG.40</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>49053060137293.42.5</variationid>
@@ -15813,7 +15822,7 @@
           <manufacturersku>MR530SG.42.5</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>42.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49053060137293.44</variationid>
@@ -15822,7 +15831,7 @@
           <manufacturersku>MR530SG.44</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>44</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -15835,9 +15844,9 @@
       <price_with_vat>230</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <availability>In Stock</availability>
-      <size>40 2/3,41 1/3,42,42 2/3,44,44 2/3,45 1/3</size>
+      <size>40 2/3,41 1/3,42,42 2/3,43 1/3,44,44 2/3,45 1/3</size>
       <description>Campus 00s Amber Tint</description>
-      <quantity>0</quantity>
+      <quantity>7</quantity>
       <variations>
         <variation>
           <variationid>49266297798989.40-2/3</variationid>
@@ -15846,7 +15855,7 @@
           <manufacturersku>GY9474.40-2/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>40 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49266297798989.41-1/3</variationid>
@@ -15855,7 +15864,7 @@
           <manufacturersku>GY9474.41-1/3</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>41 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49266297798989.42</variationid>
@@ -15864,7 +15873,7 @@
           <manufacturersku>GY9474.42</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>42</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49266297798989.42-2/3</variationid>
@@ -15873,6 +15882,15 @@
           <manufacturersku>GY9474.42-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>42 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49266297798989.43-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-amber-tint</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GY9474.43-1/3</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>43 1/3</size>
           <quantity>0</quantity>
         </variation>
         <variation>
@@ -15882,7 +15900,7 @@
           <manufacturersku>GY9474.44</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>44</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49266297798989.44-2/3</variationid>
@@ -15891,7 +15909,7 @@
           <manufacturersku>GY9474.44-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>44 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49266297798989.45-1/3</variationid>
@@ -15900,7 +15918,7 @@
           <manufacturersku>GY9474.45-1/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>45 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -15915,7 +15933,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,43 1/3,44,44 2/3,45 1/3,46</size>
       <description>Campus 00s Lucid Blue</description>
-      <quantity>0</quantity>
+      <quantity>7</quantity>
       <variations>
         <variation>
           <variationid>48644566057293.36-2/3</variationid>
@@ -15924,7 +15942,7 @@
           <manufacturersku>H03471.36-2/3</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48644566057293.37-1/3</variationid>
@@ -15933,7 +15951,7 @@
           <manufacturersku>H03471.37-1/3</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>37 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48644566057293.43-1/3</variationid>
@@ -15942,7 +15960,7 @@
           <manufacturersku>H03471.43-1/3</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>43 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48644566057293.44</variationid>
@@ -15951,7 +15969,7 @@
           <manufacturersku>H03471.44</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>44</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48644566057293.44-2/3</variationid>
@@ -15960,7 +15978,7 @@
           <manufacturersku>H03471.44-2/3</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>44 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48644566057293.45-1/3</variationid>
@@ -15969,7 +15987,7 @@
           <manufacturersku>H03471.45-1/3</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>45 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48644566057293.46</variationid>
@@ -15978,7 +15996,7 @@
           <manufacturersku>H03471.46</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>46</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -15993,7 +16011,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,38,38 2/3,43 1/3,44,45 1/3,46,46 2/3,47 1/3,48</size>
       <description>Campus 00s Core Black</description>
-      <quantity>0</quantity>
+      <quantity>23</quantity>
       <variations>
         <variation>
           <variationid>48743024066893.36</variationid>
@@ -16002,7 +16020,7 @@
           <manufacturersku>HQ8708.36</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48743024066893.36-2/3</variationid>
@@ -16011,7 +16029,7 @@
           <manufacturersku>HQ8708.36-2/3</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48743024066893.37-1/3</variationid>
@@ -16020,7 +16038,7 @@
           <manufacturersku>HQ8708.37-1/3</manufacturersku>
           <price_with_vat>320</price_with_vat>
           <size>37 1/3</size>
-          <quantity>0</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>48743024066893.38</variationid>
@@ -16029,7 +16047,7 @@
           <manufacturersku>HQ8708.38</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>48743024066893.38-2/3</variationid>
@@ -16038,7 +16056,7 @@
           <manufacturersku>HQ8708.38-2/3</manufacturersku>
           <price_with_vat>320</price_with_vat>
           <size>38 2/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48743024066893.43-1/3</variationid>
@@ -16047,7 +16065,7 @@
           <manufacturersku>HQ8708.43-1/3</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>43 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48743024066893.44</variationid>
@@ -16056,7 +16074,7 @@
           <manufacturersku>HQ8708.44</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>44</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48743024066893.45-1/3</variationid>
@@ -16065,7 +16083,7 @@
           <manufacturersku>HQ8708.45-1/3</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>45 1/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48743024066893.46</variationid>
@@ -16074,7 +16092,7 @@
           <manufacturersku>HQ8708.46</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>46</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48743024066893.46-2/3</variationid>
@@ -16083,7 +16101,7 @@
           <manufacturersku>HQ8708.46-2/3</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>46 2/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48743024066893.47-1/3</variationid>
@@ -16092,7 +16110,7 @@
           <manufacturersku>HQ8708.47-1/3</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>47 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48743024066893.48</variationid>
@@ -16101,7 +16119,7 @@
           <manufacturersku>HQ8708.48</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>48</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -16116,7 +16134,7 @@
       <availability>In Stock</availability>
       <size>37,37.5</size>
       <description>530 White Light Chrome Blue</description>
-      <quantity>0</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>51944798880077.37</variationid>
@@ -16125,7 +16143,7 @@
           <manufacturersku>MR530RA.37</manufacturersku>
           <price_with_vat>260</price_with_vat>
           <size>37</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>51944798880077.37.5</variationid>
@@ -16134,7 +16152,7 @@
           <manufacturersku>MR530RA.37.5</manufacturersku>
           <price_with_vat>260</price_with_vat>
           <size>37.5</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
@@ -16149,7 +16167,7 @@
       <availability>In Stock</availability>
       <size>37.5</size>
       <description>530 White New Spruce</description>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
     </product>
     <product>
       <id>DZ7293-100</id>
@@ -16175,7 +16193,7 @@
       <availability>In Stock</availability>
       <size>38 2/3,39 1/3,40,40 2/3,43 1/3</size>
       <description>Samba OG Cloud White</description>
-      <quantity>0</quantity>
+      <quantity>5</quantity>
       <variations>
         <variation>
           <variationid>45142806986883.38-2/3</variationid>
@@ -16184,7 +16202,7 @@
           <manufacturersku>B75806.38-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>38 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45142806986883.39-1/3</variationid>
@@ -16193,7 +16211,7 @@
           <manufacturersku>B75806.39-1/3</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>39 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45142806986883.40</variationid>
@@ -16202,7 +16220,7 @@
           <manufacturersku>B75806.40</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45142806986883.40-2/3</variationid>
@@ -16211,7 +16229,7 @@
           <manufacturersku>B75806.40-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>40 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45142806986883.43-1/3</variationid>
@@ -16220,7 +16238,7 @@
           <manufacturersku>B75806.43-1/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>43 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -16235,7 +16253,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38,40 2/3,42 2/3,43 1/3,44 2/3</size>
       <description>Campus 00s Dark Green Cloud White</description>
-      <quantity>0</quantity>
+      <quantity>7</quantity>
       <variations>
         <variation>
           <variationid>48777350578509.36-2/3</variationid>
@@ -16244,7 +16262,7 @@
           <manufacturersku>H03472.36-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48777350578509.37-1/3</variationid>
@@ -16253,7 +16271,7 @@
           <manufacturersku>H03472.37-1/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>37 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48777350578509.38</variationid>
@@ -16262,7 +16280,7 @@
           <manufacturersku>H03472.38</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48777350578509.40-2/3</variationid>
@@ -16271,7 +16289,7 @@
           <manufacturersku>H03472.40-2/3</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>40 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48777350578509.42-2/3</variationid>
@@ -16280,7 +16298,7 @@
           <manufacturersku>H03472.42-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>42 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48777350578509.43-1/3</variationid>
@@ -16289,7 +16307,7 @@
           <manufacturersku>H03472.43-1/3</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>43 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48777350578509.44-2/3</variationid>
@@ -16298,7 +16316,7 @@
           <manufacturersku>H03472.44-2/3</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>44 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -16445,7 +16463,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3,41 1/3</size>
       <description>Gazelle Indoor Cream White Collegiate Green Gum</description>
-      <quantity>0</quantity>
+      <quantity>10</quantity>
       <variations>
         <variation>
           <variationid>50722731753805.36-2/3</variationid>
@@ -16454,7 +16472,7 @@
           <manufacturersku>IH7502.36-2/3</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722731753805.37-1/3</variationid>
@@ -16463,7 +16481,7 @@
           <manufacturersku>IH7502.37-1/3</manufacturersku>
           <price_with_vat>275</price_with_vat>
           <size>37 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722731753805.38</variationid>
@@ -16472,7 +16490,7 @@
           <manufacturersku>IH7502.38</manufacturersku>
           <price_with_vat>260</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722731753805.38-2/3</variationid>
@@ -16481,7 +16499,7 @@
           <manufacturersku>IH7502.38-2/3</manufacturersku>
           <price_with_vat>280</price_with_vat>
           <size>38 2/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>50722731753805.39-1/3</variationid>
@@ -16490,7 +16508,7 @@
           <manufacturersku>IH7502.39-1/3</manufacturersku>
           <price_with_vat>275</price_with_vat>
           <size>39 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722731753805.40</variationid>
@@ -16499,7 +16517,7 @@
           <manufacturersku>IH7502.40</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722731753805.40-2/3</variationid>
@@ -16508,7 +16526,7 @@
           <manufacturersku>IH7502.40-2/3</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>40 2/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>50722731753805.41-1/3</variationid>
@@ -16517,7 +16535,7 @@
           <manufacturersku>IH7502.41-1/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>41 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -16545,7 +16563,7 @@
       <availability>In Stock</availability>
       <size>36,37 1/3,38,40</size>
       <description>Campus 00s Dark Green Cloud White (Enfant)</description>
-      <quantity>0</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>50711030989133.36</variationid>
@@ -16554,7 +16572,7 @@
           <manufacturersku>IH7492.36</manufacturersku>
           <price_with_vat>190</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50711030989133.37-1/3</variationid>
@@ -16563,7 +16581,7 @@
           <manufacturersku>IH7492.37-1/3</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>37 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50711030989133.38</variationid>
@@ -16572,7 +16590,7 @@
           <manufacturersku>IH7492.38</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50711030989133.40</variationid>
@@ -16581,7 +16599,7 @@
           <manufacturersku>IH7492.40</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -16596,7 +16614,7 @@
       <availability>In Stock</availability>
       <size>39 1/3</size>
       <description>Gazelle Bold Magic Beige Collegiate Green</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>IE0420</id>
@@ -16609,7 +16627,7 @@
       <availability>In Stock</availability>
       <size>39 1/3</size>
       <description>Gazelle Bold True Pink Green Cloud White</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>U9060EED</id>
@@ -16622,7 +16640,7 @@
       <availability>In Stock</availability>
       <size>45.5</size>
       <description>9060 Chrome Blue</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>IE0419</id>
@@ -16635,7 +16653,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38,38 2/3,39 1/3,40,41 1/3</size>
       <description>Gazelle Bold Energy Ink Gum</description>
-      <quantity>0</quantity>
+      <quantity>10</quantity>
       <variations>
         <variation>
           <variationid>51962439237965.36-2/3</variationid>
@@ -16644,7 +16662,7 @@
           <manufacturersku>IE0419.36-2/3</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51962439237965.37-1/3</variationid>
@@ -16653,7 +16671,7 @@
           <manufacturersku>IE0419.37-1/3</manufacturersku>
           <price_with_vat>335</price_with_vat>
           <size>37 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51962439237965.38</variationid>
@@ -16662,7 +16680,7 @@
           <manufacturersku>IE0419.38</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51962439237965.38-2/3</variationid>
@@ -16671,7 +16689,7 @@
           <manufacturersku>IE0419.38-2/3</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>38 2/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>51962439237965.39-1/3</variationid>
@@ -16680,7 +16698,7 @@
           <manufacturersku>IE0419.39-1/3</manufacturersku>
           <price_with_vat>335</price_with_vat>
           <size>39 1/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>51962439237965.40</variationid>
@@ -16689,7 +16707,7 @@
           <manufacturersku>IE0419.40</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>51962439237965.41-1/3</variationid>
@@ -16698,7 +16716,7 @@
           <manufacturersku>IE0419.41-1/3</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>41 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -16899,7 +16917,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36,37,37,37.5,37.5,38,38,38.5,38.5,39,39.5,40,40,40.5,42</size>
       <description>530 White Light Chrome Blue Clay Ash</description>
-      <quantity>0</quantity>
+      <quantity>10</quantity>
       <variations>
         <variation>
           <variationid>52008724627789.35.5</variationid>
@@ -16926,7 +16944,7 @@
           <manufacturersku>MR530PC.36</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008724627789.37</variationid>
@@ -16944,7 +16962,7 @@
           <manufacturersku>MR530PC.37</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>37</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008724627789.37.5</variationid>
@@ -16962,7 +16980,7 @@
           <manufacturersku>MR530PC.37.5</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>37.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008724627789.38</variationid>
@@ -16980,7 +16998,7 @@
           <manufacturersku>MR530PC.38</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008724627789.38.5</variationid>
@@ -16998,7 +17016,7 @@
           <manufacturersku>MR530PC.38.5</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>38.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008724627789.39</variationid>
@@ -17016,7 +17034,7 @@
           <manufacturersku>MR530PC.39.5</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>39.5</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52008724627789.40</variationid>
@@ -17034,7 +17052,7 @@
           <manufacturersku>MR530PC.40</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008724627789.40.5</variationid>
@@ -17043,7 +17061,7 @@
           <manufacturersku>MR530PC.40.5</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>40.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008724627789.42</variationid>
@@ -17052,7 +17070,7 @@
           <manufacturersku>MR530PC.42</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>42</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -17067,7 +17085,7 @@
       <availability>In Stock</availability>
       <size>35 1/2,36</size>
       <description>Campus 00s Core Black (Enfant)</description>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>49768175993165.35-1/2</variationid>
@@ -17076,7 +17094,7 @@
           <manufacturersku>HQ6638.35-1/2</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>35 1/2</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49768175993165.36</variationid>
@@ -17085,7 +17103,7 @@
           <manufacturersku>HQ6638.36</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -17100,7 +17118,7 @@
       <availability>In Stock</availability>
       <size>35 1/2,36,36 2/3</size>
       <description>Campus 00s Grey White (Enfant)</description>
-      <quantity>0</quantity>
+      <quantity>3</quantity>
       <variations>
         <variation>
           <variationid>50711046193485.35-1/2</variationid>
@@ -17109,7 +17127,7 @@
           <manufacturersku>HQ6507.35-1/2</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>35 1/2</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50711046193485.36</variationid>
@@ -17118,7 +17136,7 @@
           <manufacturersku>HQ6507.36</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50711046193485.36-2/3</variationid>
@@ -17127,7 +17145,7 @@
           <manufacturersku>HQ6507.36-2/3</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -17142,7 +17160,7 @@
       <availability>In Stock</availability>
       <size>37 1/3</size>
       <description>Campus 00s Preloved Green Solar Yellow Enfant</description>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
     </product>
     <product>
       <id>IF8763</id>
@@ -17155,7 +17173,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,38 2/3,39 1/3,40,40 2/3,41 1/3,44 2/3</size>
       <description>Campus 00s Collegiate Green Core Black</description>
-      <quantity>0</quantity>
+      <quantity>9</quantity>
       <variations>
         <variation>
           <variationid>49934991589709.36-2/3</variationid>
@@ -17164,7 +17182,7 @@
           <manufacturersku>IF8763.36-2/3</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49934991589709.38-2/3</variationid>
@@ -17173,7 +17191,7 @@
           <manufacturersku>IF8763.38-2/3</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>38 2/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>49934991589709.39-1/3</variationid>
@@ -17182,7 +17200,7 @@
           <manufacturersku>IF8763.39-1/3</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>39 1/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>49934991589709.40</variationid>
@@ -17191,7 +17209,7 @@
           <manufacturersku>IF8763.40</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49934991589709.40-2/3</variationid>
@@ -17200,7 +17218,7 @@
           <manufacturersku>IF8763.40-2/3</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>40 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49934991589709.41-1/3</variationid>
@@ -17209,7 +17227,7 @@
           <manufacturersku>IF8763.41-1/3</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>41 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49934991589709.44-2/3</variationid>
@@ -17218,7 +17236,7 @@
           <manufacturersku>IF8763.44-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>44 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -17233,7 +17251,7 @@
       <availability>In Stock</availability>
       <size>36,37,37.5,38,38.5,39.5,40.5,41.5,42</size>
       <description>530 White Palm Leaf</description>
-      <quantity>0</quantity>
+      <quantity>9</quantity>
       <variations>
         <variation>
           <variationid>50697489056077.36</variationid>
@@ -17242,7 +17260,7 @@
           <manufacturersku>MR530EC.36</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697489056077.37</variationid>
@@ -17251,7 +17269,7 @@
           <manufacturersku>MR530EC.37</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>37</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697489056077.37.5</variationid>
@@ -17260,7 +17278,7 @@
           <manufacturersku>MR530EC.37.5</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>37.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697489056077.38</variationid>
@@ -17269,7 +17287,7 @@
           <manufacturersku>MR530EC.38</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697489056077.38.5</variationid>
@@ -17278,7 +17296,7 @@
           <manufacturersku>MR530EC.38.5</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>38.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697489056077.39.5</variationid>
@@ -17287,7 +17305,7 @@
           <manufacturersku>MR530EC.39.5</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>39.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697489056077.40.5</variationid>
@@ -17296,7 +17314,7 @@
           <manufacturersku>MR530EC.40.5</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>40.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697489056077.41.5</variationid>
@@ -17305,7 +17323,7 @@
           <manufacturersku>MR530EC.41.5</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>41.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697489056077.42</variationid>
@@ -17314,7 +17332,7 @@
           <manufacturersku>MR530EC.42</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>42</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -17329,7 +17347,7 @@
       <availability>In Stock</availability>
       <size>36,37,37.5,38,38.5,39.5,40,42</size>
       <description>530 White Blue Oasis</description>
-      <quantity>0</quantity>
+      <quantity>8</quantity>
       <variations>
         <variation>
           <variationid>50697485418829.36</variationid>
@@ -17338,7 +17356,7 @@
           <manufacturersku>MR530EA.36</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697485418829.37</variationid>
@@ -17347,7 +17365,7 @@
           <manufacturersku>MR530EA.37</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>37</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697485418829.37.5</variationid>
@@ -17356,7 +17374,7 @@
           <manufacturersku>MR530EA.37.5</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>37.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697485418829.38</variationid>
@@ -17365,7 +17383,7 @@
           <manufacturersku>MR530EA.38</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697485418829.38.5</variationid>
@@ -17374,7 +17392,7 @@
           <manufacturersku>MR530EA.38.5</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>38.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697485418829.39.5</variationid>
@@ -17383,7 +17401,7 @@
           <manufacturersku>MR530EA.39.5</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>39.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697485418829.40</variationid>
@@ -17392,7 +17410,7 @@
           <manufacturersku>MR530EA.40</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50697485418829.42</variationid>
@@ -17401,7 +17419,7 @@
           <manufacturersku>MR530EA.42</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>42</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -17416,7 +17434,7 @@
       <availability>In Stock</availability>
       <size>39 1/3</size>
       <description>Gazelle Bold Black Bold Gold</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>GY0042</id>
@@ -17429,7 +17447,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38,38 2/3,40 2/3,41 1/3,42,42 2/3,43 1/3</size>
       <description>Campus 00's Crystal White Core Black</description>
-      <quantity>0</quantity>
+      <quantity>10</quantity>
       <variations>
         <variation>
           <variationid>48800148259149.36-2/3</variationid>
@@ -17438,7 +17456,7 @@
           <manufacturersku>GY0042.36-2/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48800148259149.37-1/3</variationid>
@@ -17447,7 +17465,7 @@
           <manufacturersku>GY0042.37-1/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>37 1/3</size>
-          <quantity>0</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48800148259149.38</variationid>
@@ -17456,7 +17474,7 @@
           <manufacturersku>GY0042.38</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48800148259149.38-2/3</variationid>
@@ -17465,7 +17483,7 @@
           <manufacturersku>GY0042.38-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>38 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48800148259149.40-2/3</variationid>
@@ -17474,7 +17492,7 @@
           <manufacturersku>GY0042.40-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>40 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48800148259149.41-1/3</variationid>
@@ -17483,7 +17501,7 @@
           <manufacturersku>GY0042.41-1/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>41 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48800148259149.42</variationid>
@@ -17492,7 +17510,7 @@
           <manufacturersku>GY0042.42</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>42</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48800148259149.42-2/3</variationid>
@@ -17501,7 +17519,7 @@
           <manufacturersku>GY0042.42-2/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>42 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48800148259149.43-1/3</variationid>
@@ -17510,7 +17528,7 @@
           <manufacturersku>GY0042.43-1/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>43 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -17525,7 +17543,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41.5,42,42.5,44,44.5,45,45.5,46.5</size>
       <description>9060 Shadow Purple</description>
-      <quantity>0</quantity>
+      <quantity>10</quantity>
       <variations>
         <variation>
           <variationid>50917936562509.40</variationid>
@@ -17534,7 +17552,7 @@
           <manufacturersku>U9060SFA.40</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50917936562509.40.5</variationid>
@@ -17543,7 +17561,7 @@
           <manufacturersku>U9060SFA.40.5</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>40.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50917936562509.41.5</variationid>
@@ -17552,7 +17570,7 @@
           <manufacturersku>U9060SFA.41.5</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>41.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50917936562509.42</variationid>
@@ -17561,7 +17579,7 @@
           <manufacturersku>U9060SFA.42</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>42</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50917936562509.42.5</variationid>
@@ -17570,7 +17588,7 @@
           <manufacturersku>U9060SFA.42.5</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>42.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50917936562509.44</variationid>
@@ -17579,7 +17597,7 @@
           <manufacturersku>U9060SFA.44</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>44</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50917936562509.44.5</variationid>
@@ -17588,7 +17606,7 @@
           <manufacturersku>U9060SFA.44.5</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>44.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50917936562509.45</variationid>
@@ -17597,7 +17615,7 @@
           <manufacturersku>U9060SFA.45</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>45</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50917936562509.45.5</variationid>
@@ -17606,7 +17624,7 @@
           <manufacturersku>U9060SFA.45.5</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>45.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50917936562509.46.5</variationid>
@@ -17615,7 +17633,7 @@
           <manufacturersku>U9060SFA.46.5</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>46.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -17630,7 +17648,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,40 2/3,41 1/3,42,42 2/3,43 1/3,44,44.5,45 1/3</size>
       <description>Gazelle Indoor Semi Blue Burst Almost Yellow</description>
-      <quantity>0</quantity>
+      <quantity>11</quantity>
       <variations>
         <variation>
           <variationid>50722735849805.36</variationid>
@@ -17639,7 +17657,7 @@
           <manufacturersku>IE2960.36</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722735849805.36-2/3</variationid>
@@ -17648,7 +17666,7 @@
           <manufacturersku>IE2960.36-2/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722735849805.37-1/3</variationid>
@@ -17657,7 +17675,7 @@
           <manufacturersku>IE2960.37-1/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>37 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722735849805.40-2/3</variationid>
@@ -17666,7 +17684,7 @@
           <manufacturersku>IE2960.40-2/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>40 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722735849805.41-1/3</variationid>
@@ -17675,7 +17693,7 @@
           <manufacturersku>IE2960.41-1/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>41 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722735849805.42</variationid>
@@ -17684,7 +17702,7 @@
           <manufacturersku>IE2960.42</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>42</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722735849805.42-2/3</variationid>
@@ -17693,7 +17711,7 @@
           <manufacturersku>IE2960.42-2/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>42 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722735849805.43-1/3</variationid>
@@ -17702,7 +17720,7 @@
           <manufacturersku>IE2960.43-1/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>43 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722735849805.44</variationid>
@@ -17711,7 +17729,7 @@
           <manufacturersku>IE2960.44</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>44</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722735849805.44.5</variationid>
@@ -17720,7 +17738,7 @@
           <manufacturersku>IE2960.44.5</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>44.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722735849805.45-1/3</variationid>
@@ -17729,7 +17747,7 @@
           <manufacturersku>IE2960.45-1/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>45 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -17744,7 +17762,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3,41 1/3,42</size>
       <description>Gazelle Indoor Easy Orange</description>
-      <quantity>0</quantity>
+      <quantity>10</quantity>
       <variations>
         <variation>
           <variationid>50722732409165.36</variationid>
@@ -17753,7 +17771,7 @@
           <manufacturersku>IH7499.36</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722732409165.36-2/3</variationid>
@@ -17762,7 +17780,7 @@
           <manufacturersku>IH7499.36-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722732409165.37-1/3</variationid>
@@ -17771,7 +17789,7 @@
           <manufacturersku>IH7499.37-1/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>37 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722732409165.38</variationid>
@@ -17780,7 +17798,7 @@
           <manufacturersku>IH7499.38</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722732409165.38-2/3</variationid>
@@ -17789,7 +17807,7 @@
           <manufacturersku>IH7499.38-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>38 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722732409165.39-1/3</variationid>
@@ -17798,7 +17816,7 @@
           <manufacturersku>IH7499.39-1/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>39 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722732409165.40</variationid>
@@ -17807,7 +17825,7 @@
           <manufacturersku>IH7499.40</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722732409165.40-2/3</variationid>
@@ -17816,7 +17834,7 @@
           <manufacturersku>IH7499.40-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>40 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722732409165.41-1/3</variationid>
@@ -17825,7 +17843,7 @@
           <manufacturersku>IH7499.41-1/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>41 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722732409165.42</variationid>
@@ -17834,7 +17852,7 @@
           <manufacturersku>IH7499.42</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>42</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -17849,7 +17867,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3,41 1/3,42</size>
       <description>Gazelle Indoor Semi Court Green</description>
-      <quantity>0</quantity>
+      <quantity>10</quantity>
       <variations>
         <variation>
           <variationid>50722736308557.36</variationid>
@@ -17858,7 +17876,7 @@
           <manufacturersku>IH7500.36</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722736308557.36-2/3</variationid>
@@ -17867,7 +17885,7 @@
           <manufacturersku>IH7500.36-2/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722736308557.37-1/3</variationid>
@@ -17876,7 +17894,7 @@
           <manufacturersku>IH7500.37-1/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>37 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722736308557.38</variationid>
@@ -17885,7 +17903,7 @@
           <manufacturersku>IH7500.38</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722736308557.38-2/3</variationid>
@@ -17894,7 +17912,7 @@
           <manufacturersku>IH7500.38-2/3</manufacturersku>
           <price_with_vat>280</price_with_vat>
           <size>38 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722736308557.39-1/3</variationid>
@@ -17903,7 +17921,7 @@
           <manufacturersku>IH7500.39-1/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>39 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722736308557.40</variationid>
@@ -17912,7 +17930,7 @@
           <manufacturersku>IH7500.40</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722736308557.40-2/3</variationid>
@@ -17921,7 +17939,7 @@
           <manufacturersku>IH7500.40-2/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>40 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722736308557.41-1/3</variationid>
@@ -17930,7 +17948,7 @@
           <manufacturersku>IH7500.41-1/3</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>41 1/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50722736308557.42</variationid>
@@ -17939,7 +17957,7 @@
           <manufacturersku>IH7500.42</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>42</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -17954,7 +17972,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36 2/3</size>
       <description>Gazelle Bold Active Pink Blue Burst</description>
-      <quantity>0</quantity>
+      <quantity>3</quantity>
       <variations>
         <variation>
           <variationid>52008809857357.35.5</variationid>
@@ -17963,7 +17981,7 @@
           <manufacturersku>ie0421.35.5</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>35.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008809857357.36</variationid>
@@ -17972,7 +17990,7 @@
           <manufacturersku>ie0421.36</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008809857357.36-2/3</variationid>
@@ -17981,7 +17999,7 @@
           <manufacturersku>ie0421.36-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>36 2/3</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -17996,7 +18014,7 @@
       <availability>In Stock</availability>
       <size>36,37.5,38,38.5</size>
       <description>530 White Violet</description>
-      <quantity>0</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>52008853307725.36</variationid>
@@ -18005,7 +18023,7 @@
           <manufacturersku>MR530RE.36</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>36</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008853307725.37.5</variationid>
@@ -18014,7 +18032,7 @@
           <manufacturersku>MR530RE.37.5</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>37.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008853307725.38</variationid>
@@ -18023,7 +18041,7 @@
           <manufacturersku>MR530RE.38</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008853307725.38.5</variationid>
@@ -18032,7 +18050,7 @@
           <manufacturersku>MR530RE.38.5</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>38.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -18047,7 +18065,7 @@
       <availability>In Stock</availability>
       <size>45,47</size>
       <description>9060 Granite Pink</description>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>52008821162317.45</variationid>
@@ -18056,7 +18074,7 @@
           <manufacturersku>U9060SFB.45</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>45</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52008821162317.47</variationid>
@@ -18065,7 +18083,7 @@
           <manufacturersku>U9060SFB.47</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>47</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -18080,7 +18098,7 @@
       <availability>In Stock</availability>
       <size>44.5,45,45.5</size>
       <description>9060 Magenta</description>
-      <quantity>0</quantity>
+      <quantity>3</quantity>
       <variations>
         <variation>
           <variationid>50909374972237.44.5</variationid>
@@ -18089,7 +18107,7 @@
           <manufacturersku>U9060ESC.44.5</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>44.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50909374972237.45</variationid>
@@ -18098,7 +18116,7 @@
           <manufacturersku>U9060ESC.45</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>45</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50909374972237.45.5</variationid>
@@ -18107,7 +18125,7 @@
           <manufacturersku>U9060ESC.45.5</manufacturersku>
           <price_with_vat>375</price_with_vat>
           <size>45.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
