@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-16 09:03</created_at>
+  <created_at>2024-08-16 10:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6600,7 +6600,7 @@
       <availability>In Stock</availability>
       <size>37,38,43,44.5,48.5</size>
       <description>Yeezy Foam RNNR MX Brown Blue</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <variations>
         <variation>
           <variationid>48886632481101.37</variationid>
@@ -6636,7 +6636,7 @@
           <manufacturersku>ID4126.44.5</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>44.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>48886632481101.48.5</variationid>
