@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-17 16:03</created_at>
+  <created_at>2024-08-17 17:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -14589,7 +14589,7 @@
       <availability>In Stock</availability>
       <size>28.5</size>
       <description>Air Jordan 4 Midnight Navy Enfant (PS)</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Midnight_Navy_Enfant_PS_-BQ7669-140-1.png?v=1713672488</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Midnight_Navy_Enfant_PS_-BQ7669-140-2.png?v=1713672488</image>
@@ -16656,7 +16656,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>251</quantity>
+      <quantity>250</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-1.webp?v=1713688442</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-2.webp?v=1713688445</image>
@@ -16696,7 +16696,7 @@
           <manufacturersku>ID5103.40.5</manufacturersku>
           <price_with_vat>210</price_with_vat>
           <size>40.5</size>
-          <quantity>21</quantity>
+          <quantity>20</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.42</variationid>
