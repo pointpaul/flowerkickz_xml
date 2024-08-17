@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-17 03:03</created_at>
+  <created_at>2024-08-17 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6298,7 +6298,7 @@
       <manufacturer>Air Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>36,37.5,39,40.5,43</size>
+      <size>36,39,40.5,43</size>
       <description>Air Jordan 1 Retro High OG Washed Pink</description>
       <quantity>5</quantity>
       <additional_images>
@@ -6315,15 +6315,6 @@
           <price_with_vat>340</price_with_vat>
           <size>36</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>48731652063565.37.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-washed-pink</link>
-          <availability>In Stock</availability>
-          <manufacturersku>FD2596-600.37.5</manufacturersku>
-          <price_with_vat>335</price_with_vat>
-          <size>37.5</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>48731652063565.39</variationid>
@@ -6598,7 +6589,7 @@
       <manufacturer>Adidas</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>37,38,43,44.5,48.5</size>
+      <size>37,38,43,48.5</size>
       <description>Yeezy Foam RNNR MX Brown Blue</description>
       <quantity>9</quantity>
       <variations>
@@ -6628,15 +6619,6 @@
           <price_with_vat>190</price_with_vat>
           <size>43</size>
           <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>48886632481101.44.5</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-foam-rnnr-mx-brown-blue</link>
-          <availability>In Stock</availability>
-          <manufacturersku>ID4126.44.5</manufacturersku>
-          <price_with_vat>185</price_with_vat>
-          <size>44.5</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>48886632481101.48.5</variationid>
@@ -7290,44 +7272,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Low_SE_New_Emerald_Grey-DO8244-301-1.png?v=1713668301</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Low_SE_New_Emerald_Grey-DO8244-301-2.png?v=1713668301</image>
       </additional_images>
-    </product>
-    <product>
-      <id>DV0834-101</id>
-      <name>Dunk Low Industrial Blue</name>
-      <link>https://www.flowerkickz.gr/products/dunk-low-industrial-blue</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzDunk_Low_Industrial_Blue-DV0834-101-0.png?v=1676107750</image>
-      <category>Sneakers</category>
-      <price_with_vat>285</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean>91444099</ean>
-      <availability>In Stock</availability>
-      <size>40,43</size>
-      <description>Dunk Low Industrial Blue</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzDunk_Low_Industrial_Blue-DV0834-101-1.png?v=1676107753</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzDunk_Low_Industrial_Blue-DV0834-101-2.png?v=1676107756</image>
-      </additional_images>
-      <variations>
-        <variation>
-          <variationid>45207491870851.40</variationid>
-          <link>https://www.flowerkickz.gr/products/dunk-low-industrial-blue</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DV0834-101.40</manufacturersku>
-          <price_with_vat>285</price_with_vat>
-          <size>40</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>45207491870851.43</variationid>
-          <link>https://www.flowerkickz.gr/products/dunk-low-industrial-blue</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DV0834-101.43</manufacturersku>
-          <price_with_vat>285</price_with_vat>
-          <size>43</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>1A9VCC</id>
@@ -16042,6 +15986,24 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Beluga_Reflective-GW1229-1.png?v=1713687427</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Beluga_Reflective-GW1229-2.png?v=1713687427</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Beluga_Reflective-GW1229-3.png?v=1713687427</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DV0834-101</id>
+      <name>Dunk Low Industrial Blue</name>
+      <link>https://www.flowerkickz.gr/products/dunk-low-industrial-blue</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzDunk_Low_Industrial_Blue-DV0834-101-0.png?v=1676107750</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean>196153295995</ean>
+      <availability>In Stock</availability>
+      <size>43</size>
+      <description>Dunk Low Industrial Blue</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzDunk_Low_Industrial_Blue-DV0834-101-1.png?v=1676107753</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzDunk_Low_Industrial_Blue-DV0834-101-2.png?v=1676107756</image>
       </additional_images>
     </product>
     <product>
