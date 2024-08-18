@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-18 03:03</created_at>
+  <created_at>2024-08-18 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -8566,25 +8566,6 @@
       </variations>
     </product>
     <product>
-      <id>DZ4137-106</id>
-      <name>Air Jordan 1 Retro Low OG SP Travis Scott Olive</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-low-og-sp-travis-scott-olive</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Olive-DZ4137-106-0.png?v=1713671552</image>
-      <category>Sneakers</category>
-      <price_with_vat>1210</price_with_vat>
-      <manufacturer>Air Jordan</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>40.5</size>
-      <description>Air Jordan 1 Retro Low OG SP Travis Scott Olive</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Olive-DZ4137-106-1.png?v=1713671552</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Olive-DZ4137-106-2.png?v=1713671552</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Olive-DZ4137-106-3.png?v=1713671552</image>
-      </additional_images>
-    </product>
-    <product>
       <id>DM8465-800</id>
       <name>Air Adjust Force SP Ambush Light Madder Root</name>
       <link>https://www.flowerkickz.gr/products/air-adjust-force-sp-ambush-light-madder-root</link>
@@ -13841,7 +13822,7 @@
       <manufacturer>Adidas</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>38 2/3,40 2/3</size>
+      <size>40 2/3</size>
       <description>Campus 00s Red</description>
       <quantity>1</quantity>
       <additional_images>
@@ -13851,26 +13832,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Red-H03474-4.webp?v=1713676942</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Red-H03474-5.webp?v=1713676942</image>
       </additional_images>
-      <variations>
-        <variation>
-          <variationid>48644566876493.38-2/3</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-red</link>
-          <availability>In Stock</availability>
-          <manufacturersku>H03474.38-2/3</manufacturersku>
-          <price_with_vat>215</price_with_vat>
-          <size>38 2/3</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>48644566876493.40-2/3</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-red</link>
-          <availability>In Stock</availability>
-          <manufacturersku>H03474.40-2/3</manufacturersku>
-          <price_with_vat>215</price_with_vat>
-          <size>40 2/3</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>AO3108-006</id>
@@ -14578,25 +14539,6 @@
       </additional_images>
     </product>
     <product>
-      <id>BQ7669-140</id>
-      <name>Air Jordan 4 Midnight Navy Enfant (PS)</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-4-midnight-navy-enfant-ps</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Midnight_Navy_Enfant_PS_-BQ7669-140-0.png?v=1713672488</image>
-      <category>Sneakers</category>
-      <price_with_vat>205</price_with_vat>
-      <manufacturer>Air Jordan</manufacturer>
-      <ean>97927299</ean>
-      <availability>In Stock</availability>
-      <size>28.5</size>
-      <description>Air Jordan 4 Midnight Navy Enfant (PS)</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Midnight_Navy_Enfant_PS_-BQ7669-140-1.png?v=1713672488</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Midnight_Navy_Enfant_PS_-BQ7669-140-2.png?v=1713672488</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Midnight_Navy_Enfant_PS_-BQ7669-140-3.jpg?v=1713672488</image>
-      </additional_images>
-    </product>
-    <product>
       <id>555088-037</id>
       <name>Air Jordan 1 Retro High OG Stealth</name>
       <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-stealth</link>
@@ -15193,38 +15135,18 @@
       </variations>
     </product>
     <product>
-      <id>52403808 -3</id>
+      <id>52403808 -4</id>
       <name>Bape Tee Japan College Black</name>
       <link>https://www.flowerkickz.gr/products/bape-tee-japan-college-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/JAPANNNN.png?v=1714744760</image>
       <category>Sneakers</category>
       <price_with_vat>185</price_with_vat>
       <manufacturer>Bape Clothing</manufacturer>
-      <ean>86709537</ean>
+      <ean>14619537</ean>
       <availability>In Stock</availability>
-      <size>LARGE,X-LARGE</size>
+      <size>X-LARGE</size>
       <description>Bape Tee Japan College Black</description>
       <quantity>1</quantity>
-      <variations>
-        <variation>
-          <variationid>50823517405517.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/bape-tee-japan-college-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>52403808 -3.LARGE</manufacturersku>
-          <price_with_vat>185</price_with_vat>
-          <size>LARGE</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>50823517405517.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/bape-tee-japan-college-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>52403808 -3.X-LARGE</manufacturersku>
-          <price_with_vat>185</price_with_vat>
-          <size>X-LARGE</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>DV6773-220</id>
