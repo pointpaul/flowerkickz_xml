@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-19 08:03</created_at>
+  <created_at>2024-08-19 09:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -3167,7 +3167,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Fear of God Essentials Sweatpants Stretch-Limo</description>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FearofGodEssentialsSweatpantsStretch-LimoBack.png?v=1690469839</image>
       </additional_images>
@@ -6717,7 +6717,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE</size>
       <description>Fear of God Essentials Shorts Stretch-Limo</description>
-      <quantity>25</quantity>
+      <quantity>24</quantity>
       <variations>
         <variation>
           <variationid>49041182196045.LARGE</variationid>
@@ -6726,7 +6726,7 @@
           <manufacturersku>54608014.LARGE</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>LARGE</size>
-          <quantity>8</quantity>
+          <quantity>7</quantity>
         </variation>
         <variation>
           <variationid>49041182196045.SMALL</variationid>
@@ -11249,7 +11249,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM</size>
       <description>Fear of God Essentials Shorts Off-Black FW22</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <variations>
         <variation>
           <variationid>49585548263757.LARGE</variationid>
@@ -11258,7 +11258,7 @@
           <manufacturersku>17600524.LARGE</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>LARGE</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>49585548263757.MEDIUM</variationid>
@@ -12859,7 +12859,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Fear of God Essentials T-Shirt Taupe</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>83390874</id>
@@ -15146,7 +15146,7 @@
       <availability>In Stock</availability>
       <size>X-LARGE</size>
       <description>Bape Tee Japan College Black</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>DV6773-220</id>
