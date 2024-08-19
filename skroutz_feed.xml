@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-19 10:03</created_at>
+  <created_at>2024-08-19 11:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -16387,14 +16387,34 @@
       <manufacturer>Adidas</manufacturer>
       <ean>26433411</ean>
       <availability>In Stock</availability>
-      <size>36</size>
+      <size>36,42 2/3</size>
       <description>Yeezy Boost 350 V2 Zebra</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Zebra-CP9654-1.png?v=1713687948</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Zebra-CP9654-2.png?v=1713687948</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Zebra-CP9654-3.png?v=1713687948</image>
       </additional_images>
+      <variations>
+        <variation>
+          <variationid>45130133602435.36</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-zebra</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CP9654.36</manufacturersku>
+          <price_with_vat>535</price_with_vat>
+          <size>36</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>45130133602435.42-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-zebra</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CP9654.42-2/3</manufacturersku>
+          <price_with_vat>465</price_with_vat>
+          <size>42 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id/>
