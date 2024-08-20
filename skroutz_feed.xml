@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-20 07:03</created_at>
+  <created_at>2024-08-20 08:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20472,6 +20472,43 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Cordura_Black-DO6700-001-1.png?v=1713675098</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Cordura_Black-DO6700-001-2.png?v=1713675098</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DV0991-111</id>
+      <name>Air Jordan 1 Mid Triple White Patent Swoosh</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-triple-white-patent-swoosh</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Triple_White_Patent_Swoosh-DV0991-111-0.png?v=1713670392</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>Air Jordan</manufacturer>
+      <ean>196149384252</ean>
+      <availability>In Stock</availability>
+      <size>41</size>
+      <description>Air Jordan 1 Mid Triple White Patent Swoosh</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Triple_White_Patent_Swoosh-DV0991-111-1.png?v=1713670392</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Triple_White_Patent_Swoosh-DV0991-111-2.png?v=1713670392</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DV0834-101</id>
+      <name>Dunk Low Industrial Blue Sashiko</name>
+      <link>https://www.flowerkickz.gr/products/dunk-low-industrial-blue-sashiko</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Industrial_Blue_Sashiko-DV0834-101-0.png?v=1713679182</image>
+      <category>Sneakers</category>
+      <price_with_vat>310</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42</size>
+      <description>Dunk Low Industrial Blue Sashiko</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Industrial_Blue_Sashiko-DV0834-101-1.png?v=1713679182</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Industrial_Blue_Sashiko-DV0834-101-2.png?v=1713679182</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Industrial_Blue_Sashiko-DV0834-101-3.png?v=1713679182</image>
       </additional_images>
     </product>
   </products>
