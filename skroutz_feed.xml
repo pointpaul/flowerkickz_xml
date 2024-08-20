@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-20 01:03</created_at>
+  <created_at>2024-08-20 02:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6276,7 +6276,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-11-retro-cherry-2022</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_11_Retro_Cherry_2022_-378038-116-0.png?v=1713671739</image>
       <category>Sneakers</category>
-      <price_with_vat>375</price_with_vat>
+      <price_with_vat>510</price_with_vat>
       <manufacturer>Air Jordan</manufacturer>
       <ean>49102979</ean>
       <availability>In Stock</availability>
@@ -15746,7 +15746,7 @@
       <availability>In Stock</availability>
       <size>38,38 2/3</size>
       <description>Yeezy Boost 350 V2 Dazzling Blue</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Dazzling_Blue-GY7164-1.png?v=1713687603</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Dazzling_Blue-GY7164-2.png?v=1713687603</image>
@@ -15760,7 +15760,7 @@
           <manufacturersku>GY7164.38</manufacturersku>
           <price_with_vat>465</price_with_vat>
           <size>38</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45130105749635.38-2/3</variationid>
