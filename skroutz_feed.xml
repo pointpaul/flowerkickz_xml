@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-21 14:03</created_at>
+  <created_at>2024-08-21 15:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -13081,7 +13081,7 @@
       <category>Sneakers</category>
       <price_with_vat>545</price_with_vat>
       <manufacturer>Used</manufacturer>
-      <ean/>
+      <ean>7391826540</ean>
       <availability>In Stock</availability>
       <size>37 1/3</size>
       <description>Yeezy Boost 350 V2 Cream/Triple White (USED)</description>
@@ -20552,6 +20552,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Industrial_Blue_Sashiko-DV0834-101-1.png?v=1713679182</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Industrial_Blue_Sashiko-DV0834-101-2.png?v=1713679182</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Industrial_Blue_Sashiko-DV0834-101-3.png?v=1713679182</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>G54850</id>
+      <name>Yeezy 700 V3 Arzareth</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-700-v3-arzareth</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_700_V3_Arzareth-G54850-0.png?v=1713687216</image>
+      <category>Sneakers</category>
+      <price_with_vat>815</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <ean>4064046424783</ean>
+      <availability>In Stock</availability>
+      <size>36 2/3</size>
+      <description>Yeezy 700 V3 Arzareth</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_700_V3_Arzareth-G54850-1.png?v=1713687216</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_700_V3_Arzareth-G54850-2.png?v=1713687216</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_700_V3_Arzareth-G54850-3.png?v=1713687216</image>
       </additional_images>
     </product>
   </products>
