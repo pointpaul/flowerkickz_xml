@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-22 09:03</created_at>
+  <created_at>2024-08-22 10:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -10739,6 +10739,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Heritage-555088-161-1_9003a6ba-3d19-44c5-b577-88f96d388453.png?v=1694528354</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Heritage-555088-161-2_29fda90d-8fad-4d1f-abef-c56f7bb704ea.png?v=1694528354</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Heritage-555088-161-3_ebbeee6c-4d54-4bcd-a15c-dd6e4159b3ab.png?v=1694528354</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>AQ9129-001</id>
+      <name>Air Jordan 4 Retro Frozen Moments</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-frozen-moments</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Frozen_Moments-AQ9129-001-0_39342979-9590-4a00-bb2c-8dea5ee333d8.png?v=1713676052</image>
+      <category>Sneakers</category>
+      <price_with_vat>535</price_with_vat>
+      <manufacturer>Air Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44</size>
+      <description>Air Jordan 4 Retro Frozen Moments</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Frozen_Moments-AQ9129-001-1_0a787087-b012-4c94-b645-9d9b97184ebd.png?v=1713676052</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Frozen_Moments-AQ9129-001-2_b2d69913-f21c-498e-a03d-355ee005000c.png?v=1713676052</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Frozen_Moments-AQ9129-001-3.png?v=1713676052</image>
       </additional_images>
     </product>
     <product>
