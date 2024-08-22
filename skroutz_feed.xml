@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-22 06:03</created_at>
+  <created_at>2024-08-22 07:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20572,6 +20572,20 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_700_V3_Arzareth-G54850-2.png?v=1713687216</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_700_V3_Arzareth-G54850-3.png?v=1713687216</image>
       </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>test</name>
+      <link>https://www.flowerkickz.gr/products/test-2</link>
+      <image/>
+      <category>Sneakers</category>
+      <price_with_vat>5</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>test</description>
+      <quantity>0</quantity>
     </product>
   </products>
 </FlowerKickz>
