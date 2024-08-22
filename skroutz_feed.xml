@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-22 16:03</created_at>
+  <created_at>2024-08-22 17:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20605,6 +20605,25 @@
       <size>Default Title</size>
       <description>test</description>
       <quantity>0</quantity>
+    </product>
+    <product>
+      <id>DV0833-104</id>
+      <name>Dunk Low Glacier Blue</name>
+      <link>https://www.flowerkickz.gr/products/dunk-low-glacier-blue</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Glacier_Blue-DV0833-104-0.webp?v=1718245504</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>38.5</size>
+      <description>Dunk Low Glacier Blue</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Glacier_Blue-DV0833-104-1.webp?v=1718245507</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Glacier_Blue-DV0833-104-2.webp?v=1718245510</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Glacier_Blue-DV0833-104-3.webp?v=1718245513</image>
+      </additional_images>
     </product>
   </products>
 </FlowerKickz>
