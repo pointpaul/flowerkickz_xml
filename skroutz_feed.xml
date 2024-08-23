@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-23 17:04</created_at>
+  <created_at>2024-08-23 18:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -4696,7 +4696,7 @@
       <availability>In Stock</availability>
       <size>40.5</size>
       <description>SB Dunk Low Pro ISO White Gum</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Pro_ISO_White_Gum-CD2563-101-1.png?v=1713685453</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Pro_ISO_White_Gum-CD2563-101-2.png?v=1713685453</image>
@@ -15047,7 +15047,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE</size>
       <description>Bape Tee Bleached Check College Black</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>50823302119757.LARGE</variationid>
@@ -15065,7 +15065,7 @@
           <manufacturersku>91388790 -1.SMALL</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>50823302119757.X-LARGE</variationid>
