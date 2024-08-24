@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-24 15:03</created_at>
+  <created_at>2024-08-24 16:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -5287,7 +5287,7 @@
       <availability>In Stock</availability>
       <size>37.5,38.5,39,40,40.5</size>
       <description>Air Jordan 1 Low Barely Grape</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Low_Barely_Grape-DC0774-501-1.png?v=1713667305</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Low_Barely_Grape-DC0774-501-2.png?v=1713667305</image>
@@ -5309,7 +5309,7 @@
           <manufacturersku>DC0774-501.38.5</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>38.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45169719115907.39</variationid>
