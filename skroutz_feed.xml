@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-24 03:03</created_at>
+  <created_at>2024-08-24 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -4685,24 +4685,6 @@
       </variations>
     </product>
     <product>
-      <id>CD2563-101</id>
-      <name>SB Dunk Low Pro ISO White Gum</name>
-      <link>https://www.flowerkickz.gr/products/sb-dunk-low-pro-iso-white-gum</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Pro_ISO_White_Gum-CD2563-101-0.png?v=1713685453</image>
-      <category>Sneakers</category>
-      <price_with_vat>285</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean>196156276212</ean>
-      <availability>In Stock</availability>
-      <size>40.5</size>
-      <description>SB Dunk Low Pro ISO White Gum</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Pro_ISO_White_Gum-CD2563-101-1.png?v=1713685453</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Pro_ISO_White_Gum-CD2563-101-2.png?v=1713685453</image>
-      </additional_images>
-    </product>
-    <product>
       <id>DR9511-100</id>
       <name>Dunk Low World Champ</name>
       <link>https://www.flowerkickz.gr/products/dunk-low-world-champ</link>
@@ -8515,25 +8497,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Thunder_2023_-DH6927-017-1.png?v=1713672652</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Thunder_2023_-DH6927-017-2.png?v=1713672652</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Thunder_2023_-DH6927-017-3.png?v=1713672652</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>DV1748-601</id>
-      <name>Air Jordan 1 High OG Spider-Man Across the Spider-Verse</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-1-high-og-spider-man-across-the-spider-verse</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Spider-Man_Across_the_Spider-Verse-DV1748-601-0.png?v=1713666930</image>
-      <category>Sneakers</category>
-      <price_with_vat>385</price_with_vat>
-      <manufacturer>Air Jordan</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>42.5</size>
-      <description>Air Jordan 1 High OG Spider-Man Across the Spider-Verse</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Spider-Man_Across_the_Spider-Verse-DV1748-601-1.png?v=1713666930</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Spider-Man_Across_the_Spider-Verse-DV1748-601-2.png?v=1713666930</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Spider-Man_Across_the_Spider-Verse-DV1748-601-3.png?v=1713666930</image>
       </additional_images>
     </product>
     <product>
@@ -15036,42 +14999,33 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>91388790 -1</id>
+      <id>91388790 -3</id>
       <name>Bape Tee Bleached Check College Black</name>
       <link>https://www.flowerkickz.gr/products/bape-tee-bleached-check-college-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BLACKAPE.png?v=1714741189</image>
       <category>Sneakers</category>
       <price_with_vat>185</price_with_vat>
       <manufacturer>Bape Clothing</manufacturer>
-      <ean>48306510</ean>
+      <ean>38050637</ean>
       <availability>In Stock</availability>
-      <size>LARGE,SMALL,X-LARGE</size>
+      <size>LARGE,X-LARGE</size>
       <description>Bape Tee Bleached Check College Black</description>
       <quantity>2</quantity>
       <variations>
         <variation>
-          <variationid>50823302119757.LARGE</variationid>
+          <variationid>50823302185293.LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/bape-tee-bleached-check-college-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>91388790 -1.LARGE</manufacturersku>
+          <manufacturersku>91388790 -3.LARGE</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>50823302119757.SMALL</variationid>
+          <variationid>50823302185293.X-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/bape-tee-bleached-check-college-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>91388790 -1.SMALL</manufacturersku>
-          <price_with_vat>185</price_with_vat>
-          <size>SMALL</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>50823302119757.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/bape-tee-bleached-check-college-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>91388790 -1.X-LARGE</manufacturersku>
+          <manufacturersku>91388790 -3.X-LARGE</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>X-LARGE</size>
           <quantity>1</quantity>
