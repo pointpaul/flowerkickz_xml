@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-25 03:03</created_at>
+  <created_at>2024-08-25 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -5285,7 +5285,7 @@
       <manufacturer>Air Jordan</manufacturer>
       <ean>196153722989</ean>
       <availability>In Stock</availability>
-      <size>37.5,38.5,39,40,40.5</size>
+      <size>37.5,39,40,40.5</size>
       <description>Air Jordan 1 Low Barely Grape</description>
       <quantity>4</quantity>
       <additional_images>
@@ -5301,15 +5301,6 @@
           <price_with_vat>260</price_with_vat>
           <size>37.5</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45169719115907.38.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-barely-grape</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DC0774-501.38.5</manufacturersku>
-          <price_with_vat>230</price_with_vat>
-          <size>38.5</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45169719115907.39</variationid>
@@ -6026,24 +6017,6 @@
       <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_2_Union_SP_Grey_Fog-DN3802-001-1.png?v=1713672173</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>DH7717-400</id>
-      <name>SB Dunk High RX-0 Unicorn Gundam 02 Banshee</name>
-      <link>https://www.flowerkickz.gr/products/sb-dunk-high-rx-0-unicorn-gundam-02-banshee</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzSB_Dunk_High_RX-0_Unicorn_Gundam_02_Banshee-DH7717-400-0_96e577aa-3def-4684-b6eb-334fa70e8b6f.png?v=1691152870</image>
-      <category>Sneakers</category>
-      <price_with_vat>600</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean>29170051</ean>
-      <availability>In Stock</availability>
-      <size>45.5</size>
-      <description>SB Dunk High RX-0 Unicorn Gundam 02 Banshee</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzSB_Dunk_High_RX-0_Unicorn_Gundam_02_Banshee-DH7717-400-1_b514a284-7181-4dc9-82b6-6116a21d4c0a.png?v=1691152870</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzSB_Dunk_High_RX-0_Unicorn_Gundam_02_Banshee-DH7717-400-2_e04c72fd-aa41-4b29-99af-6d4fbf5a4c10.png?v=1691152870</image>
       </additional_images>
     </product>
     <product>
@@ -10187,25 +10160,6 @@
       </additional_images>
     </product>
     <product>
-      <id>CU3244-100U</id>
-      <name>SB Dunk Low Ben &amp; Jerry's Chunky Dunky (Special Box) (USED)</name>
-      <link>https://www.flowerkickz.gr/products/sb-dunk-low-ben-jerrys-chunky-dunky-special-box-used</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Ben_Jerry_s_Chunky_Dunky-CU3244-100-0_9a38403c-6711-4239-bf56-36ba6f79a098.png?v=1694446416</image>
-      <category>Sneakers</category>
-      <price_with_vat>2715</price_with_vat>
-      <manufacturer>Used</manufacturer>
-      <ean>17646561</ean>
-      <availability>In Stock</availability>
-      <size>45</size>
-      <description>SB Dunk Low Ben &amp; Jerry's Chunky Dunky (Special Box) (USED)</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Ben_Jerry_s_Chunky_Dunky-CU3244-100-1_0c40aaa1-1f50-47bf-9e3e-d1b27c54dc87.png?v=1694446416</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Ben_Jerry_s_Chunky_Dunky-CU3244-100-2_158cf32b-d264-4ee2-9b5d-39436258d149.png?v=1694446416</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Ben_Jerry_s_Chunky_Dunky-CU3244-100-3_1cfaf7ea-94f4-4b3b-a3c2-c54381c8912e.png?v=1694446416</image>
-      </additional_images>
-    </product>
-    <product>
       <id>CD4487-100U</id>
       <name>Air Jordan 1 Retro High Travis Scott &quot;Cactus Jack&quot; (USED)</name>
       <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-travis-scott-cactus-jack-used</link>
@@ -10225,28 +10179,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_Travis_Scott_Cactus_Jack-CD4487-100-4_c7f367de-fa9b-46eb-a35c-1f3e6f8ce699.jpg?v=1694447423</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_Travis_Scott_Cactus_Jack-CD4487-100-5_cfd73479-89a4-49c5-9df1-deca24d3b8c3.jpg?v=1694447423</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_Travis_Scott_Cactus_Jack-CD4487-100-6_4bd6b970-4f4c-4b20-a4f2-a950c5ae1356.jpg?v=1694447423</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>AQ0818-148U</id>
-      <name>Air Jordan 1 Retro High Off-White University Blue (USED)</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-off-white-university-blue-used</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_Off-White_University_Blue-AQ0818-148-0_5c0ad638-1b17-4c09-9699-1d992c506731.png?v=1694449615</image>
-      <category>Sneakers</category>
-      <price_with_vat>3560</price_with_vat>
-      <manufacturer>Used</manufacturer>
-      <ean>58016561</ean>
-      <availability>In Stock</availability>
-      <size>42.5</size>
-      <description>Air Jordan 1 Retro High Off-White University Blue (USED)</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_Off-White_University_Blue-AQ0818-148-1_c017afb8-964d-4372-957b-c8fed080a9ff.png?v=1694449615</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_Off-White_University_Blue-AQ0818-148-2_cbbd642a-dd2c-4938-a72a-dc313fa444a1.png?v=1694449615</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_Off-White_University_Blue-AQ0818-148-3_faebade5-2fad-4b17-b23b-a8659a111056.png?v=1694449615</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_Off-White_University_Blue-AQ0818-148-4_232b73cb-cd52-40d8-bd12-17138df32bb6.jpg?v=1694449615</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_Off-White_University_Blue-AQ0818-148-5_9d5a3132-5cc1-4ab9-bf0f-417b21326559.jpg?v=1694449615</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_Off-White_University_Blue-AQ0818-148-6_8f08070f-93d8-4486-a6bf-d257731f3497.jpg?v=1694449615</image>
       </additional_images>
     </product>
     <product>
@@ -10403,25 +10335,6 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Pro_FTC-DH7687-400-1_ebc08aef-3b7f-4c95-8695-dd9f3e48dbc5.png?v=1694454267</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Pro_FTC-DH7687-400-2_d22f9b3a-4464-4a5d-90f3-3a9498c88089.png?v=1694454267</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>CJ5378-700U</id>
-      <name>SB Dunk Low Grateful Dead Bears Yellow (USED)</name>
-      <link>https://www.flowerkickz.gr/products/sb-dunk-low-grateful-dead-bears-yellow-used</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Grateful_Dead_Bears_Yellow-CJ5378-700-0_8ab87f1f-a674-416b-b502-642cfac941d2.png?v=1694454410</image>
-      <category>Sneakers</category>
-      <price_with_vat>905</price_with_vat>
-      <manufacturer>Used</manufacturer>
-      <ean>63687561</ean>
-      <availability>In Stock</availability>
-      <size>41</size>
-      <description>SB Dunk Low Grateful Dead Bears Yellow (USED)</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Grateful_Dead_Bears_Yellow-CJ5378-700-1_dd976cbb-cf5b-4559-aeef-220823a26122.png?v=1694454410</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Grateful_Dead_Bears_Yellow-CJ5378-700-2_b6f88f56-758a-491e-bd65-1446689c58d0.png?v=1694454410</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Grateful_Dead_Bears_Yellow-CJ5378-700-3_b91d5d25-73c1-4dc6-9190-0f6a165cfd16.png?v=1694454410</image>
       </additional_images>
     </product>
     <product>
@@ -10722,25 +10635,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Heritage-555088-161-1_9003a6ba-3d19-44c5-b577-88f96d388453.png?v=1694528354</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Heritage-555088-161-2_29fda90d-8fad-4d1f-abef-c56f7bb704ea.png?v=1694528354</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Heritage-555088-161-3_ebbeee6c-4d54-4bcd-a15c-dd6e4159b3ab.png?v=1694528354</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>AQ9129-001</id>
-      <name>Air Jordan 4 Retro Frozen Moments</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-frozen-moments</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Frozen_Moments-AQ9129-001-0_39342979-9590-4a00-bb2c-8dea5ee333d8.png?v=1713676052</image>
-      <category>Sneakers</category>
-      <price_with_vat>535</price_with_vat>
-      <manufacturer>Air Jordan</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>44</size>
-      <description>Air Jordan 4 Retro Frozen Moments</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Frozen_Moments-AQ9129-001-1_0a787087-b012-4c94-b645-9d9b97184ebd.png?v=1713676052</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Frozen_Moments-AQ9129-001-2_b2d69913-f21c-498e-a03d-355ee005000c.png?v=1713676052</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Frozen_Moments-AQ9129-001-3.png?v=1713676052</image>
       </additional_images>
     </product>
     <product>
@@ -12910,20 +12804,6 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>CRP-0002</id>
-      <name>Air Jordan 1 Chicago Rug</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-1-chicago-rug</link>
-      <image/>
-      <category>Sneakers</category>
-      <price_with_vat>330</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
-      <ean>83285697</ean>
-      <availability>In Stock</availability>
-      <size>O/S</size>
-      <description>Air Jordan 1 Chicago Rug</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
       <id>GZ5551U</id>
       <name>Yeezy Slide Resin (USED)</name>
       <link>https://www.flowerkickz.gr/products/yeezy-slide-resin-used</link>
@@ -14870,20 +14750,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_07_LX_Ashen_Slate-FB8876-400-1_541f6199-4029-46d1-9d03-2ca24f8ebeaf.png?v=1713664489</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_07_LX_Ashen_Slate-FB8876-400-2_c862365b-4928-4cb9-8cb7-ef75fd30e299.png?v=1713664489</image>
       </additional_images>
-    </product>
-    <product>
-      <id>44195470 -2</id>
-      <name>Bape Tee Japan Big Ape Head City White</name>
-      <link>https://www.flowerkickz.gr/products/bape-tee-japan-big-ape-head-city-tee-white</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2_2c8fa3e0-6ab3-4291-a2c8-fc81729c8b80.png?v=1714726357</image>
-      <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <ean>20009316</ean>
-      <availability>In Stock</availability>
-      <size>MEDIUM</size>
-      <description>Bape Tee Japan Big Ape Head City White</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id/>
@@ -20530,7 +20396,7 @@
       <link>https://www.flowerkickz.gr/products/yeezy-700-v3-arzareth</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_700_V3_Arzareth-G54850-0.png?v=1713687216</image>
       <category>Sneakers</category>
-      <price_with_vat>815</price_with_vat>
+      <price_with_vat>825</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <ean>4064046424783</ean>
       <availability>In Stock</availability>
