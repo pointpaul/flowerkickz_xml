@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-26 14:03</created_at>
+  <created_at>2024-08-26 15:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -2305,7 +2305,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low Black Supreme</description>
-      <quantity>60</quantity>
+      <quantity>59</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-1.png?v=1713664941</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-2.png?v=1713664941</image>
@@ -2328,7 +2328,7 @@
           <manufacturersku>CU9225-001.42</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>42</size>
-          <quantity>9</quantity>
+          <quantity>8</quantity>
         </variation>
         <variation>
           <variationid>45212023324803.42.5</variationid>
@@ -7049,7 +7049,7 @@
       <availability>In Stock</availability>
       <size>LARGE,X-LARGE</size>
       <description>Fear of God Essentials T-Shirt Stretch-Limo</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <variations>
         <variation>
           <variationid>49041271456077.LARGE</variationid>
@@ -7067,7 +7067,7 @@
           <manufacturersku>80997194.X-LARGE</manufacturersku>
           <price_with_vat>190</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
@@ -7117,7 +7117,7 @@
       <availability>In Stock</availability>
       <size>LARGE,X-LARGE</size>
       <description>Fear of God Essentials T-Shirt Applique Logo Black</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>49045840200013.LARGE</variationid>
@@ -7135,7 +7135,7 @@
           <manufacturersku>75394668.X-LARGE</manufacturersku>
           <price_with_vat>190</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -16440,7 +16440,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>243</quantity>
+      <quantity>250</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-1.webp?v=1713688442</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-2.webp?v=1713688445</image>
@@ -16462,7 +16462,7 @@
           <manufacturersku>ID5103.38</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>38</size>
-          <quantity>19</quantity>
+          <quantity>20</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.39</variationid>
@@ -16543,7 +16543,7 @@
           <manufacturersku>ID5103.50</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>50</size>
-          <quantity>12</quantity>
+          <quantity>18</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.51</variationid>
@@ -16777,7 +16777,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38,38.5,40.5,41,42,42.5,43,44,44.5,45,45.5,47.5</size>
       <description>Air Jordan 4 Oxidized Green</description>
-      <quantity>20</quantity>
+      <quantity>19</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Oxidized_Green-FQ8138-103-1.webp?v=1716601929</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Oxidized_Green-FQ8138-103-2.webp?v=1716601931</image>
@@ -16817,7 +16817,7 @@
           <manufacturersku>FQ8138-103.37.5</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>37.5</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.38</variationid>
