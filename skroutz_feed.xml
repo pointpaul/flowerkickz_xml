@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-27 11:03</created_at>
+  <created_at>2024-08-27 12:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -5462,15 +5462,24 @@
       <manufacturer>Adidas</manufacturer>
       <ean>66705283</ean>
       <availability>In Stock</availability>
-      <size>43,48.5</size>
+      <size>37,43,48.5</size>
       <description>Yeezy Slide Glow Green (Restock Pair 2022)</description>
-      <quantity>3</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Glow_Green_Restock_Pair_2022_-HQ6447-1.png?v=1713688345</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Glow_Green_Restock_Pair_2022_-HQ6447-2.png?v=1713688345</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Glow_Green_Restock_Pair_2022_-HQ6447-3.png?v=1713688345</image>
       </additional_images>
       <variations>
+        <variation>
+          <variationid>45130173874307.37</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-slide-glow-green-restock-pair-2022</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6447.37</manufacturersku>
+          <price_with_vat>240</price_with_vat>
+          <size>37</size>
+          <quantity>1</quantity>
+        </variation>
         <variation>
           <variationid>45130173874307.43</variationid>
           <link>https://www.flowerkickz.gr/products/yeezy-slide-glow-green-restock-pair-2022</link>
