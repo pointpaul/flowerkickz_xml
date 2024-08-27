@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-27 15:08</created_at>
+  <created_at>2024-08-27 16:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6496,7 +6496,7 @@
       <link>https://www.flowerkickz.gr/products/yeezy-slide-onyx</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Onyx-HQ6448-0.png?v=1713688370</image>
       <category>Sneakers</category>
-      <price_with_vat>310</price_with_vat>
+      <price_with_vat>110</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <ean>65005699</ean>
       <availability>In Stock</availability>
@@ -12696,7 +12696,7 @@
       <link>https://www.flowerkickz.gr/products/yeezy-slide-soot</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Soot-GX6141-0.png?v=1713688434</image>
       <category>Sneakers</category>
-      <price_with_vat>420</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -15068,7 +15068,7 @@
       <availability>In Stock</availability>
       <size>37,42</size>
       <description>Yeezy Slide Slate Grey</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Slate_Grey-ID2350-1.png?v=1713688422</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Slate_Grey-ID2350-2.png?v=1713688424</image>
@@ -15079,7 +15079,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-slide-slate-grey</link>
           <availability>In Stock</availability>
           <manufacturersku>ID2350.37</manufacturersku>
-          <price_with_vat>215</price_with_vat>
+          <price_with_vat>95</price_with_vat>
           <size>37</size>
           <quantity>1</quantity>
         </variation>
@@ -15090,7 +15090,7 @@
           <manufacturersku>ID2350.42</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>42</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -15540,7 +15540,7 @@
       <availability>In Stock</availability>
       <size>38</size>
       <description>Yeezy Slide Slate Marine</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/slide1.png?v=1717840812</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/slide3.png?v=1717840805</image>
@@ -16267,7 +16267,7 @@
       <link>https://www.flowerkickz.gr/products/yeezy-slide-granite</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Granite-ID4132-0_0485604b-e1fb-423f-9499-e4d79447c874.png?v=1713688353</image>
       <category>Sneakers</category>
-      <price_with_vat>250</price_with_vat>
+      <price_with_vat>95</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -16284,7 +16284,7 @@
           <link>https://www.flowerkickz.gr/products/yeezy-slide-granite</link>
           <availability>In Stock</availability>
           <manufacturersku>ID4132.37</manufacturersku>
-          <price_with_vat>250</price_with_vat>
+          <price_with_vat>95</price_with_vat>
           <size>37</size>
           <quantity>1</quantity>
         </variation>
@@ -20466,6 +20466,107 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzBenassi_Stussy_Habanero_Red-CW2787-600-1.png?v=1713676158</image>
       </additional_images>
+    </product>
+    <product>
+      <id>ID5103</id>
+      <name>Yeezy Slide Dark Onyx (Broadcast Channel Bonus)</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx-broadcast-channel-bonus</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-0.webp?v=1713688439</image>
+      <category>Sneakers</category>
+      <price_with_vat>95</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>39,40.5,42,43,44.5,47,48.5,50,51</size>
+      <description>Yeezy Slide Dark Onyx (Broadcast Channel Bonus)</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-1.webp?v=1713688442</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-2.webp?v=1713688445</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52126982865229.39</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx-broadcast-channel-bonus</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID5103.39</manufacturersku>
+          <price_with_vat>95</price_with_vat>
+          <size>39</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52126982865229.40.5</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx-broadcast-channel-bonus</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID5103.40.5</manufacturersku>
+          <price_with_vat>95</price_with_vat>
+          <size>40.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52126982865229.42</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx-broadcast-channel-bonus</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID5103.42</manufacturersku>
+          <price_with_vat>95</price_with_vat>
+          <size>42</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52126982865229.43</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx-broadcast-channel-bonus</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID5103.43</manufacturersku>
+          <price_with_vat>95</price_with_vat>
+          <size>43</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52126982865229.44.5</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx-broadcast-channel-bonus</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID5103.44.5</manufacturersku>
+          <price_with_vat>95</price_with_vat>
+          <size>44.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52126982865229.47</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx-broadcast-channel-bonus</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID5103.47</manufacturersku>
+          <price_with_vat>95</price_with_vat>
+          <size>47</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52126982865229.48.5</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx-broadcast-channel-bonus</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID5103.48.5</manufacturersku>
+          <price_with_vat>95</price_with_vat>
+          <size>48.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52126982865229.50</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx-broadcast-channel-bonus</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID5103.50</manufacturersku>
+          <price_with_vat>95</price_with_vat>
+          <size>50</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52126982865229.51</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx-broadcast-channel-bonus</link>
+          <availability>In Stock</availability>
+          <manufacturersku>ID5103.51</manufacturersku>
+          <price_with_vat>95</price_with_vat>
+          <size>51</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
     </product>
   </products>
 </FlowerKickz>
