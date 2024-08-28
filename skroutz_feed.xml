@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-28 03:03</created_at>
+  <created_at>2024-08-28 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6496,7 +6496,7 @@
       <link>https://www.flowerkickz.gr/products/yeezy-slide-onyx</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Onyx-HQ6448-0.png?v=1713688370</image>
       <category>Sneakers</category>
-      <price_with_vat>110</price_with_vat>
+      <price_with_vat>310</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <ean>65005699</ean>
       <availability>In Stock</availability>
@@ -15529,25 +15529,6 @@
       </additional_images>
     </product>
     <product>
-      <id>ID2349</id>
-      <name>Yeezy Slide Slate Marine</name>
-      <link>https://www.flowerkickz.gr/products/yeezy-slide-slate-marine</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/slide2.png?v=1717840812</image>
-      <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
-      <manufacturer>Adidas</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>38</size>
-      <description>Yeezy Slide Slate Marine</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/slide1.png?v=1717840812</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/slide3.png?v=1717840805</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/slide4.png?v=1717840805</image>
-      </additional_images>
-    </product>
-    <product>
       <id>AR3566-100</id>
       <name>Shox TL White Metallic Silver Max Orange</name>
       <link>https://www.flowerkickz.gr/products/shox-tl-white-metallic-silver-max-orange</link>
@@ -20385,7 +20366,7 @@
       <link>https://www.flowerkickz.gr/products/yeezy-700-v3-arzareth</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_700_V3_Arzareth-G54850-0.png?v=1713687216</image>
       <category>Sneakers</category>
-      <price_with_vat>825</price_with_vat>
+      <price_with_vat>815</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <ean>4064046424783</ean>
       <availability>In Stock</availability>
