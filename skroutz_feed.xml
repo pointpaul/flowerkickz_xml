@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-28 12:03</created_at>
+  <created_at>2024-08-28 13:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -12847,7 +12847,7 @@
       <availability>In Stock</availability>
       <size>36,36.5,46,48.5</size>
       <description>Air Force 1 Low NOCTA Drake Certified Lover Boy</description>
-      <quantity>3</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_NOCTA_Drake_Certified_Lover_Boy-CZ8065-100-1.png?v=1713665371</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_NOCTA_Drake_Certified_Lover_Boy-CZ8065-100-2.png?v=1713665371</image>
@@ -12880,7 +12880,7 @@
           <manufacturersku>CZ8065-100.46</manufacturersku>
           <price_with_vat>445</price_with_vat>
           <size>46</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45128850669699.48.5</variationid>
@@ -20570,7 +20570,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44,45,46</size>
       <description>Air Max Plus Patta FC Barcelona</description>
-      <quantity>0</quantity>
+      <quantity>204</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-1_3a199d00-293f-4469-bcf9-8231319cfb6a.png?v=1713675219</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-2_717f5c12-1234-4591-bb27-e609e01bd71d.png?v=1713675219</image>
@@ -20583,7 +20583,7 @@
           <manufacturersku>FN8260-001.41</manufacturersku>
           <price_with_vat>375</price_with_vat>
           <size>41</size>
-          <quantity>0</quantity>
+          <quantity>28</quantity>
         </variation>
         <variation>
           <variationid>49558557786445.42</variationid>
@@ -20592,7 +20592,7 @@
           <manufacturersku>FN8260-001.42</manufacturersku>
           <price_with_vat>375</price_with_vat>
           <size>42</size>
-          <quantity>0</quantity>
+          <quantity>36</quantity>
         </variation>
         <variation>
           <variationid>49558557786445.42.5</variationid>
@@ -20601,7 +20601,7 @@
           <manufacturersku>FN8260-001.42.5</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>42.5</size>
-          <quantity>0</quantity>
+          <quantity>24</quantity>
         </variation>
         <variation>
           <variationid>49558557786445.43</variationid>
@@ -20610,7 +20610,7 @@
           <manufacturersku>FN8260-001.43</manufacturersku>
           <price_with_vat>455</price_with_vat>
           <size>43</size>
-          <quantity>0</quantity>
+          <quantity>36</quantity>
         </variation>
         <variation>
           <variationid>49558557786445.44</variationid>
@@ -20619,7 +20619,7 @@
           <manufacturersku>FN8260-001.44</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>44</size>
-          <quantity>0</quantity>
+          <quantity>30</quantity>
         </variation>
         <variation>
           <variationid>49558557786445.45</variationid>
@@ -20628,7 +20628,7 @@
           <manufacturersku>FN8260-001.45</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>45</size>
-          <quantity>0</quantity>
+          <quantity>25</quantity>
         </variation>
         <variation>
           <variationid>49558557786445.46</variationid>
@@ -20637,7 +20637,90 @@
           <manufacturersku>FN8260-001.46</manufacturersku>
           <price_with_vat>375</price_with_vat>
           <size>46</size>
-          <quantity>0</quantity>
+          <quantity>25</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>FN8260-001BC</id>
+      <name>Air Max Plus Patta FC Barcelona (Broadcast Channel)</name>
+      <link>https://www.flowerkickz.gr/products/air-max-plus-patta-fc-barcelona-broadcast-channel</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-0_2dcbc87e-4b0a-419c-977b-471f804225aa.png?v=1713675219</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>41,42,42.5,43,44,45,46</size>
+      <description>Air Max Plus Patta FC Barcelona (Broadcast Channel)</description>
+      <quantity>14</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-1_3a199d00-293f-4469-bcf9-8231319cfb6a.png?v=1713675219</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-2_717f5c12-1234-4591-bb27-e609e01bd71d.png?v=1713675219</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52131236839757.41</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-plus-patta-fc-barcelona-broadcast-channel</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FN8260-001BC.41</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>41</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52131236839757.42</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-plus-patta-fc-barcelona-broadcast-channel</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FN8260-001BC.42</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>42</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52131236839757.42.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-plus-patta-fc-barcelona-broadcast-channel</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FN8260-001BC.42.5</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>42.5</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52131236839757.43</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-plus-patta-fc-barcelona-broadcast-channel</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FN8260-001BC.43</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>43</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52131236839757.44</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-plus-patta-fc-barcelona-broadcast-channel</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FN8260-001BC.44</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>44</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52131236839757.45</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-plus-patta-fc-barcelona-broadcast-channel</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FN8260-001BC.45</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>45</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52131236839757.46</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-plus-patta-fc-barcelona-broadcast-channel</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FN8260-001BC.46</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>46</size>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
