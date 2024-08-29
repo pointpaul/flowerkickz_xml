@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-29 14:04</created_at>
+  <created_at>2024-08-29 15:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -16363,7 +16363,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>250</quantity>
+      <quantity>249</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-1.webp?v=1713688442</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-2.webp?v=1713688445</image>
@@ -16430,7 +16430,7 @@
           <manufacturersku>ID5103.44.5</manufacturersku>
           <price_with_vat>190</price_with_vat>
           <size>44.5</size>
-          <quantity>39</quantity>
+          <quantity>38</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.46</variationid>
@@ -20514,7 +20514,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44,45,46</size>
       <description>Air Max Plus Patta FC Barcelona</description>
-      <quantity>199</quantity>
+      <quantity>198</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-1_3a199d00-293f-4469-bcf9-8231319cfb6a.png?v=1713675219</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-2_717f5c12-1234-4591-bb27-e609e01bd71d.png?v=1713675219</image>
@@ -20572,7 +20572,7 @@
           <manufacturersku>FN8260-001.45</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>45</size>
-          <quantity>24</quantity>
+          <quantity>23</quantity>
         </variation>
         <variation>
           <variationid>49558557786445.46</variationid>
