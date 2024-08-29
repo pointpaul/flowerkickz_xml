@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-29 03:03</created_at>
+  <created_at>2024-08-29 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6488,24 +6488,6 @@
       <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/MYOBUBARCODEWHITET-SHIRTBACK.png?v=1688643427</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>HQ6448</id>
-      <name>Yeezy Slide Onyx</name>
-      <link>https://www.flowerkickz.gr/products/yeezy-slide-onyx</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Onyx-HQ6448-0.png?v=1713688370</image>
-      <category>Sneakers</category>
-      <price_with_vat>310</price_with_vat>
-      <manufacturer>Adidas</manufacturer>
-      <ean>65005699</ean>
-      <availability>In Stock</availability>
-      <size>37</size>
-      <description>Yeezy Slide Onyx</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Onyx-HQ6448-1.png?v=1713688370</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Onyx-HQ6448-2.png?v=1713688370</image>
       </additional_images>
     </product>
     <product>
@@ -14611,24 +14593,6 @@
       </additional_images>
     </product>
     <product>
-      <id>DM0028-002</id>
-      <name>Air Max 97 OG Silver Bullet (2022)</name>
-      <link>https://www.flowerkickz.gr/products/air-max-97-og-silver-bullet-2022</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_97_OG_Silver_Bullet_2022_-DM0028-002-0.png?v=1713674794</image>
-      <category>Sneakers</category>
-      <price_with_vat>375</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean>26869379</ean>
-      <availability>In Stock</availability>
-      <size>43</size>
-      <description>Air Max 97 OG Silver Bullet (2022)</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_97_OG_Silver_Bullet_2022_-DM0028-002-1.png?v=1713674794</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_97_OG_Silver_Bullet_2022_-DM0028-002-2.png?v=1713674794</image>
-      </additional_images>
-    </product>
-    <product>
       <id>DD1391-103</id>
       <name>Dunk Low Grey Fog</name>
       <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
@@ -15062,44 +15026,6 @@
           <price_with_vat>95</price_with_vat>
           <size>SMALL</size>
           <quantity>2</quantity>
-        </variation>
-      </variations>
-    </product>
-    <product>
-      <id>ID2350</id>
-      <name>Yeezy Slide Slate Grey</name>
-      <link>https://www.flowerkickz.gr/products/yeezy-slide-slate-grey</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Slate_Grey-ID2350-0.png?v=1713688418</image>
-      <category>Sneakers</category>
-      <price_with_vat>215</price_with_vat>
-      <manufacturer>Adidas</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>37,42</size>
-      <description>Yeezy Slide Slate Grey</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Slate_Grey-ID2350-1.png?v=1713688422</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Slate_Grey-ID2350-2.png?v=1713688424</image>
-      </additional_images>
-      <variations>
-        <variation>
-          <variationid>50742287466829.37</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-slide-slate-grey</link>
-          <availability>In Stock</availability>
-          <manufacturersku>ID2350.37</manufacturersku>
-          <price_with_vat>215</price_with_vat>
-          <size>37</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>50742287466829.42</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-slide-slate-grey</link>
-          <availability>In Stock</availability>
-          <manufacturersku>ID2350.42</manufacturersku>
-          <price_with_vat>215</price_with_vat>
-          <size>42</size>
-          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -16297,6 +16223,24 @@
           <quantity>0</quantity>
         </variation>
       </variations>
+    </product>
+    <product>
+      <id>ID2350</id>
+      <name>Yeezy Slide Slate Grey</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-slide-slate-grey</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Slate_Grey-ID2350-0.png?v=1713688418</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>37</size>
+      <description>Yeezy Slide Slate Grey</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Slate_Grey-ID2350-1.png?v=1713688422</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Slate_Grey-ID2350-2.png?v=1713688424</image>
+      </additional_images>
     </product>
     <product>
       <id>IE4931</id>
