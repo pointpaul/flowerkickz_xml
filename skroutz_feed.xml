@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-29 17:03</created_at>
+  <created_at>2024-08-29 18:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -4471,7 +4471,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>64</quantity>
+      <quantity>63</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_White_Supreme-CU9225-100-1.png?v=1713665987</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_White_Supreme-CU9225-100-2.png?v=1713665987</image>
@@ -4521,7 +4521,7 @@
           <manufacturersku>CU9225-100.42.5</manufacturersku>
           <price_with_vat>320</price_with_vat>
           <size>42.5</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>45132063670403.43</variationid>
@@ -4847,7 +4847,7 @@
       <availability>In Stock</availability>
       <size>200ml</size>
       <description>Crep Protect Rain &amp; Stain Resistant Spray</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
     </product>
     <product>
       <id>72480719</id>
@@ -4861,7 +4861,7 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>Crep Protect Mark On Pen Black</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>DX0054-805</id>
@@ -16700,7 +16700,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38,38.5,40.5,41,42,42.5,43,44,44.5,45,45.5,47.5</size>
       <description>Air Jordan 4 Oxidized Green</description>
-      <quantity>18</quantity>
+      <quantity>17</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Oxidized_Green-FQ8138-103-1.webp?v=1716601929</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Oxidized_Green-FQ8138-103-2.webp?v=1716601931</image>
@@ -16785,7 +16785,7 @@
           <manufacturersku>FQ8138-103.42</manufacturersku>
           <price_with_vat>365</price_with_vat>
           <size>42</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.42.5</variationid>
