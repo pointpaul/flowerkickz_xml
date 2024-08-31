@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-31 12:03</created_at>
+  <created_at>2024-08-31 13:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -395,7 +395,7 @@
       <availability>In Stock</availability>
       <size>36,37.5</size>
       <description>Air Jordan 1 Mid Grey Sail</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Grey_Sail-BQ6472-115-1.png?v=1713669397</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Grey_Sail-BQ6472-115-2.png?v=1713669397</image>
@@ -417,7 +417,7 @@
           <manufacturersku>BQ6472-115.37.5</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>37.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
