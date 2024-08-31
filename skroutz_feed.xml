@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-08-31 09:03</created_at>
+  <created_at>2024-08-31 10:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -4409,7 +4409,7 @@
       <availability>In Stock</availability>
       <size>2X-LARGE,X-LARGE</size>
       <description>Trapstar Can't Trap A Trapper Tee Black</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <variations>
         <variation>
           <variationid>48497030267213.2X-LARGE</variationid>
@@ -4418,7 +4418,7 @@
           <manufacturersku>86943762.2X-LARGE</manufacturersku>
           <price_with_vat>145</price_with_vat>
           <size>2X-LARGE</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48497030267213.X-LARGE</variationid>
