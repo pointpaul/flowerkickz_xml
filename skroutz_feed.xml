@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-01 03:03</created_at>
+  <created_at>2024-09-01 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -393,33 +393,13 @@
       <manufacturer>Air Jordan</manufacturer>
       <ean>196152183019</ean>
       <availability>In Stock</availability>
-      <size>36,37.5</size>
+      <size>36</size>
       <description>Air Jordan 1 Mid Grey Sail</description>
       <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Grey_Sail-BQ6472-115-1.png?v=1713669397</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Grey_Sail-BQ6472-115-2.png?v=1713669397</image>
       </additional_images>
-      <variations>
-        <variation>
-          <variationid>45152011387011.36</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-grey-sail</link>
-          <availability>In Stock</availability>
-          <manufacturersku>BQ6472-115.36</manufacturersku>
-          <price_with_vat>285</price_with_vat>
-          <size>36</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45152011387011.37.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-grey-sail</link>
-          <availability>In Stock</availability>
-          <manufacturersku>BQ6472-115.37.5</manufacturersku>
-          <price_with_vat>285</price_with_vat>
-          <size>37.5</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>DQ7683-001</id>
