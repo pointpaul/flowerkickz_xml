@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-03 11:03</created_at>
+  <created_at>2024-09-03 12:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -12664,7 +12664,7 @@
       <availability>In Stock</availability>
       <size>2X-SMALL</size>
       <description>Fear of God Essentials T-Shirt Black Velvet Taupe</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>83390874</id>
@@ -16280,7 +16280,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>249</quantity>
+      <quantity>248</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-1.webp?v=1713688442</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-2.webp?v=1713688445</image>
@@ -16365,7 +16365,7 @@
           <manufacturersku>ID5103.47</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>47</size>
-          <quantity>22</quantity>
+          <quantity>21</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.48.5</variationid>
