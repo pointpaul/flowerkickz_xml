@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-03 03:03</created_at>
+  <created_at>2024-09-03 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -8372,7 +8372,7 @@
       <manufacturer>Air Jordan</manufacturer>
       <ean>95421059</ean>
       <availability>In Stock</availability>
-      <size>36,38</size>
+      <size>36</size>
       <description>Air Jordan 1 Low Wolf Grey</description>
       <quantity>1</quantity>
       <additional_images>
@@ -8383,26 +8383,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Low_Wolf_Grey-DC0774-105-5.jpg?v=1713668718</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Low_Wolf_Grey-DC0774-105-6.jpg?v=1713668718</image>
       </additional_images>
-      <variations>
-        <variation>
-          <variationid>45129102262403.36</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-wolf-grey</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DC0774-105.36</manufacturersku>
-          <price_with_vat>285</price_with_vat>
-          <size>36</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45129102262403.38</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-wolf-grey</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DC0774-105.38</manufacturersku>
-          <price_with_vat>285</price_with_vat>
-          <size>38</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>DH6927-017</id>
@@ -11178,23 +11158,6 @@
           <quantity>1</quantity>
         </variation>
       </variations>
-    </product>
-    <product>
-      <id>97218573</id>
-      <name>Trapstar Excursion T-Bag Black</name>
-      <link>https://www.flowerkickz.gr/products/trapstar-excursion-t-bag-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/bag11.png?v=1698399899</image>
-      <category>Sneakers</category>
-      <price_with_vat>230</price_with_vat>
-      <manufacturer>Trapstar</manufacturer>
-      <ean>28137037</ean>
-      <availability>In Stock</availability>
-      <size>O/S</size>
-      <description>Trapstar Excursion T-Bag Black</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/bag12.png?v=1698399899</image>
-      </additional_images>
     </product>
     <product>
       <id>67646635</id>
