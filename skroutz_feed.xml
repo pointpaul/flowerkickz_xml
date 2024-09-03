@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-03 13:04</created_at>
+  <created_at>2024-09-03 14:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -2285,7 +2285,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low Black Supreme</description>
-      <quantity>57</quantity>
+      <quantity>56</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-1.png?v=1713664941</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-2.png?v=1713664941</image>
@@ -2317,7 +2317,7 @@
           <manufacturersku>CU9225-001.42.5</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>42.5</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>45212023324803.43</variationid>
@@ -11094,7 +11094,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM</size>
       <description>Fear of God Essentials Shorts Off-Black FW22</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <variations>
         <variation>
           <variationid>49585548263757.LARGE</variationid>
@@ -11112,7 +11112,7 @@
           <manufacturersku>17600524.MEDIUM</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -20620,6 +20620,235 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_3_Black_White-CD7005-003-1.png?v=1713674980</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_3_Black_White-CD7005-003-2.png?v=1713674980</image>
       </additional_images>
+    </product>
+    <product>
+      <id>476351</id>
+      <name>KAWS x Uniqlo Warhol UT Graphic T-Shirt Black</name>
+      <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_160b7430-d7c5-4121-8948-f4b73c94cd7b.png?v=1725369821</image>
+      <category>Sneakers</category>
+      <price_with_vat>105</price_with_vat>
+      <manufacturer>KAWS</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
+      <description>KAWS x Uniqlo Warhol UT Graphic T-Shirt Black</description>
+      <quantity>10</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_cd386c2b-ccbd-412a-82c1-006ea34edd5a.png?v=1725369820</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52168746074445.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476351.LARGE</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>LARGE</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52168746074445.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476351.MEDIUM</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52168746074445.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476351.SMALL</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52168746074445.X-SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476351.X-SMALL</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>X-SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52168746074445.Χ-LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476351.Χ-LARGE</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>Χ-LARGE</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>476352</id>
+      <name>KAWS x Uniqlo Warhol UT Graphic T-Shirt Black Red</name>
+      <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black-red</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_720d8b65-6be2-4612-87a4-0e90d083d92a.png?v=1725370199</image>
+      <category>Sneakers</category>
+      <price_with_vat>105</price_with_vat>
+      <manufacturer>KAWS</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
+      <description>KAWS x Uniqlo Warhol UT Graphic T-Shirt Black Red</description>
+      <quantity>10</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2_73d0640e-4ab6-45f1-a72f-32e13fd9c69b.png?v=1725370199</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52168761704781.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black-red</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476352.LARGE</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>LARGE</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52168761704781.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black-red</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476352.MEDIUM</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52168761704781.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black-red</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476352.SMALL</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52168761704781.X-SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black-red</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476352.X-SMALL</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>X-SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52168761704781.Χ-LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black-red</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476352.Χ-LARGE</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>Χ-LARGE</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>471321</id>
+      <name>KAWS x Uniqlo Warhol UT Graphic White Blue T-Shirt</name>
+      <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/22.png?v=1725370565</image>
+      <category>Sneakers</category>
+      <price_with_vat>105</price_with_vat>
+      <manufacturer>KAWS</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
+      <description>KAWS x Uniqlo Warhol UT Graphic White Blue T-Shirt</description>
+      <quantity>10</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/11_b3d20fed-25d7-4ff2-bc0b-d308bc001268.png?v=1725370565</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52168799617357.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
+          <availability>In Stock</availability>
+          <manufacturersku>471321.LARGE</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>LARGE</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52168799617357.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
+          <availability>In Stock</availability>
+          <manufacturersku>471321.MEDIUM</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52168799617357.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
+          <availability>In Stock</availability>
+          <manufacturersku>471321.SMALL</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52168799617357.X-SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
+          <availability>In Stock</availability>
+          <manufacturersku>471321.X-SMALL</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>X-SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52168799617357.Χ-LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
+          <availability>In Stock</availability>
+          <manufacturersku>471321.Χ-LARGE</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>Χ-LARGE</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>476350</id>
+      <name>KAWS x Uniqlo Warhol UT Graphic White Rred T-Shirt</name>
+      <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-rred-t-shirt</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/222.png?v=1725370855</image>
+      <category>Sneakers</category>
+      <price_with_vat>105</price_with_vat>
+      <manufacturer>KAWS</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>LARGE,Χ-LARGE</size>
+      <description>KAWS x Uniqlo Warhol UT Graphic White Rred T-Shirt</description>
+      <quantity>8</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/111.png?v=1725370855</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52168820883789.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-rred-t-shirt</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476350.LARGE</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>LARGE</size>
+          <quantity>4</quantity>
+        </variation>
+        <variation>
+          <variationid>52168820883789.Χ-LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-rred-t-shirt</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476350.Χ-LARGE</manufacturersku>
+          <price_with_vat>105</price_with_vat>
+          <size>Χ-LARGE</size>
+          <quantity>4</quantity>
+        </variation>
+      </variations>
     </product>
   </products>
 </FlowerKickz>
