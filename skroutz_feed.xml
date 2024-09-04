@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-04 17:03</created_at>
+  <created_at>2024-09-04 18:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -18196,7 +18196,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47,47.5</size>
       <description>Air Force 1 Low Chunky Rope Laces Beige</description>
-      <quantity>134</quantity>
+      <quantity>133</quantity>
       <variations>
         <variation>
           <variationid>51960963072333.40</variationid>
@@ -18241,7 +18241,7 @@
           <manufacturersku>315115-112.42.5</manufacturersku>
           <price_with_vat>275</price_with_vat>
           <size>42.5</size>
-          <quantity>12</quantity>
+          <quantity>11</quantity>
         </variation>
         <variation>
           <variationid>51960963072333.43</variationid>
