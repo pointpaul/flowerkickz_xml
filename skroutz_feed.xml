@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-04 13:04</created_at>
+  <created_at>2024-09-04 14:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -12171,13 +12171,33 @@
       <manufacturer>Nike</manufacturer>
       <ean>194276073827</ean>
       <availability>In Stock</availability>
-      <size>36.5</size>
+      <size>36.5,46</size>
       <description>SB Dunk Low Sashiko</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Sashiko-CV0316-400-1.png?v=1713685550</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Sashiko-CV0316-400-2.png?v=1713685550</image>
       </additional_images>
+      <variations>
+        <variation>
+          <variationid>45129979789443.36.5</variationid>
+          <link>https://www.flowerkickz.gr/products/sb-dunk-low-sashiko</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CV0316-400.36.5</manufacturersku>
+          <price_with_vat>520</price_with_vat>
+          <size>36.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>45129979789443.46</variationid>
+          <link>https://www.flowerkickz.gr/products/sb-dunk-low-sashiko</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CV0316-400.46</manufacturersku>
+          <price_with_vat>580</price_with_vat>
+          <size>46</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>GY5368</id>
