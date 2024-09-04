@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-04 03:03</created_at>
+  <created_at>2024-09-04 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -9502,7 +9502,7 @@
       <manufacturer>Air Jordan</manufacturer>
       <ean>17331587</ean>
       <availability>In Stock</availability>
-      <size>35.5,36,36.5,37.5,38.5,39</size>
+      <size>35.5,36,36.5,37.5,39</size>
       <description>Air Jordan 1 Mid Ice Blue</description>
       <quantity>7</quantity>
       <additional_images>
@@ -9545,15 +9545,6 @@
           <price_with_vat>250</price_with_vat>
           <size>37.5</size>
           <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>45171993903235.38.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-ice-blue</link>
-          <availability>In Stock</availability>
-          <manufacturersku>555112-401.38.5</manufacturersku>
-          <price_with_vat>250</price_with_vat>
-          <size>38.5</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45171993903235.39</variationid>
