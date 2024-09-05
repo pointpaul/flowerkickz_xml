@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-05 03:03</created_at>
+  <created_at>2024-09-05 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -4449,7 +4449,7 @@
       <manufacturer>Nike</manufacturer>
       <ean>194274091311</ean>
       <availability>In Stock</availability>
-      <size>40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47.5</size>
+      <size>40,40.5,41,42.5,43,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
       <quantity>58</quantity>
       <additional_images>
@@ -4484,15 +4484,6 @@
           <price_with_vat>320</price_with_vat>
           <size>41</size>
           <quantity>7</quantity>
-        </variation>
-        <variation>
-          <variationid>45132063670403.42</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-white-supreme</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CU9225-100.42</manufacturersku>
-          <price_with_vat>320</price_with_vat>
-          <size>42</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45132063670403.42.5</variationid>
