@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-05 02:03</created_at>
+  <created_at>2024-09-05 03:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -15972,7 +15972,7 @@
       <link>https://www.flowerkickz.gr/products/handball-spezial-preloved-green-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzHandball_Spezial_Preloved_Green_White-IG6192-0.webp?v=1713682973</image>
       <category>Sneakers</category>
-      <price_with_vat>285</price_with_vat>
+      <price_with_vat>260</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -15990,7 +15990,7 @@
           <link>https://www.flowerkickz.gr/products/handball-spezial-preloved-green-white</link>
           <availability>In Stock</availability>
           <manufacturersku>IG6192.36</manufacturersku>
-          <price_with_vat>285</price_with_vat>
+          <price_with_vat>260</price_with_vat>
           <size>36</size>
           <quantity>1</quantity>
         </variation>
