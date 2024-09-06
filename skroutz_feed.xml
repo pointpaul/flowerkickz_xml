@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-06 12:04</created_at>
+  <created_at>2024-09-06 13:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -8613,7 +8613,7 @@
       <availability>In Stock</availability>
       <size>37.5,38,39,40</size>
       <description>Air Jordan 1 Mid Valentine’s Day</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Valentine_s_Day-DQ8423-616-1.png?v=1713670496</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Valentine_s_Day-DQ8423-616-2.png?v=1713670496</image>
@@ -8644,7 +8644,7 @@
           <manufacturersku>DQ8423-616.39</manufacturersku>
           <price_with_vat>280</price_with_vat>
           <size>39</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>48622853456205.40</variationid>
