@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-07 03:03</created_at>
+  <created_at>2024-09-07 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -8611,7 +8611,7 @@
       <manufacturer>Air Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>37.5,38,39,40</size>
+      <size>37.5,38,40</size>
       <description>Air Jordan 1 Mid Valentine’s Day</description>
       <quantity>6</quantity>
       <additional_images>
@@ -8636,15 +8636,6 @@
           <price_with_vat>280</price_with_vat>
           <size>38</size>
           <quantity>3</quantity>
-        </variation>
-        <variation>
-          <variationid>48622853456205.39</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-valentine-s-day</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DQ8423-616.39</manufacturersku>
-          <price_with_vat>280</price_with_vat>
-          <size>39</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>48622853456205.40</variationid>
@@ -12326,63 +12317,6 @@
       </additional_images>
     </product>
     <product>
-      <id>GW3773</id>
-      <name>Yeezy Boost 350 V2 MX Oat</name>
-      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-oat</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_MX_Oat-GW3773-0.png?v=1713687728</image>
-      <category>Sneakers</category>
-      <price_with_vat>475</price_with_vat>
-      <manufacturer>Adidas</manufacturer>
-      <ean>GW3773435</ean>
-      <availability>In Stock</availability>
-      <size>37 1/3,38,38 2/3,43 1/3</size>
-      <description>Yeezy Boost 350 V2 MX Oat</description>
-      <quantity>3</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_MX_Oat-GW3773-1.png?v=1713687728</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_MX_Oat-GW3773-2.png?v=1713687728</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_MX_Oat-GW3773-3.png?v=1713687728</image>
-      </additional_images>
-      <variations>
-        <variation>
-          <variationid>45130118135939.37-1/3</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-oat</link>
-          <availability>In Stock</availability>
-          <manufacturersku>GW3773.37-1/3</manufacturersku>
-          <price_with_vat>445</price_with_vat>
-          <size>37 1/3</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45130118135939.38</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-oat</link>
-          <availability>In Stock</availability>
-          <manufacturersku>GW3773.38</manufacturersku>
-          <price_with_vat>490</price_with_vat>
-          <size>38</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45130118135939.38-2/3</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-oat</link>
-          <availability>In Stock</availability>
-          <manufacturersku>GW3773.38-2/3</manufacturersku>
-          <price_with_vat>545</price_with_vat>
-          <size>38 2/3</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45130118135939.43-1/3</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-oat</link>
-          <availability>In Stock</availability>
-          <manufacturersku>GW3773.43-1/3</manufacturersku>
-          <price_with_vat>475</price_with_vat>
-          <size>43 1/3</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
-    </product>
-    <product>
       <id>HP8739</id>
       <name>Yeezy Foam RNNR Onyx</name>
       <link>https://www.flowerkickz.gr/products/yeezy-foam-rnnr-onyx</link>
@@ -15324,6 +15258,54 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Black_Cat-CU1110-010-1.png?v=1713672434</image>
       </additional_images>
+    </product>
+    <product>
+      <id>GW3773</id>
+      <name>Yeezy Boost 350 V2 MX Oat</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-oat</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_MX_Oat-GW3773-0.png?v=1713687728</image>
+      <category>Sneakers</category>
+      <price_with_vat>445</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <ean>10672003</ean>
+      <availability>In Stock</availability>
+      <size>37 1/3,38,38 2/3</size>
+      <description>Yeezy Boost 350 V2 MX Oat</description>
+      <quantity>3</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_MX_Oat-GW3773-1.png?v=1713687728</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_MX_Oat-GW3773-2.png?v=1713687728</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_MX_Oat-GW3773-3.png?v=1713687728</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>45130117841027.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-oat</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GW3773.37-1/3</manufacturersku>
+          <price_with_vat>445</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>45130117841027.38</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-oat</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GW3773.38</manufacturersku>
+          <price_with_vat>490</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>45130117841027.38-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-oat</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GW3773.38-2/3</manufacturersku>
+          <price_with_vat>545</price_with_vat>
+          <size>38 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>GV6775</id>
