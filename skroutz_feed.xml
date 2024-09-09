@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-09 14:04</created_at>
+  <created_at>2024-09-09 15:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -5582,9 +5582,9 @@
       <manufacturer>Air Jordan</manufacturer>
       <ean>196158834673</ean>
       <availability>In Stock</availability>
-      <size>35.5,36,37.5,38,40.5,42,42.5,44</size>
+      <size>35.5,36,37.5,38,40,40.5,42,42.5,44</size>
       <description>Air Jordan 1 Mid French Blue Fire Red</description>
-      <quantity>12</quantity>
+      <quantity>13</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_French_Blue_Fire_Red-DN3706-401-1.png?v=1713669351</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_French_Blue_Fire_Red-DN3706-401-2.png?v=1713669351</image>
@@ -5624,6 +5624,15 @@
           <manufacturersku>DN3706-401.38</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>45129127919747.40</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-french-blue-fire-red</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DN3706-401.40</manufacturersku>
+          <price_with_vat>275</price_with_vat>
+          <size>40</size>
           <quantity>1</quantity>
         </variation>
         <variation>
