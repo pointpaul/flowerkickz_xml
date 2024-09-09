@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-09 10:03</created_at>
+  <created_at>2024-09-09 11:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -12674,7 +12674,7 @@
       <availability>In Stock</availability>
       <size>35/40.5,41/48</size>
       <description>Crep Protect Sneaker Guards</description>
-      <quantity>5</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>49816970101069.35/40.5</variationid>
@@ -12683,7 +12683,7 @@
           <manufacturersku>31970704.35/40.5</manufacturersku>
           <price_with_vat>15</price_with_vat>
           <size>35/40.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49816970101069.41/48</variationid>
@@ -12692,7 +12692,7 @@
           <manufacturersku>31970704.41/48</manufacturersku>
           <price_with_vat>15</price_with_vat>
           <size>41/48</size>
-          <quantity>3</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -14969,7 +14969,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38.5,39,40.5,41,42,42.5,43,44,44.5</size>
       <description>Air Jordan 4 Retro Military Blue (2024)</description>
-      <quantity>34</quantity>
+      <quantity>33</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Military_Blue_2024_-FV5029-141-1.webp?v=1714787509</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Military_Blue_2024_-FV5029-141-2.webp?v=1714787511</image>
@@ -15054,7 +15054,7 @@
           <manufacturersku>HF4281-141.42</manufacturersku>
           <price_with_vat>490</price_with_vat>
           <size>42</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>50826654875981.42.5</variationid>
@@ -16482,13 +16482,33 @@
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>37.5</size>
+      <size>37.5,46</size>
       <description>Air Force 1 Low Billie Eilish White</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Billie_Eilish_White-DZ3674-100-1.png?v=1713664909</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Billie_Eilish_White-DZ3674-100-2.png?v=1713664909</image>
       </additional_images>
+      <variations>
+        <variation>
+          <variationid>48566818373965.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-billie-eilish-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DZ3674-100.37.5</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>37.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48566818373965.46</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-billie-eilish-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DZ3674-100.46</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>46</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>FQ2431-001</id>
@@ -20833,6 +20853,37 @@
           <quantity>4</quantity>
         </variation>
       </variations>
+    </product>
+    <product>
+      <id>ID1600</id>
+      <name>Yeezy 500 Stone Taupe</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-500-stone-taupe</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_500_Stone_Taupe-ID1600-0.webp?v=1713686873</image>
+      <category>Sneakers</category>
+      <price_with_vat>455</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>46 2/3</size>
+      <description>Yeezy 500 Stone Taupe</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>DJ8604-400</id>
+      <name>Air Zoom Flight 95 SP Supreme University Blue</name>
+      <link>https://www.flowerkickz.gr/products/air-zoom-flight-95-sp-supreme-university-blue</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzAir_Zoom_Flight_95_SP_Supreme_University_Blue-DJ8604-400-0_c9762188-eb3c-48e8-ad74-fa6ba263eaff.png?v=1691146277</image>
+      <category>Sneakers</category>
+      <price_with_vat>420</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean>74120835</ean>
+      <availability>In Stock</availability>
+      <size>45.5</size>
+      <description>Air Zoom Flight 95 SP Supreme University Blue</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzAir_Zoom_Flight_95_SP_Supreme_University_Blue-DJ8604-400-1_6870fd7b-f251-417b-b58a-ad05470ab6ee.png?v=1691146277</image>
+      </additional_images>
     </product>
   </products>
 </FlowerKickz>
