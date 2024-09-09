@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-09 12:04</created_at>
+  <created_at>2024-09-09 13:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -2285,7 +2285,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low Black Supreme</description>
-      <quantity>52</quantity>
+      <quantity>51</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-1.png?v=1713664941</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-2.png?v=1713664941</image>
@@ -2344,7 +2344,7 @@
           <manufacturersku>CU9225-001.44.5</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>44.5</size>
-          <quantity>9</quantity>
+          <quantity>8</quantity>
         </variation>
         <variation>
           <variationid>45212023324803.45</variationid>
@@ -4451,7 +4451,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42.5,43,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>55</quantity>
+      <quantity>54</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_White_Supreme-CU9225-100-1.png?v=1713665987</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_White_Supreme-CU9225-100-2.png?v=1713665987</image>
@@ -4501,7 +4501,7 @@
           <manufacturersku>CU9225-100.43</manufacturersku>
           <price_with_vat>320</price_with_vat>
           <size>43</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>45132063670403.44</variationid>
@@ -20435,7 +20435,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44,45,46</size>
       <description>Air Max Plus Patta FC Barcelona</description>
-      <quantity>199</quantity>
+      <quantity>198</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-1_3a199d00-293f-4469-bcf9-8231319cfb6a.png?v=1713675219</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-2_717f5c12-1234-4591-bb27-e609e01bd71d.png?v=1713675219</image>
@@ -20493,7 +20493,7 @@
           <manufacturersku>FN8260-001.45</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>45</size>
-          <quantity>23</quantity>
+          <quantity>22</quantity>
         </variation>
         <variation>
           <variationid>49558557786445.46</variationid>
