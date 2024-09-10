@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-10 03:03</created_at>
+  <created_at>2024-09-10 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -1062,7 +1062,7 @@
       <manufacturer>Air Jordan</manufacturer>
       <ean>195243826033</ean>
       <availability>In Stock</availability>
-      <size>40,41,42,42.5,44,44.5,46</size>
+      <size>40,42,42.5,44,44.5,46</size>
       <description>Air Jordan 1 Low Bred Toe (2021)</description>
       <quantity>6</quantity>
       <additional_images>
@@ -1079,15 +1079,6 @@
           <price_with_vat>250</price_with_vat>
           <size>40</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45129018343555.41</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-bred-toe-2021</link>
-          <availability>In Stock</availability>
-          <manufacturersku>553558-612.41</manufacturersku>
-          <price_with_vat>230</price_with_vat>
-          <size>41</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45129018343555.42</variationid>
