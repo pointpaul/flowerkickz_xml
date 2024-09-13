@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-13 21:04</created_at>
+  <created_at>2024-09-13 22:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -14279,7 +14279,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47,47.5</size>
       <description>Air Force 1 Low '07 Triple White</description>
-      <quantity>131</quantity>
+      <quantity>130</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Triple_White-315115-112-1.png?v=1713664808</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Triple_White-315115-112-2.png?v=1713664808</image>
@@ -14320,7 +14320,7 @@
           <manufacturersku>315115-112.42</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>42</size>
-          <quantity>11</quantity>
+          <quantity>10</quantity>
         </variation>
         <variation>
           <variationid>45207330488451.42.5</variationid>
