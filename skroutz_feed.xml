@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-14 09:03</created_at>
+  <created_at>2024-09-14 10:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -2276,7 +2276,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low Black Supreme</description>
-      <quantity>47</quantity>
+      <quantity>46</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-1.png?v=1713664941</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-2.png?v=1713664941</image>
@@ -2344,7 +2344,7 @@
           <manufacturersku>CU9225-001.45</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>45</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>45212023324803.45.5</variationid>
@@ -2463,7 +2463,7 @@
       <availability>In Stock</availability>
       <size>36.5,37.5,38,38.5,39,40,40.5</size>
       <description>Dunk Low Rose Whisper</description>
-      <quantity>31</quantity>
+      <quantity>30</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Rose_Whisper-DD1503-118-1_a7d5f660-6d4d-45f6-bc76-a5fae0612a76.png?v=1713680477</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Rose_Whisper-DD1503-118-2_6c571b34-dbbc-4ecc-b12d-aa19828f77e5.png?v=1713680477</image>
@@ -2495,7 +2495,7 @@
           <manufacturersku>DD1503-118.38</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>38</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45207516741763.38.5</variationid>
