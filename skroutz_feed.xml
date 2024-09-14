@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-14 03:03</created_at>
+  <created_at>2024-09-14 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6893,20 +6893,6 @@
       <size>X-LARGE</size>
       <description>Fear of God Essentials T-Shirt Desert Taupe</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id>10854112</id>
-      <name>Fear of God Essentials T-Shirt Plum SS23</name>
-      <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-plum-ss23</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/plumshirtss23.png?v=1688997720</image>
-      <category>Sneakers</category>
-      <price_with_vat>190</price_with_vat>
-      <manufacturer>Essentials</manufacturer>
-      <ean>56819789</ean>
-      <availability>In Stock</availability>
-      <size>SMALL</size>
-      <description>Fear of God Essentials T-Shirt Plum SS23</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>15629672</id>
