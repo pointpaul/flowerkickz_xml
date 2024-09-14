@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-14 16:03</created_at>
+  <created_at>2024-09-14 17:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -2276,7 +2276,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low Black Supreme</description>
-      <quantity>46</quantity>
+      <quantity>45</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-1.png?v=1713664941</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-2.png?v=1713664941</image>
@@ -2299,7 +2299,7 @@
           <manufacturersku>CU9225-001.42</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>42</size>
-          <quantity>8</quantity>
+          <quantity>7</quantity>
         </variation>
         <variation>
           <variationid>45212023324803.42.5</variationid>
@@ -4380,7 +4380,7 @@
       <availability>In Stock</availability>
       <size>2X-LARGE,X-LARGE</size>
       <description>Trapstar Can't Trap A Trapper Tee Black</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>48497030267213.2X-LARGE</variationid>
@@ -4398,7 +4398,7 @@
           <manufacturersku>86943762.X-LARGE</manufacturersku>
           <price_with_vat>145</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
       </variations>
     </product>
@@ -7240,7 +7240,7 @@
       <availability>In Stock</availability>
       <size>2X-LARGE,X-LARGE</size>
       <description>Trapstar Trap Invasion Tee White</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>49045680324941.2X-LARGE</variationid>
@@ -7258,7 +7258,7 @@
           <manufacturersku>15534016.X-LARGE</manufacturersku>
           <price_with_vat>145</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
