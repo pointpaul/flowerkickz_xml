@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-14 11:03</created_at>
+  <created_at>2024-09-14 12:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -7510,7 +7510,7 @@
       <availability>In Stock</availability>
       <size>42,42.5,44,45</size>
       <description>Air Jordan 1 Retro High OG UNC Toe (2023)</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_OG_UNC_Toe_2023_-FD1437-400-1.png?v=1713671187</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_OG_UNC_Toe_2023_-FD1437-400-2.png?v=1713671187</image>
@@ -7551,7 +7551,7 @@
           <manufacturersku>DZ5485-400.45</manufacturersku>
           <price_with_vat>375</price_with_vat>
           <size>45</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
