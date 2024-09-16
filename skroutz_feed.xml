@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-16 09:04</created_at>
+  <created_at>2024-09-16 10:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20262,7 +20262,7 @@
       <availability>In Stock</availability>
       <size>39,40.5,42,43,44.5,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx (Broadcast Channel Bonus)</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-1.webp?v=1713688442</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-2.webp?v=1713688445</image>
@@ -20302,7 +20302,7 @@
           <manufacturersku>ID5103TEST.43</manufacturersku>
           <price_with_vat>95</price_with_vat>
           <size>43</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52126982865229.44.5</variationid>
@@ -20828,6 +20828,24 @@
       <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_350_V2_CMPCT_Slate_Onyx-IG9606-1_52686468-a8fb-4726-baa5-81947969ca7a.png?v=1713686669</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DV5255-400</id>
+      <name>Air Force 1 Low Undefeated Multi Patent</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-low-undefeated-multi-patent</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Undefeated_Multi_Patent-DV5255-400-0.png?v=1713665885</image>
+      <category>Sneakers</category>
+      <price_with_vat>355</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean>83215491</ean>
+      <availability>In Stock</availability>
+      <size>41</size>
+      <description>Air Force 1 Low Undefeated Multi Patent</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Undefeated_Multi_Patent-DV5255-400-1.png?v=1713665885</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Undefeated_Multi_Patent-DV5255-400-2.png?v=1713665885</image>
       </additional_images>
     </product>
   </products>
