@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-16 21:03</created_at>
+  <created_at>2024-09-16 22:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -10591,7 +10591,7 @@
       <availability>In Stock</availability>
       <size>38,42.5,43,44.5,46,47</size>
       <description>Air Jordan 4 Red Cement</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Red_Cement-408452-161-1.png?v=1713672523</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Red_Cement-408452-161-2.png?v=1713672523</image>
@@ -10623,7 +10623,7 @@
           <manufacturersku>DH6927-161.43</manufacturersku>
           <price_with_vat>445</price_with_vat>
           <size>43</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49343293915469.44.5</variationid>
@@ -12602,7 +12602,7 @@
       <availability>In Stock</availability>
       <size>35/40.5,41/48</size>
       <description>Crep Protect Sneaker Guards</description>
-      <quantity>12</quantity>
+      <quantity>11</quantity>
       <variations>
         <variation>
           <variationid>49816970101069.35/40.5</variationid>
@@ -12611,7 +12611,7 @@
           <manufacturersku>31970704.35/40.5</manufacturersku>
           <price_with_vat>15</price_with_vat>
           <size>35/40.5</size>
-          <quantity>10</quantity>
+          <quantity>9</quantity>
         </variation>
         <variation>
           <variationid>49816970101069.41/48</variationid>
