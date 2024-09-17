@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-17 03:03</created_at>
+  <created_at>2024-09-17 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -14595,20 +14595,6 @@
       <size>X-LARGE</size>
       <description>Bape Tee A Bathing Ape 31st Anniversary Ape Head White</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id>10407194 -4</id>
-      <name>Bape Tee A Bathing Ape 31st Anniversary ABC Camo White Blue</name>
-      <link>https://www.flowerkickz.gr/products/bape-tee-a-bathing-ape-31st-anniversary-abc-camo-1</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/31WHITE.png?v=1714738982</image>
-      <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <ean>15713637</ean>
-      <availability>In Stock</availability>
-      <size>X-LARGE</size>
-      <description>Bape Tee A Bathing Ape 31st Anniversary ABC Camo White Blue</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>03438725 -4</id>
