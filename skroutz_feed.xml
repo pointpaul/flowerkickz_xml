@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-18 12:03</created_at>
+  <created_at>2024-09-18 13:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20832,6 +20832,25 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Undefeated_Multi_Patent-DV5255-400-1.png?v=1713665885</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Undefeated_Multi_Patent-DV5255-400-2.png?v=1713665885</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>315115-038</id>
+      <name>Air Force 1 Low '07 Triple Black</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-low-07-triple-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Triple_Black-315115-038-0.png?v=1713664799</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean>93824387</ean>
+      <availability>In Stock</availability>
+      <size>44</size>
+      <description>Air Force 1 Low '07 Triple Black</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Triple_Black-315115-038-1.png?v=1713664799</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Triple_Black-315115-038-2.png?v=1713664799</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Triple_Black-315115-038-3.png?v=1713664799</image>
       </additional_images>
     </product>
   </products>
