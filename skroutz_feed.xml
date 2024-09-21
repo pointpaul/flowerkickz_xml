@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-21 13:03</created_at>
+  <created_at>2024-09-21 14:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20837,6 +20837,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Triple_Black-315115-038-1.png?v=1713664799</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Triple_Black-315115-038-2.png?v=1713664799</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Triple_Black-315115-038-3.png?v=1713664799</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DD1503-120</id>
+      <name>Dunk Low Medium Olive</name>
+      <link>https://www.flowerkickz.gr/products/dunk-low-medium-olive</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Medium_Olive-DD1503-120-0_f2cfb7aa-7b80-4929-9fc0-bfaf7b7bbf2d.png?v=1713679481</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean>60128131</ean>
+      <availability>In Stock</availability>
+      <size>40</size>
+      <description>Dunk Low Medium Olive</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Medium_Olive-DD1503-120-1_05d4c65e-c2e0-4b45-b2f2-737643810780.png?v=1713679481</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Medium_Olive-DD1503-120-2_ea588f7c-2157-4a5f-8f65-213cc64dbb5a.png?v=1713679481</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Medium_Olive-DD1503-120-3_31064768-ffaf-41d6-94b0-815fe992a93a.png?v=1713679481</image>
       </additional_images>
     </product>
   </products>
