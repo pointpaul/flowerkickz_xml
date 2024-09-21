@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-21 03:03</created_at>
+  <created_at>2024-09-21 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -14643,20 +14643,6 @@
           <quantity>1</quantity>
         </variation>
       </variations>
-    </product>
-    <product>
-      <id/>
-      <name>Bape Tee Hand Draw Pattern By Bathing Ape</name>
-      <link>https://www.flowerkickz.gr/products/bape-tee-hand-draw-pattern-by-bathing-ape</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2_f0bb6f4d-0cb7-413f-ae77-3d876bdc34a2.png?v=1714741655</image>
-      <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <ean>76520637</ean>
-      <availability>In Stock</availability>
-      <size>LARGE</size>
-      <description>Bape Tee Hand Draw Pattern By Bathing Ape</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>59136905 -2</id>
