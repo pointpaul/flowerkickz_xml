@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-26 03:03</created_at>
+  <created_at>2024-09-26 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -2261,117 +2261,6 @@
           <price_with_vat>355</price_with_vat>
           <size>40</size>
           <quantity>2</quantity>
-        </variation>
-      </variations>
-    </product>
-    <product>
-      <id>CU9225-001</id>
-      <name>Air Force 1 Low Black Supreme</name>
-      <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-0.png?v=1713664941</image>
-      <category>Sneakers</category>
-      <price_with_vat>295</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean>194274091076</ean>
-      <availability>In Stock</availability>
-      <size>41,42,42.5,43,44,44.5,45,45.5,46,47.5</size>
-      <description>Air Force 1 Low Black Supreme</description>
-      <quantity>44</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-1.png?v=1713664941</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-2.png?v=1713664941</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-3.png?v=1713664941</image>
-      </additional_images>
-      <variations>
-        <variation>
-          <variationid>45212023324803.41</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CU9225-001.41</manufacturersku>
-          <price_with_vat>310</price_with_vat>
-          <size>41</size>
-          <quantity>7</quantity>
-        </variation>
-        <variation>
-          <variationid>45212023324803.42</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CU9225-001.42</manufacturersku>
-          <price_with_vat>330</price_with_vat>
-          <size>42</size>
-          <quantity>7</quantity>
-        </variation>
-        <variation>
-          <variationid>45212023324803.42.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CU9225-001.42.5</manufacturersku>
-          <price_with_vat>330</price_with_vat>
-          <size>42.5</size>
-          <quantity>5</quantity>
-        </variation>
-        <variation>
-          <variationid>45212023324803.43</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CU9225-001.43</manufacturersku>
-          <price_with_vat>330</price_with_vat>
-          <size>43</size>
-          <quantity>4</quantity>
-        </variation>
-        <variation>
-          <variationid>45212023324803.44</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CU9225-001.44</manufacturersku>
-          <price_with_vat>295</price_with_vat>
-          <size>44</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>45212023324803.44.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CU9225-001.44.5</manufacturersku>
-          <price_with_vat>295</price_with_vat>
-          <size>44.5</size>
-          <quantity>7</quantity>
-        </variation>
-        <variation>
-          <variationid>45212023324803.45</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CU9225-001.45</manufacturersku>
-          <price_with_vat>310</price_with_vat>
-          <size>45</size>
-          <quantity>5</quantity>
-        </variation>
-        <variation>
-          <variationid>45212023324803.45.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CU9225-001.45.5</manufacturersku>
-          <price_with_vat>295</price_with_vat>
-          <size>45.5</size>
-          <quantity>5</quantity>
-        </variation>
-        <variation>
-          <variationid>45212023324803.46</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CU9225-001.46</manufacturersku>
-          <price_with_vat>330</price_with_vat>
-          <size>46</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45212023324803.47.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CU9225-001.47.5</manufacturersku>
-          <price_with_vat>285</price_with_vat>
-          <size>47.5</size>
-          <quantity>3</quantity>
         </variation>
       </variations>
     </product>
@@ -14151,6 +14040,108 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_The_Powerpuff_Girls_Blossom-FD2631-600-3_5a732c4f-88fe-4d39-a83d-a273c5ccb646.png?v=1713685614</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_The_Powerpuff_Girls_Blossom-FD2631-600-4.png?v=1713685614</image>
       </additional_images>
+    </product>
+    <product>
+      <id>CU9225-001</id>
+      <name>Air Force 1 Low Black Supreme</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-0.png?v=1713664941</image>
+      <category>Sneakers</category>
+      <price_with_vat>330</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean>194274091045</ean>
+      <availability>In Stock</availability>
+      <size>41,42,42.5,43,44.5,45,45.5,46,47.5</size>
+      <description>Air Force 1 Low Black Supreme</description>
+      <quantity>44</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-1.png?v=1713664941</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-2.png?v=1713664941</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-3.png?v=1713664941</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>45212023226499.41</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CU9225-001.41</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>41</size>
+          <quantity>7</quantity>
+        </variation>
+        <variation>
+          <variationid>45212023226499.42</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CU9225-001.42</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>42</size>
+          <quantity>7</quantity>
+        </variation>
+        <variation>
+          <variationid>45212023226499.42.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CU9225-001.42.5</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>42.5</size>
+          <quantity>5</quantity>
+        </variation>
+        <variation>
+          <variationid>45212023226499.43</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CU9225-001.43</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>43</size>
+          <quantity>4</quantity>
+        </variation>
+        <variation>
+          <variationid>45212023226499.44.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CU9225-001.44.5</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>44.5</size>
+          <quantity>7</quantity>
+        </variation>
+        <variation>
+          <variationid>45212023226499.45</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CU9225-001.45</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>45</size>
+          <quantity>5</quantity>
+        </variation>
+        <variation>
+          <variationid>45212023226499.45.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CU9225-001.45.5</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>45.5</size>
+          <quantity>5</quantity>
+        </variation>
+        <variation>
+          <variationid>45212023226499.46</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CU9225-001.46</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>46</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>45212023226499.47.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CU9225-001.47.5</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>47.5</size>
+          <quantity>3</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>555088-037</id>
