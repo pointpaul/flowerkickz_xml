@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-26 07:03</created_at>
+  <created_at>2024-09-26 08:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -18475,7 +18475,7 @@
       <availability>In Stock</availability>
       <size>47,47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</description>
-      <quantity>23</quantity>
+      <quantity>22</quantity>
       <variations>
         <variation>
           <variationid>51967381111117.47</variationid>
@@ -18484,7 +18484,7 @@
           <manufacturersku>None.47</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>47</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>51967381111117.47.5</variationid>
@@ -20831,6 +20831,24 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Medium_Olive-DD1503-120-1_05d4c65e-c2e0-4b45-b2f2-737643810780.png?v=1713679481</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Medium_Olive-DD1503-120-2_ea588f7c-2157-4a5f-8f65-213cc64dbb5a.png?v=1713679481</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Medium_Olive-DD1503-120-3_31064768-ffaf-41d6-94b0-815fe992a93a.png?v=1713679481</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FQ2397-100</id>
+      <name>Air Max Plus Marseille</name>
+      <link>https://www.flowerkickz.gr/products/air-max-plus-marseille</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Marseille_-FQ2397-100-0_0b495a02-101c-4819-a91d-805c9f4f952f.png?v=1713675205</image>
+      <category>Sneakers</category>
+      <price_with_vat>400</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>45</size>
+      <description>Air Max Plus Marseille</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Marseille_-FQ2397-100-1_80b6e288-ab21-4c37-9997-33ee8ae1dd14.png?v=1713675205</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Marseille_-FQ2397-100-2_1e3cf42b-b9df-4dab-a43d-1e857f72c953.png?v=1713675205</image>
       </additional_images>
     </product>
   </products>
