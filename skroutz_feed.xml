@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-27 17:03</created_at>
+  <created_at>2024-09-27 18:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -3831,7 +3831,7 @@
       <availability>In Stock</availability>
       <size>41,42,43,44,44.5,48.5</size>
       <description>Air Jordan 4 SE Craft Photon Dust</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_SE_Craft_Photon_Dust-DV3742-021-1.png?v=1713672761</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_SE_Craft_Photon_Dust-DV3742-021-2.png?v=1713672761</image>
@@ -3845,7 +3845,7 @@
           <manufacturersku>DV3742-021.41</manufacturersku>
           <price_with_vat>455</price_with_vat>
           <size>41</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45210000326787.42</variationid>
@@ -18682,7 +18682,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36,37,37,37.5,37.5,38,38,38.5,38.5,39,39.5,40,40,40.5,42</size>
       <description>530 White Light Chrome Blue Clay Ash</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2_748b8492-2907-4ff0-bd70-ef4c6f53a9d2.png?v=1723126051</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions3_8b5b90d2-0cb8-466d-9fa6-f4748cbb68b3.png?v=1723126051</image>
@@ -18785,7 +18785,7 @@
           <manufacturersku>MR530PC.38.5</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>38.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52008724627789.39</variationid>
