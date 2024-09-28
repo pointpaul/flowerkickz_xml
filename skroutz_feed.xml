@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-28 12:03</created_at>
+  <created_at>2024-09-28 13:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -759,7 +759,7 @@
       <availability>In Stock</availability>
       <size>37,42,43,44.5,46</size>
       <description>Yeezy Slide Resin (Restock Pair)</description>
-      <quantity>21</quantity>
+      <quantity>20</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Resin_Restock_Pair_-FZ5904-1.png?v=1713688401</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Resin_Restock_Pair_-FZ5904-2.png?v=1713688401</image>
@@ -800,7 +800,7 @@
           <manufacturersku>FZ5904.44.5</manufacturersku>
           <price_with_vat>190</price_with_vat>
           <size>44.5</size>
-          <quantity>8</quantity>
+          <quantity>7</quantity>
         </variation>
         <variation>
           <variationid>45130176659587.46</variationid>
