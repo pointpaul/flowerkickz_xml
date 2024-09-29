@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-29 22:03</created_at>
+  <created_at>2024-09-29 23:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -11118,7 +11118,7 @@
       <availability>In Stock</availability>
       <size>2X-LARGE,LARGE,MEDIUM,X-LARGE</size>
       <description>Trapstar All City Hoodie Black</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>49604013031757.2X-LARGE</variationid>
@@ -11145,7 +11145,7 @@
           <manufacturersku>TPH009.MEDIUM</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49604013031757.X-LARGE</variationid>
