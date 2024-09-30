@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-09-30 10:03</created_at>
+  <created_at>2024-09-30 11:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -7154,20 +7154,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Gym_Red_Black_White-DJ4695-122-2.png?v=1713669414</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Gym_Red_Black_White-DJ4695-122-3.png?v=1713669414</image>
       </additional_images>
-    </product>
-    <product>
-      <id>97060308</id>
-      <name>Bape Tee Pocket Reverse Ape Grey</name>
-      <link>https://www.flowerkickz.gr/products/bape-tee-pocket-reverse-ape-grey</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BapeTeePocketReverseApeGrey.png?v=1685718855</image>
-      <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <ean>38559875</ean>
-      <availability>In Stock</availability>
-      <size>LARGE</size>
-      <description>Bape Tee Pocket Reverse Ape Grey</description>
-      <quantity>1</quantity>
     </product>
     <product>
       <id>80170284</id>
