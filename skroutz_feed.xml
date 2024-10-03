@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-03 09:03</created_at>
+  <created_at>2024-10-03 10:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -12441,7 +12441,7 @@
       <availability>In Stock</availability>
       <size>35/40.5,41/48</size>
       <description>Crep Protect Sneaker Guards</description>
-      <quantity>11</quantity>
+      <quantity>12</quantity>
       <variations>
         <variation>
           <variationid>49816970101069.35/40.5</variationid>
@@ -12450,7 +12450,7 @@
           <manufacturersku>31970704.35/40.5</manufacturersku>
           <price_with_vat>15</price_with_vat>
           <size>35/40.5</size>
-          <quantity>10</quantity>
+          <quantity>11</quantity>
         </variation>
         <variation>
           <variationid>49816970101069.41/48</variationid>
@@ -18432,7 +18432,7 @@
       <availability>In Stock</availability>
       <size>47,47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</description>
-      <quantity>19</quantity>
+      <quantity>18</quantity>
       <variations>
         <variation>
           <variationid>51967381111117.47</variationid>
@@ -18450,7 +18450,7 @@
           <manufacturersku>None.47.5</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>47.5</size>
-          <quantity>13</quantity>
+          <quantity>12</quantity>
         </variation>
         <variation>
           <variationid>51967381111117.48</variationid>
@@ -20806,6 +20806,24 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Marseille_-FQ2397-100-1_80b6e288-ab21-4c37-9997-33ee8ae1dd14.png?v=1713675205</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Marseille_-FQ2397-100-2_1e3cf42b-b9df-4dab-a43d-1e857f72c953.png?v=1713675205</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FZ4624-001</id>
+      <name>Dunk Low NBA Paris</name>
+      <link>https://www.flowerkickz.gr/products/dunk-low-nba-paris</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_NBA_Paris-FZ4624-001-0.png?v=1713679613</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>47</size>
+      <description>Dunk Low NBA Paris</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_NBA_Paris-FZ4624-001-1.png?v=1713679613</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_NBA_Paris-FZ4624-001-2.png?v=1713679613</image>
       </additional_images>
     </product>
   </products>
