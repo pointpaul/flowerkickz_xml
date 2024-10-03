@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-03 10:03</created_at>
+  <created_at>2024-10-03 11:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -7404,7 +7404,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,44</size>
       <description>Yeezy Boost 350 V2 Bone</description>
-      <quantity>9</quantity>
+      <quantity>8</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Bone-HQ6316-1.png?v=1713687967</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Bone-HQ6316-2.png?v=1713687967</image>
@@ -7417,7 +7417,7 @@
           <manufacturersku>HQ6316.36</manufacturersku>
           <price_with_vat>455</price_with_vat>
           <size>36</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45130135273603.36-2/3</variationid>
@@ -14975,7 +14975,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38,38 2/3,41 1/3,42,42 2/3,43 1/3</size>
       <description>Yeezy 350 V2 Carbon Beluga</description>
-      <quantity>14</quantity>
+      <quantity>13</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_350_V2_Carbon_Beluga-HQ7045-1.png?v=1713686658</image>
       </additional_images>
@@ -15041,7 +15041,7 @@
           <manufacturersku>HQ7045.42-2/3</manufacturersku>
           <price_with_vat>530</price_with_vat>
           <size>42 2/3</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>48882224922957.43-1/3</variationid>
@@ -20641,7 +20641,7 @@
       <availability>In Stock</availability>
       <size>LARGE,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic White Rred T-Shirt</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/111.png?v=1725370855</image>
       </additional_images>
@@ -20662,7 +20662,7 @@
           <manufacturersku>476350.Χ-LARGE</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>Χ-LARGE</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
       </variations>
     </product>
