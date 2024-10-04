@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-04 03:03</created_at>
+  <created_at>2024-10-04 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -9688,7 +9688,7 @@
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>35.5,36,36.5,38.5,40.5,42.5,44</size>
+      <size>35.5,36.5,38.5,40.5,42.5,44</size>
       <description>Dunk Low Retro Gorge Green Midnight Navy</description>
       <quantity>6</quantity>
       <additional_images>
@@ -9705,15 +9705,6 @@
           <price_with_vat>240</price_with_vat>
           <size>35.5</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>48781624803661.36</variationid>
-          <link>https://www.flowerkickz.gr/products/dunk-low-retro-gorge-green-midnight-navy</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DD1503-300.36</manufacturersku>
-          <price_with_vat>240</price_with_vat>
-          <size>36</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>48781624803661.36.5</variationid>
@@ -14527,20 +14518,6 @@
       <size>X-LARGE</size>
       <description>Bape Tee A Bathing Ape 31st Anniversary Ape Head White</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id>03438725 -4</id>
-      <name>Bape Tee ABC Camo College Organic Cotton Black Blue</name>
-      <link>https://www.flowerkickz.gr/products/bape-abc-camo-college-organic-cotton-tee-black-blue</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BLACKBLUE.png?v=1714739485</image>
-      <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <ean>60421637</ean>
-      <availability>In Stock</availability>
-      <size>X-LARGE</size>
-      <description>Bape Tee ABC Camo College Organic Cotton Black Blue</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>91388790 -4</id>
