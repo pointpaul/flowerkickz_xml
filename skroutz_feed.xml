@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-04 08:03</created_at>
+  <created_at>2024-10-04 09:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -4381,7 +4381,7 @@
           <manufacturersku>CU9225-100.43</manufacturersku>
           <price_with_vat>320</price_with_vat>
           <size>43</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>45132063670403.44</variationid>
@@ -4390,7 +4390,7 @@
           <manufacturersku>CU9225-100.44</manufacturersku>
           <price_with_vat>320</price_with_vat>
           <size>44</size>
-          <quantity>3</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>45132063670403.44.5</variationid>
@@ -6098,7 +6098,7 @@
       <availability>In Stock</availability>
       <size>43</size>
       <description>Air Jordan 1 High OG Pollen</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Pollen-555088-701-1.png?v=1713666891</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Pollen-555088-701-2.png?v=1713666891</image>
@@ -20224,7 +20224,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44,45,46</size>
       <description>Air Max Plus Patta FC Barcelona</description>
-      <quantity>197</quantity>
+      <quantity>196</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-1_3a199d00-293f-4469-bcf9-8231319cfb6a.png?v=1713675219</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-2_717f5c12-1234-4591-bb27-e609e01bd71d.png?v=1713675219</image>
@@ -20282,7 +20282,7 @@
           <manufacturersku>FN8260-001.45</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>45</size>
-          <quantity>22</quantity>
+          <quantity>21</quantity>
         </variation>
         <variation>
           <variationid>49558557786445.46</variationid>
