@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-05 03:03</created_at>
+  <created_at>2024-10-05 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6084,25 +6084,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_1_Patta_Monarch_Special_Box_Bracelet_-DH1348-001-3.png?v=1713673810</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_1_Patta_Monarch_Special_Box_Bracelet_-DH1348-001-4.png?v=1713673810</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_1_Patta_Monarch_Special_Box_Bracelet_-DH1348-001-5.png?v=1713673810</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>555088-701</id>
-      <name>Air Jordan 1 High OG Pollen</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-1-high-og-pollen</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Pollen-555088-701-0.png?v=1713666891</image>
-      <category>Sneakers</category>
-      <price_with_vat>340</price_with_vat>
-      <manufacturer>Air Jordan</manufacturer>
-      <ean>74376067</ean>
-      <availability>In Stock</availability>
-      <size>43</size>
-      <description>Air Jordan 1 High OG Pollen</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Pollen-555088-701-1.png?v=1713666891</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Pollen-555088-701-2.png?v=1713666891</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Pollen-555088-701-3.png?v=1713666891</image>
       </additional_images>
     </product>
     <product>
