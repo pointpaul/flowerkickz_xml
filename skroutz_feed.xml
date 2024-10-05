@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-05 10:03</created_at>
+  <created_at>2024-10-05 11:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -16034,7 +16034,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>241</quantity>
+      <quantity>240</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-1.webp?v=1713688442</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-2.webp?v=1713688445</image>
@@ -16128,7 +16128,7 @@
           <manufacturersku>ID5103.48.5</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>48.5</size>
-          <quantity>9</quantity>
+          <quantity>8</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.50</variationid>
@@ -20068,7 +20068,7 @@
       <availability>In Stock</availability>
       <size>39</size>
       <description>Air Jordan 4 Retro Bred Reimagined</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Bred_Reimagined-FQ8213-006-1.png?v=1713676042</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_Bred_Reimagined-FQ8213-006-2.png?v=1713676042</image>
@@ -20407,7 +20407,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic T-Shirt Black</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_cd386c2b-ccbd-412a-82c1-006ea34edd5a.png?v=1725369820</image>
       </additional_images>
@@ -20437,7 +20437,7 @@
           <manufacturersku>476351.SMALL</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52168746074445.X-SMALL</variationid>
@@ -20535,7 +20535,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic White Blue T-Shirt</description>
-      <quantity>9</quantity>
+      <quantity>8</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/11_b3d20fed-25d7-4ff2-bc0b-d308bc001268.png?v=1725370565</image>
       </additional_images>
@@ -20565,7 +20565,7 @@
           <manufacturersku>471321.SMALL</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52168799617357.X-SMALL</variationid>
