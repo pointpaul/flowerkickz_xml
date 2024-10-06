@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-06 21:03</created_at>
+  <created_at>2024-10-06 22:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -3971,7 +3971,7 @@
       <availability>In Stock</availability>
       <size>MEDIUM,SMALL</size>
       <description>Fear of God Essentials Hoodie Canary</description>
-      <quantity>21</quantity>
+      <quantity>20</quantity>
       <variations>
         <variation>
           <variationid>48479230427469.MEDIUM</variationid>
@@ -3980,7 +3980,7 @@
           <manufacturersku>24439392.MEDIUM</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>15</quantity>
+          <quantity>14</quantity>
         </variation>
         <variation>
           <variationid>48479230427469.SMALL</variationid>
