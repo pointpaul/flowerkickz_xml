@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-07 07:03</created_at>
+  <created_at>2024-10-07 08:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -4781,9 +4781,9 @@
       <manufacturer>Nike</manufacturer>
       <ean>196153966970</ean>
       <availability>In Stock</availability>
-      <size>36.5,37.5</size>
+      <size>36.5,37.5,38</size>
       <description>Dunk Low SE Sail Team Red</description>
-      <quantity>2</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_SE_Sail_Team_Red-DV1160-101-1_3aebc2e6-df8b-4bf7-8807-fbc2c60e0e40.png?v=1713680704</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_SE_Sail_Team_Red-DV1160-101-2_052eac90-f628-4941-afe4-0adeb44dc59f.png?v=1713680704</image>
@@ -4805,6 +4805,15 @@
           <manufacturersku>DV1160-101.37.5</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>37.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>45222784172163.38</variationid>
+          <link>https://www.flowerkickz.gr/products/dunk-low-se-sail-team-red</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DV1160-101.38</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>38</size>
           <quantity>1</quantity>
         </variation>
       </variations>
