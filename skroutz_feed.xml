@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-08 03:04</created_at>
+  <created_at>2024-10-08 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -10720,117 +10720,6 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>HQ8707</id>
-      <name>Campus 00s Grey White</name>
-      <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzCampus_00s_Grey_White-HQ8707-0.png?v=1691146977</image>
-      <category>Sneakers</category>
-      <price_with_vat>385</price_with_vat>
-      <manufacturer>Adidas</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>35,36,36 2/3,38,39 1/3,44,44 2/3,45 1/3,46,46 2/3</size>
-      <description>Campus 00s Grey White</description>
-      <quantity>12</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzCampus_00s_Grey_White-HQ8707-1.png?v=1691146977</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzCampus_00s_Grey_White-HQ8707-2.png?v=1691146977</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzCampus_00s_Grey_White-HQ8707-3.png?v=1691146977</image>
-      </additional_images>
-      <variations>
-        <variation>
-          <variationid>48743025017165.35</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HQ8707.35</manufacturersku>
-          <price_with_vat>250</price_with_vat>
-          <size>35</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>48743025017165.36</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HQ8707.36</manufacturersku>
-          <price_with_vat>330</price_with_vat>
-          <size>36</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>48743025017165.36-2/3</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HQ8707.36-2/3</manufacturersku>
-          <price_with_vat>330</price_with_vat>
-          <size>36 2/3</size>
-          <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>48743025017165.38</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HQ8707.38</manufacturersku>
-          <price_with_vat>355</price_with_vat>
-          <size>38</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>48743025017165.39-1/3</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HQ8707.39-1/3</manufacturersku>
-          <price_with_vat>385</price_with_vat>
-          <size>39 1/3</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>48743025017165.44</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HQ8707.44</manufacturersku>
-          <price_with_vat>295</price_with_vat>
-          <size>44</size>
-          <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>48743025017165.44-2/3</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HQ8707.44-2/3</manufacturersku>
-          <price_with_vat>295</price_with_vat>
-          <size>44 2/3</size>
-          <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>48743025017165.45-1/3</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HQ8707.45-1/3</manufacturersku>
-          <price_with_vat>295</price_with_vat>
-          <size>45 1/3</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>48743025017165.46</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HQ8707.46</manufacturersku>
-          <price_with_vat>295</price_with_vat>
-          <size>46</size>
-          <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>48743025017165.46-2/3</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HQ8707.46-2/3</manufacturersku>
-          <price_with_vat>295</price_with_vat>
-          <size>46 2/3</size>
-          <quantity>2</quantity>
-        </variation>
-      </variations>
-    </product>
-    <product>
       <id>17600524</id>
       <name>Fear of God Essentials Shorts Off-Black FW22</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-shorts-off-black-fw22</link>
@@ -12400,6 +12289,108 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Resin--1_608d66a2-0b31-48c2-b5b3-624f3748474b.png?v=1701088876</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Resin--2_4f647a4b-abb7-4944-9956-59e2df317921.png?v=1701088876</image>
       </additional_images>
+    </product>
+    <product>
+      <id>HQ8707</id>
+      <name>Campus 00s Grey White</name>
+      <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzCampus_00s_Grey_White-HQ8707-0.png?v=1691146977</image>
+      <category>Sneakers</category>
+      <price_with_vat>355</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>35,36,36 2/3,38,44,44 2/3,45 1/3,46,46 2/3</size>
+      <description>Campus 00s Grey White</description>
+      <quantity>12</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzCampus_00s_Grey_White-HQ8707-1.png?v=1691146977</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzCampus_00s_Grey_White-HQ8707-2.png?v=1691146977</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzCampus_00s_Grey_White-HQ8707-3.png?v=1691146977</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>48743024951629.35</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.35</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>35</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024951629.36</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.36</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024951629.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.36-2/3</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024951629.38</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.38</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024951629.44</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.44</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>44</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024951629.44-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.44-2/3</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>44 2/3</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024951629.45-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.45-1/3</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>45 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024951629.46</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.46</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>46</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>48743024951629.46-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/campus-00s-grey-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ8707.46-2/3</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>46 2/3</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>31970704</id>
