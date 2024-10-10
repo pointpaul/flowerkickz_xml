@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-10 07:04</created_at>
+  <created_at>2024-10-10 08:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -13884,7 +13884,7 @@
           <manufacturersku>HQ4540.42</manufacturersku>
           <price_with_vat>490</price_with_vat>
           <size>42</size>
-          <quantity>4</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>45130120429699.42-2/3</variationid>
@@ -13893,7 +13893,7 @@
           <manufacturersku>HQ4540.42-2/3</manufacturersku>
           <price_with_vat>490</price_with_vat>
           <size>42 2/3</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>45130120429699.43-1/3</variationid>
@@ -15997,7 +15997,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>239</quantity>
+      <quantity>238</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-1.webp?v=1713688442</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-2.webp?v=1713688445</image>
@@ -16064,7 +16064,7 @@
           <manufacturersku>ID5103.44.5</manufacturersku>
           <price_with_vat>190</price_with_vat>
           <size>44.5</size>
-          <quantity>34</quantity>
+          <quantity>33</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.46</variationid>
