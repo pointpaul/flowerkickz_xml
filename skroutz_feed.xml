@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-10 03:03</created_at>
+  <created_at>2024-10-10 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -5694,7 +5694,7 @@
       <manufacturer>Air Jordan</manufacturer>
       <ean>195243521570</ean>
       <availability>In Stock</availability>
-      <size>41,42.5,44,45,46</size>
+      <size>41,42.5,45,46</size>
       <description>Air Jordan 1 High OG Patent Bred</description>
       <quantity>4</quantity>
       <additional_images>
@@ -5720,15 +5720,6 @@
           <price_with_vat>400</price_with_vat>
           <size>42.5</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45142123806851.44</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-high-og-patent-bred</link>
-          <availability>In Stock</availability>
-          <manufacturersku>555088-063.44</manufacturersku>
-          <price_with_vat>425</price_with_vat>
-          <size>44</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45142123806851.45</variationid>
@@ -13225,25 +13216,6 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Gold_Silver-DH4403-700-1_9acb9f9c-1db6-4b1b-bfef-d04ed9e55618.png?v=1713679023</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Gold_Silver-DH4403-700-2_02887bf2-9e06-4e25-8f98-cce5fbbb89fd.png?v=1713679023</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>CT8527-115</id>
-      <name>Air Jordan 4 Retro Metallic Purple</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-metallic-purple</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzAir_Jordan_4_Retro_Metallic_Purple-408452-115-0.png?v=1691143358</image>
-      <category>Sneakers</category>
-      <price_with_vat>2105</price_with_vat>
-      <manufacturer>Air Jordan</manufacturer>
-      <ean>04185987</ean>
-      <availability>In Stock</availability>
-      <size>40</size>
-      <description>Air Jordan 4 Retro Metallic Purple</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzAir_Jordan_4_Retro_Metallic_Purple-408452-115-1.png?v=1691143358</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzAir_Jordan_4_Retro_Metallic_Purple-408452-115-2.png?v=1691143358</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzAir_Jordan_4_Retro_Metallic_Purple-408452-115-3.png?v=1691143358</image>
       </additional_images>
     </product>
     <product>
