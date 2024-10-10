@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-10 17:03</created_at>
+  <created_at>2024-10-10 18:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20177,7 +20177,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44,45,46</size>
       <description>Air Max Plus Patta FC Barcelona</description>
-      <quantity>196</quantity>
+      <quantity>195</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-1_3a199d00-293f-4469-bcf9-8231319cfb6a.png?v=1713675219</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Max_Plus_Patta_FC_Barcelona-FN8260-001-2_717f5c12-1234-4591-bb27-e609e01bd71d.png?v=1713675219</image>
@@ -20235,7 +20235,7 @@
           <manufacturersku>FN8260-001.45</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>45</size>
-          <quantity>21</quantity>
+          <quantity>20</quantity>
         </variation>
         <variation>
           <variationid>49558557786445.46</variationid>
