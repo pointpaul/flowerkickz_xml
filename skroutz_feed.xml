@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-10 13:04</created_at>
+  <created_at>2024-10-10 14:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -13974,7 +13974,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low Black Supreme</description>
-      <quantity>43</quantity>
+      <quantity>42</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-1.png?v=1713664941</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-2.png?v=1713664941</image>
@@ -14033,7 +14033,7 @@
           <manufacturersku>CU9225-001.45</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>45</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>45212023226499.45.5</variationid>
