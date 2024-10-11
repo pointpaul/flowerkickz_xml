@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-11 11:04</created_at>
+  <created_at>2024-10-11 12:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -14285,9 +14285,9 @@
       <manufacturer>Nike</manufacturer>
       <ean>15563139</ean>
       <availability>In Stock</availability>
-      <size>41,42,42.5,44</size>
+      <size>41,42,42.5,44,46</size>
       <description>Dunk Low Grey Fog</description>
-      <quantity>10</quantity>
+      <quantity>11</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Grey_Fog-DD1391-103-1_b5ae9663-e0f2-4b22-815a-08ea338a23ac.png?v=1713679084</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Grey_Fog-DD1391-103-2_715830b4-29d9-4ef3-bffb-63b5548d2a2f.png?v=1713679084</image>
@@ -14329,6 +14329,15 @@
           <price_with_vat>250</price_with_vat>
           <size>44</size>
           <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>45171591348355.46</variationid>
+          <link>https://www.flowerkickz.gr/products/dunk-low-grey-fog</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DD1391-103.46</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>46</size>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -20443,7 +20452,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic T-Shirt Black Red</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_720d8b65-6be2-4612-87a4-0e90d083d92a.png?v=1725370199</image>
       </additional_images>
@@ -20473,7 +20482,7 @@
           <manufacturersku>476352.SMALL</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>SMALL</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52168761704781.X-SMALL</variationid>
@@ -20793,6 +20802,24 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Enflame_Orange-GZ0953-1.png?v=1713688315</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Enflame_Orange-GZ0953-2.png?v=1713688315</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Enflame_Orange-GZ0953-3.png?v=1713688315</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DH8009-600</id>
+      <name>Dunk Low QS LeBron James Fruity Pebbles</name>
+      <link>https://www.flowerkickz.gr/products/dunk-low-qs-lebron-james-fruity-pebbles</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_QS_LeBron_James_Fruity_Pebbles-DH8009-600-0_bf87f75a-bf67-45b5-b413-ba1dbed7d183.png?v=1713680245</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean>12016515</ean>
+      <availability>In Stock</availability>
+      <size>45</size>
+      <description>Dunk Low QS LeBron James Fruity Pebbles</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_QS_LeBron_James_Fruity_Pebbles-DH8009-600-1_5f32595e-9872-48c4-99ff-612c3d7a2a3e.png?v=1713680245</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_QS_LeBron_James_Fruity_Pebbles-DH8009-600-2_9630dc9e-26fd-4f81-b7d2-09f650bf6b17.png?v=1713680245</image>
       </additional_images>
     </product>
   </products>
