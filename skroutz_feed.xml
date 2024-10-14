@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-14 10:03</created_at>
+  <created_at>2024-10-14 11:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20806,6 +20806,24 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_QS_LeBron_James_Fruity_Pebbles-DH8009-600-1_5f32595e-9872-48c4-99ff-612c3d7a2a3e.png?v=1713680245</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_QS_LeBron_James_Fruity_Pebbles-DH8009-600-2_9630dc9e-26fd-4f81-b7d2-09f650bf6b17.png?v=1713680245</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>M2002RCD</id>
+      <name>2002R Truffle</name>
+      <link>https://www.flowerkickz.gr/products/2002r-truffle</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz2002R_Truffle-M2002RCD-0.png?v=1713662032</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>41.5</size>
+      <description>2002R Truffle</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz2002R_Truffle-M2002RCD-1.png?v=1713662032</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz2002R_Truffle-M2002RCD-2.png?v=1713662032</image>
       </additional_images>
     </product>
   </products>
