@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-15 03:03</created_at>
+  <created_at>2024-10-15 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -14409,20 +14409,6 @@
       <size>X-LARGE</size>
       <description>Bape Tee Mad Shark Beige</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id>80212567</id>
-      <name>Bape Tee ABC Camo JPN Katakana White</name>
-      <link>https://www.flowerkickz.gr/products/bape-tee-abc-camo-jpn-katakana-white</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2111.png?v=1714736772</image>
-      <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <ean>04683353</ean>
-      <availability>In Stock</availability>
-      <size>SMALL</size>
-      <description>Bape Tee ABC Camo JPN Katakana White</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>61974130 -1</id>
