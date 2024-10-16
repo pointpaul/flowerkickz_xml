@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-16 08:04</created_at>
+  <created_at>2024-10-16 09:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -11947,7 +11947,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5</size>
       <description>Yeezy Foam RNNR Onyx</description>
-      <quantity>28</quantity>
+      <quantity>27</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Foam_RNNR_Onyx-HP8739-1.png?v=1713688150</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Foam_RNNR_Onyx-HP8739-2.png?v=1713688150</image>
@@ -11961,7 +11961,7 @@
           <manufacturersku>HP8739.37</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>37</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>45130154934403.38</variationid>
@@ -20819,6 +20819,24 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz2002R_Truffle-M2002RCD-1.png?v=1713662032</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz2002R_Truffle-M2002RCD-2.png?v=1713662032</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DC8904-001</id>
+      <name>Air Force 1 Low Experimental Halloween</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-low-experimental-halloween</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Experimental_Halloween-DC8904-001-0.png?v=1713665031</image>
+      <category>Sneakers</category>
+      <price_with_vat>385</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean>14632067</ean>
+      <availability>In Stock</availability>
+      <size>42</size>
+      <description>Air Force 1 Low Experimental Halloween</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Experimental_Halloween-DC8904-001-1.png?v=1713665031</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Experimental_Halloween-DC8904-001-2.png?v=1713665031</image>
       </additional_images>
     </product>
   </products>
