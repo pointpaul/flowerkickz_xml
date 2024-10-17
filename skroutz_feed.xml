@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-17 14:03</created_at>
+  <created_at>2024-10-17 15:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -3044,7 +3044,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Sweatpants Off-Black</description>
-      <quantity>79</quantity>
+      <quantity>78</quantity>
       <variations>
         <variation>
           <variationid>46870881239373.LARGE</variationid>
@@ -3062,7 +3062,7 @@
           <manufacturersku>40640922.MEDIUM</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>20</quantity>
+          <quantity>19</quantity>
         </variation>
         <variation>
           <variationid>46870881239373.SMALL</variationid>
@@ -4331,7 +4331,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42.5,43,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>50</quantity>
+      <quantity>49</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_White_Supreme-CU9225-100-1.png?v=1713665987</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_White_Supreme-CU9225-100-2.png?v=1713665987</image>
@@ -4435,7 +4435,7 @@
           <manufacturersku>CU9225-100.47.5</manufacturersku>
           <price_with_vat>320</price_with_vat>
           <size>47.5</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
@@ -8294,7 +8294,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-cacao-wow</link>
           <availability>In Stock</availability>
           <manufacturersku>DD1503-124.36</manufacturersku>
-          <price_with_vat>140</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>36</size>
           <quantity>1</quantity>
         </variation>
@@ -8303,7 +8303,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-cacao-wow</link>
           <availability>In Stock</availability>
           <manufacturersku>DD1503-124.36.5</manufacturersku>
-          <price_with_vat>140</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>36.5</size>
           <quantity>2</quantity>
         </variation>
@@ -8312,7 +8312,7 @@
           <link>https://www.flowerkickz.gr/products/dunk-low-cacao-wow</link>
           <availability>In Stock</availability>
           <manufacturersku>DD1503-124.37.5</manufacturersku>
-          <price_with_vat>140</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>37.5</size>
           <quantity>2</quantity>
         </variation>
@@ -14849,7 +14849,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38,38 2/3,41 1/3,42,42 2/3,43 1/3</size>
       <description>Yeezy 350 V2 Carbon Beluga</description>
-      <quantity>13</quantity>
+      <quantity>14</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_350_V2_Carbon_Beluga-HQ7045-1.png?v=1713686658</image>
       </additional_images>
@@ -14870,7 +14870,7 @@
           <manufacturersku>HQ7045.37-1/3</manufacturersku>
           <price_with_vat>545</price_with_vat>
           <size>37 1/3</size>
-          <quantity>2</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>48882224922957.38</variationid>
@@ -17015,9 +17015,9 @@
       <manufacturer>Adidas</manufacturer>
       <ean>11425667</ean>
       <availability>In Stock</availability>
-      <size>36,36 2/3,38,40,40 2/3,41 1/3</size>
+      <size>36,36 2/3,37 1/3,38,40,40 2/3,41 1/3</size>
       <description>Yeezy Boost 350 V2 MX Rock</description>
-      <quantity>12</quantity>
+      <quantity>19</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_MX_Rock-GW3774-1.png?v=1713687740</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_MX_Rock-GW3774-2.png?v=1713687740</image>
@@ -17031,7 +17031,7 @@
           <manufacturersku>GW3774.36</manufacturersku>
           <price_with_vat>565</price_with_vat>
           <size>36</size>
-          <quantity>2</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>45130118594691.36-2/3</variationid>
@@ -17040,6 +17040,15 @@
           <manufacturersku>GW3774.36-2/3</manufacturersku>
           <price_with_vat>545</price_with_vat>
           <size>36 2/3</size>
+          <quantity>4</quantity>
+        </variation>
+        <variation>
+          <variationid>45130118594691.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-mx-rock</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GW3774.37-1/3</manufacturersku>
+          <price_with_vat>590</price_with_vat>
+          <size>37 1/3</size>
           <quantity>2</quantity>
         </variation>
         <variation>
@@ -20818,6 +20827,25 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Experimental_Halloween-DC8904-001-1.png?v=1713665031</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Experimental_Halloween-DC8904-001-2.png?v=1713665031</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FB9928-200</id>
+      <name>Air Jordan 4 Retro SE Craft Medium Olive</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-se-craft-medium-olive</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_SE_Craft_Medium_Olive-FB9928-200-0.png?v=1713672635</image>
+      <category>Sneakers</category>
+      <price_with_vat>355</price_with_vat>
+      <manufacturer>Air Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40</size>
+      <description>Air Jordan 4 Retro SE Craft Medium Olive</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_SE_Craft_Medium_Olive-FB9928-200-1.png?v=1713672635</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_SE_Craft_Medium_Olive-FB9928-200-2.png?v=1713672635</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_SE_Craft_Medium_Olive-FB9928-200-3.png?v=1713672635</image>
       </additional_images>
     </product>
   </products>
