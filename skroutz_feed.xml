@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-17 03:03</created_at>
+  <created_at>2024-10-17 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -7884,20 +7884,6 @@
       </additional_images>
     </product>
     <product>
-      <id>DJ0950-102</id>
-      <name>Dunk Low Off-White Lot 34</name>
-      <link>https://www.flowerkickz.gr/products/dunk-low-off-white-lot-34</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Off-White_Lot_34-DJ0950-102-0_c51aedc7-0ee3-4266-98cd-26865cd54a63.png?v=1713679891</image>
-      <category>Sneakers</category>
-      <price_with_vat>1540</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean>94649475</ean>
-      <availability>In Stock</availability>
-      <size>44</size>
-      <description>Dunk Low Off-White Lot 34</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
       <id>AA7293-200</id>
       <name>Air Max 90 Off-White Desert Ore</name>
       <link>https://www.flowerkickz.gr/products/air-max-90-off-white-desert-ore</link>
@@ -14395,20 +14381,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_07_LX_Ashen_Slate-FB8876-400-1_541f6199-4029-46d1-9d03-2ca24f8ebeaf.png?v=1713664489</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_07_LX_Ashen_Slate-FB8876-400-2_c862365b-4928-4cb9-8cb7-ef75fd30e299.png?v=1713664489</image>
       </additional_images>
-    </product>
-    <product>
-      <id/>
-      <name>Bape Tee Mad Shark Beige</name>
-      <link>https://www.flowerkickz.gr/products/bape-tee-mad-shark-tee-beige</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions21.png?v=1714727569</image>
-      <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <ean>72152637</ean>
-      <availability>In Stock</availability>
-      <size>X-LARGE</size>
-      <description>Bape Tee Mad Shark Beige</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>61974130 -1</id>
