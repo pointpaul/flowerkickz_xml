@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-19 15:03</created_at>
+  <created_at>2024-10-19 16:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -11243,7 +11243,7 @@
       <availability>In Stock</availability>
       <size>42 2/3,44,44 2/3,46</size>
       <description>Yeezy Boost 350 V2 Antlia (Non-Reflective)</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Antlia_Non-Reflective_-FV3250-1.png?v=1713687359</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Antlia_Non-Reflective_-FV3250-2.png?v=1713687359</image>
@@ -11287,7 +11287,7 @@
           <manufacturersku>FV3250.46</manufacturersku>
           <price_with_vat>815</price_with_vat>
           <size>46</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -16179,7 +16179,7 @@
       <availability>In Stock</availability>
       <size>37.5,46</size>
       <description>Air Force 1 Low Billie Eilish White</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Billie_Eilish_White-DZ3674-100-1.png?v=1713664909</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Billie_Eilish_White-DZ3674-100-2.png?v=1713664909</image>
@@ -16201,7 +16201,7 @@
           <manufacturersku>DZ3674-100.46</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>46</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
