@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-20 03:03</created_at>
+  <created_at>2024-10-20 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -1137,7 +1137,7 @@
       <manufacturer>Air Jordan</manufacturer>
       <ean>196154225434</ean>
       <availability>In Stock</availability>
-      <size>36,36.5,37.5,38,38.5,39,40,41,42.5,44,44.5</size>
+      <size>36,37.5,38,38.5,39,40,41,42.5,44,44.5</size>
       <description>Air Jordan 1 Mid True Blue</description>
       <quantity>15</quantity>
       <additional_images>
@@ -1153,15 +1153,6 @@
           <price_with_vat>230</price_with_vat>
           <size>36</size>
           <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>45189142642819.36.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-true-blue</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DQ8426-014.36.5</manufacturersku>
-          <price_with_vat>215</price_with_vat>
-          <size>36.5</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45189142642819.37.5</variationid>
@@ -9066,25 +9057,6 @@
       </additional_images>
     </product>
     <product>
-      <id>554725-084</id>
-      <name>Air Jordan 1 Mid Black Racer Blue White</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-black-racer-blue-white</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Black_Racer_Blue_White-554725-084-0.png?v=1713668969</image>
-      <category>Sneakers</category>
-      <price_with_vat>375</price_with_vat>
-      <manufacturer>Air Jordan</manufacturer>
-      <ean>05153155</ean>
-      <availability>In Stock</availability>
-      <size>38</size>
-      <description>Air Jordan 1 Mid Black Racer Blue White</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Black_Racer_Blue_White-554725-084-1.png?v=1713668969</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Black_Racer_Blue_White-554725-084-2.png?v=1713668969</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Black_Racer_Blue_White-554725-084-3.png?v=1713668969</image>
-      </additional_images>
-    </product>
-    <product>
       <id>DQ0380-001</id>
       <name>Dunk Low Jackpot</name>
       <link>https://www.flowerkickz.gr/products/dunk-low-jackpot</link>
@@ -11241,7 +11213,7 @@
       <manufacturer>Adidas</manufacturer>
       <ean>80230531</ean>
       <availability>In Stock</availability>
-      <size>42 2/3,44,44 2/3,46</size>
+      <size>42 2/3,44,44 2/3</size>
       <description>Yeezy Boost 350 V2 Antlia (Non-Reflective)</description>
       <quantity>3</quantity>
       <additional_images>
@@ -11279,15 +11251,6 @@
           <price_with_vat>795</price_with_vat>
           <size>44 2/3</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45130087399555.46</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-antlia-non-reflective</link>
-          <availability>In Stock</availability>
-          <manufacturersku>FV3250.46</manufacturersku>
-          <price_with_vat>815</price_with_vat>
-          <size>46</size>
-          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -12806,20 +12769,6 @@
       <size>O/S - 100€</size>
       <description>Bape Yellow Camo Scarf Green</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id>1H23-191-952B</id>
-      <name>Bape Havaianas Blue Camo</name>
-      <link>https://www.flowerkickz.gr/products/bape-havaianas-blue-camo</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BapeHavaianasBlueCamo.png?v=1685702313</image>
-      <category>Sneakers</category>
-      <price_with_vat>125</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
-      <ean>5544336677</ean>
-      <availability>In Stock</availability>
-      <size>45 - 46</size>
-      <description>Bape Havaianas Blue Camo</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>SP-AC009</id>
@@ -14415,20 +14364,6 @@
           <quantity>1</quantity>
         </variation>
       </variations>
-    </product>
-    <product>
-      <id>43836896 -4</id>
-      <name>Bape Tee A Bathing Ape 31st Anniversary Ape Head White</name>
-      <link>https://www.flowerkickz.gr/products/bape-tee-a-bathing-ape-31st-anniversary-ape-head-white</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/WHITE_564e4540-213e-4bef-9254-81dfddaf6545.png?v=1714738663</image>
-      <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <ean>68188316</ean>
-      <availability>In Stock</availability>
-      <size>X-LARGE</size>
-      <description>Bape Tee A Bathing Ape 31st Anniversary Ape Head White</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>91388790 -4</id>
