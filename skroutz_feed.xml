@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-21 10:04</created_at>
+  <created_at>2024-10-21 11:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -16251,7 +16251,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38,38.5,39,40.5,41,42,42.5,43,44,44.5,45,45.5,47.5</size>
       <description>Air Jordan 4 Oxidized Green</description>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Oxidized_Green-FQ8138-103-1.webp?v=1716601929</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Oxidized_Green-FQ8138-103-2.webp?v=1716601931</image>
@@ -16318,7 +16318,7 @@
           <manufacturersku>FQ8138-103.39</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>39</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>50976850248013.40.5</variationid>
