@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-21 08:04</created_at>
+  <created_at>2024-10-21 09:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20781,6 +20781,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_SE_Craft_Medium_Olive-FB9928-200-1.png?v=1713672635</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_SE_Craft_Medium_Olive-FB9928-200-2.png?v=1713672635</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_SE_Craft_Medium_Olive-FB9928-200-3.png?v=1713672635</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>U9060ESD</id>
+      <name>9060 New Spruce</name>
+      <link>https://www.flowerkickz.gr/products/9060-new-spruce</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz9060_New_Spruce-U9060ESD-0.webp?v=1715994758</image>
+      <category>Sneakers</category>
+      <price_with_vat>375</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>37.5</size>
+      <description>9060 New Spruce</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz9060_New_Spruce-U9060ESD-1.webp?v=1715994761</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz9060_New_Spruce-U9060ESD-2.webp?v=1715994763</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz9060_New_Spruce-U9060ESD-3.webp?v=1715994766</image>
       </additional_images>
     </product>
   </products>
