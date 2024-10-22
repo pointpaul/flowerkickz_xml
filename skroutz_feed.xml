@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-22 11:04</created_at>
+  <created_at>2024-10-22 12:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -11362,15 +11362,24 @@
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>38.5,39,40,40.5,41,42,42.5</size>
+      <size>38,38.5,39,40,40.5,41,42,42.5</size>
       <description>Dunk Low Grey Corduroy</description>
-      <quantity>13</quantity>
+      <quantity>14</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Grey_Corduroy-FN7658-100-1_b6a7000e-57c3-4273-8496-a80e668b4462.png?v=1713679076</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Grey_Corduroy-FN7658-100-2_73d97779-1564-4889-b72f-2d0d6e213d97.png?v=1713679076</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Grey_Corduroy-FN7658-100-3_5bc1fbfa-a1f2-4bcb-b68d-256592596c81.png?v=1713679076</image>
       </additional_images>
       <variations>
+        <variation>
+          <variationid>49086025957709.38</variationid>
+          <link>https://www.flowerkickz.gr/products/dunk-low-grey-corduroy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FN7658-100.38</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
         <variation>
           <variationid>49086025957709.38.5</variationid>
           <link>https://www.flowerkickz.gr/products/dunk-low-grey-corduroy</link>
@@ -20800,6 +20809,24 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz9060_New_Spruce-U9060ESD-1.webp?v=1715994761</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz9060_New_Spruce-U9060ESD-2.webp?v=1715994763</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz9060_New_Spruce-U9060ESD-3.webp?v=1715994766</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DB1640-001</id>
+      <name>SB Dunk High Pro Maize and Black</name>
+      <link>https://www.flowerkickz.gr/products/sb-dunk-high-pro-maize-and-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_High_Pro_Maize_and_Black-DB1640-001-0.png?v=1713684974</image>
+      <category>Sneakers</category>
+      <price_with_vat>310</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean>194958784041</ean>
+      <availability>In Stock</availability>
+      <size>39</size>
+      <description>SB Dunk High Pro Maize and Black</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_High_Pro_Maize_and_Black-DB1640-001-1.png?v=1713684974</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_High_Pro_Maize_and_Black-DB1640-001-2.png?v=1713684974</image>
       </additional_images>
     </product>
   </products>
