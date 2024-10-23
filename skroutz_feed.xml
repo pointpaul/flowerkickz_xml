@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-23 11:03</created_at>
+  <created_at>2024-10-23 12:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20841,7 +20841,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>SHIPPING 30€</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
   </products>
 </FlowerKickz>
