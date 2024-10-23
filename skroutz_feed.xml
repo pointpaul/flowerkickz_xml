@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-23 13:04</created_at>
+  <created_at>2024-10-23 14:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -10387,7 +10387,7 @@
       <availability>In Stock</availability>
       <size>38,42.5,43,44.5,46,47</size>
       <description>Air Jordan 4 Red Cement</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Red_Cement-408452-161-1.png?v=1713672523</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Red_Cement-408452-161-2.png?v=1713672523</image>
@@ -10410,7 +10410,7 @@
           <manufacturersku>DH6927-161.42.5</manufacturersku>
           <price_with_vat>455</price_with_vat>
           <size>42.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49343293915469.43</variationid>
@@ -15894,7 +15894,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>235</quantity>
+      <quantity>234</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-1.webp?v=1713688442</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Dark_Onyx-ID5103-2.webp?v=1713688445</image>
@@ -15961,7 +15961,7 @@
           <manufacturersku>ID5103.44.5</manufacturersku>
           <price_with_vat>190</price_with_vat>
           <size>44.5</size>
-          <quantity>31</quantity>
+          <quantity>30</quantity>
         </variation>
         <variation>
           <variationid>50742287892813.46</variationid>
