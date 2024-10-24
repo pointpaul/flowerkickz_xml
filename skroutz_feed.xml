@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-24 02:03</created_at>
+  <created_at>2024-10-24 03:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -17792,7 +17792,7 @@
           <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white</link>
           <availability>In Stock</availability>
           <manufacturersku>H03472.38</manufacturersku>
-          <price_with_vat>170</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>38</size>
           <quantity>1</quantity>
         </variation>
@@ -17801,7 +17801,7 @@
           <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white</link>
           <availability>In Stock</availability>
           <manufacturersku>H03472.40-2/3</manufacturersku>
-          <price_with_vat>170</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>40 2/3</size>
           <quantity>0</quantity>
         </variation>
@@ -18734,7 +18734,7 @@
           <link>https://www.flowerkickz.gr/products/campus-00s-grey-white-enfant</link>
           <availability>In Stock</availability>
           <manufacturersku>HQ6507.36-2/3</manufacturersku>
-          <price_with_vat>140</price_with_vat>
+          <price_with_vat>130</price_with_vat>
           <size>36 2/3</size>
           <quantity>1</quantity>
         </variation>
