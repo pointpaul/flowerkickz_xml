@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-25 03:03</created_at>
+  <created_at>2024-10-25 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -10385,7 +10385,7 @@
       <manufacturer>Air Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>38,42.5,43,44.5,46,47</size>
+      <size>38,43,44.5,46,47</size>
       <description>Air Jordan 4 Red Cement</description>
       <quantity>4</quantity>
       <additional_images>
@@ -10401,15 +10401,6 @@
           <manufacturersku>DH6927-161.38</manufacturersku>
           <price_with_vat>425</price_with_vat>
           <size>38</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49343293915469.42.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-4-red-cement</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DH6927-161.42.5</manufacturersku>
-          <price_with_vat>455</price_with_vat>
-          <size>42.5</size>
           <quantity>0</quantity>
         </variation>
         <variation>
