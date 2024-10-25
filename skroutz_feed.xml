@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-25 09:03</created_at>
+  <created_at>2024-10-25 10:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -8264,7 +8264,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,40.5,42,42.5</size>
       <description>Dunk Low Cacao Wow</description>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Cacao_Wow-DD1503-124-1_8c6d6dec-ac3b-4504-aa73-e06c0b53454a.png?v=1713678528</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Cacao_Wow-DD1503-124-2_be1bed73-42a5-4187-b5ed-a6ceaff839ab.png?v=1713678528</image>
@@ -8296,7 +8296,7 @@
           <manufacturersku>DD1503-124.36.5</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>36.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49202541101389.37.5</variationid>
@@ -10348,7 +10348,7 @@
       <availability>In Stock</availability>
       <size>37 1/3,38 2/3</size>
       <description>Yeezy Boost 350 V2 Black Red</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Black_Red-CP9652-1.png?v=1713687454</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Black_Red-CP9652-2.png?v=1713687454</image>
@@ -10371,7 +10371,7 @@
           <manufacturersku>CP9652.38-2/3</manufacturersku>
           <price_with_vat>565</price_with_vat>
           <size>38 2/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -11896,7 +11896,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5</size>
       <description>Yeezy Foam RNNR Onyx</description>
-      <quantity>27</quantity>
+      <quantity>28</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Foam_RNNR_Onyx-HP8739-1.png?v=1713688150</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Foam_RNNR_Onyx-HP8739-2.png?v=1713688150</image>
@@ -11910,7 +11910,7 @@
           <manufacturersku>HP8739.37</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>37</size>
-          <quantity>3</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>45130154934403.38</variationid>
@@ -15776,7 +15776,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5</size>
       <description>Yeezy Foam RNNR MX Granite</description>
-      <quantity>28</quantity>
+      <quantity>27</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Foam_RNNR_MX_Granite-IE4931-1.webp?v=1714101322</image>
       </additional_images>
@@ -15788,7 +15788,7 @@
           <manufacturersku>IE4931.37</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>37</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>50778258964813.38</variationid>
