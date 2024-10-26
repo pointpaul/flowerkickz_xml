@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-26 15:03</created_at>
+  <created_at>2024-10-26 16:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6826,7 +6826,7 @@
       <availability>In Stock</availability>
       <size>LARGE,X-LARGE</size>
       <description>Fear of God Essentials T-Shirt Stretch-Limo</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <variations>
         <variation>
           <variationid>49041271456077.LARGE</variationid>
@@ -6844,7 +6844,7 @@
           <manufacturersku>80997194.X-LARGE</manufacturersku>
           <price_with_vat>190</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -20328,7 +20328,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic White Blue T-Shirt</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/11_b3d20fed-25d7-4ff2-bc0b-d308bc001268.png?v=1725370565</image>
       </additional_images>
@@ -20376,7 +20376,7 @@
           <manufacturersku>471321.Χ-LARGE</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>Χ-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -20392,7 +20392,7 @@
       <availability>In Stock</availability>
       <size>LARGE,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic White Rred T-Shirt</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/111.png?v=1725370855</image>
       </additional_images>
@@ -20404,7 +20404,7 @@
           <manufacturersku>476350.LARGE</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>LARGE</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52168820883789.Χ-LARGE</variationid>
