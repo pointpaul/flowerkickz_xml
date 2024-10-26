@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-26 08:03</created_at>
+  <created_at>2024-10-26 09:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -10344,7 +10344,7 @@
       <availability>In Stock</availability>
       <size>38,43,44.5,46,47</size>
       <description>Air Jordan 4 Red Cement</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Red_Cement-408452-161-1.png?v=1713672523</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Red_Cement-408452-161-2.png?v=1713672523</image>
@@ -10376,7 +10376,7 @@
           <manufacturersku>DH6927-161.44.5</manufacturersku>
           <price_with_vat>465</price_with_vat>
           <size>44.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49343293915469.46</variationid>
@@ -13852,7 +13852,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low Black Supreme</description>
-      <quantity>38</quantity>
+      <quantity>37</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-1.png?v=1713664941</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_Black_Supreme-CU9225-001-2.png?v=1713664941</image>
@@ -13920,7 +13920,7 @@
           <manufacturersku>CU9225-001.45.5</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>45.5</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>45212023226499.46</variationid>
@@ -20200,7 +20200,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic T-Shirt Black</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_cd386c2b-ccbd-412a-82c1-006ea34edd5a.png?v=1725369820</image>
       </additional_images>
@@ -20248,7 +20248,7 @@
           <manufacturersku>476351.Χ-LARGE</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>Χ-LARGE</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
