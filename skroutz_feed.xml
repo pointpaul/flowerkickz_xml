@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-27 03:03</created_at>
+  <created_at>2024-10-27 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6824,29 +6824,9 @@
       <manufacturer>Essentials</manufacturer>
       <ean>74924621</ean>
       <availability>In Stock</availability>
-      <size>LARGE,X-LARGE</size>
+      <size>LARGE</size>
       <description>Fear of God Essentials T-Shirt Stretch-Limo</description>
       <quantity>6</quantity>
-      <variations>
-        <variation>
-          <variationid>49041271456077.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-stretch-limo</link>
-          <availability>In Stock</availability>
-          <manufacturersku>80997194.LARGE</manufacturersku>
-          <price_with_vat>190</price_with_vat>
-          <size>LARGE</size>
-          <quantity>6</quantity>
-        </variation>
-        <variation>
-          <variationid>49041271456077.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-stretch-limo</link>
-          <availability>In Stock</availability>
-          <manufacturersku>80997194.X-LARGE</manufacturersku>
-          <price_with_vat>190</price_with_vat>
-          <size>X-LARGE</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>11653898</id>
@@ -10342,7 +10322,7 @@
       <manufacturer>Air Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>38,43,44.5,46,47</size>
+      <size>38,43,46,47</size>
       <description>Air Jordan 4 Red Cement</description>
       <quantity>3</quantity>
       <additional_images>
@@ -10368,15 +10348,6 @@
           <price_with_vat>445</price_with_vat>
           <size>43</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>49343293915469.44.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-4-red-cement</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DH6927-161.44.5</manufacturersku>
-          <price_with_vat>465</price_with_vat>
-          <size>44.5</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49343293915469.46</variationid>
