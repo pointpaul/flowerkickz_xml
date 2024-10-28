@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-28 14:04</created_at>
+  <created_at>2024-10-28 15:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -8221,7 +8221,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,40.5,42,42.5</size>
       <description>Dunk Low Cacao Wow</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Cacao_Wow-DD1503-124-1_8c6d6dec-ac3b-4504-aa73-e06c0b53454a.png?v=1713678528</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_Cacao_Wow-DD1503-124-2_be1bed73-42a5-4187-b5ed-a6ceaff839ab.png?v=1713678528</image>
@@ -8262,7 +8262,7 @@
           <manufacturersku>DD1503-124.37.5</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>37.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49202541101389.40.5</variationid>
