@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-29 08:05</created_at>
+  <created_at>2024-10-29 09:05</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -3962,7 +3962,7 @@
       <availability>In Stock</availability>
       <size>MEDIUM,SMALL</size>
       <description>Fear of God Essentials Hoodie Canary</description>
-      <quantity>20</quantity>
+      <quantity>21</quantity>
       <variations>
         <variation>
           <variationid>48479230427469.MEDIUM</variationid>
@@ -3971,7 +3971,7 @@
           <manufacturersku>24439392.MEDIUM</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>14</quantity>
+          <quantity>15</quantity>
         </variation>
         <variation>
           <variationid>48479230427469.SMALL</variationid>
@@ -12290,9 +12290,9 @@
       <manufacturer>Nike</manufacturer>
       <ean>43861123</ean>
       <availability>In Stock</availability>
-      <size>36,36.5,46,48.5</size>
+      <size>36,36.5,43,46,48.5</size>
       <description>Air Force 1 Low NOCTA Drake Certified Lover Boy</description>
-      <quantity>4</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_NOCTA_Drake_Certified_Lover_Boy-CZ8065-100-1.png?v=1713665371</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_NOCTA_Drake_Certified_Lover_Boy-CZ8065-100-2.png?v=1713665371</image>
@@ -12316,6 +12316,15 @@
           <manufacturersku>CZ8065-100.36.5</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>36.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>45128850669699.43</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-nocta-drake-certified-lover-boy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CZ8065-100.43</manufacturersku>
+          <price_with_vat>490</price_with_vat>
+          <size>43</size>
           <quantity>1</quantity>
         </variation>
         <variation>
