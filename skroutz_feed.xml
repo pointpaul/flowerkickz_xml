@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-10-31 15:03</created_at>
+  <created_at>2024-10-31 16:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -5678,7 +5678,7 @@
       <availability>In Stock</availability>
       <size>41,42.5,45,46</size>
       <description>Air Jordan 1 High OG Patent Bred</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Patent_Bred-575441-063-1.png?v=1713666881</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Patent_Bred-575441-063-2.png?v=1713666881</image>
@@ -5710,7 +5710,7 @@
           <manufacturersku>555088-063.45</manufacturersku>
           <price_with_vat>455</price_with_vat>
           <size>45</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45142123806851.46</variationid>
