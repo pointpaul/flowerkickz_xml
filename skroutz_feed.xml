@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-02 03:03</created_at>
+  <created_at>2024-11-02 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6772,7 +6772,7 @@
       <manufacturer>Essentials</manufacturer>
       <ean>41877581</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM,X-LARGE</size>
+      <size>LARGE,MEDIUM</size>
       <description>Fear of God Essentials T-Shirt Seal SS23</description>
       <quantity>3</quantity>
       <variations>
@@ -6793,15 +6793,6 @@
           <price_with_vat>190</price_with_vat>
           <size>MEDIUM</size>
           <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>49041438409037.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-seal</link>
-          <availability>In Stock</availability>
-          <manufacturersku>53408164.X-LARGE</manufacturersku>
-          <price_with_vat>190</price_with_vat>
-          <size>X-LARGE</size>
-          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
