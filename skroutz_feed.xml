@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-02 11:03</created_at>
+  <created_at>2024-11-02 12:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20213,7 +20213,7 @@
           <manufacturersku>476352.MEDIUM</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52168761704781.SMALL</variationid>
@@ -20231,7 +20231,7 @@
           <manufacturersku>476352.X-SMALL</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>1</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52168761704781.XX-LARGE</variationid>
@@ -20826,7 +20826,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-LARGE</size>
       <description>KAWS + Warhol Sweatpants Grey</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2_1cc54e17-2260-4853-96c6-a372ffc01fd2.png?v=1730284750</image>
       </additional_images>
@@ -20856,7 +20856,7 @@
           <manufacturersku>473557.SMALL</manufacturersku>
           <price_with_vat>125</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52491343331661.X-LARGE</variationid>
