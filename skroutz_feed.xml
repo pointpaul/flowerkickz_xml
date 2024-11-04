@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-04 11:04</created_at>
+  <created_at>2024-11-04 12:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20900,6 +20900,24 @@
           <quantity>2</quantity>
         </variation>
       </variations>
+    </product>
+    <product>
+      <id>DX8967-001</id>
+      <name>Air Force 1 Low Black Metallic Silver</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-low-black-metallic-silver</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzAir_Force_1_Low_Black_Metallic_Silver-DX8967-001-0_379f1f13-717a-4ef0-ba8f-40055dd27123.png?v=1691135660</image>
+      <category>Sneakers</category>
+      <price_with_vat>355</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean>01459331</ean>
+      <availability>In Stock</availability>
+      <size>40.5</size>
+      <description>Air Force 1 Low Black Metallic Silver</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzAir_Force_1_Low_Black_Metallic_Silver-DX8967-001-1_a4e121f7-0057-492b-96ec-4f55218ae42c.png?v=1691135660</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzAir_Force_1_Low_Black_Metallic_Silver-DX8967-001-2_fd7b47fa-4b43-46c7-aa16-80da15dbc1e8.png?v=1691135660</image>
+      </additional_images>
     </product>
   </products>
 </FlowerKickz>
