@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-05 03:03</created_at>
+  <created_at>2024-11-05 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -10756,40 +10756,6 @@
       </variations>
     </product>
     <product>
-      <id>TPH008</id>
-      <name>Trapstar Watch Your Back Hoodie Black</name>
-      <link>https://www.flowerkickz.gr/products/trapstar-watch-your-back-hoodie-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2-Recovered.png?v=1698411682</image>
-      <category>Sneakers</category>
-      <price_with_vat>150</price_with_vat>
-      <manufacturer>Trapstar</manufacturer>
-      <ean>77127294</ean>
-      <availability>In Stock</availability>
-      <size>LARGE,X-SMALL</size>
-      <description>Trapstar Watch Your Back Hoodie Black</description>
-      <quantity>2</quantity>
-      <variations>
-        <variation>
-          <variationid>49603995959629.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-watch-your-back-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>TPH008.LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>LARGE</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49603995959629.X-SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-watch-your-back-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>TPH008.X-SMALL</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>X-SMALL</size>
-          <quantity>2</quantity>
-        </variation>
-      </variations>
-    </product>
-    <product>
       <id>TPH009</id>
       <name>Trapstar All City Hoodie Black</name>
       <link>https://www.flowerkickz.gr/products/trapstar-all-city-hoodie-black</link>
@@ -10888,6 +10854,20 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_SP_Tiffany_And_Co.-DZ1382-001-3_27005616-1b1e-457e-8df0-fd1e7e40b204.png?v=1698764594</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_SP_Tiffany_And_Co.-DZ1382-001-4_4eb735f3-9892-49c9-999a-4e6bd5f5e78c.png?v=1698764594</image>
       </additional_images>
+    </product>
+    <product>
+      <id>TPH008</id>
+      <name>Trapstar Watch Your Back Hoodie Black</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-watch-your-back-hoodie-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2-Recovered.png?v=1698411682</image>
+      <category>Sneakers</category>
+      <price_with_vat>150</price_with_vat>
+      <manufacturer>Trapstar</manufacturer>
+      <ean>96396294</ean>
+      <availability>In Stock</availability>
+      <size>X-SMALL</size>
+      <description>Trapstar Watch Your Back Hoodie Black</description>
+      <quantity>2</quantity>
     </product>
     <product>
       <id>64726416</id>
