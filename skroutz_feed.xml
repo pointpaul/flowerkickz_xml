@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-05 11:03</created_at>
+  <created_at>2024-11-05 12:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -6488,7 +6488,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE</size>
       <description>Fear of God Essentials Shorts Stretch-Limo</description>
-      <quantity>23</quantity>
+      <quantity>24</quantity>
       <variations>
         <variation>
           <variationid>49041182196045.LARGE</variationid>
@@ -6497,7 +6497,7 @@
           <manufacturersku>54608014.LARGE</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>LARGE</size>
-          <quantity>6</quantity>
+          <quantity>7</quantity>
         </variation>
         <variation>
           <variationid>49041182196045.SMALL</variationid>
