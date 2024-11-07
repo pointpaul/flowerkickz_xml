@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-07 15:03</created_at>
+  <created_at>2024-11-07 16:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20916,6 +20916,34 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Rebellionaire-555088-036-1.png?v=1713666908</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_High_OG_Rebellionaire-555088-036-2.png?v=1713666909</image>
       </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Bape Shark Sweatpants Black</name>
+      <link>https://www.flowerkickz.gr/products/bape-shark-sweatpants-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2_9c6705a3-4e6d-4e85-ae25-e39510aca1ee.png?v=1730993314</image>
+      <category>Sneakers</category>
+      <price_with_vat>430</price_with_vat>
+      <manufacturer>Bape Clothing</manufacturer>
+      <ean>73071851</ean>
+      <availability>In Stock</availability>
+      <size>MEDIUM</size>
+      <description>Bape Shark Sweatpants Black</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Bape Shark Sweatpants Grey</name>
+      <link>https://www.flowerkickz.gr/products/bape-shark-sweatpants-grey</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions21_b21a238c-f716-4cb1-b0d8-041f3719049c.png?v=1730993423</image>
+      <category>Sneakers</category>
+      <price_with_vat>430</price_with_vat>
+      <manufacturer>Bape Clothing</manufacturer>
+      <ean>65978569</ean>
+      <availability>In Stock</availability>
+      <size>LARGE</size>
+      <description>Bape Shark Sweatpants Grey</description>
+      <quantity>1</quantity>
     </product>
   </products>
 </FlowerKickz>
