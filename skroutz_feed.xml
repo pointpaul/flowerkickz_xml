@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-08 08:04</created_at>
+  <created_at>2024-11-08 09:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -20943,6 +20943,34 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Bape Shark Sweatpants Grey</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Bape Sweatpants Color Camo</name>
+      <link>https://www.flowerkickz.gr/products/bape-sweatpants-color-camo</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/001PTK801009_RED_A_1040x-removebg-preview.png?v=1731054834</image>
+      <category>Sneakers</category>
+      <price_with_vat>445</price_with_vat>
+      <manufacturer>Bape Clothing</manufacturer>
+      <ean>81815533</ean>
+      <availability>In Stock</availability>
+      <size>X-LARGE</size>
+      <description>Bape Sweatpants Color Camo</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Bape Hoodie Color Camo</name>
+      <link>https://www.flowerkickz.gr/products/bape-hoodie-color-camo</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/s-l1600-removebg-preview.png?v=1731055028</image>
+      <category>Sneakers</category>
+      <price_with_vat>625</price_with_vat>
+      <manufacturer>Bape Clothing</manufacturer>
+      <ean>39452093</ean>
+      <availability>In Stock</availability>
+      <size>X-LARGE</size>
+      <description>Bape Hoodie Color Camo</description>
       <quantity>1</quantity>
     </product>
   </products>
