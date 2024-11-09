@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-09 18:03</created_at>
+  <created_at>2024-11-09 19:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -17839,58 +17839,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Preloved_Green_Solar_Yellow_-IF3967-1_64dd581a-bd3c-46f7-aa69-e22f2c524f36.webp?v=1713676905</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Preloved_Green_Solar_Yellow_-IF3967-2_e8630f5c-dac4-4819-8b05-cd25632c7902.webp?v=1713676905</image>
       </additional_images>
-    </product>
-    <product>
-      <id>IH7492</id>
-      <name>Campus 00s Dark Green Cloud White (Enfant)</name>
-      <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white-enfant</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzCampus_00s_Dark_Green_Cloud_White_Enfant_-IH7492-0.png?v=1713676713</image>
-      <category>Sneakers</category>
-      <price_with_vat>190</price_with_vat>
-      <manufacturer>Adidas</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>36,37 1/3,38,40</size>
-      <description>Campus 00s Dark Green Cloud White (Enfant)</description>
-      <quantity>4</quantity>
-      <variations>
-        <variation>
-          <variationid>50711030989133.36</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white-enfant</link>
-          <availability>In Stock</availability>
-          <manufacturersku>IH7492.36</manufacturersku>
-          <price_with_vat>190</price_with_vat>
-          <size>36</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>50711030989133.37-1/3</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white-enfant</link>
-          <availability>In Stock</availability>
-          <manufacturersku>IH7492.37-1/3</manufacturersku>
-          <price_with_vat>125</price_with_vat>
-          <size>37 1/3</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>50711030989133.38</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white-enfant</link>
-          <availability>In Stock</availability>
-          <manufacturersku>IH7492.38</manufacturersku>
-          <price_with_vat>125</price_with_vat>
-          <size>38</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>50711030989133.40</variationid>
-          <link>https://www.flowerkickz.gr/products/campus-00s-dark-green-cloud-white-enfant</link>
-          <availability>In Stock</availability>
-          <manufacturersku>IH7492.40</manufacturersku>
-          <price_with_vat>170</price_with_vat>
-          <size>40</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>ID7056</id>
