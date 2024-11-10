@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-10 18:04</created_at>
+  <created_at>2024-11-10 19:04</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -12352,16 +12352,16 @@
     </product>
     <product>
       <id>417744-001</id>
-      <name>Copy of Air Mag &quot;Back to the Future&quot; (2011) (VNDS)</name>
+      <name>Air Mag &quot;Back to the Future&quot; (2011) (VNDS)</name>
       <link>https://www.flowerkickz.gr/products/copy-of-air-mag-back-to-the-future-2011-vnds</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/NikeMAGBacktotheFuture_2011_e76e8a1d-2cf1-40db-b377-b5597626b97f.png?v=1704452434</image>
       <category>Sneakers</category>
-      <price_with_vat>33900</price_with_vat>
+      <price_with_vat>28250</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
       <size>42.5</size>
-      <description>Copy of Air Mag &quot;Back to the Future&quot; (2011) (VNDS)</description>
+      <description>Air Mag &quot;Back to the Future&quot; (2011) (VNDS)</description>
       <quantity>1</quantity>
     </product>
     <product>
@@ -12739,20 +12739,6 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>ΜΠΑΣΟΚ Bucket Hat White</description>
-      <quantity>1</quantity>
-    </product>
-    <product>
-      <id/>
-      <name>SB Dunk High Concepts Turdunken (Special Box)</name>
-      <link>https://www.flowerkickz.gr/products/sb-dunk-high-concepts-turdunken-special-box</link>
-      <image/>
-      <category>Sneakers</category>
-      <price_with_vat>0</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>Default Title</size>
-      <description>SB Dunk High Concepts Turdunken (Special Box)</description>
       <quantity>1</quantity>
     </product>
     <product>
@@ -20892,6 +20878,20 @@
       <availability>In Stock</availability>
       <size>X-LARGE</size>
       <description>Bape Hoodie Color Camo</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>SB Dunk High Concepts Turdunken (Special Box)</name>
+      <link>https://www.flowerkickz.gr/products/sb-dunk-high-concepts-turdunken-special-box</link>
+      <image/>
+      <category>Sneakers</category>
+      <price_with_vat>510</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40</size>
+      <description>SB Dunk High Concepts Turdunken (Special Box)</description>
       <quantity>1</quantity>
     </product>
   </products>
