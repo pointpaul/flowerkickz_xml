@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-11 15:03</created_at>
+  <created_at>2024-11-11 16:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -17605,7 +17605,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47,47.5</size>
       <description>Air Force 1 Low Chunky Rope Laces Beige</description>
-      <quantity>131</quantity>
+      <quantity>130</quantity>
       <variations>
         <variation>
           <variationid>51960963072333.40</variationid>
@@ -17668,7 +17668,7 @@
           <manufacturersku>315115-112.44</manufacturersku>
           <price_with_vat>275</price_with_vat>
           <size>44</size>
-          <quantity>15</quantity>
+          <quantity>14</quantity>
         </variation>
         <variation>
           <variationid>51960963072333.44.5</variationid>
@@ -20929,6 +20929,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Fresh_White-DM0211-100-1.png?v=1713664670</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Fresh_White-DM0211-100-2.png?v=1713664671</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_07_Fresh_White-DM0211-100-3.png?v=1713664671</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FJ4555-100</id>
+      <name>Dunk Low PRM Team Red</name>
+      <link>https://www.flowerkickz.gr/products/dunk-low-prm-team-red</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_PRM_Team_Red-FJ4555-100-0_140c4f67-8218-4ba5-bedf-1ae1271c743f.png?v=1713680229</image>
+      <category>Sneakers</category>
+      <price_with_vat>240</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>37.5</size>
+      <description>Dunk Low PRM Team Red</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_PRM_Team_Red-FJ4555-100-1_e86ee9a7-a06a-41b8-8000-80f57651febb.png?v=1713680229</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_PRM_Team_Red-FJ4555-100-2_b7a4a140-df94-4fee-9b41-37dfb05ed898.png?v=1713680229</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzDunk_Low_PRM_Team_Red-FJ4555-100-3_48ff9c8b-2544-4684-886e-ab2c083873c0.png?v=1713680229</image>
       </additional_images>
     </product>
   </products>
