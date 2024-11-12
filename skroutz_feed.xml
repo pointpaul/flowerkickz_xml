@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-12 13:03</created_at>
+  <created_at>2024-11-12 14:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -17659,7 +17659,7 @@
           <manufacturersku>315115-112.44</manufacturersku>
           <price_with_vat>275</price_with_vat>
           <size>44</size>
-          <quantity>14</quantity>
+          <quantity>15</quantity>
         </variation>
         <variation>
           <variationid>51960963072333.44.5</variationid>
@@ -17668,7 +17668,7 @@
           <manufacturersku>315115-112.44.5</manufacturersku>
           <price_with_vat>275</price_with_vat>
           <size>44.5</size>
-          <quantity>12</quantity>
+          <quantity>11</quantity>
         </variation>
         <variation>
           <variationid>51960963072333.45</variationid>
