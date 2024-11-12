@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-12 03:03</created_at>
+  <created_at>2024-11-12 04:03</created_at>
   <products>
     <product>
       <id>DH4692-002</id>
@@ -12220,7 +12220,7 @@
       <manufacturer>Nike</manufacturer>
       <ean>43861123</ean>
       <availability>In Stock</availability>
-      <size>36,36.5,43,46,48.5</size>
+      <size>36,36.5,43,48.5</size>
       <description>Air Force 1 Low NOCTA Drake Certified Lover Boy</description>
       <quantity>4</quantity>
       <additional_images>
@@ -12256,15 +12256,6 @@
           <price_with_vat>490</price_with_vat>
           <size>43</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>45128850669699.46</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-nocta-drake-certified-lover-boy</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CZ8065-100.46</manufacturersku>
-          <price_with_vat>445</price_with_vat>
-          <size>46</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>45128850669699.48.5</variationid>
