@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-19 15:00</created_at>
+  <created_at>2024-11-19 16:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -925,7 +925,7 @@
       <availability>In Stock</availability>
       <size>200ml</size>
       <description>Crep Protect Rain &amp; Stain Resistant Spray</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>72480719</id>
@@ -4577,21 +4577,12 @@
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>47,47.5,48</size>
+      <size>47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</description>
       <quantity>16</quantity>
       <variations>
         <variation>
-          <variationid>51967381111117.47</variationid>
-          <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-          <availability>In Stock</availability>
-          <manufacturersku>None.47</manufacturersku>
-          <price_with_vat>115</price_with_vat>
-          <size>47</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>51967381111117.47.5</variationid>
+          <variationid>51967381143885.47.5</variationid>
           <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
           <availability>In Stock</availability>
           <manufacturersku>None.47.5</manufacturersku>
@@ -4600,7 +4591,7 @@
           <quantity>11</quantity>
         </variation>
         <variation>
-          <variationid>51967381111117.48</variationid>
+          <variationid>51967381143885.48</variationid>
           <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
           <availability>In Stock</availability>
           <manufacturersku>None.48</manufacturersku>
