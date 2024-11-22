@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-22 14:00</created_at>
+  <created_at>2024-11-22 15:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3344,29 +3344,9 @@
       <manufacturer>Trapstar</manufacturer>
       <ean>0928374651</ean>
       <availability>In Stock</availability>
-      <size>2X-LARGE,X-LARGE</size>
+      <size>2X-LARGE</size>
       <description>Trapstar Distortion Tee Black</description>
       <quantity>1</quantity>
-      <variations>
-        <variation>
-          <variationid>48497024106829.2X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-distortion-tee-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>95563633.2X-LARGE</manufacturersku>
-          <price_with_vat>145</price_with_vat>
-          <size>2X-LARGE</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>48497024106829.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-distortion-tee-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>95563633.X-LARGE</manufacturersku>
-          <price_with_vat>145</price_with_vat>
-          <size>X-LARGE</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>DJ6901-600U</id>
