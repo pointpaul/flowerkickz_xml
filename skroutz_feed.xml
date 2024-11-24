@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-24 17:00</created_at>
+  <created_at>2024-11-24 18:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -9,7 +9,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzDunk_Low_SP_Orange_Blaze_Syracuse_-CU1726-101-0_4d1f519c-8af5-456f-9bb4-09001d27a473.png?v=1677916936</image>
       <category>Sneakers</category>
       <price_with_vat>505</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Nike</manufacturer>
       <ean>73590605</ean>
       <availability>In Stock</availability>
       <size>38.5,39,40,42,43,44.5</size>
@@ -84,7 +84,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzSB_Dunk_Low_Sean_Cliver-DC9936-100-0_c4ca3225-ee3d-4560-ae0b-f344b6fe5fdc.png?v=1677917114</image>
       <category>Sneakers</category>
       <price_with_vat>1560</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Nike</manufacturer>
       <ean>76212045</ean>
       <availability>In Stock</availability>
       <size>44.5</size>
@@ -101,7 +101,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/beanie2.png?v=1691679549</image>
       <category>Sneakers</category>
       <price_with_vat>130</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Supreme</manufacturer>
       <ean>0623902094</ean>
       <availability>In Stock</availability>
       <size>One Size</size>
@@ -115,7 +115,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/beanie3.png?v=1691679600</image>
       <category>Sneakers</category>
       <price_with_vat>130</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Supreme</manufacturer>
       <ean>0907961019</ean>
       <availability>In Stock</availability>
       <size>One Size</size>
@@ -566,7 +566,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/AirForce1LowLouisVuittonBlackSIDE.png?v=1688989627</image>
       <category>Sneakers</category>
       <price_with_vat>13560</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Nike</manufacturer>
       <ean>26896717</ean>
       <availability>In Stock</availability>
       <size>40.5</size>
@@ -1193,7 +1193,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/wheels3.png?v=1691678030</image>
       <category>Sneakers</category>
       <price_with_vat>105</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Supreme</manufacturer>
       <ean>3831312706</ean>
       <availability>In Stock</availability>
       <size>54 MM</size>
@@ -1207,7 +1207,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/wheels4.png?v=1691678065</image>
       <category>Sneakers</category>
       <price_with_vat>105</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Supreme</manufacturer>
       <ean>3713361820</ean>
       <availability>In Stock</availability>
       <size>52 MM</size>
@@ -1221,7 +1221,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/wheels1.png?v=1691677939</image>
       <category>Sneakers</category>
       <price_with_vat>105</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Supreme</manufacturer>
       <ean>3621163310</ean>
       <availability>In Stock</availability>
       <size>58 MM</size>
@@ -2555,7 +2555,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BapeBackpackSplinterBeigeCamo.png?v=1685701355</image>
       <category>Sneakers</category>
       <price_with_vat>295</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>2233441100</ean>
       <availability>In Stock</availability>
       <size>O/S - 260€</size>
@@ -2569,7 +2569,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BapeBackpackSplinterGreenCamo.png?v=1685701447</image>
       <category>Sneakers</category>
       <price_with_vat>295</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>8800112233</ean>
       <availability>In Stock</availability>
       <size>O/S - 260€</size>
@@ -2773,7 +2773,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/NikeMAGBacktotheFuture_2011_e76e8a1d-2cf1-40db-b377-b5597626b97f.png?v=1704452434</image>
       <category>Sneakers</category>
       <price_with_vat>28250</price_with_vat>
-      <manufacturer>Nike</manufacturer>
+      <manufacturer>Used</manufacturer>
       <ean/>
       <availability>In Stock</availability>
       <size>42.5</size>
@@ -2787,7 +2787,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BAPE1stCamoScarfGreen.png?v=1686404991</image>
       <category>Sneakers</category>
       <price_with_vat>115</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean/>
       <availability>In Stock</availability>
       <size>O/S - 100€</size>
@@ -2801,7 +2801,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/slipper1.png?v=1691678462</image>
       <category>Sneakers</category>
       <price_with_vat>70</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>8899005566</ean>
       <availability>In Stock</availability>
       <size>O/S</size>
@@ -2815,7 +2815,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/2023-02-09T155836.556.png?v=1678273120</image>
       <category>Sneakers</category>
       <price_with_vat>70</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>3344558899</ean>
       <availability>In Stock</availability>
       <size>O/S</size>
@@ -2829,7 +2829,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/tray.jpg?v=1678273026</image>
       <category>Sneakers</category>
       <price_with_vat>70</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>7766554433</ean>
       <availability>In Stock</availability>
       <size>O/S</size>
@@ -2843,7 +2843,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BapeHavaianasPinkCamo.png?v=1685702400</image>
       <category>Sneakers</category>
       <price_with_vat>125</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>4433228899</ean>
       <availability>In Stock</availability>
       <size>43 - 44</size>
@@ -2857,7 +2857,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/2023-02-09T160954.755.png?v=1678271080</image>
       <category>Sneakers</category>
       <price_with_vat>80</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>2233445566</ean>
       <availability>In Stock</availability>
       <size>iPhone 11 Pro</size>
@@ -2871,7 +2871,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/2023-02-09T160446.869.png?v=1678270943</image>
       <category>Sneakers</category>
       <price_with_vat>80</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>9988778899</ean>
       <availability>In Stock</availability>
       <size>iPhone 11 Pro</size>
@@ -2885,7 +2885,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/2023-02-09T160442.717.png?v=1678271313</image>
       <category>Sneakers</category>
       <price_with_vat>80</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>2233447766</ean>
       <availability>In Stock</availability>
       <size>iPhone 11,iPhone 11 Pro</size>
@@ -2919,7 +2919,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2023-02-10T100105.654-removebg-preview.png?v=1685716986</image>
       <category>Sneakers</category>
       <price_with_vat>50</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>2010321729</ean>
       <availability>In Stock</availability>
       <size>LARGE</size>
@@ -2933,7 +2933,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2023-02-10T100834.660-removebg-preview.png?v=1685717069</image>
       <category>Sneakers</category>
       <price_with_vat>50</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>2213302139</ean>
       <availability>In Stock</availability>
       <size>SMALL</size>
@@ -2947,7 +2947,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2023-02-10T100229.256-removebg-preview.png?v=1685717092</image>
       <category>Sneakers</category>
       <price_with_vat>50</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>2410322931</ean>
       <availability>In Stock</availability>
       <size>LARGE</size>
@@ -2961,7 +2961,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/case.jpg?v=1678271418</image>
       <category>Sneakers</category>
       <price_with_vat>105</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>1132362137</ean>
       <availability>In Stock</availability>
       <size>iPhone 11 Pro</size>
@@ -2975,7 +2975,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/abc2.jpg?v=1678272740</image>
       <category>Sneakers</category>
       <price_with_vat>80</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>1313310132</ean>
       <availability>In Stock</availability>
       <size>O/S</size>
@@ -2992,7 +2992,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/abc1.jpg?v=1678272729</image>
       <category>Sneakers</category>
       <price_with_vat>80</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>1429172015</ean>
       <availability>In Stock</availability>
       <size>O/S</size>
@@ -3009,7 +3009,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BAPEYankSTAScarfBlack.png?v=1686405515</image>
       <category>Sneakers</category>
       <price_with_vat>115</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean/>
       <availability>In Stock</availability>
       <size>O/S - 100€</size>
@@ -3023,7 +3023,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BapeYellowCamoScarfGreen.png?v=1686406111</image>
       <category>Sneakers</category>
       <price_with_vat>115</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean/>
       <availability>In Stock</availability>
       <size>O/S - 100€</size>
@@ -3037,7 +3037,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/coin2.png?v=1691676947</image>
       <category>Sneakers</category>
       <price_with_vat>80</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Supreme</manufacturer>
       <ean>3310072316</ean>
       <availability>In Stock</availability>
       <size>O/S</size>
@@ -3054,7 +3054,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/trucks2.png?v=1691677519</image>
       <category>Sneakers</category>
       <price_with_vat>130</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Supreme</manufacturer>
       <ean>4010312037</ean>
       <availability>In Stock</availability>
       <size>129 MM</size>
@@ -3071,7 +3071,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/encore1.png?v=1691677556</image>
       <category>Sneakers</category>
       <price_with_vat>115</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Supreme</manufacturer>
       <ean>3010032936</ean>
       <availability>In Stock</availability>
       <size>O/S</size>
@@ -3085,7 +3085,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/case1.png?v=1691677630</image>
       <category>Sneakers</category>
       <price_with_vat>170</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Supreme</manufacturer>
       <ean>3510332019</ean>
       <availability>In Stock</availability>
       <size>O/S</size>
@@ -3099,7 +3099,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/wheels2.png?v=1691677993</image>
       <category>Sneakers</category>
       <price_with_vat>105</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Supreme</manufacturer>
       <ean>3910320615</ean>
       <availability>In Stock</availability>
       <size>51 MM</size>
@@ -3113,7 +3113,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/tennis1.png?v=1691678149</image>
       <category>Sneakers</category>
       <price_with_vat>80</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Supreme</manufacturer>
       <ean>2810320701</ean>
       <availability>In Stock</availability>
       <size>O/S</size>
@@ -3144,7 +3144,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/bike.png?v=1704977682</image>
       <category>Sneakers</category>
       <price_with_vat>0</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Supreme</manufacturer>
       <ean/>
       <availability>In Stock</availability>
       <size>Default Title</size>
@@ -3172,7 +3172,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/2023-02-09T135220.690.png?v=1678272928</image>
       <category>Sneakers</category>
       <price_with_vat>55</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Bape</manufacturer>
       <ean>1617312837</ean>
       <availability>In Stock</availability>
       <size>O/S</size>
@@ -3186,7 +3186,7 @@
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/crep.png?v=1704977916</image>
       <category>Sneakers</category>
       <price_with_vat>0</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Crep Protect</manufacturer>
       <ean/>
       <availability>In Stock</availability>
       <size>44.5 - 45.5</size>
@@ -3882,7 +3882,7 @@
       <image/>
       <category>Sneakers</category>
       <price_with_vat>510</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
+      <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
       <size>40</size>
