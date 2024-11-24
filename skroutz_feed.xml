@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-24 08:00</created_at>
+  <created_at>2024-11-24 09:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -128,7 +128,7 @@
       <link>https://www.flowerkickz.gr/products/bape-jacket-anorak-1st-camo-purple</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BapeJacketAnorak1stCamoPurple.png?v=1685703154</image>
       <category>Sneakers</category>
-      <price_with_vat>510</price_with_vat>
+      <price_with_vat>400</price_with_vat>
       <manufacturer>Bape Clothing</manufacturer>
       <ean>3344552211</ean>
       <availability>In Stock</availability>
@@ -174,7 +174,7 @@
       <link>https://www.flowerkickz.gr/products/copy-of-fear-of-god-essentials-sweatpants-stretch-limo</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FearofGodEssentialsSweatpantsStretch-LimoFront.png?v=1690469839</image>
       <category>Sneakers</category>
-      <price_with_vat>240</price_with_vat>
+      <price_with_vat>185</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>7014382956</ean>
       <availability>In Stock</availability>
@@ -191,7 +191,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatpants-off-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FearofGodEssentialsSweatpantsOff-Black.png?v=1690468970</image>
       <category>Sneakers</category>
-      <price_with_vat>240</price_with_vat>
+      <price_with_vat>185</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>9230178564</ean>
       <availability>In Stock</availability>
@@ -204,7 +204,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatpants-off-black</link>
           <availability>In Stock</availability>
           <manufacturersku>40640922.LARGE</manufacturersku>
-          <price_with_vat>240</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>LARGE</size>
           <quantity>32</quantity>
         </variation>
@@ -213,7 +213,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatpants-off-black</link>
           <availability>In Stock</availability>
           <manufacturersku>40640922.MEDIUM</manufacturersku>
-          <price_with_vat>240</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>MEDIUM</size>
           <quantity>20</quantity>
         </variation>
@@ -222,7 +222,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatpants-off-black</link>
           <availability>In Stock</availability>
           <manufacturersku>40640922.SMALL</manufacturersku>
-          <price_with_vat>240</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>SMALL</size>
           <quantity>16</quantity>
         </variation>
@@ -231,7 +231,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatpants-off-black</link>
           <availability>In Stock</availability>
           <manufacturersku>40640922.X-LARGE</manufacturersku>
-          <price_with_vat>240</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>X-LARGE</size>
           <quantity>6</quantity>
         </variation>
@@ -240,7 +240,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatpants-off-black</link>
           <availability>In Stock</availability>
           <manufacturersku>40640922.X-SMALL</manufacturersku>
-          <price_with_vat>240</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>X-SMALL</size>
           <quantity>5</quantity>
         </variation>
@@ -252,7 +252,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatpants-coral</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FearofGodEssentialsSweatpantsCoralBack.png?v=1690468629</image>
       <category>Sneakers</category>
-      <price_with_vat>240</price_with_vat>
+      <price_with_vat>185</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>1975328429</ean>
       <availability>In Stock</availability>
@@ -268,7 +268,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatpants-coral</link>
           <availability>In Stock</availability>
           <manufacturersku>29720294.2X-LARGE</manufacturersku>
-          <price_with_vat>240</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>2X-LARGE</size>
           <quantity>5</quantity>
         </variation>
@@ -277,7 +277,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatpants-coral</link>
           <availability>In Stock</availability>
           <manufacturersku>29720294.MEDIUM</manufacturersku>
-          <price_with_vat>240</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>MEDIUM</size>
           <quantity>5</quantity>
         </variation>
@@ -286,7 +286,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatpants-coral</link>
           <availability>In Stock</availability>
           <manufacturersku>29720294.SMALL</manufacturersku>
-          <price_with_vat>240</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>SMALL</size>
           <quantity>6</quantity>
         </variation>
@@ -295,7 +295,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatpants-coral</link>
           <availability>In Stock</availability>
           <manufacturersku>29720294.X-LARGE</manufacturersku>
-          <price_with_vat>240</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>X-LARGE</size>
           <quantity>4</quantity>
         </variation>
@@ -304,7 +304,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatpants-coral</link>
           <availability>In Stock</availability>
           <manufacturersku>29720294.X-SMALL</manufacturersku>
-          <price_with_vat>240</price_with_vat>
+          <price_with_vat>185</price_with_vat>
           <size>X-SMALL</size>
           <quantity>7</quantity>
         </variation>
@@ -330,7 +330,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-canary</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FearofGodEssentialsHoodieCanary.png?v=1690468087</image>
       <category>Sneakers</category>
-      <price_with_vat>250</price_with_vat>
+      <price_with_vat>195</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>5122081791</ean>
       <availability>In Stock</availability>
@@ -343,7 +343,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-canary</link>
           <availability>In Stock</availability>
           <manufacturersku>24439392.MEDIUM</manufacturersku>
-          <price_with_vat>250</price_with_vat>
+          <price_with_vat>195</price_with_vat>
           <size>MEDIUM</size>
           <quantity>15</quantity>
         </variation>
@@ -352,7 +352,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-canary</link>
           <availability>In Stock</availability>
           <manufacturersku>24439392.SMALL</manufacturersku>
-          <price_with_vat>250</price_with_vat>
+          <price_with_vat>195</price_with_vat>
           <size>SMALL</size>
           <quantity>6</quantity>
         </variation>
@@ -364,7 +364,7 @@
       <link>https://www.flowerkickz.gr/products/trapstar-its-a-secret-tee-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TrapstarIt_sASecretTeeWhite.png?v=1686214795</image>
       <category>Sneakers</category>
-      <price_with_vat>145</price_with_vat>
+      <price_with_vat>105</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
       <ean>2109876543</ean>
       <availability>In Stock</availability>
@@ -377,7 +377,7 @@
           <link>https://www.flowerkickz.gr/products/trapstar-its-a-secret-tee-white</link>
           <availability>In Stock</availability>
           <manufacturersku>06284513.2X-LARGE</manufacturersku>
-          <price_with_vat>145</price_with_vat>
+          <price_with_vat>105</price_with_vat>
           <size>2X-LARGE</size>
           <quantity>2</quantity>
         </variation>
@@ -386,7 +386,7 @@
           <link>https://www.flowerkickz.gr/products/trapstar-its-a-secret-tee-white</link>
           <availability>In Stock</availability>
           <manufacturersku>06284513.X-LARGE</manufacturersku>
-          <price_with_vat>145</price_with_vat>
+          <price_with_vat>105</price_with_vat>
           <size>X-LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -398,7 +398,7 @@
       <link>https://www.flowerkickz.gr/products/trapstar-cant-trap-a-trapper-tee-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TrapstarCan_tTrapATrapperTeeWhite.png?v=1686213605</image>
       <category>Sneakers</category>
-      <price_with_vat>145</price_with_vat>
+      <price_with_vat>105</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
       <ean>4758102936</ean>
       <availability>In Stock</availability>
@@ -411,7 +411,7 @@
           <link>https://www.flowerkickz.gr/products/trapstar-cant-trap-a-trapper-tee-white</link>
           <availability>In Stock</availability>
           <manufacturersku>12993892.2X-LARGE</manufacturersku>
-          <price_with_vat>145</price_with_vat>
+          <price_with_vat>105</price_with_vat>
           <size>2X-LARGE</size>
           <quantity>2</quantity>
         </variation>
@@ -420,7 +420,7 @@
           <link>https://www.flowerkickz.gr/products/trapstar-cant-trap-a-trapper-tee-white</link>
           <availability>In Stock</availability>
           <manufacturersku>12993892.LARGE</manufacturersku>
-          <price_with_vat>145</price_with_vat>
+          <price_with_vat>105</price_with_vat>
           <size>LARGE</size>
           <quantity>2</quantity>
         </variation>
@@ -429,7 +429,7 @@
           <link>https://www.flowerkickz.gr/products/trapstar-cant-trap-a-trapper-tee-white</link>
           <availability>In Stock</availability>
           <manufacturersku>12993892.X-LARGE</manufacturersku>
-          <price_with_vat>145</price_with_vat>
+          <price_with_vat>105</price_with_vat>
           <size>X-LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -441,7 +441,7 @@
       <link>https://www.flowerkickz.gr/products/trapstar-cant-trap-a-trapper-tee-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TrapstarCan_tTrapATrapperTeeBlack.png?v=1686213567</image>
       <category>Sneakers</category>
-      <price_with_vat>145</price_with_vat>
+      <price_with_vat>105</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
       <ean>3928745102</ean>
       <availability>In Stock</availability>
@@ -454,7 +454,7 @@
           <link>https://www.flowerkickz.gr/products/trapstar-cant-trap-a-trapper-tee-black</link>
           <availability>In Stock</availability>
           <manufacturersku>86943762.2X-LARGE</manufacturersku>
-          <price_with_vat>145</price_with_vat>
+          <price_with_vat>105</price_with_vat>
           <size>2X-LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -463,7 +463,7 @@
           <link>https://www.flowerkickz.gr/products/trapstar-cant-trap-a-trapper-tee-black</link>
           <availability>In Stock</availability>
           <manufacturersku>86943762.X-LARGE</manufacturersku>
-          <price_with_vat>145</price_with_vat>
+          <price_with_vat>105</price_with_vat>
           <size>X-LARGE</size>
           <quantity>3</quantity>
         </variation>
@@ -475,7 +475,7 @@
       <link>https://www.flowerkickz.gr/products/trapstar-no-rules-tee-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TrapstarNoRules2.0TeeWhite.png?v=1686215483</image>
       <category>Sneakers</category>
-      <price_with_vat>145</price_with_vat>
+      <price_with_vat>105</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
       <ean>6477254873</ean>
       <availability>In Stock</availability>
@@ -583,7 +583,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-sycamore</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/sycamore.png?v=1688994321</image>
       <category>Sneakers</category>
-      <price_with_vat>205</price_with_vat>
+      <price_with_vat>160</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>71828557</ean>
       <availability>In Stock</availability>
@@ -611,7 +611,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-stretch-limo</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/stretch1.png?v=1688995534</image>
       <category>Sneakers</category>
-      <price_with_vat>205</price_with_vat>
+      <price_with_vat>160</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>85730125</ean>
       <availability>In Stock</availability>
@@ -624,7 +624,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-stretch-limo</link>
           <availability>In Stock</availability>
           <manufacturersku>54608014.LARGE</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>LARGE</size>
           <quantity>7</quantity>
         </variation>
@@ -633,7 +633,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-stretch-limo</link>
           <availability>In Stock</availability>
           <manufacturersku>54608014.SMALL</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>SMALL</size>
           <quantity>3</quantity>
         </variation>
@@ -642,7 +642,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-stretch-limo</link>
           <availability>In Stock</availability>
           <manufacturersku>54608014.X-LARGE</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>X-LARGE</size>
           <quantity>14</quantity>
         </variation>
@@ -654,7 +654,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-light-oatmeal</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/oatmeal22.png?v=1688995766</image>
       <category>Sneakers</category>
-      <price_with_vat>205</price_with_vat>
+      <price_with_vat>160</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>98116429</ean>
       <availability>In Stock</availability>
@@ -667,7 +667,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-light-oatmeal</link>
           <availability>In Stock</availability>
           <manufacturersku>10147271.LARGE</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>LARGE</size>
           <quantity>2</quantity>
         </variation>
@@ -676,7 +676,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-light-oatmeal</link>
           <availability>In Stock</availability>
           <manufacturersku>10147271.SMALL</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>SMALL</size>
           <quantity>3</quantity>
         </variation>
@@ -685,7 +685,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-light-oatmeal</link>
           <availability>In Stock</availability>
           <manufacturersku>10147271.X-LARGE</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>X-LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -694,7 +694,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-light-oatmeal</link>
           <availability>In Stock</availability>
           <manufacturersku>10147271.X-SMALL</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>X-SMALL</size>
           <quantity>3</quantity>
         </variation>
@@ -706,7 +706,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-dark-oatmeal</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/darkoatmeal.png?v=1688995919</image>
       <category>Sneakers</category>
-      <price_with_vat>205</price_with_vat>
+      <price_with_vat>160</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>28918349</ean>
       <availability>In Stock</availability>
@@ -719,7 +719,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-dark-oatmeal</link>
           <availability>In Stock</availability>
           <manufacturersku>91455455.LARGE</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>LARGE</size>
           <quantity>4</quantity>
         </variation>
@@ -728,7 +728,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-dark-oatmeal</link>
           <availability>In Stock</availability>
           <manufacturersku>91455455.SMALL</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>SMALL</size>
           <quantity>3</quantity>
         </variation>
@@ -737,7 +737,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-dark-oatmeal</link>
           <availability>In Stock</availability>
           <manufacturersku>91455455.X-LARGE</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>X-LARGE</size>
           <quantity>4</quantity>
         </variation>
@@ -746,7 +746,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-dark-oatmeal</link>
           <availability>In Stock</availability>
           <manufacturersku>91455455.X-SMALL</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>X-SMALL</size>
           <quantity>5</quantity>
         </variation>
@@ -758,7 +758,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-cream</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/creamshirt.png?v=1689082594</image>
       <category>Sneakers</category>
-      <price_with_vat>190</price_with_vat>
+      <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>90158413</ean>
       <availability>In Stock</availability>
@@ -771,7 +771,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-cream</link>
           <availability>In Stock</availability>
           <manufacturersku>90678681.SMALL</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>150</price_with_vat>
           <size>SMALL</size>
           <quantity>1</quantity>
         </variation>
@@ -780,7 +780,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-cream</link>
           <availability>In Stock</availability>
           <manufacturersku>90678681.X-LARGE</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>150</price_with_vat>
           <size>X-LARGE</size>
           <quantity>9</quantity>
         </variation>
@@ -792,7 +792,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-taupe</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/taupess.png?v=1689082326</image>
       <category>Sneakers</category>
-      <price_with_vat>190</price_with_vat>
+      <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>86062413</ean>
       <availability>In Stock</availability>
@@ -805,7 +805,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-taupe</link>
           <availability>In Stock</availability>
           <manufacturersku>38475326.LARGE</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -814,7 +814,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-taupe</link>
           <availability>In Stock</availability>
           <manufacturersku>38475326.MEDIUM</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>150</price_with_vat>
           <size>MEDIUM</size>
           <quantity>1</quantity>
         </variation>
@@ -823,7 +823,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-taupe</link>
           <availability>In Stock</availability>
           <manufacturersku>38475326.X-LARGE</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>150</price_with_vat>
           <size>X-LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -835,7 +835,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-coral</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/shirtcoral.png?v=1689084332</image>
       <category>Sneakers</category>
-      <price_with_vat>190</price_with_vat>
+      <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>62641229</ean>
       <availability>In Stock</availability>
@@ -849,7 +849,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/shirtsandss23.png?v=1688997835</image>
       <category>Sneakers</category>
-      <price_with_vat>190</price_with_vat>
+      <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>75890765</ean>
       <availability>In Stock</availability>
@@ -862,7 +862,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
           <availability>In Stock</availability>
           <manufacturersku>15629672.LARGE</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
           <quantity>3</quantity>
         </variation>
@@ -871,7 +871,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
           <availability>In Stock</availability>
           <manufacturersku>15629672.MEDIUM</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>150</price_with_vat>
           <size>MEDIUM</size>
           <quantity>1</quantity>
         </variation>
@@ -883,7 +883,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-seafoam</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/seafoamshirt.png?v=1688996721</image>
       <category>Sneakers</category>
-      <price_with_vat>190</price_with_vat>
+      <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>42525005</ean>
       <availability>In Stock</availability>
@@ -897,7 +897,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-seal</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/sealss23.png?v=1688997513</image>
       <category>Sneakers</category>
-      <price_with_vat>190</price_with_vat>
+      <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>41877581</ean>
       <availability>In Stock</availability>
@@ -910,7 +910,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-seal</link>
           <availability>In Stock</availability>
           <manufacturersku>53408164.LARGE</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -919,7 +919,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-seal</link>
           <availability>In Stock</availability>
           <manufacturersku>53408164.MEDIUM</manufacturersku>
-          <price_with_vat>190</price_with_vat>
+          <price_with_vat>150</price_with_vat>
           <size>MEDIUM</size>
           <quantity>2</quantity>
         </variation>
@@ -931,7 +931,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-stretch-limo</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/stretchshirt.png?v=1688996244</image>
       <category>Sneakers</category>
-      <price_with_vat>190</price_with_vat>
+      <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>74924621</ean>
       <availability>In Stock</availability>
@@ -945,7 +945,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/appliqueblack.png?v=1689083723</image>
       <category>Sneakers</category>
-      <price_with_vat>190</price_with_vat>
+      <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>32494669</ean>
       <availability>In Stock</availability>
@@ -959,7 +959,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-seafoam</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/seafoam.png?v=1688995174</image>
       <category>Sneakers</category>
-      <price_with_vat>205</price_with_vat>
+      <price_with_vat>160</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>42115917</ean>
       <availability>In Stock</availability>
@@ -972,7 +972,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-seafoam</link>
           <availability>In Stock</availability>
           <manufacturersku>04496538.LARGE</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>LARGE</size>
           <quantity>2</quantity>
         </variation>
@@ -981,7 +981,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-seafoam</link>
           <availability>In Stock</availability>
           <manufacturersku>04496538.X-SMALL</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>X-SMALL</size>
           <quantity>1</quantity>
         </variation>
@@ -993,7 +993,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-moss</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/moss.png?v=1688995079</image>
       <category>Sneakers</category>
-      <price_with_vat>205</price_with_vat>
+      <price_with_vat>160</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>34710349</ean>
       <availability>In Stock</availability>
@@ -1007,7 +1007,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-off-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/offblack2.png?v=1688994766</image>
       <category>Sneakers</category>
-      <price_with_vat>205</price_with_vat>
+      <price_with_vat>160</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>10888013</ean>
       <availability>In Stock</availability>
@@ -1020,7 +1020,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-off-black</link>
           <availability>In Stock</availability>
           <manufacturersku>47432195.LARGE</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -1029,7 +1029,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-off-black</link>
           <availability>In Stock</availability>
           <manufacturersku>47432195.MEDIUM</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>MEDIUM</size>
           <quantity>3</quantity>
         </variation>
@@ -1038,7 +1038,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-sweatshort-off-black</link>
           <availability>In Stock</availability>
           <manufacturersku>47432195.X-LARGE</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>X-LARGE</size>
           <quantity>2</quantity>
         </variation>
@@ -1122,7 +1122,7 @@
       <link>https://www.flowerkickz.gr/products/trapstar-trap-invasion-tee-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/trapinvasiontee.png?v=1689080001</image>
       <category>Sneakers</category>
-      <price_with_vat>145</price_with_vat>
+      <price_with_vat>105</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
       <ean>81434189</ean>
       <availability>In Stock</availability>
@@ -1136,7 +1136,7 @@
       <link>https://www.flowerkickz.gr/products/trapstar-trap-trp-tee-white-revolution-edition</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TRPteewhite.png?v=1689080265</image>
       <category>Sneakers</category>
-      <price_with_vat>145</price_with_vat>
+      <price_with_vat>105</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
       <ean>98997837</ean>
       <availability>In Stock</availability>
@@ -1150,7 +1150,7 @@
       <link>https://www.flowerkickz.gr/products/bape-jacket-anorak-1st-camo-blue</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BapeJacketAnorak1stCamoBlue.png?v=1685703036</image>
       <category>Sneakers</category>
-      <price_with_vat>510</price_with_vat>
+      <price_with_vat>400</price_with_vat>
       <manufacturer>Bape Clothing</manufacturer>
       <ean>5566888899</ean>
       <availability>In Stock</availability>
@@ -1164,7 +1164,7 @@
       <link>https://www.flowerkickz.gr/products/bape-joggers-pink-camo</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BapeJoggersPinkCamo.png?v=1685703702</image>
       <category>Sneakers</category>
-      <price_with_vat>330</price_with_vat>
+      <price_with_vat>310</price_with_vat>
       <manufacturer>Bape Clothing</manufacturer>
       <ean>57834371</ean>
       <availability>In Stock</availability>
@@ -1178,7 +1178,7 @@
       <link>https://www.flowerkickz.gr/products/abc-camo-shark-crewneck</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ABCCamoSharkCrewneck.png?v=1685700992</image>
       <category>Sneakers</category>
-      <price_with_vat>445</price_with_vat>
+      <price_with_vat>375</price_with_vat>
       <manufacturer>Bape Clothing</manufacturer>
       <ean>1122334455</ean>
       <availability>In Stock</availability>
@@ -1234,7 +1234,7 @@
       <link>https://www.flowerkickz.gr/products/copy-of-fear-of-god-essentials-1977-shorts-dark-oatmeal</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1977darkoatmeal.png?v=1698139735</image>
       <category>Sneakers</category>
-      <price_with_vat>205</price_with_vat>
+      <price_with_vat>160</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>29433421</ean>
       <availability>In Stock</availability>
@@ -1996,7 +1996,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-shorts-off-black-fw22</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/fw22offblack.png?v=1698140094</image>
       <category>Sneakers</category>
-      <price_with_vat>205</price_with_vat>
+      <price_with_vat>160</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>62349500</ean>
       <availability>In Stock</availability>
@@ -2009,7 +2009,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-shorts-off-black-fw22</link>
           <availability>In Stock</availability>
           <manufacturersku>17600524.LARGE</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>LARGE</size>
           <quantity>4</quantity>
         </variation>
@@ -2018,7 +2018,7 @@
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-shorts-off-black-fw22</link>
           <availability>In Stock</availability>
           <manufacturersku>17600524.MEDIUM</manufacturersku>
-          <price_with_vat>205</price_with_vat>
+          <price_with_vat>160</price_with_vat>
           <size>MEDIUM</size>
           <quantity>1</quantity>
         </variation>
@@ -2427,7 +2427,7 @@
           <link>https://www.flowerkickz.gr/products/trapstar-horizon-2-0-hoodie-black</link>
           <availability>In Stock</availability>
           <manufacturersku>63552162.2X-LARGE</manufacturersku>
-          <price_with_vat>310</price_with_vat>
+          <price_with_vat>150</price_with_vat>
           <size>2X-LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -2484,7 +2484,7 @@
       <link>https://www.flowerkickz.gr/products/trapstar-hyperdrive-sleeve-puffer-black-camo</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/hyperdrive.png?v=1699379009</image>
       <category>Sneakers</category>
-      <price_with_vat>510</price_with_vat>
+      <price_with_vat>400</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
       <ean>54676244</ean>
       <availability>In Stock</availability>
@@ -2610,7 +2610,7 @@
       <link>https://www.flowerkickz.gr/products/trapstar-distortion-tee-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TrapstarDistortionTeeBlack.png?v=1686213872</image>
       <category>Sneakers</category>
-      <price_with_vat>145</price_with_vat>
+      <price_with_vat>105</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
       <ean>0928374651</ean>
       <availability>In Stock</availability>
@@ -2642,7 +2642,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-amber-ss23</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ambershirtss23.png?v=1688998203</image>
       <category>Sneakers</category>
-      <price_with_vat>190</price_with_vat>
+      <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>09183053</ean>
       <availability>In Stock</availability>
@@ -2736,7 +2736,7 @@
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-ssense-tan</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2.png?v=1703160625</image>
       <category>Sneakers</category>
-      <price_with_vat>285</price_with_vat>
+      <price_with_vat>240</price_with_vat>
       <manufacturer>Essentials</manufacturer>
       <ean>92467086</ean>
       <availability>In Stock</availability>
@@ -2800,7 +2800,7 @@
       <link>https://www.flowerkickz.gr/products/bape-abc-slippers-pouch-set-green</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/slipper1.png?v=1691678462</image>
       <category>Sneakers</category>
-      <price_with_vat>105</price_with_vat>
+      <price_with_vat>70</price_with_vat>
       <manufacturer>Flower Kickz</manufacturer>
       <ean>8899005566</ean>
       <availability>In Stock</availability>
@@ -2814,7 +2814,7 @@
       <link>https://www.flowerkickz.gr/products/bape-abc-slippers-pouch-set-pink</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/2023-02-09T155836.556.png?v=1678273120</image>
       <category>Sneakers</category>
-      <price_with_vat>105</price_with_vat>
+      <price_with_vat>70</price_with_vat>
       <manufacturer>Flower Kickz</manufacturer>
       <ean>3344558899</ean>
       <availability>In Stock</availability>
@@ -3213,7 +3213,7 @@
       <link>https://www.flowerkickz.gr/products/bape-tee-3d-art-ape-head-relaxed-fit-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/now_aa51db68-4d31-47b9-a59a-7a8181f0368b.png?v=1714742421</image>
       <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>Bape Clothing</manufacturer>
       <ean>69879537</ean>
       <availability>In Stock</availability>
@@ -3230,7 +3230,7 @@
       <link>https://www.flowerkickz.gr/products/bape-tee-by-bathing-ape-beige</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BEIGE.png?v=1714743778</image>
       <category>Sneakers</category>
-      <price_with_vat>185</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>Bape Clothing</manufacturer>
       <ean>73169537</ean>
       <availability>In Stock</availability>
@@ -3825,7 +3825,7 @@
       <link>https://www.flowerkickz.gr/products/bape-shark-sweatpants-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2_9c6705a3-4e6d-4e85-ae25-e39510aca1ee.png?v=1730993314</image>
       <category>Sneakers</category>
-      <price_with_vat>430</price_with_vat>
+      <price_with_vat>400</price_with_vat>
       <manufacturer>Bape Clothing</manufacturer>
       <ean>73071851</ean>
       <availability>In Stock</availability>
@@ -3839,7 +3839,7 @@
       <link>https://www.flowerkickz.gr/products/bape-shark-sweatpants-grey</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions21_b21a238c-f716-4cb1-b0d8-041f3719049c.png?v=1730993423</image>
       <category>Sneakers</category>
-      <price_with_vat>430</price_with_vat>
+      <price_with_vat>400</price_with_vat>
       <manufacturer>Bape Clothing</manufacturer>
       <ean>65978569</ean>
       <availability>In Stock</availability>
@@ -3853,7 +3853,7 @@
       <link>https://www.flowerkickz.gr/products/bape-sweatpants-color-camo</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/001PTK801009_RED_A_1040x-removebg-preview.png?v=1731054834</image>
       <category>Sneakers</category>
-      <price_with_vat>445</price_with_vat>
+      <price_with_vat>410</price_with_vat>
       <manufacturer>Bape Clothing</manufacturer>
       <ean>81815533</ean>
       <availability>In Stock</availability>
