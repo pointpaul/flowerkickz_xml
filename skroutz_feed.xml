@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-24 16:00</created_at>
+  <created_at>2024-11-24 17:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -754,7 +754,7 @@
     </product>
     <product>
       <id>90678681</id>
-      <name>Fear of God Essentials T-Shirt Applique Logo Cream</name>
+      <name>Fear of God Essentials Tee Applique Logo Cream</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-cream</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/creamshirt.png?v=1689082594</image>
       <category>Sneakers</category>
@@ -763,7 +763,7 @@
       <ean>90158413</ean>
       <availability>In Stock</availability>
       <size>SMALL,X-LARGE</size>
-      <description>Fear of God Essentials T-Shirt Applique Logo Cream</description>
+      <description>Fear of God Essentials Tee Applique Logo Cream</description>
       <quantity>10</quantity>
       <variations>
         <variation>
@@ -788,7 +788,7 @@
     </product>
     <product>
       <id>38475326</id>
-      <name>Fear of God Essentials T-Shirt Applique Logo Taupe</name>
+      <name>Fear of God Essentials Tee Applique Logo Taupe</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-taupe</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/taupess.png?v=1689082326</image>
       <category>Sneakers</category>
@@ -797,7 +797,7 @@
       <ean>86062413</ean>
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,X-LARGE</size>
-      <description>Fear of God Essentials T-Shirt Applique Logo Taupe</description>
+      <description>Fear of God Essentials Tee Applique Logo Taupe</description>
       <quantity>3</quantity>
       <variations>
         <variation>
@@ -831,7 +831,7 @@
     </product>
     <product>
       <id>72125281</id>
-      <name>Fear of God Essentials T-Shirt Coral</name>
+      <name>Fear of God Essentials Tee Coral</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-coral</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/shirtcoral.png?v=1689084332</image>
       <category>Sneakers</category>
@@ -840,12 +840,12 @@
       <ean>62641229</ean>
       <availability>In Stock</availability>
       <size>LARGE</size>
-      <description>Fear of God Essentials T-Shirt Coral</description>
+      <description>Fear of God Essentials Tee Coral</description>
       <quantity>1</quantity>
     </product>
     <product>
       <id>15629672</id>
-      <name>Fear of God Essentials T-Shirt Sand SS23</name>
+      <name>Fear of God Essentials Tee Sand SS23</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/shirtsandss23.png?v=1688997835</image>
       <category>Sneakers</category>
@@ -854,7 +854,7 @@
       <ean>75890765</ean>
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM</size>
-      <description>Fear of God Essentials T-Shirt Sand SS23</description>
+      <description>Fear of God Essentials Tee Sand SS23</description>
       <quantity>4</quantity>
       <variations>
         <variation>
@@ -879,7 +879,7 @@
     </product>
     <product>
       <id>96119478</id>
-      <name>Fear of God Essentials T-Shirt Seafoam</name>
+      <name>Fear of God Essentials Tee Seafoam</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-seafoam</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/seafoamshirt.png?v=1688996721</image>
       <category>Sneakers</category>
@@ -888,12 +888,12 @@
       <ean>42525005</ean>
       <availability>In Stock</availability>
       <size>LARGE</size>
-      <description>Fear of God Essentials T-Shirt Seafoam</description>
+      <description>Fear of God Essentials Tee Seafoam</description>
       <quantity>5</quantity>
     </product>
     <product>
       <id>53408164</id>
-      <name>Fear of God Essentials T-Shirt Seal SS23</name>
+      <name>Fear of God Essentials Tee Seal SS23</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-seal</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/sealss23.png?v=1688997513</image>
       <category>Sneakers</category>
@@ -902,7 +902,7 @@
       <ean>41877581</ean>
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM</size>
-      <description>Fear of God Essentials T-Shirt Seal SS23</description>
+      <description>Fear of God Essentials Tee Seal SS23</description>
       <quantity>3</quantity>
       <variations>
         <variation>
@@ -927,7 +927,7 @@
     </product>
     <product>
       <id>80997194</id>
-      <name>Fear of God Essentials T-Shirt Stretch-Limo</name>
+      <name>Fear of God Essentials Tee Stretch-Limo</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-stretch-limo</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/stretchshirt.png?v=1688996244</image>
       <category>Sneakers</category>
@@ -936,12 +936,12 @@
       <ean>74924621</ean>
       <availability>In Stock</availability>
       <size>LARGE</size>
-      <description>Fear of God Essentials T-Shirt Stretch-Limo</description>
+      <description>Fear of God Essentials Tee Stretch-Limo</description>
       <quantity>5</quantity>
     </product>
     <product>
       <id>75394668</id>
-      <name>Fear of God Essentials T-Shirt Applique Logo Black</name>
+      <name>Fear of God Essentials Tee Applique Logo Black</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/appliqueblack.png?v=1689083723</image>
       <category>Sneakers</category>
@@ -950,7 +950,7 @@
       <ean>32494669</ean>
       <availability>In Stock</availability>
       <size>LARGE</size>
-      <description>Fear of God Essentials T-Shirt Applique Logo Black</description>
+      <description>Fear of God Essentials Tee Applique Logo Black</description>
       <quantity>1</quantity>
     </product>
     <product>
@@ -2592,7 +2592,7 @@
     </product>
     <product>
       <id>26032202</id>
-      <name>Fear of God Essentials T-Shirt Black Velvet</name>
+      <name>Fear of God Essentials Tee Black Velvet</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-black-velvet-tee</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/27b14fa2a550e0eb1e983178.png?v=1700486570</image>
       <category>Sneakers</category>
@@ -2601,7 +2601,7 @@
       <ean>05526659</ean>
       <availability>In Stock</availability>
       <size>2X-SMALL</size>
-      <description>Fear of God Essentials T-Shirt Black Velvet</description>
+      <description>Fear of God Essentials Tee Black Velvet</description>
       <quantity>1</quantity>
     </product>
     <product>
@@ -2638,7 +2638,7 @@
     </product>
     <product>
       <id>83390874</id>
-      <name>Fear of God Essentials T-Shirt Amber SS23</name>
+      <name>Fear of God Essentials Tee Amber SS23</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-amber-ss23</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ambershirtss23.png?v=1688998203</image>
       <category>Sneakers</category>
@@ -2647,7 +2647,7 @@
       <ean>09183053</ean>
       <availability>In Stock</availability>
       <size>X-LARGE</size>
-      <description>Fear of God Essentials T-Shirt Amber SS23</description>
+      <description>Fear of God Essentials Tee Amber SS23</description>
       <quantity>1</quantity>
     </product>
     <product>
@@ -3292,7 +3292,7 @@
       <availability>In Stock</availability>
       <size>47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “Η Επιστροφή”</description>
-      <quantity>16</quantity>
+      <quantity>15</quantity>
       <variations>
         <variation>
           <variationid>51967381143885.47.5</variationid>
@@ -3301,7 +3301,7 @@
           <manufacturersku>None.47.5</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>47.5</size>
-          <quantity>11</quantity>
+          <quantity>10</quantity>
         </variation>
         <variation>
           <variationid>51967381143885.48</variationid>
@@ -3316,7 +3316,7 @@
     </product>
     <product>
       <id>476351</id>
-      <name>KAWS x Uniqlo Warhol UT Graphic T-Shirt Black</name>
+      <name>KAWS x Uniqlo Warhol UT Graphic Tee Black</name>
       <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_160b7430-d7c5-4121-8948-f4b73c94cd7b.png?v=1725369821</image>
       <category>Sneakers</category>
@@ -3325,7 +3325,7 @@
       <ean>98938905</ean>
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
-      <description>KAWS x Uniqlo Warhol UT Graphic T-Shirt Black</description>
+      <description>KAWS x Uniqlo Warhol UT Graphic Tee Black</description>
       <quantity>13</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_cd386c2b-ccbd-412a-82c1-006ea34edd5a.png?v=1725369820</image>
@@ -3380,7 +3380,7 @@
     </product>
     <product>
       <id>476352</id>
-      <name>KAWS x Uniqlo Warhol UT Graphic T-Shirt Black Red</name>
+      <name>KAWS x Uniqlo Warhol UT Graphic Tee Black Red</name>
       <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black-red</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2_73d0640e-4ab6-45f1-a72f-32e13fd9c69b.png?v=1725370199</image>
       <category>Sneakers</category>
@@ -3389,7 +3389,7 @@
       <ean>99988905</ean>
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,XX-LARGE,Χ-LARGE</size>
-      <description>KAWS x Uniqlo Warhol UT Graphic T-Shirt Black Red</description>
+      <description>KAWS x Uniqlo Warhol UT Graphic Tee Black Red</description>
       <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_720d8b65-6be2-4612-87a4-0e90d083d92a.png?v=1725370199</image>
@@ -3453,7 +3453,7 @@
     </product>
     <product>
       <id>471321</id>
-      <name>KAWS x Uniqlo Warhol UT Graphic White Blue T-Shirt</name>
+      <name>KAWS x Uniqlo Warhol UT Graphic White Blue Tee</name>
       <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/22.png?v=1725370565</image>
       <category>Sneakers</category>
@@ -3462,7 +3462,7 @@
       <ean>31249905</ean>
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,XX-LARGE,Χ-LARGE</size>
-      <description>KAWS x Uniqlo Warhol UT Graphic White Blue T-Shirt</description>
+      <description>KAWS x Uniqlo Warhol UT Graphic White Blue Tee</description>
       <quantity>11</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/11_b3d20fed-25d7-4ff2-bc0b-d308bc001268.png?v=1725370565</image>
@@ -3526,7 +3526,7 @@
     </product>
     <product>
       <id>476350</id>
-      <name>KAWS x Uniqlo Warhol UT Graphic White Rred T-Shirt</name>
+      <name>KAWS x Uniqlo Warhol UT Graphic White Red Tee</name>
       <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-rred-t-shirt</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/222.png?v=1725370855</image>
       <category>Sneakers</category>
@@ -3535,7 +3535,7 @@
       <ean>31499905</ean>
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,Χ-LARGE</size>
-      <description>KAWS x Uniqlo Warhol UT Graphic White Rred T-Shirt</description>
+      <description>KAWS x Uniqlo Warhol UT Graphic White Red Tee</description>
       <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/111.png?v=1725370855</image>
