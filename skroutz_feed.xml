@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-26 13:00</created_at>
+  <created_at>2024-11-26 14:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3924,6 +3924,24 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Carbon-FZ5000-1.jpg?v=1731675876</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Carbon-FZ5000-2.jpg?v=1731675876</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Boost_350_V2_Carbon-FZ5000-3.jpg?v=1731675876</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>555088-036</id>
+      <name>Air Jordan 1 Retro High OG Rebellionaire</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-rebellionaire</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_OG_Rebellionaire-555088-036-0.jpg?v=1731684044</image>
+      <category>Sneakers</category>
+      <price_with_vat>465</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42</size>
+      <description>Air Jordan 1 Retro High OG Rebellionaire</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_OG_Rebellionaire-555088-036-1.jpg?v=1731684044</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_OG_Rebellionaire-555088-036-2.jpg?v=1731684044</image>
       </additional_images>
     </product>
   </products>
