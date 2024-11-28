@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-28 09:00</created_at>
+  <created_at>2024-11-28 10:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2079,7 +2079,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM</size>
       <description>Trapstar International Takeover 2.0 Hoodie Black</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/int1.png?v=1698400392</image>
       </additional_images>
@@ -2100,7 +2100,7 @@
           <manufacturersku>67646635.MEDIUM</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
