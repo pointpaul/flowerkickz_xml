@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-11-30 23:00</created_at>
+  <created_at>2024-12-01 00:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2708,7 +2708,7 @@
       <availability>In Stock</availability>
       <size>35/40.5,41/48</size>
       <description>Crep Protect Sneaker Guards</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <variations>
         <variation>
           <variationid>49816970101069.35/40.5</variationid>
@@ -2717,7 +2717,7 @@
           <manufacturersku>31970704.35/40.5</manufacturersku>
           <price_with_vat>15</price_with_vat>
           <size>35/40.5</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>49816970101069.41/48</variationid>
