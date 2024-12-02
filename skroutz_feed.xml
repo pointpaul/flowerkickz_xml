@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-02 15:00</created_at>
+  <created_at>2024-12-02 16:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3300,7 +3300,7 @@
       <id/>
       <name>ΜΠΑΣΟΚ LOWS “H EPISTROFI”</name>
       <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_f1374e41-8cd9-42f8-92fb-2332b25e7c7a.jpg?v=1733151004</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/DC0D3C61-72D4-4FD1-AE86-DE1D68E9FA1B.jpg?v=1733154253</image>
       <category>Sneakers</category>
       <price_with_vat>115</price_with_vat>
       <manufacturer>Nike</manufacturer>
@@ -3309,11 +3309,6 @@
       <size>47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “H EPISTROFI”</description>
       <quantity>15</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f0263539-6a37-4e9a-96bf-b72f1464d67c.jpg?v=1733151004</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_9a0fa979-79d2-4a4d-abb2-04ec6aeebba2.jpg?v=1733151004</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_8aacee7a-0e68-4d7b-aa3b-330c3f7c1725.jpg?v=1733151004</image>
-      </additional_images>
       <variations>
         <variation>
           <variationid>51967381143885.47.5</variationid>
