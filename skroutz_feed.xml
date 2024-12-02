@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-02 06:00</created_at>
+  <created_at>2024-12-02 07:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3968,7 +3968,7 @@
       <id>FQ8138-001</id>
       <name>Air Jordan 4 Retro White Thunder</name>
       <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-white-thunder</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_White_Thunder-FQ8138-001-0.webp?v=1731895912</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_White_Thunder-FQ8138-001.jpg?v=1733121044</image>
       <category>Sneakers</category>
       <price_with_vat>445</price_with_vat>
       <manufacturer>Jordan</manufacturer>
@@ -3978,9 +3978,9 @@
       <description>Air Jordan 4 Retro White Thunder</description>
       <quantity>0</quantity>
       <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_White_Thunder-FQ8138-001-1.webp?v=1731895912</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_White_Thunder-FQ8138-001-2.jpg?v=1731895912</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_4_Retro_White_Thunder-FQ8138-001-3.webp?v=1731895912</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_White_Thunder-FQ8138-001_5c2c6362-1b07-4160-bf28-0f90c28b86e6.jpg?v=1733121044</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_White_Thunder-FQ8138-001_08166023-c70f-4cdc-8111-6c788453496e.jpg?v=1733121044</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_White_Thunder-FQ8138-001_6fb2f382-0cd3-404d-ba80-0d5c7b938264.jpg?v=1733121044</image>
       </additional_images>
     </product>
     <product>
