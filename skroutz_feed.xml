@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-02 14:00</created_at>
+  <created_at>2024-12-02 15:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -81,7 +81,7 @@
       <id>DC9936-100SP</id>
       <name>SB Dunk Low Sean Cliver (Special Box)</name>
       <link>https://www.flowerkickz.gr/products/sb-dunk-low-sean-cliver-special-box</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzSB_Dunk_Low_Sean_Cliver-DC9936-100-0_c4ca3225-ee3d-4560-ae0b-f344b6fe5fdc.png?v=1677917114</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_fd4abfd8-f08a-481f-849b-00c258880b59.jpg?v=1733149849</image>
       <category>Sneakers</category>
       <price_with_vat>1560</price_with_vat>
       <manufacturer>Nike</manufacturer>
@@ -91,7 +91,9 @@
       <description>SB Dunk Low Sean Cliver (Special Box)</description>
       <quantity>1</quantity>
       <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzSB_Dunk_Low_Sean_Cliver-DC9936-100-1_af1f435d-a900-41f8-aa80-ce4a9a8c3085.png?v=1677917114</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f3a855bf-4b05-4516-986c-b26882adf57c.jpg?v=1733149849</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_2973874d-ea36-49e4-8090-d2f3ee8c8c11.jpg?v=1733149849</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_019d4b34-9adf-4821-9700-a95be9f7ecdc.jpg?v=1733149849</image>
       </additional_images>
     </product>
     <product>
@@ -548,7 +550,7 @@
       <id>CV1628-800</id>
       <name>SB Dunk Low Street Hawker (2021 Special Box)</name>
       <link>https://www.flowerkickz.gr/products/copy-of-sb-dunk-low-street-hawker-2021</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/specialboxsh1.png?v=1687187233</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_64398fb5-268e-4f8c-8db3-e12485457e9d.jpg?v=1733149861</image>
       <category>Sneakers</category>
       <price_with_vat>2285</price_with_vat>
       <manufacturer>Nike</manufacturer>
@@ -558,10 +560,9 @@
       <description>SB Dunk Low Street Hawker (2021 Special Box)</description>
       <quantity>1</quantity>
       <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Street_Hawker_2021_-CV1628-800-0_cb2fbb5e-8dbb-4667-8409-bb3f4eb7f6ec.png?v=1687187232</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Street_Hawker_2021_-CV1628-800-1_9764258d-42db-449f-ae32-a59507f55761.png?v=1687187232</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Street_Hawker_2021_-CV1628-800-2_147fba98-2f43-4b4c-b406-634faa7a9ca0.png?v=1687187232</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzSB_Dunk_Low_Street_Hawker_2021_-CV1628-800-3_efe044cb-374b-48b1-ac34-24d900fe3f26.png?v=1687187232</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_c046aab3-fab1-4f1f-b93d-11c6c5521ab5.jpg?v=1733149861</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_1eb435d1-26f0-43e4-ac07-26b5226dc6b2.jpg?v=1733149861</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_20600820-4088-45e0-81a2-942ffd727184.jpg?v=1733149861</image>
       </additional_images>
     </product>
     <product>
@@ -3299,7 +3300,7 @@
       <id/>
       <name>ΜΠΑΣΟΚ LOWS “H EPISTROFI”</name>
       <link>https://www.flowerkickz.gr/products/mpasok-lows-h-epistrofi</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/IMG-6894_97008f62-be1c-42e8-8b53-cdd8e7df539e.png?v=1722591599</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_f1374e41-8cd9-42f8-92fb-2332b25e7c7a.jpg?v=1733151004</image>
       <category>Sneakers</category>
       <price_with_vat>115</price_with_vat>
       <manufacturer>Nike</manufacturer>
@@ -3308,6 +3309,11 @@
       <size>47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “H EPISTROFI”</description>
       <quantity>15</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f0263539-6a37-4e9a-96bf-b72f1464d67c.jpg?v=1733151004</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_9a0fa979-79d2-4a4d-abb2-04ec6aeebba2.jpg?v=1733151004</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_8aacee7a-0e68-4d7b-aa3b-330c3f7c1725.jpg?v=1733151004</image>
+      </additional_images>
       <variations>
         <variation>
           <variationid>51967381143885.47.5</variationid>
@@ -3894,7 +3900,7 @@
       <id/>
       <name>SB Dunk High Concepts Turdunken (Special Box)</name>
       <link>https://www.flowerkickz.gr/products/sb-dunk-high-concepts-turdunken-special-box</link>
-      <image/>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_9e49e88c-7746-4280-b648-2039541aaba8.jpg?v=1733149843</image>
       <category>Sneakers</category>
       <price_with_vat>510</price_with_vat>
       <manufacturer>Nike</manufacturer>
@@ -3903,6 +3909,11 @@
       <size>40</size>
       <description>SB Dunk High Concepts Turdunken (Special Box)</description>
       <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_2a20b9b3-c97f-4b08-9366-545392d0847b.jpg?v=1733149843</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_52d7dc44-8c8d-40ca-9b09-b4f900fe243d.jpg?v=1733149843</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_2a415f5b-aa52-47eb-860e-5c60b30e587d.jpg?v=1733149843</image>
+      </additional_images>
     </product>
     <product>
       <id>DQ8426-517</id>
