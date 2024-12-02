@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-02 08:00</created_at>
+  <created_at>2024-12-02 09:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3950,7 +3950,7 @@
       <id>CZ8065-100</id>
       <name>Air Force 1 Low NOCTA Drake Certified Lover Boy</name>
       <link>https://www.flowerkickz.gr/products/air-force-1-low-nocta-drake-certified-lover-boy</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_NOCTA_Drake_Certified_Lover_Boy-CZ8065-100-0.jpg?v=1731684328</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_fe6148ac-a6a0-4a33-bf5d-2ac058a556f9.jpg?v=1733127996</image>
       <category>Sneakers</category>
       <price_with_vat>365</price_with_vat>
       <manufacturer>Nike</manufacturer>
@@ -3960,8 +3960,9 @@
       <description>Air Force 1 Low NOCTA Drake Certified Lover Boy</description>
       <quantity>0</quantity>
       <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_NOCTA_Drake_Certified_Lover_Boy-CZ8065-100-1.jpg?v=1731684328</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_NOCTA_Drake_Certified_Lover_Boy-CZ8065-100-2.jpg?v=1731684328</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_a35c87c2-edd9-4f4e-ad56-a1ea9145e7c4.jpg?v=1733127997</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_e1343892-9c04-49bf-8158-44eae2db873b.jpg?v=1733127997</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_e7982bc8-4fde-4f43-8b62-00498a533557.jpg?v=1733127997</image>
       </additional_images>
     </product>
     <product>
