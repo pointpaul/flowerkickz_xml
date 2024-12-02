@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-02 00:00</created_at>
+  <created_at>2024-12-02 01:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3893,7 +3893,7 @@
       <id>DQ8426-517</id>
       <name>Air Jordan 1 Mid Lakers (2022)</name>
       <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-lakers-2022</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Lakers_2022_-DQ8426-517-0.jpg?v=1731683692</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517.jpg?v=1733100346</image>
       <category>Sneakers</category>
       <price_with_vat>295</price_with_vat>
       <manufacturer>Jordan</manufacturer>
@@ -3903,8 +3903,9 @@
       <description>Air Jordan 1 Mid Lakers (2022)</description>
       <quantity>0</quantity>
       <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Lakers_2022_-DQ8426-517-1.jpg?v=1731683692</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Mid_Lakers_2022_-DQ8426-517-2.jpg?v=1731683692</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517_fe2b186e-4a22-4258-824f-b3eb54cd951e.jpg?v=1733100346</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517_1d31cd6b-fdd3-48d2-8746-211f3979d40b.jpg?v=1733100346</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517_99fee088-f961-4254-a050-fa13e10e3902.jpg?v=1733100346</image>
       </additional_images>
     </product>
     <product>
@@ -3930,7 +3931,7 @@
       <id>555088-036</id>
       <name>Air Jordan 1 Retro High OG Rebellionaire</name>
       <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-rebellionaire</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_OG_Rebellionaire-555088-036-0.jpg?v=1731684044</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_Rebellionaire-555088-036.jpg?v=1733100896</image>
       <category>Sneakers</category>
       <price_with_vat>465</price_with_vat>
       <manufacturer>Jordan</manufacturer>
@@ -3940,8 +3941,9 @@
       <description>Air Jordan 1 Retro High OG Rebellionaire</description>
       <quantity>0</quantity>
       <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_OG_Rebellionaire-555088-036-1.jpg?v=1731684044</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Jordan_1_Retro_High_OG_Rebellionaire-555088-036-2.jpg?v=1731684044</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_Rebellionaire-555088-036_014cee6a-65be-437f-87a2-c1f6eca50d9e.jpg?v=1733100896</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_Rebellionaire-555088-036_da168e75-6fce-4a43-aa61-3b046e43d07c.jpg?v=1733100896</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_Rebellionaire-555088-036_c78ee36e-945e-403b-bcd3-b7c56394c5bf.jpg?v=1733100896</image>
       </additional_images>
     </product>
     <product>
