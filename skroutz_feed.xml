@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-02 09:00</created_at>
+  <created_at>2024-12-02 10:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -529,7 +529,7 @@
       <id>417744-001</id>
       <name>Air Mag &quot;Back to the Future&quot; (2011)</name>
       <link>https://www.flowerkickz.gr/products/nike-air-mag-back-to-the-future-2011</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/NikeMAGBacktotheFuture_2011.png?v=1686145256</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_12836231-a126-420e-84fb-1a478841cc42.jpg?v=1733131396</image>
       <category>Sneakers</category>
       <price_with_vat>33900</price_with_vat>
       <manufacturer>Nike</manufacturer>
@@ -538,6 +538,11 @@
       <size>42.5</size>
       <description>Air Mag &quot;Back to the Future&quot; (2011)</description>
       <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_d69926cf-02eb-4cae-93a9-6e62d0b7dc4f.jpg?v=1733131396</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_edb8f554-d4cf-433c-821f-2c55f31a6455.jpg?v=1733131396</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_71dac682-e670-4f30-93b0-6712b0123444.jpg?v=1733131396</image>
+      </additional_images>
     </product>
     <product>
       <id>CV1628-800</id>
@@ -2770,7 +2775,7 @@
       <id>417744-001</id>
       <name>Air Mag &quot;Back to the Future&quot; (2011) (VNDS)</name>
       <link>https://www.flowerkickz.gr/products/copy-of-air-mag-back-to-the-future-2011-vnds</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/NikeMAGBacktotheFuture_2011_e76e8a1d-2cf1-40db-b377-b5597626b97f.png?v=1704452434</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_ca82fb62-78bf-4bc3-9a3b-549d7da6d648.jpg?v=1733131403</image>
       <category>Sneakers</category>
       <price_with_vat>28250</price_with_vat>
       <manufacturer>Used</manufacturer>
@@ -2779,6 +2784,11 @@
       <size>42.5</size>
       <description>Air Mag &quot;Back to the Future&quot; (2011) (VNDS)</description>
       <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_01df04ca-337d-4c23-8e3e-6575a88116a7.jpg?v=1733131403</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_a8da00c9-fbe2-436d-b1de-03ba9da221ab.jpg?v=1733131403</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_b57affa0-f33e-4fe2-a490-9768f05951b8.jpg?v=1733131403</image>
+      </additional_images>
     </product>
     <product>
       <id>B-AC017</id>
