@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-02 10:00</created_at>
+  <created_at>2024-12-02 11:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1265,7 +1265,7 @@
       <id>FD9874-100</id>
       <name>Nike Dunk High White Sanddrift Brown</name>
       <link>https://www.flowerkickz.gr/products/nike-dunk-high-white-sanddrift-brown</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/driftwood.png?v=1692042037</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_a78dabdd-6779-451d-90f6-341ffb3c2a0c.jpg?v=1733136775</image>
       <category>Sneakers</category>
       <price_with_vat>250</price_with_vat>
       <manufacturer>Nike</manufacturer>
@@ -1274,6 +1274,11 @@
       <size>39,40.5,41,42,44.5</size>
       <description>Nike Dunk High White Sanddrift Brown</description>
       <quantity>5</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_d2114914-0ff7-4914-bac1-ff1bb902b437.jpg?v=1733136775</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_001ffd97-4b67-4030-bb76-86db188589b8.jpg?v=1733136775</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_4358d06a-1d7b-4c6d-94b3-aa78560dd4f3.jpg?v=1733136775</image>
+      </additional_images>
       <variations>
         <variation>
           <variationid>49193461875021.39</variationid>
