@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-04 11:00</created_at>
+  <created_at>2024-12-04 12:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -943,7 +943,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Fear of God Essentials Tee Stretch-Limo</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
     </product>
     <product>
       <id>75394668</id>
