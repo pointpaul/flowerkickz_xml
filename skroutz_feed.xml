@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-05 12:00</created_at>
+  <created_at>2024-12-05 13:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4022,6 +4022,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124_f2f78e13-c62f-4a80-8cfb-7090e66f2586.jpg?v=1733107831</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124_8c2a0049-7022-4043-9d33-6d5fc90a106b.jpg?v=1733107831</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124_87bf398f-9b01-48fb-b712-76c9b1334e82.jpg?v=1733107831</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>ID5103</id>
+      <name>Yeezy Slide Dark Onyx</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103.jpg?v=1733114339</image>
+      <category>Sneakers</category>
+      <price_with_vat>205</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>46</size>
+      <description>Yeezy Slide Dark Onyx</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_b4ee45af-17b8-40ad-90c4-8dc2d4cfb255.jpg?v=1733114339</image>
       </additional_images>
     </product>
   </products>
