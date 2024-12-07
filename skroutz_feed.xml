@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-07 15:00</created_at>
+  <created_at>2024-12-07 16:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2170,7 +2170,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL</size>
       <description>Trapstar Never Miss Hoodie Black</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>49602839085389.LARGE</variationid>
@@ -2197,7 +2197,7 @@
           <manufacturersku>71003032.SMALL</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
