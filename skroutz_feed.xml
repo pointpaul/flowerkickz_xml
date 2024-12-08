@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-08 22:00</created_at>
+  <created_at>2024-12-08 23:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -199,7 +199,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Sweatpants Off-Black</description>
-      <quantity>79</quantity>
+      <quantity>78</quantity>
       <variations>
         <variation>
           <variationid>46870881239373.LARGE</variationid>
@@ -208,7 +208,7 @@
           <manufacturersku>40640922.LARGE</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>LARGE</size>
-          <quantity>32</quantity>
+          <quantity>31</quantity>
         </variation>
         <variation>
           <variationid>46870881239373.MEDIUM</variationid>
