@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-09 21:00</created_at>
+  <created_at>2024-12-09 22:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2836,7 +2836,7 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>Bape ABC Slippers &amp; Pouch Set Pink</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>B-AC009</id>
