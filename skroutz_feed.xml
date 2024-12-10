@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-10 15:00</created_at>
+  <created_at>2024-12-10 16:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -486,48 +486,6 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>44834698</id>
-      <name>Trapstar It's A Secret Hoodie Black</name>
-      <link>https://www.flowerkickz.gr/products/trapstar-its-a-secret-hoodie-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TrapstarIt_sASecretHoodieBlack.png?v=1686214710</image>
-      <category>Sneakers</category>
-      <price_with_vat>150</price_with_vat>
-      <manufacturer>Trapstar</manufacturer>
-      <ean>8744710398</ean>
-      <availability>In Stock</availability>
-      <size>MEDIUM</size>
-      <description>Trapstar It's A Secret Hoodie Black</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
-      <id>62406229</id>
-      <name>Crep Protect Rain &amp; Stain Resistant Spray</name>
-      <link>https://www.flowerkickz.gr/products/crep-protect-resistant-spray-1</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/srpay1.png?v=1691675948</image>
-      <category>Sneakers</category>
-      <price_with_vat>20</price_with_vat>
-      <manufacturer>Crep Protect</manufacturer>
-      <ean>056243300488</ean>
-      <availability>In Stock</availability>
-      <size>200ml</size>
-      <description>Crep Protect Rain &amp; Stain Resistant Spray</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
-      <id>72480719</id>
-      <name>Crep Protect Mark On Pen Black</name>
-      <link>https://www.flowerkickz.gr/products/crep-protect-mark-on-pen-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/2023-04-08T134820.441-removebg-preview.png?v=1680951019</image>
-      <category>Sneakers</category>
-      <price_with_vat>20</price_with_vat>
-      <manufacturer>Crep Protect</manufacturer>
-      <ean>660902996995</ean>
-      <availability>In Stock</availability>
-      <size>O/S</size>
-      <description>Crep Protect Mark On Pen Black</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
       <id>417744-001</id>
       <name>Air Mag &quot;Back to the Future&quot; (2011)</name>
       <link>https://www.flowerkickz.gr/products/nike-air-mag-back-to-the-future-2011</link>
@@ -802,19 +760,10 @@
       <manufacturer>Essentials</manufacturer>
       <ean>86062413</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM,X-LARGE</size>
+      <size>MEDIUM,X-LARGE</size>
       <description>Fear of God Essentials Tee Applique Logo Taupe</description>
       <quantity>2</quantity>
       <variations>
-        <variation>
-          <variationid>49045793767757.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-taupe</link>
-          <availability>In Stock</availability>
-          <manufacturersku>38475326.LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>LARGE</size>
-          <quantity>0</quantity>
-        </variation>
         <variation>
           <variationid>49045793767757.MEDIUM</variationid>
           <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-taupe</link>
@@ -2079,125 +2028,70 @@
       </variations>
     </product>
     <product>
-      <id>67646635</id>
-      <name>Trapstar International Takeover 2.0 Hoodie Black</name>
-      <link>https://www.flowerkickz.gr/products/trapstar-international-takeover-2-0-hoodie-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/int2.png?v=1698400392</image>
-      <category>Sneakers</category>
-      <price_with_vat>150</price_with_vat>
-      <manufacturer>Trapstar</manufacturer>
-      <ean>03503437</ean>
-      <availability>In Stock</availability>
-      <size>LARGE,MEDIUM</size>
-      <description>Trapstar International Takeover 2.0 Hoodie Black</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/int1.png?v=1698400392</image>
-      </additional_images>
-      <variations>
-        <variation>
-          <variationid>49602814804301.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-international-takeover-2-0-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>67646635.LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>LARGE</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49602814804301.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-international-takeover-2-0-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>67646635.MEDIUM</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
-    </product>
-    <product>
-      <id>40881887</id>
+      <id>83248380</id>
       <name>Trapstar Distortion Hoodie Black</name>
       <link>https://www.flowerkickz.gr/products/trapstar-distortion-hoodie-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/dist1.png?v=1698400623</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
-      <ean>22639949</ean>
+      <ean>22672717</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM,SMALL</size>
+      <size>LARGE,MEDIUM</size>
       <description>Trapstar Distortion Hoodie Black</description>
       <quantity>3</quantity>
       <variations>
         <variation>
-          <variationid>49602833940813.LARGE</variationid>
+          <variationid>49602833973581.LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-distortion-hoodie-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>40881887.LARGE</manufacturersku>
+          <manufacturersku>83248380.LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>49602833940813.MEDIUM</variationid>
+          <variationid>49602833973581.MEDIUM</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-distortion-hoodie-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>40881887.MEDIUM</manufacturersku>
+          <manufacturersku>83248380.MEDIUM</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>MEDIUM</size>
           <quantity>1</quantity>
         </variation>
-        <variation>
-          <variationid>49602833940813.SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-distortion-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>40881887.SMALL</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>SMALL</size>
-          <quantity>0</quantity>
-        </variation>
       </variations>
     </product>
     <product>
-      <id>71003032</id>
+      <id>64186677</id>
       <name>Trapstar Never Miss Hoodie Black</name>
       <link>https://www.flowerkickz.gr/products/trapstar-never-miss-hoodie-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/nevermiss1.png?v=1698400735</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
-      <ean>27784525</ean>
+      <ean>27817293</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM,SMALL</size>
+      <size>LARGE,MEDIUM</size>
       <description>Trapstar Never Miss Hoodie Black</description>
       <quantity>2</quantity>
       <variations>
         <variation>
-          <variationid>49602839085389.LARGE</variationid>
+          <variationid>49602839118157.LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-never-miss-hoodie-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>71003032.LARGE</manufacturersku>
+          <manufacturersku>64186677.LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>49602839085389.MEDIUM</variationid>
+          <variationid>49602839118157.MEDIUM</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-never-miss-hoodie-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>71003032.MEDIUM</manufacturersku>
+          <manufacturersku>64186677.MEDIUM</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>MEDIUM</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>49602839085389.SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-never-miss-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>71003032.SMALL</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>SMALL</size>
-          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -2284,129 +2178,54 @@
       </additional_images>
     </product>
     <product>
-      <id>TPH008</id>
-      <name>Trapstar Watch Your Back Hoodie Black</name>
-      <link>https://www.flowerkickz.gr/products/trapstar-watch-your-back-hoodie-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2-Recovered.png?v=1698411682</image>
-      <category>Sneakers</category>
-      <price_with_vat>150</price_with_vat>
-      <manufacturer>Trapstar</manufacturer>
-      <ean>96396294</ean>
-      <availability>In Stock</availability>
-      <size>X-SMALL</size>
-      <description>Trapstar Watch Your Back Hoodie Black</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
-      <id>64726416</id>
+      <id>89509418</id>
       <name>Trapstar Hot Rod Strikeout Hoodie Black</name>
       <link>https://www.flowerkickz.gr/products/trapstar-hot-rod-strikeout-hoodie-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/strikeout.png?v=1699378916</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
-      <ean>79797325</ean>
+      <ean>79830093</ean>
       <availability>In Stock</availability>
-      <size>2X-LARGE,LARGE,MEDIUM,SMALL,X-LARGE</size>
+      <size>2X-LARGE,LARGE,MEDIUM,X-LARGE</size>
       <description>Trapstar Hot Rod Strikeout Hoodie Black</description>
       <quantity>5</quantity>
       <variations>
         <variation>
-          <variationid>49626913767757.2X-LARGE</variationid>
+          <variationid>49626913800525.2X-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-hot-rod-strikeout-hoodie-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>64726416.2X-LARGE</manufacturersku>
+          <manufacturersku>89509418.2X-LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>2X-LARGE</size>
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>49626913767757.LARGE</variationid>
+          <variationid>49626913800525.LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-hot-rod-strikeout-hoodie-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>64726416.LARGE</manufacturersku>
+          <manufacturersku>89509418.LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>49626913767757.MEDIUM</variationid>
+          <variationid>49626913800525.MEDIUM</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-hot-rod-strikeout-hoodie-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>64726416.MEDIUM</manufacturersku>
+          <manufacturersku>89509418.MEDIUM</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>MEDIUM</size>
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>49626913767757.SMALL</variationid>
+          <variationid>49626913800525.X-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-hot-rod-strikeout-hoodie-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>64726416.SMALL</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>SMALL</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49626913767757.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-hot-rod-strikeout-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>64726416.X-LARGE</manufacturersku>
+          <manufacturersku>89509418.X-LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>X-LARGE</size>
           <quantity>2</quantity>
-        </variation>
-      </variations>
-    </product>
-    <product>
-      <id>11082491</id>
-      <name>Trapstar Trespass Hoodie Blue</name>
-      <link>https://www.flowerkickz.gr/products/trapstar-trespass-hoodie-black-1</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/trespassblue.png?v=1699379070</image>
-      <category>Sneakers</category>
-      <price_with_vat>150</price_with_vat>
-      <manufacturer>Trapstar</manufacturer>
-      <ean>93101133</ean>
-      <availability>In Stock</availability>
-      <size>2X-LARGE,LARGE,MEDIUM,SMALL</size>
-      <description>Trapstar Trespass Hoodie Blue</description>
-      <quantity>0</quantity>
-      <variations>
-        <variation>
-          <variationid>49626925334861.2X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-trespass-hoodie-black-1</link>
-          <availability>In Stock</availability>
-          <manufacturersku>11082491.2X-LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>2X-LARGE</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49626925334861.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-trespass-hoodie-black-1</link>
-          <availability>In Stock</availability>
-          <manufacturersku>11082491.LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>LARGE</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49626925334861.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-trespass-hoodie-black-1</link>
-          <availability>In Stock</availability>
-          <manufacturersku>11082491.MEDIUM</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49626925334861.SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-trespass-hoodie-black-1</link>
-          <availability>In Stock</availability>
-          <manufacturersku>11082491.SMALL</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>SMALL</size>
-          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -2420,37 +2239,10 @@
       <manufacturer>Trapstar</manufacturer>
       <ean>41295949</ean>
       <availability>In Stock</availability>
-      <size>2X-LARGE,LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
+      <size>SMALL,X-LARGE,X-SMALL</size>
       <description>Trapstar Horizon 2.0 Hoodie Black</description>
       <quantity>4</quantity>
       <variations>
-        <variation>
-          <variationid>49651196952909.2X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-horizon-2-0-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>63552162.2X-LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>2X-LARGE</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49651196952909.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-horizon-2-0-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>63552162.LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>LARGE</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49651196952909.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-horizon-2-0-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>63552162.MEDIUM</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
-        </variation>
         <variation>
           <variationid>49651196952909.SMALL</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-horizon-2-0-hoodie-black</link>
@@ -2697,40 +2489,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Resin--1_608d66a2-0b31-48c2-b5b3-624f3748474b.png?v=1701088876</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Resin--2_4f647a4b-abb7-4944-9956-59e2df317921.png?v=1701088876</image>
       </additional_images>
-    </product>
-    <product>
-      <id>31970704</id>
-      <name>Crep Protect Sneaker Guards</name>
-      <link>https://www.flowerkickz.gr/products/crep-protect-sneaker-guards</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/crep1copy.png?v=1701423809</image>
-      <category>Sneakers</category>
-      <price_with_vat>15</price_with_vat>
-      <manufacturer>Crep Protect</manufacturer>
-      <ean>5056243300860</ean>
-      <availability>In Stock</availability>
-      <size>35/40.5,41/48</size>
-      <description>Crep Protect Sneaker Guards</description>
-      <quantity>5</quantity>
-      <variations>
-        <variation>
-          <variationid>49816970101069.35/40.5</variationid>
-          <link>https://www.flowerkickz.gr/products/crep-protect-sneaker-guards</link>
-          <availability>In Stock</availability>
-          <manufacturersku>31970704.35/40.5</manufacturersku>
-          <price_with_vat>15</price_with_vat>
-          <size>35/40.5</size>
-          <quantity>5</quantity>
-        </variation>
-        <variation>
-          <variationid>49816970101069.41/48</variationid>
-          <link>https://www.flowerkickz.gr/products/crep-protect-sneaker-guards</link>
-          <availability>In Stock</availability>
-          <manufacturersku>31970704.41/48</manufacturersku>
-          <price_with_vat>15</price_with_vat>
-          <size>41/48</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>13161735</id>
@@ -3114,23 +2872,6 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>SP-AC004</id>
-      <name>Supreme x Wilson Tennis Balls White</name>
-      <link>https://www.flowerkickz.gr/products/supreme-x-wilson-tennis-balls-white</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/tennis1.png?v=1691678149</image>
-      <category>Sneakers</category>
-      <price_with_vat>80</price_with_vat>
-      <manufacturer>Supreme</manufacturer>
-      <ean>2810320701</ean>
-      <availability>In Stock</availability>
-      <size>O/S</size>
-      <description>Supreme x Wilson Tennis Balls White</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/tennis2.png?v=1691678149</image>
-      </additional_images>
-    </product>
-    <product>
       <id>FK1974-H</id>
       <name>ΜΠΑΣΟΚ Bucket Hat White</name>
       <link>https://www.flowerkickz.gr/products/μπασοκ-bucket-hat-white</link>
@@ -3244,6 +2985,20 @@
       <size>X-LARGE</size>
       <description>Bape Tee By Bathing Ape Beige</description>
       <quantity>1</quantity>
+    </product>
+    <product>
+      <id>60896578</id>
+      <name>Crep Protect Sneaker Guards</name>
+      <link>https://www.flowerkickz.gr/products/crep-protect-sneaker-guards</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/crep1copy.png?v=1701423809</image>
+      <category>Sneakers</category>
+      <price_with_vat>15</price_with_vat>
+      <manufacturer>Crep Protect</manufacturer>
+      <ean>35614861</ean>
+      <availability>In Stock</availability>
+      <size>35/40.5</size>
+      <description>Crep Protect Sneaker Guards</description>
+      <quantity>5</quantity>
     </product>
     <product>
       <id/>
@@ -3926,7 +3681,7 @@
       <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-carbon</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Carbon-FZ5000.jpg?v=1733088413</image>
       <category>Sneakers</category>
-      <price_with_vat>465</price_with_vat>
+      <price_with_vat>580</price_with_vat>
       <manufacturer>Yeezy</manufacturer>
       <ean>13548449</ean>
       <availability>In Stock</availability>
