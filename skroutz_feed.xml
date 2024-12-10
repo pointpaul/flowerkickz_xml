@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-10 10:00</created_at>
+  <created_at>2024-12-10 11:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -770,7 +770,7 @@
       <availability>In Stock</availability>
       <size>SMALL,X-LARGE</size>
       <description>Fear of God Essentials Tee Applique Logo Cream</description>
-      <quantity>9</quantity>
+      <quantity>10</quantity>
       <variations>
         <variation>
           <variationid>49045797863757.SMALL</variationid>
@@ -788,7 +788,7 @@
           <manufacturersku>90678681.X-LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>8</quantity>
+          <quantity>9</quantity>
         </variation>
       </variations>
     </product>
@@ -804,7 +804,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,X-LARGE</size>
       <description>Fear of God Essentials Tee Applique Logo Taupe</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>49045793767757.LARGE</variationid>
@@ -813,7 +813,7 @@
           <manufacturersku>38475326.LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49045793767757.MEDIUM</variationid>
@@ -2359,62 +2359,53 @@
       </variations>
     </product>
     <product>
-      <id>17634086</id>
+      <id>11082491</id>
       <name>Trapstar Trespass Hoodie Blue</name>
       <link>https://www.flowerkickz.gr/products/trapstar-trespass-hoodie-black-1</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/trespassblue.png?v=1699379070</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
-      <ean>93068365</ean>
+      <ean>93101133</ean>
       <availability>In Stock</availability>
-      <size>2X-LARGE,LARGE,MEDIUM,SMALL,X-SMALL</size>
+      <size>2X-LARGE,LARGE,MEDIUM,SMALL</size>
       <description>Trapstar Trespass Hoodie Blue</description>
       <quantity>0</quantity>
       <variations>
         <variation>
-          <variationid>49626925302093.2X-LARGE</variationid>
+          <variationid>49626925334861.2X-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-trespass-hoodie-black-1</link>
           <availability>In Stock</availability>
-          <manufacturersku>17634086.2X-LARGE</manufacturersku>
+          <manufacturersku>11082491.2X-LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>2X-LARGE</size>
           <quantity>0</quantity>
         </variation>
         <variation>
-          <variationid>49626925302093.LARGE</variationid>
+          <variationid>49626925334861.LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-trespass-hoodie-black-1</link>
           <availability>In Stock</availability>
-          <manufacturersku>17634086.LARGE</manufacturersku>
+          <manufacturersku>11082491.LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
           <quantity>0</quantity>
         </variation>
         <variation>
-          <variationid>49626925302093.MEDIUM</variationid>
+          <variationid>49626925334861.MEDIUM</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-trespass-hoodie-black-1</link>
           <availability>In Stock</availability>
-          <manufacturersku>17634086.MEDIUM</manufacturersku>
+          <manufacturersku>11082491.MEDIUM</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>MEDIUM</size>
           <quantity>0</quantity>
         </variation>
         <variation>
-          <variationid>49626925302093.SMALL</variationid>
+          <variationid>49626925334861.SMALL</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-trespass-hoodie-black-1</link>
           <availability>In Stock</availability>
-          <manufacturersku>17634086.SMALL</manufacturersku>
+          <manufacturersku>11082491.SMALL</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>SMALL</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49626925302093.X-SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-trespass-hoodie-black-1</link>
-          <availability>In Stock</availability>
-          <manufacturersku>17634086.X-SMALL</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>X-SMALL</size>
           <quantity>0</quantity>
         </variation>
       </variations>
