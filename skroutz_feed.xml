@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-10 13:00</created_at>
+  <created_at>2024-12-10 14:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4052,6 +4052,142 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_fdf8ed67-19fa-4de6-997f-9c5b939a0fff.jpg?v=1733131985</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_3a48de20-9a43-4871-b216-5d2937e8659b.jpg?v=1733131985</image>
       </additional_images>
+    </product>
+    <product>
+      <id>55749853</id>
+      <name>Fear of God Essentials Hoodie Stretch Limo</name>
+      <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-stretch-limo</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_eb8915d3-81de-4916-b9bb-5be091eead99.png?v=1703154602</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Essentials</manufacturer>
+      <ean>63953961</ean>
+      <availability>In Stock</availability>
+      <size>LARGE</size>
+      <description>Fear of God Essentials Hoodie Stretch Limo</description>
+      <quantity>3</quantity>
+    </product>
+    <product>
+      <id>54399544</id>
+      <name>Fear of God Essentials Hoodie Coral</name>
+      <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-coral</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1233333333333.png?v=1703160781</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Essentials</manufacturer>
+      <ean>27277086</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
+      <description>Fear of God Essentials Hoodie Coral</description>
+      <quantity>14</quantity>
+      <variations>
+        <variation>
+          <variationid>49950543675725.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-coral</link>
+          <availability>In Stock</availability>
+          <manufacturersku>54399544.LARGE</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>LARGE</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>49950543675725.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-coral</link>
+          <availability>In Stock</availability>
+          <manufacturersku>54399544.MEDIUM</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>49950543675725.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-coral</link>
+          <availability>In Stock</availability>
+          <manufacturersku>54399544.SMALL</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>SMALL</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>49950543675725.X-LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-coral</link>
+          <availability>In Stock</availability>
+          <manufacturersku>54399544.X-LARGE</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>X-LARGE</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>49950543675725.X-SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-coral</link>
+          <availability>In Stock</availability>
+          <manufacturersku>54399544.X-SMALL</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>X-SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>56263867</id>
+      <name>Fear of God Essentials Hoodie Off Black</name>
+      <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-off-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/111111111111111.png?v=1703161036</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Essentials</manufacturer>
+      <ean>42514555</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
+      <description>Fear of God Essentials Hoodie Off Black</description>
+      <quantity>15</quantity>
+      <variations>
+        <variation>
+          <variationid>49950568120653.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-off-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>56263867.LARGE</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>LARGE</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>49950568120653.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-off-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>56263867.MEDIUM</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>49950568120653.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-off-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>56263867.SMALL</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>SMALL</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>49950568120653.X-LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-off-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>56263867.X-LARGE</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>X-LARGE</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>49950568120653.X-SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-off-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>56263867.X-SMALL</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>X-SMALL</size>
+          <quantity>3</quantity>
+        </variation>
+      </variations>
     </product>
   </products>
 </FlowerKickz>
