@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-10 14:00</created_at>
+  <created_at>2024-12-10 15:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4188,6 +4188,359 @@
           <quantity>3</quantity>
         </variation>
       </variations>
+    </product>
+    <product>
+      <id/>
+      <name>Stüssy Tee Basic White</name>
+      <link>https://www.flowerkickz.gr/products/stussy-tee-basic-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYBASICWHITEBACK.png?v=1717054812</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>STUSSY</manufacturer>
+      <ean>12924193</ean>
+      <availability>In Stock</availability>
+      <size>X-SMALL</size>
+      <description>Stüssy Tee Basic White</description>
+      <quantity>5</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYBASICWHITEFRONT.png?v=1717054812</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Stüssy Tee Sport Script White</name>
+      <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/sport_00c4d997-cd3c-4381-ac89-2cfdde9f0a82.png?v=1733836872</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>STUSSY</manufacturer>
+      <ean>08768792</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM</size>
+      <description>Stüssy Tee Sport Script White</description>
+      <quantity>4</quantity>
+      <variations>
+        <variation>
+          <variationid>52706013774157.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.LARGE</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52706013774157.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.MEDIUM</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>3</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id/>
+      <name>Stüssy Tee Sport Script Black</name>
+      <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/sportsblack.png?v=1733836995</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>STUSSY</manufacturer>
+      <ean>72888991</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM</size>
+      <description>Stüssy Tee Sport Script Black</description>
+      <quantity>3</quantity>
+      <variations>
+        <variation>
+          <variationid>52706018066765.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.LARGE</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52706018066765.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.MEDIUM</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id/>
+      <name>Stüssy Tee Pigment Dyed Black</name>
+      <link>https://www.flowerkickz.gr/products/stussy-tee-pigment-dyed-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1905001_BLAC_1_16ffadfd-d218-43ee-8924-7829cf7f26c2-removebg-preview.png?v=1733837362</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>STUSSY</manufacturer>
+      <ean>50248215</ean>
+      <availability>In Stock</availability>
+      <size>MEDIUM</size>
+      <description>Stüssy Tee Pigment Dyed Black</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Stüssy Tee Thermal Black</name>
+      <link>https://www.flowerkickz.gr/products/stussy-tee-thermal-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/thermal.png?v=1733837541</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>STUSSY</manufacturer>
+      <ean>48816840</ean>
+      <availability>In Stock</availability>
+      <size>MEDIUM,SMALL</size>
+      <description>Stüssy Tee Thermal Black</description>
+      <quantity>4</quantity>
+      <variations>
+        <variation>
+          <variationid>52706061287757.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-thermal-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.MEDIUM</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52706061287757.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-thermal-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.SMALL</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id/>
+      <name>Stüssy Tee Dot Stamp Black</name>
+      <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/dot.png?v=1733837692</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>STUSSY</manufacturer>
+      <ean>56215348</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL</size>
+      <description>Stüssy Tee Dot Stamp Black</description>
+      <quantity>8</quantity>
+      <variations>
+        <variation>
+          <variationid>52706080817485.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.LARGE</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>LARGE</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52706080817485.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.MEDIUM</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>4</quantity>
+        </variation>
+        <variation>
+          <variationid>52706080817485.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.SMALL</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id/>
+      <name>Stüssy Tee Dot Stamp White</name>
+      <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/dotwhtie.png?v=1733837874</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>STUSSY</manufacturer>
+      <ean>85907202</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL</size>
+      <description>Stüssy Tee Dot Stamp White</description>
+      <quantity>7</quantity>
+      <variations>
+        <variation>
+          <variationid>52706091041101.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.LARGE</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>LARGE</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>52706091041101.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.MEDIUM</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>52706091041101.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.SMALL</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>SMALL</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id/>
+      <name>Stüssy Tee Surfwalk White</name>
+      <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/surfwhite.png?v=1733838676</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>STUSSY</manufacturer>
+      <ean>31354711</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL</size>
+      <description>Stüssy Tee Surfwalk White</description>
+      <quantity>11</quantity>
+      <variations>
+        <variation>
+          <variationid>52706161918285.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>.LARGE</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52706161918285.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>.MEDIUM</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>6</quantity>
+        </variation>
+        <variation>
+          <variationid>52706161918285.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>.SMALL</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>SMALL</size>
+          <quantity>4</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id/>
+      <name>Stüssy Tee Surfwalk Black</name>
+      <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/surfblack.png?v=1733838875</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>STUSSY</manufacturer>
+      <ean>66806892</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,SMALL</size>
+      <description>Stüssy Tee Surfwalk Black</description>
+      <quantity>2</quantity>
+      <variations>
+        <variation>
+          <variationid>52706202091853.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.LARGE</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52706202091853.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.SMALL</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>SMALL</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id/>
+      <name>Stüssy Tee Tucan Black</name>
+      <link>https://www.flowerkickz.gr/products/stussy-tee-tucan-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/tucanblack.png?v=1733839049</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>STUSSY</manufacturer>
+      <ean>86303164</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL</size>
+      <description>Stüssy Tee Tucan Black</description>
+      <quantity>7</quantity>
+      <variations>
+        <variation>
+          <variationid>52706221687117.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-tucan-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.LARGE</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52706221687117.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-tucan-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.MEDIUM</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>52706221687117.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/stussy-tee-tucan-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.SMALL</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>SMALL</size>
+          <quantity>3</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id/>
+      <name>Stüssy Tee Tucan White</name>
+      <link>https://www.flowerkickz.gr/products/stussy-tee-tucan-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TUCANWHITE.png?v=1733839402</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>STUSSY</manufacturer>
+      <ean>74248442</ean>
+      <availability>In Stock</availability>
+      <size>SMALL</size>
+      <description>Stüssy Tee Tucan White</description>
+      <quantity>3</quantity>
     </product>
   </products>
 </FlowerKickz>
