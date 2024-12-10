@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-10 09:00</created_at>
+  <created_at>2024-12-10 10:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3792,7 +3792,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,Χ-LARGE</size>
       <description>KAWS + Warhol Graphic Sweatshirt Grey</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_5fe0b826-bd21-4554-bf2d-6035e780b1e2.png?v=1730285079</image>
       </additional_images>
@@ -3822,7 +3822,7 @@
           <manufacturersku>476119.SMALL</manufacturersku>
           <price_with_vat>125</price_with_vat>
           <size>SMALL</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52491377312077.Χ-LARGE</variationid>
@@ -4041,6 +4041,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_b4ee45af-17b8-40ad-90c4-8dc2d4cfb255.jpg?v=1733114339</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>AJ2029-001</id>
+      <name>Air Max Plus Triple Black Leather</name>
+      <link>https://www.flowerkickz.gr/products/air-max-plus-triple-black-leather</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_d9bc08e5-274f-47ba-84d1-818277cc2d6c.jpg?v=1733131985</image>
+      <category>Sneakers</category>
+      <price_with_vat>330</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40.5</size>
+      <description>Air Max Plus Triple Black Leather</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_4a88e512-6db3-4e04-b69e-caaa6549d031.jpg?v=1733131985</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_fdf8ed67-19fa-4de6-997f-9c5b939a0fff.jpg?v=1733131985</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_3a48de20-9a43-4871-b216-5d2937e8659b.jpg?v=1733131985</image>
       </additional_images>
     </product>
   </products>
