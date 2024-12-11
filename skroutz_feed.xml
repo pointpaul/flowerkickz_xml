@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-11 09:00</created_at>
+  <created_at>2024-12-11 10:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4296,6 +4296,82 @@
       <size>SMALL</size>
       <description>Stüssy Tee Tucan White</description>
       <quantity>3</quantity>
+    </product>
+    <product>
+      <id>FJ2260-003</id>
+      <name>Nike Dunk Low LX Black Croc</name>
+      <link>https://www.flowerkickz.gr/products/nike-dunk-low-lx-black-croc</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Black_Croc-FJ2260-003.jpg?v=1733114855</image>
+      <category>Sneakers</category>
+      <price_with_vat>260</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>38.5</size>
+      <description>Nike Dunk Low LX Black Croc</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Black_Croc-FJ2260-003_039b6279-c7ac-4395-985d-d8ac83c2ff58.jpg?v=1733114855</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Black_Croc-FJ2260-003_4809cfa0-7cbf-40b6-9a6f-efd74d8bf0d7.jpg?v=1733114855</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Black_Croc-FJ2260-003_55ec175f-f200-47aa-b2fa-be5453fdb5b8.jpg?v=1733114855</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>GZ0953</id>
+      <name>Yeezy Slide Enflame Orange</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-slide-enflame-orange</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Enflame_Orange-GZ0953.jpg?v=1733090605</image>
+      <category>Sneakers</category>
+      <price_with_vat>365</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean>80695395</ean>
+      <availability>In Stock</availability>
+      <size>38</size>
+      <description>Yeezy Slide Enflame Orange</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Enflame_Orange-GZ0953_ad3b0979-ccb1-4d8f-8c52-5df5286ea685.jpg?v=1733090605</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Enflame_Orange-GZ0953_0c068ff2-4c87-493f-bf3c-6a3c24d8be86.jpg?v=1733090605</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Enflame_Orange-GZ0953_b5dd77dd-b197-4aa5-a7d8-79d04be8c837.jpg?v=1733090605</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DZ4137-106</id>
+      <name>Air Jordan 1 Low Travis Scott Olive</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-low-travis-scott-olive</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_a812763f-dc94-466a-bfd3-237a964d77f6.jpg?v=1733146497</image>
+      <category>Sneakers</category>
+      <price_with_vat>2115</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44.5</size>
+      <description>Air Jordan 1 Low Travis Scott Olive</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_22c02782-17dc-4c35-b651-6057b718a126.jpg?v=1733146497</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_0b5b18fb-6cb0-4660-add2-4f54d23ad92b.jpg?v=1733146497</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_a1a77ff9-8711-4265-8e11-c6a8bb7f4f68.jpg?v=1733146497</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>GW1229</id>
+      <name>Yeezy Boost 350 V2 Beluga Reflective</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-beluga-reflective</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229.jpg?v=1733092311</image>
+      <category>Sneakers</category>
+      <price_with_vat>545</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>43 1/3</size>
+      <description>Yeezy Boost 350 V2 Beluga Reflective</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229_e3d67f94-9a3e-4ec3-8ecf-ac960f197682.jpg?v=1733092311</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229_4b0ca71c-fba7-4600-918c-a1c27e5e61f3.jpg?v=1733092311</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229_d1abb4cc-23d4-46b0-9b51-a3c3461125b9.jpg?v=1733092311</image>
+      </additional_images>
     </product>
   </products>
 </FlowerKickz>
