@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-11 10:00</created_at>
+  <created_at>2024-12-11 11:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -483,6 +483,20 @@
       <availability>In Stock</availability>
       <size>2X-LARGE</size>
       <description>Trapstar No Rules 2.0 Tee White</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>44834698</id>
+      <name>Trapstar It's A Secret Hoodie Black</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-its-a-secret-hoodie-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TrapstarIt_sASecretHoodieBlack.png?v=1686214710</image>
+      <category>Sneakers</category>
+      <price_with_vat>150</price_with_vat>
+      <manufacturer>Trapstar</manufacturer>
+      <ean>8744710398</ean>
+      <availability>In Stock</availability>
+      <size>MEDIUM</size>
+      <description>Trapstar It's A Secret Hoodie Black</description>
       <quantity>1</quantity>
     </product>
     <product>
