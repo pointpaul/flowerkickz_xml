@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-13 03:00</created_at>
+  <created_at>2024-12-13 04:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3015,20 +3015,6 @@
       <quantity>5</quantity>
     </product>
     <product>
-      <id/>
-      <name>Flower Kickz Credit</name>
-      <link>https://www.flowerkickz.gr/products/flower-kickz-instore-credit</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FlowerKickzFinalJPEG_New.jpg?v=1688564354</image>
-      <category>Sneakers</category>
-      <price_with_vat>230</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>€200.00</size>
-      <description>Flower Kickz Credit</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
       <id>HF6061-400U</id>
       <name>SB Dunk Low Futura Laboratories Bleached Aqua (USED)</name>
       <link>https://www.flowerkickz.gr/products/sb-dunk-low-futura-laboratories-bleached-aqua-used</link>
@@ -3041,20 +3027,6 @@
       <size>44</size>
       <description>SB Dunk Low Futura Laboratories Bleached Aqua (USED)</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id/>
-      <name>Flower Kickz Credit (Copy)</name>
-      <link>https://www.flowerkickz.gr/products/flower-kickz-credit-copy</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FlowerKickzFinalJPEG_New.jpg?v=1688564354</image>
-      <category>Sneakers</category>
-      <price_with_vat>230</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>€200.00</size>
-      <description>Flower Kickz Credit (Copy)</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id/>
@@ -3493,9 +3465,9 @@
       <category>Sneakers</category>
       <price_with_vat>125</price_with_vat>
       <manufacturer>KAWS</manufacturer>
-      <ean>33963100</ean>
+      <ean>33973100</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM,SMALL,X-LARGE</size>
+      <size>LARGE,MEDIUM,X-LARGE</size>
       <description>KAWS + Warhol Sweatpants Grey</description>
       <quantity>5</quantity>
       <additional_images>
@@ -3503,7 +3475,7 @@
       </additional_images>
       <variations>
         <variation>
-          <variationid>52491343331661.LARGE</variationid>
+          <variationid>52491343364429.LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-warhol-sweatpants-grey</link>
           <availability>In Stock</availability>
           <manufacturersku>473557.LARGE</manufacturersku>
@@ -3512,7 +3484,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52491343331661.MEDIUM</variationid>
+          <variationid>52491343364429.MEDIUM</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-warhol-sweatpants-grey</link>
           <availability>In Stock</availability>
           <manufacturersku>473557.MEDIUM</manufacturersku>
@@ -3521,16 +3493,7 @@
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>52491343331661.SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/kaws-warhol-sweatpants-grey</link>
-          <availability>In Stock</availability>
-          <manufacturersku>473557.SMALL</manufacturersku>
-          <price_with_vat>125</price_with_vat>
-          <size>SMALL</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52491343331661.X-LARGE</variationid>
+          <variationid>52491343364429.X-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-warhol-sweatpants-grey</link>
           <availability>In Stock</availability>
           <manufacturersku>473557.X-LARGE</manufacturersku>
@@ -3671,101 +3634,6 @@
       </additional_images>
     </product>
     <product>
-      <id>DQ8426-517</id>
-      <name>Air Jordan 1 Mid Lakers (2022)</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-lakers-2022</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517.jpg?v=1733100346</image>
-      <category>Sneakers</category>
-      <price_with_vat>295</price_with_vat>
-      <manufacturer>Jordan</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>43</size>
-      <description>Air Jordan 1 Mid Lakers (2022)</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517_fe2b186e-4a22-4258-824f-b3eb54cd951e.jpg?v=1733100346</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517_1d31cd6b-fdd3-48d2-8746-211f3979d40b.jpg?v=1733100346</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517_99fee088-f961-4254-a050-fa13e10e3902.jpg?v=1733100346</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>FZ5000</id>
-      <name>Yeezy Boost 350 V2 Carbon</name>
-      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-carbon</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Carbon-FZ5000.jpg?v=1733088413</image>
-      <category>Sneakers</category>
-      <price_with_vat>580</price_with_vat>
-      <manufacturer>Yeezy</manufacturer>
-      <ean>13548449</ean>
-      <availability>In Stock</availability>
-      <size>45 1/3</size>
-      <description>Yeezy Boost 350 V2 Carbon</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Carbon-FZ5000_9ac56a90-a655-49bc-b77d-3801097e9f3b.jpg?v=1733088413</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Carbon-FZ5000_3c37e398-ce46-4f36-abd9-d095af8e095c.jpg?v=1733088413</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Carbon-FZ5000_313486c8-ac2a-4fdf-887e-ba6f856ae0f3.jpg?v=1733088413</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>555088-036</id>
-      <name>Air Jordan 1 Retro High OG Rebellionaire</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-rebellionaire</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_Rebellionaire-555088-036.jpg?v=1733100896</image>
-      <category>Sneakers</category>
-      <price_with_vat>520</price_with_vat>
-      <manufacturer>Jordan</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>42</size>
-      <description>Air Jordan 1 Retro High OG Rebellionaire</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_Rebellionaire-555088-036_014cee6a-65be-437f-87a2-c1f6eca50d9e.jpg?v=1733100896</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_Rebellionaire-555088-036_da168e75-6fce-4a43-aa61-3b046e43d07c.jpg?v=1733100896</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_Rebellionaire-555088-036_c78ee36e-945e-403b-bcd3-b7c56394c5bf.jpg?v=1733100896</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>CZ8065-100</id>
-      <name>Air Force 1 Low NOCTA Drake Certified Lover Boy</name>
-      <link>https://www.flowerkickz.gr/products/air-force-1-low-nocta-drake-certified-lover-boy</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_fe6148ac-a6a0-4a33-bf5d-2ac058a556f9.jpg?v=1733127996</image>
-      <category>Sneakers</category>
-      <price_with_vat>365</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>46</size>
-      <description>Air Force 1 Low NOCTA Drake Certified Lover Boy</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_a35c87c2-edd9-4f4e-ad56-a1ea9145e7c4.jpg?v=1733127997</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_e1343892-9c04-49bf-8158-44eae2db873b.jpg?v=1733127997</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_e7982bc8-4fde-4f43-8b62-00498a533557.jpg?v=1733127997</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>FQ8138-001</id>
-      <name>Air Jordan 4 Retro White Thunder</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-white-thunder</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_White_Thunder-FQ8138-001.jpg?v=1733121044</image>
-      <category>Sneakers</category>
-      <price_with_vat>555</price_with_vat>
-      <manufacturer>Jordan</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>42</size>
-      <description>Air Jordan 4 Retro White Thunder</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_White_Thunder-FQ8138-001_5c2c6362-1b07-4160-bf28-0f90c28b86e6.jpg?v=1733121044</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_White_Thunder-FQ8138-001_08166023-c70f-4cdc-8111-6c788453496e.jpg?v=1733121044</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_White_Thunder-FQ8138-001_6fb2f382-0cd3-404d-ba80-0d5c7b938264.jpg?v=1733121044</image>
-      </additional_images>
-    </product>
-    <product>
       <id>DD1503-124</id>
       <name>Nike Dunk Low Cacao Wow</name>
       <link>https://www.flowerkickz.gr/products/nike-dunk-low-cacao-wow</link>
@@ -3782,25 +3650,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124_f2f78e13-c62f-4a80-8cfb-7090e66f2586.jpg?v=1733107831</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124_8c2a0049-7022-4043-9d33-6d5fc90a106b.jpg?v=1733107831</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124_87bf398f-9b01-48fb-b712-76c9b1334e82.jpg?v=1733107831</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>ID5103</id>
-      <name>Yeezy Slide Dark Onyx</name>
-      <link>https://www.flowerkickz.gr/products/yeezy-slide-dark-onyx</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103.jpg?v=1733114339</image>
-      <category>Sneakers</category>
-      <price_with_vat>260</price_with_vat>
-      <manufacturer>Adidas</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>46</size>
-      <description>Yeezy Slide Dark Onyx</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_b4ee45af-17b8-40ad-90c4-8dc2d4cfb255.jpg?v=1733114339</image>
       </additional_images>
     </product>
     <product>
