@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-15 03:00</created_at>
+  <created_at>2024-12-15 04:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2008,7 +2008,7 @@
       <manufacturer>Trapstar</manufacturer>
       <ean>35787085</ean>
       <availability>In Stock</availability>
-      <size>MEDIUM,SMALL,X-SMALL</size>
+      <size>MEDIUM,SMALL</size>
       <description>Trapstar Dream Team Hoodie Black</description>
       <quantity>2</quantity>
       <variations>
@@ -2029,15 +2029,6 @@
           <price_with_vat>150</price_with_vat>
           <size>SMALL</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>49600160563533.X-SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-dream-team-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>06506099.X-SMALL</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>X-SMALL</size>
-          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
