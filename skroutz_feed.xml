@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-15 12:00</created_at>
+  <created_at>2024-12-15 13:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3621,7 +3621,7 @@
       <link>https://www.flowerkickz.gr/products/nike-dunk-low-cacao-wow</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124.jpg?v=1733107831</image>
       <category>Sneakers</category>
-      <price_with_vat>250</price_with_vat>
+      <price_with_vat>205</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -4148,7 +4148,7 @@
       <link>https://www.flowerkickz.gr/products/nike-dunk-low-lx-black-croc</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Black_Croc-FJ2260-003.jpg?v=1733114855</image>
       <category>Sneakers</category>
-      <price_with_vat>260</price_with_vat>
+      <price_with_vat>215</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -4186,7 +4186,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-low-travis-scott-olive</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_a812763f-dc94-466a-bfd3-237a964d77f6.jpg?v=1733146497</image>
       <category>Sneakers</category>
-      <price_with_vat>2115</price_with_vat>
+      <price_with_vat>1745</price_with_vat>
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
