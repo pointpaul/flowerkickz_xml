@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-16 09:00</created_at>
+  <created_at>2024-12-16 10:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3894,7 +3894,7 @@
       <link>https://www.flowerkickz.gr/products/stussy-tee-thermal-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/thermal.png?v=1733837541</image>
       <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
       <ean>48816840</ean>
       <availability>In Stock</availability>
@@ -3907,7 +3907,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-thermal-black</link>
           <availability>In Stock</availability>
           <manufacturersku>None.MEDIUM</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>MEDIUM</size>
           <quantity>1</quantity>
         </variation>
@@ -3916,7 +3916,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-thermal-black</link>
           <availability>In Stock</availability>
           <manufacturersku>None.SMALL</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>SMALL</size>
           <quantity>2</quantity>
         </variation>
@@ -4014,7 +4014,7 @@
       <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/surfwhite.png?v=1733838676</image>
       <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
       <ean>31354711</ean>
       <availability>In Stock</availability>
@@ -4027,7 +4027,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-white</link>
           <availability>In Stock</availability>
           <manufacturersku>.LARGE</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -4036,7 +4036,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-white</link>
           <availability>In Stock</availability>
           <manufacturersku>.MEDIUM</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>MEDIUM</size>
           <quantity>6</quantity>
         </variation>
@@ -4045,7 +4045,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-white</link>
           <availability>In Stock</availability>
           <manufacturersku>.SMALL</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>SMALL</size>
           <quantity>4</quantity>
         </variation>
@@ -4091,7 +4091,7 @@
       <link>https://www.flowerkickz.gr/products/stussy-tee-tucan-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/tucanblack.png?v=1733839049</image>
       <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
       <ean>86303164</ean>
       <availability>In Stock</availability>
@@ -4104,7 +4104,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-tucan-black</link>
           <availability>In Stock</availability>
           <manufacturersku>None.LARGE</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -4113,7 +4113,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-tucan-black</link>
           <availability>In Stock</availability>
           <manufacturersku>None.MEDIUM</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>MEDIUM</size>
           <quantity>3</quantity>
         </variation>
@@ -4122,7 +4122,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-tucan-black</link>
           <availability>In Stock</availability>
           <manufacturersku>None.SMALL</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>SMALL</size>
           <quantity>3</quantity>
         </variation>
@@ -4134,7 +4134,7 @@
       <link>https://www.flowerkickz.gr/products/stussy-tee-tucan-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TUCANWHITE.png?v=1733839402</image>
       <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
       <ean>74248442</ean>
       <availability>In Stock</availability>
@@ -4211,7 +4211,7 @@
       <availability>In Stock</availability>
       <size>43 1/3</size>
       <description>Yeezy Boost 350 V2 Beluga Reflective</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229_e3d67f94-9a3e-4ec3-8ecf-ac960f197682.jpg?v=1733092311</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229_4b0ca71c-fba7-4600-918c-a1c27e5e61f3.jpg?v=1733092311</image>
