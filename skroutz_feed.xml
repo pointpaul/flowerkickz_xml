@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-16 10:00</created_at>
+  <created_at>2024-12-16 11:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3795,7 +3795,7 @@
       <link>https://www.flowerkickz.gr/products/stussy-tee-basic-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYBASICWHITEBACK.png?v=1717054812</image>
       <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
       <ean>12924193</ean>
       <availability>In Stock</availability>
@@ -3812,7 +3812,7 @@
       <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/sport_00c4d997-cd3c-4381-ac89-2cfdde9f0a82.png?v=1733836872</image>
       <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
       <ean>08768792</ean>
       <availability>In Stock</availability>
@@ -3825,7 +3825,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script</link>
           <availability>In Stock</availability>
           <manufacturersku>None.LARGE</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -3834,7 +3834,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script</link>
           <availability>In Stock</availability>
           <manufacturersku>None.MEDIUM</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>MEDIUM</size>
           <quantity>3</quantity>
         </variation>
@@ -3846,7 +3846,7 @@
       <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/sportsblack.png?v=1733836995</image>
       <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
       <ean>72888991</ean>
       <availability>In Stock</availability>
@@ -3859,7 +3859,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script-black</link>
           <availability>In Stock</availability>
           <manufacturersku>None.LARGE</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -3868,7 +3868,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script-black</link>
           <availability>In Stock</availability>
           <manufacturersku>None.MEDIUM</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>MEDIUM</size>
           <quantity>2</quantity>
         </variation>
@@ -3880,7 +3880,7 @@
       <link>https://www.flowerkickz.gr/products/stussy-tee-pigment-dyed-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1905001_BLAC_1_16ffadfd-d218-43ee-8924-7829cf7f26c2-removebg-preview.png?v=1733837362</image>
       <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
       <ean>50248215</ean>
       <availability>In Stock</availability>
@@ -3928,7 +3928,7 @@
       <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/dot.png?v=1733837692</image>
       <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
       <ean>56215348</ean>
       <availability>In Stock</availability>
@@ -3941,7 +3941,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-black</link>
           <availability>In Stock</availability>
           <manufacturersku>None.LARGE</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -3950,7 +3950,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-black</link>
           <availability>In Stock</availability>
           <manufacturersku>None.MEDIUM</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>MEDIUM</size>
           <quantity>4</quantity>
         </variation>
@@ -3959,7 +3959,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-black</link>
           <availability>In Stock</availability>
           <manufacturersku>None.SMALL</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>SMALL</size>
           <quantity>2</quantity>
         </variation>
@@ -3971,7 +3971,7 @@
       <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/dotwhtie.png?v=1733837874</image>
       <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
       <ean>85907202</ean>
       <availability>In Stock</availability>
@@ -3984,7 +3984,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-white</link>
           <availability>In Stock</availability>
           <manufacturersku>None.LARGE</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>LARGE</size>
           <quantity>3</quantity>
         </variation>
@@ -3993,7 +3993,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-white</link>
           <availability>In Stock</availability>
           <manufacturersku>None.MEDIUM</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>MEDIUM</size>
           <quantity>3</quantity>
         </variation>
@@ -4002,7 +4002,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-dot-stamp-white</link>
           <availability>In Stock</availability>
           <manufacturersku>None.SMALL</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>SMALL</size>
           <quantity>1</quantity>
         </variation>
@@ -4057,7 +4057,7 @@
       <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/surfblack.png?v=1733838875</image>
       <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
+      <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
       <ean>66806892</ean>
       <availability>In Stock</availability>
@@ -4070,7 +4070,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-black</link>
           <availability>In Stock</availability>
           <manufacturersku>None.LARGE</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
@@ -4079,7 +4079,7 @@
           <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-black</link>
           <availability>In Stock</availability>
           <manufacturersku>None.SMALL</manufacturersku>
-          <price_with_vat>195</price_with_vat>
+          <price_with_vat>170</price_with_vat>
           <size>SMALL</size>
           <quantity>1</quantity>
         </variation>
@@ -4216,6 +4216,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229_e3d67f94-9a3e-4ec3-8ecf-ac960f197682.jpg?v=1733092311</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229_4b0ca71c-fba7-4600-918c-a1c27e5e61f3.jpg?v=1733092311</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229_d1abb4cc-23d4-46b0-9b51-a3c3461125b9.jpg?v=1733092311</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>1122553-CHE</id>
+      <name>UGG Tazz Slipper Chestnut</name>
+      <link>https://www.flowerkickz.gr/products/ugg-tazz-slipper-chestnut</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Chestnut-1122553-CHE-0.jpg?v=1731684771</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>UGG</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>37</size>
+      <description>UGG Tazz Slipper Chestnut</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Chestnut-1122553-CHE-1.jpg?v=1731684771</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Chestnut-1122553-CHE-2.jpg?v=1731684771</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Chestnut-1122553-CHE-3.jpg?v=1731684771</image>
       </additional_images>
     </product>
   </products>
