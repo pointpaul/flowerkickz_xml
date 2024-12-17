@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-17 11:00</created_at>
+  <created_at>2024-12-17 12:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3900,7 +3900,7 @@
       <availability>In Stock</availability>
       <size>MEDIUM,SMALL</size>
       <description>Stüssy Tee Thermal Black</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>52706061287757.MEDIUM</variationid>
@@ -3909,7 +3909,7 @@
           <manufacturersku>None.MEDIUM</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52706061287757.SMALL</variationid>
@@ -3934,7 +3934,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL</size>
       <description>Stüssy Tee Dot Stamp Black</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <variations>
         <variation>
           <variationid>52706080817485.LARGE</variationid>
@@ -3952,7 +3952,7 @@
           <manufacturersku>None.MEDIUM</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>52706080817485.SMALL</variationid>
@@ -4140,7 +4140,7 @@
       <availability>In Stock</availability>
       <size>SMALL</size>
       <description>Stüssy Tee Tucan White</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
     </product>
     <product>
       <id>FJ2260-003</id>
