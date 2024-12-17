@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-17 03:00</created_at>
+  <created_at>2024-12-17 04:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4197,25 +4197,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_22c02782-17dc-4c35-b651-6057b718a126.jpg?v=1733146497</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_0b5b18fb-6cb0-4660-add2-4f54d23ad92b.jpg?v=1733146497</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_a1a77ff9-8711-4265-8e11-c6a8bb7f4f68.jpg?v=1733146497</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>GW1229</id>
-      <name>Yeezy Boost 350 V2 Beluga Reflective</name>
-      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-beluga-reflective</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229.jpg?v=1733092311</image>
-      <category>Sneakers</category>
-      <price_with_vat>520</price_with_vat>
-      <manufacturer>Yeezy</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>43 1/3</size>
-      <description>Yeezy Boost 350 V2 Beluga Reflective</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229_e3d67f94-9a3e-4ec3-8ecf-ac960f197682.jpg?v=1733092311</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229_4b0ca71c-fba7-4600-918c-a1c27e5e61f3.jpg?v=1733092311</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Beluga_Reflective-GW1229_d1abb4cc-23d4-46b0-9b51-a3c3461125b9.jpg?v=1733092311</image>
       </additional_images>
     </product>
     <product>
