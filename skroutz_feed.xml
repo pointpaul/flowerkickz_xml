@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-18 16:00</created_at>
+  <created_at>2024-12-18 17:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4142,25 +4142,6 @@
       </additional_images>
     </product>
     <product>
-      <id>GZ0953</id>
-      <name>Yeezy Slide Enflame Orange</name>
-      <link>https://www.flowerkickz.gr/products/yeezy-slide-enflame-orange</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Enflame_Orange-GZ0953.jpg?v=1733090605</image>
-      <category>Sneakers</category>
-      <price_with_vat>365</price_with_vat>
-      <manufacturer>Yeezy</manufacturer>
-      <ean>80695395</ean>
-      <availability>In Stock</availability>
-      <size>38</size>
-      <description>Yeezy Slide Enflame Orange</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Enflame_Orange-GZ0953_ad3b0979-ccb1-4d8f-8c52-5df5286ea685.jpg?v=1733090605</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Enflame_Orange-GZ0953_0c068ff2-4c87-493f-bf3c-6a3c24d8be86.jpg?v=1733090605</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Enflame_Orange-GZ0953_b5dd77dd-b197-4aa5-a7d8-79d04be8c837.jpg?v=1733090605</image>
-      </additional_images>
-    </product>
-    <product>
       <id>DZ4137-106</id>
       <name>Air Jordan 1 Low Travis Scott Olive</name>
       <link>https://www.flowerkickz.gr/products/air-jordan-1-low-travis-scott-olive</link>
@@ -4216,6 +4197,39 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Onyx-HQ4540_6a48cd56-59b6-4d5b-b663-876185f84f18.jpg?v=1733097530</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Onyx-HQ4540_a600d22e-7924-4d76-b325-defa8c31872f.jpg?v=1733097530</image>
       </additional_images>
+    </product>
+    <product>
+      <id>DQ7648-600</id>
+      <name>Air Jordan 1 Mid USA (2022)</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-usa-2022</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_USA_2022_-DQ7648-600.jpg?v=1733099278</image>
+      <category>Sneakers</category>
+      <price_with_vat>340</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40</size>
+      <description>Air Jordan 1 Mid USA (2022)</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_USA_2022_-DQ7648-600_47ae6b70-f4bd-44c2-acf0-5ba126602bae.jpg?v=1733099278</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_USA_2022_-DQ7648-600_2e47a6a7-8f07-4875-a3f8-be03b66ecc7b.jpg?v=1733099278</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_USA_2022_-DQ7648-600_7d5a3dcb-1324-47a2-b25c-9f0c0c06d70c.jpg?v=1733099278</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FZ4359-200</id>
+      <name>Air Jordan 1 Mid SE Paris YMCA</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-se-paris-ymca</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_SE_Paris_YMCA-FZ4359-200.jpg?v=1733112983</image>
+      <category>Sneakers</category>
+      <price_with_vat>295</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40</size>
+      <description>Air Jordan 1 Mid SE Paris YMCA</description>
+      <quantity>1</quantity>
     </product>
   </products>
 </FlowerKickz>
