@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-19 16:00</created_at>
+  <created_at>2024-12-19 17:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4139,6 +4139,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Black_Croc-FJ2260-003_039b6279-c7ac-4395-985d-d8ac83c2ff58.jpg?v=1733114855</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Black_Croc-FJ2260-003_4809cfa0-7cbf-40b6-9a6f-efd74d8bf0d7.jpg?v=1733114855</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Black_Croc-FJ2260-003_55ec175f-f200-47aa-b2fa-be5453fdb5b8.jpg?v=1733114855</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>GZ0953</id>
+      <name>Yeezy Slide Enflame Orange</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-slide-enflame-orange</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Enflame_Orange-GZ0953.jpg?v=1733090605</image>
+      <category>Sneakers</category>
+      <price_with_vat>365</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean>80695395</ean>
+      <availability>In Stock</availability>
+      <size>38</size>
+      <description>Yeezy Slide Enflame Orange</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Enflame_Orange-GZ0953_ad3b0979-ccb1-4d8f-8c52-5df5286ea685.jpg?v=1733090605</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Enflame_Orange-GZ0953_0c068ff2-4c87-493f-bf3c-6a3c24d8be86.jpg?v=1733090605</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Enflame_Orange-GZ0953_b5dd77dd-b197-4aa5-a7d8-79d04be8c837.jpg?v=1733090605</image>
       </additional_images>
     </product>
     <product>
