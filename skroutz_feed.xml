@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-19 15:00</created_at>
+  <created_at>2024-12-19 16:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -824,7 +824,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM</size>
       <description>Fear of God Essentials Tee Sand SS23</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <variations>
         <variation>
           <variationid>49041472422221.LARGE</variationid>
@@ -842,7 +842,7 @@
           <manufacturersku>15629672.MEDIUM</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -2498,7 +2498,7 @@
       <availability>In Stock</availability>
       <size>X-LARGE</size>
       <description>Fear of God Essentials Hoodie SSENSE Tan</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>CP9366U</id>
