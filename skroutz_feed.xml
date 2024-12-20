@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-20 03:00</created_at>
+  <created_at>2024-12-20 04:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -813,38 +813,18 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>15629672</id>
+      <id>39884711</id>
       <name>Fear of God Essentials Tee Sand SS23</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/shirtsandss23.png?v=1688997835</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
-      <ean>75890765</ean>
+      <ean>79003725</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM</size>
+      <size>LARGE</size>
       <description>Fear of God Essentials Tee Sand SS23</description>
       <quantity>3</quantity>
-      <variations>
-        <variation>
-          <variationid>49041472422221.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
-          <availability>In Stock</availability>
-          <manufacturersku>15629672.LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>LARGE</size>
-          <quantity>3</quantity>
-        </variation>
-        <variation>
-          <variationid>49041472422221.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
-          <availability>In Stock</availability>
-          <manufacturersku>15629672.MEDIUM</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>96119478</id>
@@ -2485,20 +2465,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Resin--1_608d66a2-0b31-48c2-b5b3-624f3748474b.png?v=1701088876</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzYeezy_Slide_Resin--2_4f647a4b-abb7-4944-9956-59e2df317921.png?v=1701088876</image>
       </additional_images>
-    </product>
-    <product>
-      <id>13161735</id>
-      <name>Fear of God Essentials Hoodie SSENSE Tan</name>
-      <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-ssense-tan</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2.png?v=1703160625</image>
-      <category>Sneakers</category>
-      <price_with_vat>240</price_with_vat>
-      <manufacturer>Essentials</manufacturer>
-      <ean>92467086</ean>
-      <availability>In Stock</availability>
-      <size>X-LARGE</size>
-      <description>Fear of God Essentials Hoodie SSENSE Tan</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>CP9366U</id>
