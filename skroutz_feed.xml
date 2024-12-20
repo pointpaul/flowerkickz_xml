@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-20 07:00</created_at>
+  <created_at>2024-12-20 08:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3279,7 +3279,7 @@
       <id>FK1987</id>
       <name>Snik 1987 Lows</name>
       <link>https://www.flowerkickz.gr/products/1987-lows</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/Snik2.jpg?v=1663668895</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/IMG-4838.jpg?v=1734678769</image>
       <category>Sneakers</category>
       <price_with_vat>250</price_with_vat>
       <manufacturer>Flower Kickz</manufacturer>
@@ -3289,10 +3289,10 @@
       <description>Snik 1987 Lows</description>
       <quantity>1</quantity>
       <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/AD49D95D-68F2-4AAD-85E0-B6DA418E0B40.jpg?v=1663668895</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/2D91FEC2-D792-45A0-AFAB-B73FD5AB3885.jpg?v=1663668895</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/0108A070-477F-479C-97BA-6E42923404AE.jpg?v=1663668895</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/5FB8B85F-3200-46EE-96D9-C90787CFA3E8.jpg?v=1663668895</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/AD49D95D-68F2-4AAD-85E0-B6DA418E0B40.jpg?v=1734678768</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/2D91FEC2-D792-45A0-AFAB-B73FD5AB3885.jpg?v=1734678768</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/0108A070-477F-479C-97BA-6E42923404AE.jpg?v=1734678768</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/5FB8B85F-3200-46EE-96D9-C90787CFA3E8.jpg?v=1734678768</image>
       </additional_images>
     </product>
     <product>
