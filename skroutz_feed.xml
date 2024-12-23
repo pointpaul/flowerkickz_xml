@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-23 11:00</created_at>
+  <created_at>2024-12-23 12:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4200,6 +4200,20 @@
       <availability>In Stock</availability>
       <size>40</size>
       <description>Air Jordan 1 Mid SE Paris YMCA</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>HJ6630-900</id>
+      <name>Nike Air Zoom GT Cut 3 Jewell Loyd Dusty Cactus Lilac Bloom</name>
+      <link>https://www.flowerkickz.gr/products/nike-air-zoom-gt-cut-3-jewell-loyd-dusty-cactus-lilac-bloom</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Air_Zoom_GT_Cut_3_Jewell_Loyd_Dusty_Cactus_Lilac_Bloom-HJ6630-900.jpg?v=1733117162</image>
+      <category>Sneakers</category>
+      <price_with_vat>590</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42.5</size>
+      <description>Nike Air Zoom GT Cut 3 Jewell Loyd Dusty Cactus Lilac Bloom</description>
       <quantity>1</quantity>
     </product>
   </products>
