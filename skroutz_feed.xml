@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-24 03:00</created_at>
+  <created_at>2024-12-24 04:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3004,9 +3004,9 @@
       <category>Sneakers</category>
       <price_with_vat>85</price_with_vat>
       <manufacturer>KAWS</manufacturer>
-      <ean>98938905</ean>
+      <ean>75948905</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
+      <size>LARGE,MEDIUM,SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic Tee Black</description>
       <quantity>12</quantity>
       <additional_images>
@@ -3014,7 +3014,7 @@
       </additional_images>
       <variations>
         <variation>
-          <variationid>52168746074445.LARGE</variationid>
+          <variationid>52168746107213.LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black</link>
           <availability>In Stock</availability>
           <manufacturersku>476351.LARGE</manufacturersku>
@@ -3023,7 +3023,7 @@
           <quantity>3</quantity>
         </variation>
         <variation>
-          <variationid>52168746074445.MEDIUM</variationid>
+          <variationid>52168746107213.MEDIUM</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black</link>
           <availability>In Stock</availability>
           <manufacturersku>476351.MEDIUM</manufacturersku>
@@ -3032,7 +3032,7 @@
           <quantity>3</quantity>
         </variation>
         <variation>
-          <variationid>52168746074445.SMALL</variationid>
+          <variationid>52168746107213.SMALL</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black</link>
           <availability>In Stock</availability>
           <manufacturersku>476351.SMALL</manufacturersku>
@@ -3041,16 +3041,7 @@
           <quantity>3</quantity>
         </variation>
         <variation>
-          <variationid>52168746074445.X-SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>476351.X-SMALL</manufacturersku>
-          <price_with_vat>85</price_with_vat>
-          <size>X-SMALL</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52168746074445.Χ-LARGE</variationid>
+          <variationid>52168746107213.Χ-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black</link>
           <availability>In Stock</availability>
           <manufacturersku>476351.Χ-LARGE</manufacturersku>
@@ -3445,9 +3436,9 @@
       <category>Sneakers</category>
       <price_with_vat>125</price_with_vat>
       <manufacturer>KAWS</manufacturer>
-      <ean>34714100</ean>
+      <ean>66724100</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM,SMALL,Χ-LARGE</size>
+      <size>LARGE,MEDIUM,Χ-LARGE</size>
       <description>KAWS + Warhol Graphic Sweatshirt Grey</description>
       <quantity>6</quantity>
       <additional_images>
@@ -3455,7 +3446,7 @@
       </additional_images>
       <variations>
         <variation>
-          <variationid>52491377312077.LARGE</variationid>
+          <variationid>52491377344845.LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-warhol-graphic-sweatshirt-grey</link>
           <availability>In Stock</availability>
           <manufacturersku>476119.LARGE</manufacturersku>
@@ -3464,7 +3455,7 @@
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>52491377312077.MEDIUM</variationid>
+          <variationid>52491377344845.MEDIUM</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-warhol-graphic-sweatshirt-grey</link>
           <availability>In Stock</availability>
           <manufacturersku>476119.MEDIUM</manufacturersku>
@@ -3473,16 +3464,7 @@
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>52491377312077.SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/kaws-warhol-graphic-sweatshirt-grey</link>
-          <availability>In Stock</availability>
-          <manufacturersku>476119.SMALL</manufacturersku>
-          <price_with_vat>125</price_with_vat>
-          <size>SMALL</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52491377312077.Χ-LARGE</variationid>
+          <variationid>52491377344845.Χ-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-warhol-graphic-sweatshirt-grey</link>
           <availability>In Stock</availability>
           <manufacturersku>476119.Χ-LARGE</manufacturersku>
