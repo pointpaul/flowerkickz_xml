@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-27 15:02</created_at>
+  <created_at>2024-12-27 16:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15277,7 +15277,7 @@
       <availability>In Stock</availability>
       <size>43,44.5</size>
       <description>Nike Dunk Low PRM Oil Green</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_e2f66b60-4bb8-4237-83c8-ddadc0f38bd3.jpg?v=1733148093</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_eab99550-7df6-4f73-afbc-aa7ce36d66a8.jpg?v=1733148093</image>
@@ -15291,7 +15291,7 @@
           <manufacturersku>FB8895-300.43</manufacturersku>
           <price_with_vat>260</price_with_vat>
           <size>43</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52579320693069.44.5</variationid>
