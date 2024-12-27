@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-27 12:02</created_at>
+  <created_at>2024-12-27 13:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -886,7 +886,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Fear of God Essentials Tee Stretch-Limo</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
     </product>
     <product>
       <id>75394668</id>
@@ -2226,7 +2226,7 @@
       <availability>In Stock</availability>
       <size>SMALL,X-LARGE</size>
       <description>Trapstar Horizon 2.0 Hoodie Black</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>49651196985677.SMALL</variationid>
@@ -2235,7 +2235,7 @@
           <manufacturersku>31919291.SMALL</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49651196985677.X-LARGE</variationid>
@@ -5884,7 +5884,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,42.5,44.5,45,45.5,46</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>38</quantity>
+      <quantity>39</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_92f83587-4b6a-4b3f-acc3-11decb796ef5.jpg?v=1733086992</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_b30ae739-1e26-4cce-8d1a-6d4327d962e2.jpg?v=1733086992</image>
@@ -5925,7 +5925,7 @@
           <manufacturersku>CU9225-100.42</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>42</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52576870400333.42.5</variationid>
