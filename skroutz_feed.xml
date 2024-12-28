@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-28 15:02</created_at>
+  <created_at>2024-12-28 16:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -776,7 +776,7 @@
       <availability>In Stock</availability>
       <size>MEDIUM,X-LARGE</size>
       <description>Fear of God Essentials Tee Applique Logo Taupe</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>49045793767757.MEDIUM</variationid>
@@ -785,7 +785,7 @@
           <manufacturersku>38475326.MEDIUM</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49045793767757.X-LARGE</variationid>
@@ -813,18 +813,38 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>39884711</id>
+      <id>15629672</id>
       <name>Fear of God Essentials Tee Sand SS23</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/shirtsandss23.png?v=1688997835</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
-      <ean>79003725</ean>
+      <ean>75890765</ean>
       <availability>In Stock</availability>
-      <size>LARGE</size>
+      <size>LARGE,MEDIUM</size>
       <description>Fear of God Essentials Tee Sand SS23</description>
-      <quantity>3</quantity>
+      <quantity>4</quantity>
+      <variations>
+        <variation>
+          <variationid>49041472422221.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
+          <availability>In Stock</availability>
+          <manufacturersku>15629672.LARGE</manufacturersku>
+          <price_with_vat>150</price_with_vat>
+          <size>LARGE</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>49041472422221.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
+          <availability>In Stock</availability>
+          <manufacturersku>15629672.MEDIUM</manufacturersku>
+          <price_with_vat>150</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>96119478</id>
@@ -3762,7 +3782,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3,41 1/3,42,45 1/3,49</size>
       <description>Yeezy Boost 350 V2 Onyx</description>
-      <quantity>84</quantity>
+      <quantity>83</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Onyx-HQ4540_e0f8f3ca-978a-44dd-b509-cb7193fbe134.jpg?v=1733097530</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Onyx-HQ4540_6a48cd56-59b6-4d5b-b663-876185f84f18.jpg?v=1733097530</image>
@@ -3830,7 +3850,7 @@
           <manufacturersku>HQ4540.40</manufacturersku>
           <price_with_vat>500</price_with_vat>
           <size>40</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>52577943748941.40-2/3</variationid>
@@ -5075,7 +5095,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Hoodie Off Black</description>
-      <quantity>14</quantity>
+      <quantity>13</quantity>
       <variations>
         <variation>
           <variationid>49950568120653.LARGE</variationid>
@@ -5093,7 +5113,7 @@
           <manufacturersku>56263867.MEDIUM</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49950568120653.SMALL</variationid>
@@ -7740,7 +7760,7 @@
       <availability>In Stock</availability>
       <size>35 1/2,36 2/3,38 2/3,39 1/3,40</size>
       <description>Adidas Handball Spezial White Black Gum</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Handball_Spezial_White_Black_Gum-IE3403_bcc01850-2e2f-45e4-a049-10bf307d010d.jpg?v=1733111519</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Handball_Spezial_White_Black_Gum-IE3403_a8680d81-fee8-456f-8512-c84104d8b1a5.jpg?v=1733111519</image>
@@ -7780,7 +7800,7 @@
           <manufacturersku>IE3403.39-1/3</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>39 1/3</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52579867820365.40</variationid>
