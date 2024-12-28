@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-28 13:02</created_at>
+  <created_at>2024-12-28 14:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3023,7 +3023,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,XX-LARGE,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic Tee Black Red</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_720d8b65-6be2-4612-87a4-0e90d083d92a.png?v=1725370199</image>
       </additional_images>
@@ -3062,7 +3062,7 @@
           <manufacturersku>476352.X-SMALL</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52168761704781.XX-LARGE</variationid>
@@ -3299,7 +3299,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-LARGE</size>
       <description>KAWS + Warhol Sweatpants Black</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/222_01e2356a-170b-4f54-9e66-df73f4838006.png?v=1730284355</image>
       </additional_images>
@@ -3329,7 +3329,7 @@
           <manufacturersku>476120.SMALL</manufacturersku>
           <price_with_vat>125</price_with_vat>
           <size>SMALL</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52491282153805.X-LARGE</variationid>
@@ -7928,7 +7928,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38,38 2/3,41 1/3,42 2/3</size>
       <description>Yeezy Boost 350 V2 Carbon Beluga</description>
-      <quantity>12</quantity>
+      <quantity>11</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Carbon_Beluga-HQ7045_a81d6c3d-65c1-4006-9785-e6dcdebe2114.jpg?v=1733107941</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Carbon_Beluga-HQ7045_e04573c6-07b6-46dd-ba23-70dbdfaa3592.jpg?v=1733107941</image>
@@ -7969,7 +7969,7 @@
           <manufacturersku>HQ7045.38-2/3</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>38 2/3</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52579082830157.41-1/3</variationid>
