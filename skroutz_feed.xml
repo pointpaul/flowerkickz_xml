@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-28 03:02</created_at>
+  <created_at>2024-12-28 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2013,38 +2013,18 @@
       </variations>
     </product>
     <product>
-      <id>83248380</id>
+      <id>32620219</id>
       <name>Trapstar Distortion Hoodie Black</name>
       <link>https://www.flowerkickz.gr/products/trapstar-distortion-hoodie-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/dist1.png?v=1698400623</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
-      <ean>22672717</ean>
+      <ean>22705485</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM</size>
+      <size>LARGE</size>
       <description>Trapstar Distortion Hoodie Black</description>
       <quantity>2</quantity>
-      <variations>
-        <variation>
-          <variationid>49602833973581.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-distortion-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>83248380.LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>LARGE</size>
-          <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>49602833973581.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-distortion-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>83248380.MEDIUM</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>64186677</id>
@@ -2215,38 +2195,18 @@
       </variations>
     </product>
     <product>
-      <id>31919291</id>
+      <id>39837872</id>
       <name>Trapstar Horizon 2.0 Hoodie Black</name>
       <link>https://www.flowerkickz.gr/products/trapstar-horizon-2-0-hoodie-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/horizon2.png?v=1699378829</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
-      <ean>41328717</ean>
+      <ean>41427021</ean>
       <availability>In Stock</availability>
-      <size>SMALL,X-LARGE</size>
+      <size>X-LARGE</size>
       <description>Trapstar Horizon 2.0 Hoodie Black</description>
       <quantity>1</quantity>
-      <variations>
-        <variation>
-          <variationid>49651196985677.SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-horizon-2-0-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>31919291.SMALL</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>SMALL</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49651196985677.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-horizon-2-0-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>31919291.X-LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>X-LARGE</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>58538657</id>
@@ -15271,11 +15231,11 @@
       <link>https://www.flowerkickz.gr/products/nike-dunk-low-prm-oil-green</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_8fff1e69-08df-43c6-a933-c5b974be1b9a.jpg?v=1733148093</image>
       <category>Sneakers</category>
-      <price_with_vat>260</price_with_vat>
+      <price_with_vat>310</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>43,44.5</size>
+      <size>44.5</size>
       <description>Nike Dunk Low PRM Oil Green</description>
       <quantity>1</quantity>
       <additional_images>
@@ -15283,26 +15243,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_eab99550-7df6-4f73-afbc-aa7ce36d66a8.jpg?v=1733148093</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_e4c0a525-329f-47ab-b3b0-a293225a20b9.jpg?v=1733148093</image>
       </additional_images>
-      <variations>
-        <variation>
-          <variationid>52579320693069.43</variationid>
-          <link>https://www.flowerkickz.gr/products/nike-dunk-low-prm-oil-green</link>
-          <availability>In Stock</availability>
-          <manufacturersku>FB8895-300.43</manufacturersku>
-          <price_with_vat>260</price_with_vat>
-          <size>43</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52579320693069.44.5</variationid>
-          <link>https://www.flowerkickz.gr/products/nike-dunk-low-prm-oil-green</link>
-          <availability>In Stock</availability>
-          <manufacturersku>FB8895-300.44.5</manufacturersku>
-          <price_with_vat>310</price_with_vat>
-          <size>44.5</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>DH8009-600</id>
