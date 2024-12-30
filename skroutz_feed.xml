@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-30 12:02</created_at>
+  <created_at>2024-12-30 13:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3400,7 +3400,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,Χ-LARGE</size>
       <description>KAWS + Warhol Graphic Sweatshirt Grey</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_5fe0b826-bd21-4554-bf2d-6035e780b1e2.png?v=1730285079</image>
       </additional_images>
@@ -3430,7 +3430,7 @@
           <manufacturersku>476119.Χ-LARGE</manufacturersku>
           <price_with_vat>125</price_with_vat>
           <size>Χ-LARGE</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
