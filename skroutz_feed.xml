@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-30 03:02</created_at>
+  <created_at>2024-12-30 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15663,25 +15663,6 @@
           <quantity>1</quantity>
         </variation>
       </variations>
-    </product>
-    <product>
-      <id>DR8577-300</id>
-      <name>Nike Dunk Low Washed Teal Snakeskin</name>
-      <link>https://www.flowerkickz.gr/products/nike-dunk-low-washed-teal-snakeskin</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Washed_Teal_Snakeskin-DR8577-300.jpg?v=1733097132</image>
-      <category>Sneakers</category>
-      <price_with_vat>275</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>43</size>
-      <description>Nike Dunk Low Washed Teal Snakeskin</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Washed_Teal_Snakeskin-DR8577-300_eb25721f-6d38-453c-b806-2f9048605bd2.jpg?v=1733097132</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Washed_Teal_Snakeskin-DR8577-300_6be8ccf3-52f3-4578-9d7f-4ed6404817ae.jpg?v=1733097132</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Washed_Teal_Snakeskin-DR8577-300_a552884d-9d46-4573-8ae3-6047ccb8bbb6.jpg?v=1733097132</image>
-      </additional_images>
     </product>
     <product>
       <id>CU1726-100</id>
