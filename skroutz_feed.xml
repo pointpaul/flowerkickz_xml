@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2024-12-31 14:02</created_at>
+  <created_at>2024-12-31 15:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -8733,7 +8733,7 @@
       <availability>In Stock</availability>
       <size>36,37 1/3,38,41 1/3,42,42 2/3,43 1/3</size>
       <description>Yeezy Boost 350 V2 Static</description>
-      <quantity>22</quantity>
+      <quantity>20</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_abb470d7-5bad-4cd3-9b84-e20f58ae7bfd.jpg?v=1733150653</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_b8a7663d-a551-4aaa-bf2b-ff7719fe6115.jpg?v=1733150653</image>
@@ -8765,7 +8765,7 @@
           <manufacturersku>EF2905.38</manufacturersku>
           <price_with_vat>375</price_with_vat>
           <size>38</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52576777109837.41-1/3</variationid>
@@ -8801,7 +8801,7 @@
           <manufacturersku>EF2905.43-1/3</manufacturersku>
           <price_with_vat>490</price_with_vat>
           <size>43 1/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -15822,7 +15822,7 @@
       <availability>In Stock</availability>
       <size>44,44.5,45.5</size>
       <description>Nike Dunk Low World Champ</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_World_Champ-DR9511-100_cfe63843-94aa-46c9-94d5-3f883631806b.jpg?v=1733097475</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_World_Champ-DR9511-100_0f3de15f-54ec-4e85-ac61-39d5bbfb4fe4.jpg?v=1733097475</image>
@@ -15836,7 +15836,7 @@
           <manufacturersku>DR9511-100.44</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>44</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577934934349.44.5</variationid>
