@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-03 09:02</created_at>
+  <created_at>2025-01-03 10:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4711,7 +4711,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44.5,45,45.5</size>
       <description>Air Force 1 Low Black Supreme</description>
-      <quantity>31</quantity>
+      <quantity>30</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_Black_Supreme-CU9225-001_ee401b6b-b79d-495e-955e-07df681556ec.jpg?v=1733086983</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_Black_Supreme-CU9225-001_d3f475b0-406a-4e9f-bacf-d90d3cc94429.jpg?v=1733086983</image>
@@ -4761,7 +4761,7 @@
           <manufacturersku>CU9225-001.44.5</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>44.5</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>52576869712205.45</variationid>
@@ -5066,7 +5066,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Hoodie Off Black</description>
-      <quantity>13</quantity>
+      <quantity>12</quantity>
       <variations>
         <variation>
           <variationid>49950568120653.LARGE</variationid>
@@ -5075,7 +5075,7 @@
           <manufacturersku>56263867.LARGE</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>LARGE</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>49950568120653.MEDIUM</variationid>
