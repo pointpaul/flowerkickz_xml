@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-03 12:02</created_at>
+  <created_at>2025-01-03 13:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1990,7 +1990,7 @@
       <availability>In Stock</availability>
       <size>MEDIUM,SMALL</size>
       <description>Trapstar Dream Team Hoodie Black</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>49600160563533.MEDIUM</variationid>
@@ -1999,7 +1999,7 @@
           <manufacturersku>06506099.MEDIUM</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49600160563533.SMALL</variationid>
