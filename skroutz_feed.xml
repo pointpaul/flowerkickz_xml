@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-03 11:02</created_at>
+  <created_at>2025-01-03 12:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3345,7 +3345,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,X-LARGE</size>
       <description>KAWS + Warhol Sweatpants Grey</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2_1cc54e17-2260-4853-96c6-a372ffc01fd2.png?v=1730284750</image>
       </additional_images>
@@ -3366,7 +3366,7 @@
           <manufacturersku>473557.MEDIUM</manufacturersku>
           <price_with_vat>125</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52491343364429.X-LARGE</variationid>
@@ -16064,6 +16064,44 @@
       <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Black-1122553-BLK-1.jpg?v=1731685774</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>U9060VRA</id>
+      <name>New Balance 9060 Team Forest Green</name>
+      <link>https://www.flowerkickz.gr/products/new-balance-9060-team-forest-green</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Team_Forest_Green-U9060VRA.jpg?v=1733112130</image>
+      <category>Sneakers</category>
+      <price_with_vat>400</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40</size>
+      <description>New Balance 9060 Team Forest Green</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Team_Forest_Green-U9060VRA_2666f2a6-69dc-4e18-adda-5cbd46909cbd.jpg?v=1733112130</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Team_Forest_Green-U9060VRA_a0689bb2-2435-4aad-963a-e32c048ce7f1.jpg?v=1733112130</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Team_Forest_Green-U9060VRA_541cb477-799d-4b0d-9c98-753cb28e9ad4.jpg?v=1733112130</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>U9060EEG</id>
+      <name>New Balance 9060 Driftwood Castlerock</name>
+      <link>https://www.flowerkickz.gr/products/new-balance-9060-driftwood-castlerock</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Driftwood_Castlerock-U9060EEG.jpg?v=1733117271</image>
+      <category>Sneakers</category>
+      <price_with_vat>355</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean>73980857</ean>
+      <availability>In Stock</availability>
+      <size>39.5</size>
+      <description>New Balance 9060 Driftwood Castlerock</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Driftwood_Castlerock-U9060EEG_bf596904-1200-44f3-b8bf-d74d2d88f07d.jpg?v=1733117271</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Driftwood_Castlerock-U9060EEG_44277557-8cd6-4eed-a2e7-965292a51883.jpg?v=1733117271</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Driftwood_Castlerock-U9060EEG_edbbf9c2-96d9-46f0-b454-643bf2ed46f3.jpg?v=1733117271</image>
       </additional_images>
     </product>
   </products>
