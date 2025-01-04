@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-04 03:02</created_at>
+  <created_at>2025-01-04 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1979,38 +1979,18 @@
       </variations>
     </product>
     <product>
-      <id>06506099</id>
+      <id>41739808</id>
       <name>Trapstar Dream Team Hoodie Black</name>
       <link>https://www.flowerkickz.gr/products/trapstar-dream-team-hoodie-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/dreamteam.png?v=1698342353</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
-      <ean>35787085</ean>
+      <ean>59937101</ean>
       <availability>In Stock</availability>
-      <size>MEDIUM,SMALL</size>
+      <size>SMALL</size>
       <description>Trapstar Dream Team Hoodie Black</description>
       <quantity>1</quantity>
-      <variations>
-        <variation>
-          <variationid>49600160563533.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-dream-team-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>06506099.MEDIUM</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49600160563533.SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-dream-team-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>06506099.SMALL</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>SMALL</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>32620219</id>
@@ -3012,7 +2992,7 @@
       <manufacturer>KAWS</manufacturer>
       <ean>99988905</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM,SMALL,X-SMALL,XX-LARGE,Χ-LARGE</size>
+      <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic Tee Black Red</description>
       <quantity>7</quantity>
       <additional_images>
@@ -3054,15 +3034,6 @@
           <price_with_vat>85</price_with_vat>
           <size>X-SMALL</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52168761704781.XX-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-t-shirt-black-red</link>
-          <availability>In Stock</availability>
-          <manufacturersku>476352.XX-LARGE</manufacturersku>
-          <price_with_vat>85</price_with_vat>
-          <size>XX-LARGE</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52168761704781.Χ-LARGE</variationid>
@@ -3751,7 +3722,7 @@
       <manufacturer>Yeezy</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>36,36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3,41 1/3,42,45 1/3,49</size>
+      <size>36,36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3,41 1/3,42,49</size>
       <description>Yeezy Boost 350 V2 Onyx</description>
       <quantity>82</quantity>
       <additional_images>
@@ -3849,15 +3820,6 @@
           <price_with_vat>475</price_with_vat>
           <size>42</size>
           <quantity>5</quantity>
-        </variation>
-        <variation>
-          <variationid>52577943748941.45-1/3</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-onyx</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HQ4540.45-1/3</manufacturersku>
-          <price_with_vat>615</price_with_vat>
-          <size>45 1/3</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577943748941.49</variationid>
@@ -8392,25 +8354,6 @@
           <quantity>1</quantity>
         </variation>
       </variations>
-    </product>
-    <product>
-      <id>BY9612</id>
-      <name>Yeezy Boost 350 V2 Black Red</name>
-      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-black-red</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_3946166b-a4ea-4829-8960-9a16e14be82a.jpg?v=1733150424</image>
-      <category>Sneakers</category>
-      <price_with_vat>445</price_with_vat>
-      <manufacturer>Yeezy</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>41 1/3</size>
-      <description>Yeezy Boost 350 V2 Black Red</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_466aaf96-fbf3-40ed-8a64-78b69ede950a.jpg?v=1733150424</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_0d8a3b40-6d33-42d0-a932-8c84aaacf0ba.jpg?v=1733150424</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_412a95e9-a3c3-4f1c-97e6-2e2e69a969b4.jpg?v=1733150424</image>
-      </additional_images>
     </product>
     <product>
       <id>GY7164</id>
