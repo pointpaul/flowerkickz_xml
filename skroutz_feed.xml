@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-04 15:02</created_at>
+  <created_at>2025-01-04 16:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1979,18 +1979,38 @@
       </variations>
     </product>
     <product>
-      <id>41739808</id>
+      <id>06506099</id>
       <name>Trapstar Dream Team Hoodie Black</name>
       <link>https://www.flowerkickz.gr/products/trapstar-dream-team-hoodie-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/dreamteam.png?v=1698342353</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
-      <ean>59937101</ean>
+      <ean>35787085</ean>
       <availability>In Stock</availability>
-      <size>SMALL</size>
+      <size>MEDIUM,SMALL</size>
       <description>Trapstar Dream Team Hoodie Black</description>
       <quantity>1</quantity>
+      <variations>
+        <variation>
+          <variationid>49600160563533.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-dream-team-hoodie-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>06506099.MEDIUM</manufacturersku>
+          <price_with_vat>150</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>49600160563533.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-dream-team-hoodie-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>06506099.SMALL</manufacturersku>
+          <price_with_vat>150</price_with_vat>
+          <size>SMALL</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>32620219</id>
@@ -2877,7 +2897,7 @@
       <availability>In Stock</availability>
       <size>35/40.5</size>
       <description>Crep Protect Sneaker Guards</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
     </product>
     <product>
       <id>HF6061-400U</id>
