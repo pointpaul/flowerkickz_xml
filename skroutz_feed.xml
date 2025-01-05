@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-05 03:02</created_at>
+  <created_at>2025-01-05 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -731,38 +731,18 @@
       </variations>
     </product>
     <product>
-      <id>90678681</id>
+      <id>75889299</id>
       <name>Fear of God Essentials Tee Applique Logo Cream</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-cream</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/creamshirt.png?v=1689082594</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
-      <ean>90158413</ean>
+      <ean>90256717</ean>
       <availability>In Stock</availability>
-      <size>SMALL,X-LARGE</size>
+      <size>X-LARGE</size>
       <description>Fear of God Essentials Tee Applique Logo Cream</description>
       <quantity>9</quantity>
-      <variations>
-        <variation>
-          <variationid>49045797863757.SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-cream</link>
-          <availability>In Stock</availability>
-          <manufacturersku>90678681.SMALL</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>SMALL</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49045797863757.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-applique-logo-cream</link>
-          <availability>In Stock</availability>
-          <manufacturersku>90678681.X-LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>X-LARGE</size>
-          <quantity>9</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>53016153</id>
@@ -1979,38 +1959,18 @@
       </variations>
     </product>
     <product>
-      <id>06506099</id>
+      <id>41739808</id>
       <name>Trapstar Dream Team Hoodie Black</name>
       <link>https://www.flowerkickz.gr/products/trapstar-dream-team-hoodie-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/dreamteam.png?v=1698342353</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
-      <ean>35787085</ean>
+      <ean>59937101</ean>
       <availability>In Stock</availability>
-      <size>MEDIUM,SMALL</size>
+      <size>SMALL</size>
       <description>Trapstar Dream Team Hoodie Black</description>
       <quantity>1</quantity>
-      <variations>
-        <variation>
-          <variationid>49600160563533.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-dream-team-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>06506099.MEDIUM</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49600160563533.SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-dream-team-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>06506099.SMALL</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>SMALL</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>32620219</id>
@@ -2870,20 +2830,6 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/now.png?v=1714742421</image>
       </additional_images>
-    </product>
-    <product>
-      <id>80878687 -3</id>
-      <name>Bape Tee By Bathing Ape Beige</name>
-      <link>https://www.flowerkickz.gr/products/bape-tee-by-bathing-ape-beige</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BEIGE.png?v=1714743778</image>
-      <category>Sneakers</category>
-      <price_with_vat>170</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <ean>73169537</ean>
-      <availability>In Stock</availability>
-      <size>X-LARGE</size>
-      <description>Bape Tee By Bathing Ape Beige</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>60896578</id>
@@ -7890,7 +7836,7 @@
       <manufacturer>Yeezy</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>36 2/3,37 1/3,38,38 2/3,41 1/3,42 2/3</size>
+      <size>36 2/3,37 1/3,38 2/3,41 1/3,42 2/3</size>
       <description>Yeezy Boost 350 V2 Carbon Beluga</description>
       <quantity>10</quantity>
       <additional_images>
@@ -7916,15 +7862,6 @@
           <price_with_vat>340</price_with_vat>
           <size>37 1/3</size>
           <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>52579082830157.38</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-carbon-beluga</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HQ7045.38</manufacturersku>
-          <price_with_vat>375</price_with_vat>
-          <size>38</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52579082830157.38-2/3</variationid>
@@ -16066,20 +16003,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Driftwood_Castlerock-U9060EEG_44277557-8cd6-4eed-a2e7-965292a51883.jpg?v=1733117271</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Driftwood_Castlerock-U9060EEG_edbbf9c2-96d9-46f0-b454-643bf2ed46f3.jpg?v=1733117271</image>
       </additional_images>
-    </product>
-    <product>
-      <id/>
-      <name>Bape Tee Color Camo By Bathing Ape Black Red</name>
-      <link>https://www.flowerkickz.gr/products/bape-tee-color-camo-by-bathing-ape-black-red</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1111111111111.png?v=1730974366</image>
-      <category>Sneakers</category>
-      <price_with_vat>170</price_with_vat>
-      <manufacturer>Bape Clothing</manufacturer>
-      <ean>23356396</ean>
-      <availability>In Stock</availability>
-      <size>MEDIUM</size>
-      <description>Bape Tee Color Camo By Bathing Ape Black Red</description>
-      <quantity>0</quantity>
     </product>
   </products>
 </FlowerKickz>
