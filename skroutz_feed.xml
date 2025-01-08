@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-08 12:02</created_at>
+  <created_at>2025-01-08 13:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15965,12 +15965,32 @@
       <manufacturer>UGG</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>38</size>
+      <size>38,39</size>
       <description>UGG Tazz Slipper Black</description>
       <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Black-1122553-BLK-1.jpg?v=1731685774</image>
       </additional_images>
+      <variations>
+        <variation>
+          <variationid>52578532000077.38</variationid>
+          <link>https://www.flowerkickz.gr/products/ugg-tazz-slipper-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>1122553-BLK.38</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52578532000077.39</variationid>
+          <link>https://www.flowerkickz.gr/products/ugg-tazz-slipper-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>1122553-BLK.39</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>39</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>U9060VRA</id>
