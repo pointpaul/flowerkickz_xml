@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-08 03:02</created_at>
+  <created_at>2025-01-08 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -5161,20 +5161,6 @@
       <size>MEDIUM</size>
       <description>Stüssy Tee Pigment Dyed Black</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id/>
-      <name>Stüssy Tee Thermal Black</name>
-      <link>https://www.flowerkickz.gr/products/stussy-tee-thermal-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/thermal.png?v=1733837541</image>
-      <category>Sneakers</category>
-      <price_with_vat>170</price_with_vat>
-      <manufacturer>STUSSY</manufacturer>
-      <ean>48816840</ean>
-      <availability>In Stock</availability>
-      <size>SMALL</size>
-      <description>Stüssy Tee Thermal Black</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id/>
