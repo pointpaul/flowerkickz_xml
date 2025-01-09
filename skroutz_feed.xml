@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-09 03:02</created_at>
+  <created_at>2025-01-09 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15956,43 +15956,6 @@
       </additional_images>
     </product>
     <product>
-      <id>1122553-BLK</id>
-      <name>UGG Tazz Slipper Black</name>
-      <link>https://www.flowerkickz.gr/products/ugg-tazz-slipper-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Black-1122553-BLK-0.jpg?v=1731685774</image>
-      <category>Sneakers</category>
-      <price_with_vat>330</price_with_vat>
-      <manufacturer>UGG</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>38,39</size>
-      <description>UGG Tazz Slipper Black</description>
-      <quantity>1</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Black-1122553-BLK-1.jpg?v=1731685774</image>
-      </additional_images>
-      <variations>
-        <variation>
-          <variationid>52578532000077.38</variationid>
-          <link>https://www.flowerkickz.gr/products/ugg-tazz-slipper-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>1122553-BLK.38</manufacturersku>
-          <price_with_vat>330</price_with_vat>
-          <size>38</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52578532000077.39</variationid>
-          <link>https://www.flowerkickz.gr/products/ugg-tazz-slipper-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>1122553-BLK.39</manufacturersku>
-          <price_with_vat>340</price_with_vat>
-          <size>39</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
-    </product>
-    <product>
       <id>U9060VRA</id>
       <name>New Balance 9060 Team Forest Green</name>
       <link>https://www.flowerkickz.gr/products/new-balance-9060-team-forest-green</link>
@@ -16028,6 +15991,23 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Driftwood_Castlerock-U9060EEG_bf596904-1200-44f3-b8bf-d74d2d88f07d.jpg?v=1733117271</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Driftwood_Castlerock-U9060EEG_44277557-8cd6-4eed-a2e7-965292a51883.jpg?v=1733117271</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Driftwood_Castlerock-U9060EEG_edbbf9c2-96d9-46f0-b454-643bf2ed46f3.jpg?v=1733117271</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>1122553-BLK</id>
+      <name>UGG Tazz Slipper Black</name>
+      <link>https://www.flowerkickz.gr/products/ugg-tazz-slipper-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Black-1122553-BLK-0.jpg?v=1731685774</image>
+      <category>Sneakers</category>
+      <price_with_vat>340</price_with_vat>
+      <manufacturer>UGG</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>39</size>
+      <description>UGG Tazz Slipper Black</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Black-1122553-BLK-1.jpg?v=1731685774</image>
       </additional_images>
     </product>
   </products>
