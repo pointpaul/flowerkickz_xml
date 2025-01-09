@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-09 09:02</created_at>
+  <created_at>2025-01-09 10:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -16008,6 +16008,25 @@
       <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Black-1122553-BLK-1.jpg?v=1731685774</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>HM0987-200</id>
+      <name>Nike Dunk Low Neapolitan</name>
+      <link>https://www.flowerkickz.gr/products/nike-dunk-low-neapolitan</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Neapolitan-HF9990-100.jpg?v=1733121936</image>
+      <category>Sneakers</category>
+      <price_with_vat>310</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>41</size>
+      <description>Nike Dunk Low Neapolitan</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Neapolitan-HF9990-100_a01588b6-ab21-4615-9a86-537486ad4d11.jpg?v=1733121936</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Neapolitan-HF9990-100_23e0fee7-0738-48d0-89f7-2b1f348d2bd6.jpg?v=1733121936</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Neapolitan-HF9990-100_aacf27c6-85ab-47b7-824b-c8a4101c72b9.jpg?v=1733121936</image>
       </additional_images>
     </product>
   </products>
