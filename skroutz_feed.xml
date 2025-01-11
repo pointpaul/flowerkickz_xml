@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-11 11:02</created_at>
+  <created_at>2025-01-11 12:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4269,7 +4269,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38,38 2/3,40,42,42 2/3,44</size>
       <description>Adidas Yeezy Boost 350 V2 MX Dark Sea Salt</description>
-      <quantity>20</quantity>
+      <quantity>19</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Yeezy_Boost_350_V2_MX_Dark_Sea_Salt-ID4811_53df4e08-ee2f-4800-8b6c-3176c04aa014.jpg?v=1733109631</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Yeezy_Boost_350_V2_MX_Dark_Sea_Salt-ID4811_98642399-953f-4928-9952-7b80d336cc75.jpg?v=1733109631</image>
@@ -4292,7 +4292,7 @@
           <manufacturersku>ID4811.37-1/3</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>37 1/3</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>52579271442765.38</variationid>
@@ -8877,7 +8877,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5</size>
       <description>Yeezy Foam RNR MX Granite</description>
-      <quantity>28</quantity>
+      <quantity>27</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_9dbc2635-1fa4-4825-9467-4301589324d9.jpg?v=1733150911</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c9570fdf-2536-4482-9543-30c4859796b0.jpg?v=1733150911</image>
@@ -8954,7 +8954,7 @@
           <manufacturersku>IE4931.46</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>46</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52580216504653.47</variationid>
@@ -15393,7 +15393,7 @@
       <availability>In Stock</availability>
       <size>36.5,37.5,38,38.5,39,40</size>
       <description>Nike Dunk Low University Blue UNC (2021)</description>
-      <quantity>32</quantity>
+      <quantity>31</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_University_Blue_UNC_2021_-DD1391-102_9aca0c75-990e-4b79-b41e-a08580d8c7ce.jpg?v=1733090258</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_University_Blue_UNC_2021_-DD1391-102_50c761ac-3e2a-4f33-bfc6-01827e904b37.jpg?v=1733090258</image>
@@ -15443,7 +15443,7 @@
           <manufacturersku>DD1391-102.39</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>39</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>52675386507597.40</variationid>
