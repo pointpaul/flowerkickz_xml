@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-11 12:02</created_at>
+  <created_at>2025-01-11 13:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3554,7 +3554,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,38.5,40,40.5,41,42,42.5,43,44,44.5,45.5,46,47</size>
       <description>Nike Dunk Low White Black (Panda)</description>
-      <quantity>53</quantity>
+      <quantity>52</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_White_Black_Panda_-DD1391-100_73d94e44-23ec-491d-afab-d0335cdadb5d.jpg?v=1733089170</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_White_Black_Panda_-DD1391-100_cf5af613-6c1f-4fae-a94c-d624d709e67a.jpg?v=1733089170</image>
@@ -3595,7 +3595,7 @@
           <manufacturersku>DD1391-100.38.5</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>38.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52577131921741.40</variationid>
