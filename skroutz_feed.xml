@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-13 09:02</created_at>
+  <created_at>2025-01-13 10:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -12480,14 +12480,34 @@
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>37.5</size>
+      <size>37.5,45</size>
       <description>Air Jordan 4 Retro Thunder (2023)</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Thunder_2023_-DH6927-017_ff8b18bb-2327-496b-a651-d8c510c10aed.jpg?v=1733106528</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Thunder_2023_-DH6927-017_a4947f79-b491-4176-aa83-5fdbfd362340.jpg?v=1733106528</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Thunder_2023_-DH6927-017_0e82e753-7de8-4e2c-8919-14e2bfd2d041.jpg?v=1733106528</image>
       </additional_images>
+      <variations>
+        <variation>
+          <variationid>52578885370189.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-thunder-2023</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DH6927-017.37.5</manufacturersku>
+          <price_with_vat>510</price_with_vat>
+          <size>37.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52578885370189.45</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-thunder-2023</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DH6927-017.45</manufacturersku>
+          <price_with_vat>590</price_with_vat>
+          <size>45</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>CT8527-700</id>
@@ -16027,6 +16047,82 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Neapolitan-HF9990-100_a01588b6-ab21-4615-9a86-537486ad4d11.jpg?v=1733121936</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Neapolitan-HF9990-100_23e0fee7-0738-48d0-89f7-2b1f348d2bd6.jpg?v=1733121936</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Neapolitan-HF9990-100_aacf27c6-85ab-47b7-824b-c8a4101c72b9.jpg?v=1733121936</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>BQ6472-050</id>
+      <name>Air Jordan 1 Mid Sky J Mauve</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-sky-j-mauve</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_b8fe8edf-c513-4ffe-8095-deb7b962f0ad.jpg?v=1733129781</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>36.5</size>
+      <description>Air Jordan 1 Mid Sky J Mauve</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_58fe43c4-0971-457e-8870-5571d387cea4.jpg?v=1733129781</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_8023face-b94c-41b5-955b-a151805e596e.jpg?v=1733129781</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_f6e9cd80-8ab5-4804-94e8-d320bfc6ee9f.jpg?v=1733129781</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DC0774-114</id>
+      <name>Air Jordan 1 Low Marina Blue</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-low-marina-blue</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Marina_Blue-DC0774-114.jpg?v=1733113986</image>
+      <category>Sneakers</category>
+      <price_with_vat>205</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>36.5</size>
+      <description>Air Jordan 1 Low Marina Blue</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Marina_Blue-DC0774-114_4f800f94-7fed-47e0-a98e-b84c5500dbe7.jpg?v=1733113986</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Marina_Blue-DC0774-114_03400cdd-75ff-4b73-9dc4-dbfc97d8c293.jpg?v=1733113986</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Marina_Blue-DC0774-114_206080d2-9009-4910-b6ec-84992f00549b.jpg?v=1733113986</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>U9060GRE</id>
+      <name>New Balance 9060 Nightwatch</name>
+      <link>https://www.flowerkickz.gr/products/new-balance-9060-nightwatch</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Nightwatch-U9060GRE.jpg?v=1733105504</image>
+      <category>Sneakers</category>
+      <price_with_vat>660</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean>32892395</ean>
+      <availability>In Stock</availability>
+      <size>39.5</size>
+      <description>New Balance 9060 Nightwatch</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Nightwatch-U9060GRE_5692b57f-b12a-40c6-af53-97002cb4cc21.jpg?v=1733105504</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Nightwatch-U9060GRE_15713b83-47a8-4e73-bb50-849c94701d74.jpg?v=1733105504</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Nightwatch-U9060GRE_7f65e830-5a03-4df8-b19b-da5a57f77cfa.jpg?v=1733105504</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FV6603-101</id>
+      <name>Nike P-6000 Metallic Summit White</name>
+      <link>https://www.flowerkickz.gr/products/nike-p-6000-metallic-summit-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_P-6000_Metallic_Summit_White-FV6603-101.jpg?v=1733119041</image>
+      <category>Sneakers</category>
+      <price_with_vat>205</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>41</size>
+      <description>Nike P-6000 Metallic Summit White</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_P-6000_Metallic_Summit_White-FV6603-101_699f6a5d-278f-43b8-b650-3deadd7149d0.jpg?v=1733119041</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_P-6000_Metallic_Summit_White-FV6603-101_16b48294-e118-4dcf-96b6-8685e56a6769.jpg?v=1733119041</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_P-6000_Metallic_Summit_White-FV6603-101_7d03caba-28ee-49dd-9fde-1999363f931f.jpg?v=1733119041</image>
       </additional_images>
     </product>
   </products>
