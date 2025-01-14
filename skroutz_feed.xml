@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-14 03:02</created_at>
+  <created_at>2025-01-14 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -16124,20 +16124,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_P-6000_Metallic_Summit_White-FV6603-101_16b48294-e118-4dcf-96b6-8685e56a6769.jpg?v=1733119041</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_P-6000_Metallic_Summit_White-FV6603-101_7d03caba-28ee-49dd-9fde-1999363f931f.jpg?v=1733119041</image>
       </additional_images>
-    </product>
-    <product>
-      <id>FN7251-107</id>
-      <name>Air Jordan 4 Retro Net White</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-net-white</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Net_White-FN7251-107.jpg?v=1733974653</image>
-      <category>Sneakers</category>
-      <price_with_vat>580</price_with_vat>
-      <manufacturer>Jordan</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>42</size>
-      <description>Air Jordan 4 Retro Net White</description>
-      <quantity>0</quantity>
     </product>
   </products>
 </FlowerKickz>
