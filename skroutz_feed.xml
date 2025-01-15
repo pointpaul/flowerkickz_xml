@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-15 08:03</created_at>
+  <created_at>2025-01-15 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2157,18 +2157,38 @@
       </variations>
     </product>
     <product>
-      <id>39837872</id>
+      <id>63552162</id>
       <name>Trapstar Horizon 2.0 Hoodie Black</name>
       <link>https://www.flowerkickz.gr/products/trapstar-horizon-2-0-hoodie-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/horizon2.png?v=1699378829</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
-      <ean>41427021</ean>
+      <ean>41295949</ean>
       <availability>In Stock</availability>
-      <size>X-LARGE</size>
+      <size>X-LARGE,X-SMALL</size>
       <description>Trapstar Horizon 2.0 Hoodie Black</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
+      <variations>
+        <variation>
+          <variationid>49651196952909.X-LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-horizon-2-0-hoodie-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>63552162.X-LARGE</manufacturersku>
+          <price_with_vat>150</price_with_vat>
+          <size>X-LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>49651196952909.X-SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-horizon-2-0-hoodie-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>63552162.X-SMALL</manufacturersku>
+          <price_with_vat>150</price_with_vat>
+          <size>X-SMALL</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>58538657</id>
