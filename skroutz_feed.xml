@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-15 16:03</created_at>
+  <created_at>2025-01-15 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3055,7 +3055,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,XX-LARGE,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic White Blue Tee</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/11_b3d20fed-25d7-4ff2-bc0b-d308bc001268.png?v=1725370565</image>
       </additional_images>
@@ -3085,7 +3085,7 @@
           <manufacturersku>471321.SMALL</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>SMALL</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52168799617357.X-SMALL</variationid>
@@ -5214,7 +5214,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL</size>
       <description>Stüssy Tee Dot Stamp White</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <variations>
         <variation>
           <variationid>52706091041101.LARGE</variationid>
@@ -5241,7 +5241,7 @@
           <manufacturersku>None.SMALL</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
