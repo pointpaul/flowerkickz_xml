@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-15 03:03</created_at>
+  <created_at>2025-01-15 04:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2041,49 +2041,6 @@
       </variations>
     </product>
     <product>
-      <id>TPH009</id>
-      <name>Trapstar All City Hoodie Black</name>
-      <link>https://www.flowerkickz.gr/products/trapstar-all-city-hoodie-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/allcity1.png?v=1698411903</image>
-      <category>Sneakers</category>
-      <price_with_vat>150</price_with_vat>
-      <manufacturer>Trapstar</manufacturer>
-      <ean>25520461</ean>
-      <availability>In Stock</availability>
-      <size>2X-LARGE,LARGE,X-LARGE</size>
-      <description>Trapstar All City Hoodie Black</description>
-      <quantity>3</quantity>
-      <variations>
-        <variation>
-          <variationid>49604013064525.2X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-all-city-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>TPH009.2X-LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>2X-LARGE</size>
-          <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>49604013064525.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-all-city-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>TPH009.LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>LARGE</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49604013064525.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-all-city-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>TPH009.X-LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>X-LARGE</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
-    </product>
-    <product>
       <id>555088-105U</id>
       <name>Air Jordan 1 High Dark Mocha (USED)</name>
       <link>https://www.flowerkickz.gr/products/air-jordan-1-high-dark-mocha-used</link>
@@ -2121,6 +2078,40 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_SP_Tiffany_And_Co.-DZ1382-001-3_27005616-1b1e-457e-8df0-fd1e7e40b204.png?v=1698764594</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Low_SP_Tiffany_And_Co.-DZ1382-001-4_4eb735f3-9892-49c9-999a-4e6bd5f5e78c.png?v=1698764594</image>
       </additional_images>
+    </product>
+    <product>
+      <id>TPH009</id>
+      <name>Trapstar All City Hoodie Black</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-all-city-hoodie-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/allcity1.png?v=1698411903</image>
+      <category>Sneakers</category>
+      <price_with_vat>150</price_with_vat>
+      <manufacturer>Trapstar</manufacturer>
+      <ean>25553229</ean>
+      <availability>In Stock</availability>
+      <size>2X-LARGE,X-LARGE</size>
+      <description>Trapstar All City Hoodie Black</description>
+      <quantity>3</quantity>
+      <variations>
+        <variation>
+          <variationid>49604013097293.2X-LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-all-city-hoodie-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TPH009.2X-LARGE</manufacturersku>
+          <price_with_vat>150</price_with_vat>
+          <size>2X-LARGE</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>49604013097293.X-LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-all-city-hoodie-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TPH009.X-LARGE</manufacturersku>
+          <price_with_vat>150</price_with_vat>
+          <size>X-LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>60572009</id>
@@ -4926,20 +4917,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_fdf8ed67-19fa-4de6-997f-9c5b939a0fff.jpg?v=1733131985</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_3a48de20-9a43-4871-b216-5d2937e8659b.jpg?v=1733131985</image>
       </additional_images>
-    </product>
-    <product>
-      <id>55749853</id>
-      <name>Fear of God Essentials Hoodie Stretch Limo</name>
-      <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-hoodie-stretch-limo</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_eb8915d3-81de-4916-b9bb-5be091eead99.png?v=1703154602</image>
-      <category>Sneakers</category>
-      <price_with_vat>285</price_with_vat>
-      <manufacturer>Essentials</manufacturer>
-      <ean>63953961</ean>
-      <availability>In Stock</availability>
-      <size>LARGE</size>
-      <description>Fear of God Essentials Hoodie Stretch Limo</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>54399544</id>
