@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-16 10:03</created_at>
+  <created_at>2025-01-16 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -16120,6 +16120,24 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_P-6000_Metallic_Summit_White-FV6603-101_699f6a5d-278f-43b8-b650-3deadd7149d0.jpg?v=1733119041</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_P-6000_Metallic_Summit_White-FV6603-101_16b48294-e118-4dcf-96b6-8685e56a6769.jpg?v=1733119041</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_P-6000_Metallic_Summit_White-FV6603-101_7d03caba-28ee-49dd-9fde-1999363f931f.jpg?v=1733119041</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>AF1C-5</id>
+      <name>Air Force 1 Custom Lacet Corde Gris Clair</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-custom-lacet-corde-gris-clair</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Custom_Lacet_Corde_Gris_Clair-AF1C-5-0.jpg?v=1731718718</image>
+      <category>Sneakers</category>
+      <price_with_vat>240</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42</size>
+      <description>Air Force 1 Custom Lacet Corde Gris Clair</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Custom_Lacet_Corde_Gris_Clair-AF1C-5-1.jpg?v=1731718718</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Custom_Lacet_Corde_Gris_Clair-AF1C-5-2.jpg?v=1731718718</image>
       </additional_images>
     </product>
   </products>
