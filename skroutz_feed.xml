@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-18 03:02</created_at>
+  <created_at>2025-01-18 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2760,20 +2760,6 @@
       <size>51 MM</size>
       <description>Supreme x Spitfire Classic Wheels (Set of 4) Red</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id>FK1974-H</id>
-      <name>ΜΠΑΣΟΚ Bucket Hat White</name>
-      <link>https://www.flowerkickz.gr/products/μπασοκ-bucket-hat-white</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/mpasokhat.png?v=1689601111</image>
-      <category>Sneakers</category>
-      <price_with_vat>20</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>O/S</size>
-      <description>ΜΠΑΣΟΚ Bucket Hat White</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id/>
@@ -9176,7 +9162,7 @@
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>45.5,47</size>
+      <size>45.5</size>
       <description>Air Jordan 1 High OG Lost And Found</description>
       <quantity>1</quantity>
       <additional_images>
@@ -9184,26 +9170,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_2223f935-05bf-4e56-a752-3ec8368096d1.jpg?v=1733146474</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_fd32435d-262d-4c4a-a3c2-b7a34b69c899.jpg?v=1733146474</image>
       </additional_images>
-      <variations>
-        <variation>
-          <variationid>52578185052493.45.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-high-og-lost-and-found</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DZ5485-612.45.5</manufacturersku>
-          <price_with_vat>735</price_with_vat>
-          <size>45.5</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52578185052493.47</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-high-og-lost-and-found</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DZ5485-612.47</manufacturersku>
-          <price_with_vat>725</price_with_vat>
-          <size>47</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>555088-161</id>
