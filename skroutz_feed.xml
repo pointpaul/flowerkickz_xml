@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-20 18:02</created_at>
+  <created_at>2025-01-20 19:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4088,7 +4088,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,39,40.5,42,42.5,43,44,44.5</size>
       <description>Air Jordan 4 Retro Military Blue (2024)</description>
-      <quantity>26</quantity>
+      <quantity>25</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Military_Blue_2024_-FV5029-141_8a7e666a-570c-46cf-bfe7-3cf7f03ec3d8.jpg?v=1733116010</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Military_Blue_2024_-FV5029-141_41f9e96d-1b6c-4bff-b616-122ad2820ed9.jpg?v=1733116010</image>
@@ -4174,7 +4174,7 @@
           <manufacturersku>FV5029-141.43</manufacturersku>
           <price_with_vat>475</price_with_vat>
           <size>43</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>52580996809037.44</variationid>
