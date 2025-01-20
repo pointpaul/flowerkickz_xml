@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-20 11:04</created_at>
+  <created_at>2025-01-20 12:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -852,7 +852,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM</size>
       <description>Fear of God Essentials Tee Seal SS23</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>49041438409037.LARGE</variationid>
@@ -861,7 +861,7 @@
           <manufacturersku>53408164.LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49041438409037.MEDIUM</variationid>
@@ -886,7 +886,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Fear of God Essentials Tee Stretch-Limo</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>75394668</id>
