@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-21 03:02</created_at>
+  <created_at>2025-01-21 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -850,43 +850,9 @@
       <manufacturer>Essentials</manufacturer>
       <ean>41877581</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM</size>
+      <size>MEDIUM</size>
       <description>Fear of God Essentials Tee Seal SS23</description>
       <quantity>1</quantity>
-      <variations>
-        <variation>
-          <variationid>49041438409037.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-seal</link>
-          <availability>In Stock</availability>
-          <manufacturersku>53408164.LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>LARGE</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49041438409037.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-seal</link>
-          <availability>In Stock</availability>
-          <manufacturersku>53408164.MEDIUM</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
-    </product>
-    <product>
-      <id>80997194</id>
-      <name>Fear of God Essentials Tee Stretch-Limo</name>
-      <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-stretch-limo</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/stretchshirt.png?v=1688996244</image>
-      <category>Sneakers</category>
-      <price_with_vat>150</price_with_vat>
-      <manufacturer>Essentials</manufacturer>
-      <ean>74924621</ean>
-      <availability>In Stock</availability>
-      <size>LARGE</size>
-      <description>Fear of God Essentials Tee Stretch-Limo</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>75394668</id>
@@ -10649,7 +10615,7 @@
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>35.5,36,37.5,38.5,40,42,42.5,44</size>
+      <size>35.5,36,37.5,40,42,42.5,44</size>
       <description>Air Jordan 1 Mid French Blue Fire Red</description>
       <quantity>12</quantity>
       <additional_images>
@@ -10684,15 +10650,6 @@
           <price_with_vat>68820</price_with_vat>
           <size>37.5</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52578005156173.38.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-french-blue-fire-red</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DN3706-401.38.5</manufacturersku>
-          <price_with_vat>68820</price_with_vat>
-          <size>38.5</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578005156173.40</variationid>
