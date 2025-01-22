@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-22 11:02</created_at>
+  <created_at>2025-01-22 12:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2177,7 +2177,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Trapstar Hyperdrive Sleeve Puffer Black Camo</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>50159554</id>
@@ -11675,7 +11675,7 @@
       <availability>In Stock</availability>
       <size>44.5</size>
       <description>Air Jordan 1 Retro High OG Hyper Royal</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_Hyper_Royal-555088-402_8a0b2844-51da-4735-b8b7-507d8e371aed.jpg?v=1733089916</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_Hyper_Royal-555088-402_287cb546-4771-4702-a65f-a7f8290ec96f.jpg?v=1733089916</image>
