@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-23 12:02</created_at>
+  <created_at>2025-01-23 13:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4949,7 +4949,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Hoodie Off Black</description>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <variations>
         <variation>
           <variationid>49950568120653.LARGE</variationid>
@@ -4967,7 +4967,7 @@
           <manufacturersku>56263867.SMALL</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>SMALL</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>49950568120653.X-LARGE</variationid>
@@ -16060,6 +16060,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_White_Thunder-FQ8138-001_5c2c6362-1b07-4160-bf28-0f90c28b86e6.jpg?v=1733121044</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_White_Thunder-FQ8138-001_08166023-c70f-4cdc-8111-6c788453496e.jpg?v=1733121044</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_White_Thunder-FQ8138-001_6fb2f382-0cd3-404d-ba80-0d5c7b938264.jpg?v=1733121044</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FQ8138-002</id>
+      <name>Air Jordan 4 Retro Fear (2024)</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-fear-2024</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Fear_2024_-FQ8138-002.jpg?v=1733124358</image>
+      <category>Sneakers</category>
+      <price_with_vat>490</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42.5</size>
+      <description>Air Jordan 4 Retro Fear (2024)</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Fear_2024_-FQ8138-002_1d5240d0-34d9-4e4c-95c4-dc44b02c19ea.jpg?v=1733124358</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Fear_2024_-FQ8138-002_296bdb98-7567-4d13-8d6c-e40ad2b704be.jpg?v=1733124358</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Fear_2024_-FQ8138-002_943b8244-d9da-4d7d-884a-938f232d6cef.jpg?v=1733124358</image>
       </additional_images>
     </product>
   </products>
