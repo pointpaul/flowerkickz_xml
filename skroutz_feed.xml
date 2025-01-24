@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-24 13:02</created_at>
+  <created_at>2025-01-24 14:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -9672,7 +9672,7 @@
       <availability>In Stock</availability>
       <size>37.5,38,38.5,40,40.5</size>
       <description>Air Jordan 1 Low Lemonade</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Lemonade-DC0774-007_5361fa60-80e7-40e7-84d2-c5c6c7f4517b.jpg?v=1733095963</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Lemonade-DC0774-007_0a29b762-5064-405e-b3c0-2668405cb680.jpg?v=1733095963</image>
@@ -9722,7 +9722,7 @@
           <manufacturersku>DC0774-007.40.5</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>40.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
