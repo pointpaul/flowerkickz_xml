@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-24 03:02</created_at>
+  <created_at>2025-01-24 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3201,9 +3201,9 @@
       <category>Sneakers</category>
       <price_with_vat>125</price_with_vat>
       <manufacturer>KAWS</manufacturer>
-      <ean>69513100</ean>
+      <ean>74623100</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM,SMALL,X-LARGE</size>
+      <size>LARGE,MEDIUM,X-LARGE</size>
       <description>KAWS + Warhol Sweatpants Black</description>
       <quantity>4</quantity>
       <additional_images>
@@ -3211,7 +3211,7 @@
       </additional_images>
       <variations>
         <variation>
-          <variationid>52491282153805.LARGE</variationid>
+          <variationid>52491282186573.LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-warhol-sweatpants</link>
           <availability>In Stock</availability>
           <manufacturersku>476120.LARGE</manufacturersku>
@@ -3220,7 +3220,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52491282153805.MEDIUM</variationid>
+          <variationid>52491282186573.MEDIUM</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-warhol-sweatpants</link>
           <availability>In Stock</availability>
           <manufacturersku>476120.MEDIUM</manufacturersku>
@@ -3229,16 +3229,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52491282153805.SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/kaws-warhol-sweatpants</link>
-          <availability>In Stock</availability>
-          <manufacturersku>476120.SMALL</manufacturersku>
-          <price_with_vat>125</price_with_vat>
-          <size>SMALL</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52491282153805.X-LARGE</variationid>
+          <variationid>52491282186573.X-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-warhol-sweatpants</link>
           <availability>In Stock</availability>
           <manufacturersku>476120.X-LARGE</manufacturersku>
