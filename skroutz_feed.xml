@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-26 03:02</created_at>
+  <created_at>2025-01-26 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2080,51 +2080,42 @@
       </variations>
     </product>
     <product>
-      <id>89509418</id>
+      <id>60572009</id>
       <name>Trapstar Hot Rod Strikeout Hoodie Black</name>
       <link>https://www.flowerkickz.gr/products/trapstar-hot-rod-strikeout-hoodie-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/strikeout.png?v=1699378916</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
-      <ean>79830093</ean>
+      <ean>79862861</ean>
       <availability>In Stock</availability>
-      <size>2X-LARGE,LARGE,MEDIUM,X-LARGE</size>
+      <size>2X-LARGE,LARGE,X-LARGE</size>
       <description>Trapstar Hot Rod Strikeout Hoodie Black</description>
       <quantity>3</quantity>
       <variations>
         <variation>
-          <variationid>49626913800525.2X-LARGE</variationid>
+          <variationid>49626913833293.2X-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-hot-rod-strikeout-hoodie-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>89509418.2X-LARGE</manufacturersku>
+          <manufacturersku>60572009.2X-LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>2X-LARGE</size>
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>49626913800525.LARGE</variationid>
+          <variationid>49626913833293.LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-hot-rod-strikeout-hoodie-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>89509418.LARGE</manufacturersku>
+          <manufacturersku>60572009.LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>49626913800525.MEDIUM</variationid>
+          <variationid>49626913833293.X-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/trapstar-hot-rod-strikeout-hoodie-black</link>
           <availability>In Stock</availability>
-          <manufacturersku>89509418.MEDIUM</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>49626913800525.X-LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-hot-rod-strikeout-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>89509418.X-LARGE</manufacturersku>
+          <manufacturersku>60572009.X-LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>X-LARGE</size>
           <quantity>1</quantity>
@@ -5064,20 +5055,6 @@
           <quantity>2</quantity>
         </variation>
       </variations>
-    </product>
-    <product>
-      <id/>
-      <name>Stüssy Tee Pigment Dyed Black</name>
-      <link>https://www.flowerkickz.gr/products/stussy-tee-pigment-dyed-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1905001_BLAC_1_16ffadfd-d218-43ee-8924-7829cf7f26c2-removebg-preview.png?v=1733837362</image>
-      <category>Sneakers</category>
-      <price_with_vat>170</price_with_vat>
-      <manufacturer>STUSSY</manufacturer>
-      <ean>50248215</ean>
-      <availability>In Stock</availability>
-      <size>MEDIUM</size>
-      <description>Stüssy Tee Pigment Dyed Black</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id/>
