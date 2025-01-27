@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-27 10:02</created_at>
+  <created_at>2025-01-27 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4588,9 +4588,9 @@
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>41,42,42.5,43,44.5,45,45.5</size>
+      <size>41,42,42.5,43,44.5,45,45.5,46</size>
       <description>Air Force 1 Low Black Supreme</description>
-      <quantity>27</quantity>
+      <quantity>28</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_Black_Supreme-CU9225-001_ee401b6b-b79d-495e-955e-07df681556ec.jpg?v=1733086983</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_Black_Supreme-CU9225-001_d3f475b0-406a-4e9f-bacf-d90d3cc94429.jpg?v=1733086983</image>
@@ -4659,6 +4659,15 @@
           <price_with_vat>375</price_with_vat>
           <size>45.5</size>
           <quantity>4</quantity>
+        </variation>
+        <variation>
+          <variationid>52576869712205.46</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CU9225-001.46</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>46</size>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -14728,7 +14737,7 @@
       <availability>In Stock</availability>
       <size>38,38.5,39,40,42,42.5,43,44</size>
       <description>Nike Dunk Low Pink Corduroy</description>
-      <quantity>13</quantity>
+      <quantity>12</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Corduroy-FN7167-100_dd75cb90-ae6a-40f0-93cb-b1f5ca8a4082.jpg?v=1733108317</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Corduroy-FN7167-100_b04d5cce-e126-4366-9672-80cdfbbba340.jpg?v=1733108317</image>
@@ -14742,7 +14751,7 @@
           <manufacturersku>FN7167-100.38</manufacturersku>
           <price_with_vat>510</price_with_vat>
           <size>38</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52579133063501.38.5</variationid>
@@ -16038,6 +16047,44 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Fear_2024_-FQ8138-002_1d5240d0-34d9-4e4c-95c4-dc44b02c19ea.jpg?v=1733124358</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Fear_2024_-FQ8138-002_296bdb98-7567-4d13-8d6c-e40ad2b704be.jpg?v=1733124358</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Fear_2024_-FQ8138-002_943b8244-d9da-4d7d-884a-938f232d6cef.jpg?v=1733124358</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>1122553-SAN</id>
+      <name>UGG Tazz Slipper Sand</name>
+      <link>https://www.flowerkickz.gr/products/ugg-tazz-slipper-sand</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Sand-1122553-SAN-0.jpg?v=1731691099</image>
+      <category>Sneakers</category>
+      <price_with_vat>330</price_with_vat>
+      <manufacturer>UGG</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>38</size>
+      <description>UGG Tazz Slipper Sand</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Sand-1122553-SAN-1.jpg?v=1731691099</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Sand-1122553-SAN-2.jpg?v=1731691099</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Sand-1122553-SAN-3.jpg?v=1731691099</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FJ4181-001</id>
+      <name>Nike Air More Uptempo 96 Dark Smoke Grey</name>
+      <link>https://www.flowerkickz.gr/products/nike-air-more-uptempo-96-dark-smoke-grey</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_f61837a1-a7c5-4d31-a24d-b02a2cf0991b.jpg?v=1733136080</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>47.5</size>
+      <description>Nike Air More Uptempo 96 Dark Smoke Grey</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f633c49e-2ada-479f-a2f1-897ef41fd544.jpg?v=1733136080</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_47277823-5edb-4d31-a99c-a25eeaf48318.jpg?v=1733136080</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_88bc309a-bc7e-4e0d-804d-6890bc111e6e.jpg?v=1733136080</image>
       </additional_images>
     </product>
   </products>
