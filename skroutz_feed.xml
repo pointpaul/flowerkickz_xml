@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-27 14:03</created_at>
+  <created_at>2025-01-27 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -804,7 +804,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM</size>
       <description>Fear of God Essentials Tee Sand SS23</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <variations>
         <variation>
           <variationid>49041472422221.LARGE</variationid>
@@ -813,7 +813,7 @@
           <manufacturersku>15629672.LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>49041472422221.MEDIUM</variationid>
