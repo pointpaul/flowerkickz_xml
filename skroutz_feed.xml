@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-28 03:02</created_at>
+  <created_at>2025-01-28 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -14740,11 +14740,11 @@
       <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Corduroy-FN7167-100.jpg?v=1733108317</image>
       <category>Sneakers</category>
-      <price_with_vat>510</price_with_vat>
+      <price_with_vat>400</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>38,38.5,39,40,42,42.5,43,44</size>
+      <size>38.5,39,40,42,42.5,43,44</size>
       <description>Nike Dunk Low Pink Corduroy</description>
       <quantity>12</quantity>
       <additional_images>
@@ -14754,16 +14754,7 @@
       </additional_images>
       <variations>
         <variation>
-          <variationid>52579133063501.38</variationid>
-          <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
-          <availability>In Stock</availability>
-          <manufacturersku>FN7167-100.38</manufacturersku>
-          <price_with_vat>510</price_with_vat>
-          <size>38</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52579133063501.38.5</variationid>
+          <variationid>52579133096269.38.5</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.38.5</manufacturersku>
@@ -14772,7 +14763,7 @@
           <quantity>3</quantity>
         </variation>
         <variation>
-          <variationid>52579133063501.39</variationid>
+          <variationid>52579133096269.39</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.39</manufacturersku>
@@ -14781,7 +14772,7 @@
           <quantity>3</quantity>
         </variation>
         <variation>
-          <variationid>52579133063501.40</variationid>
+          <variationid>52579133096269.40</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.40</manufacturersku>
@@ -14790,7 +14781,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52579133063501.42</variationid>
+          <variationid>52579133096269.42</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.42</manufacturersku>
@@ -14799,7 +14790,7 @@
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>52579133063501.42.5</variationid>
+          <variationid>52579133096269.42.5</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.42.5</manufacturersku>
@@ -14808,7 +14799,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52579133063501.43</variationid>
+          <variationid>52579133096269.43</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.43</manufacturersku>
@@ -14817,7 +14808,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52579133063501.44</variationid>
+          <variationid>52579133096269.44</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.44</manufacturersku>
