@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-28 14:03</created_at>
+  <created_at>2025-01-28 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -16576,6 +16576,39 @@
           <quantity>0</quantity>
         </variation>
       </variations>
+    </product>
+    <product>
+      <id>CW1590-601</id>
+      <name>Nike Dunk Low Pink Red White</name>
+      <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-red-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Red_White-CW1590-601.jpg?v=1733091091</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>34</size>
+      <description>Nike Dunk Low Pink Red White</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Red_White-CW1590-601_3414b0d3-5f36-4788-8642-71ec75e43e8a.jpg?v=1733091091</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Red_White-CW1590-601_0b979fdf-e235-4c47-8120-411a295013ee.jpg?v=1733091091</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Red_White-CW1590-601_bf89d707-0108-44aa-ad47-9eb57b419ddc.jpg?v=1733091091</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>315122-001/CW2288-001</id>
+      <name>Nike Air Force 1 '07 Black</name>
+      <link>https://www.flowerkickz.gr/products/nike-air-force-1-039-07-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/CW2288-001-0.jpg?v=1731693197</image>
+      <category>Sneakers</category>
+      <price_with_vat>260</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44</size>
+      <description>Nike Air Force 1 '07 Black</description>
+      <quantity>1</quantity>
     </product>
   </products>
 </FlowerKickz>
