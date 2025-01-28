@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-28 09:02</created_at>
+  <created_at>2025-01-28 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -9642,7 +9642,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-low-elevate-tan-suede</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Elevate_Tan_Suede-DH7004-101.jpg?v=1733100021</image>
       <category>Sneakers</category>
-      <price_with_vat>225595</price_with_vat>
+      <price_with_vat>310</price_with_vat>
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -16106,7 +16106,7 @@
       </additional_images>
     </product>
     <product>
-      <id>IE0422</id>
+      <id>IE0419</id>
       <name>Adidas Gazelle Bold Energy Ink Gum</name>
       <link>https://www.flowerkickz.gr/products/adidas-gazelle-bold-energy-ink-gum</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_1a5f42f7-e8c3-4ce6-9700-fe1ae783bc4c.png?v=1738054962</image>
@@ -16115,13 +16115,368 @@
       <manufacturer>Adidas</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>39 1/3</size>
+      <size>36 2/3,37 1/3,38,38 2/3,39 1/3,40,41 1/3</size>
       <description>Adidas Gazelle Bold Energy Ink Gum</description>
-      <quantity>0</quantity>
+      <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_2240ee3f-f0f3-4f7a-9baf-ab9ce63bd58f.png?v=1738054961</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_dcb0ab8e-7003-4f30-869c-e9b63062d4fb.png?v=1738054961</image>
       </additional_images>
+      <variations>
+        <variation>
+          <variationid>52965952323917.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/adidas-gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.36-2/3</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52965952323917.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/adidas-gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.37-1/3</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52965952323917.38</variationid>
+          <link>https://www.flowerkickz.gr/products/adidas-gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.38</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52965952323917.38-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/adidas-gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.38-2/3</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>38 2/3</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52965952323917.39-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/adidas-gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.39-1/3</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>39 1/3</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52965952323917.40</variationid>
+          <link>https://www.flowerkickz.gr/products/adidas-gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.40</manufacturersku>
+          <price_with_vat>275</price_with_vat>
+          <size>40</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52965952323917.41-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/adidas-gazelle-bold-energy-ink-gum</link>
+          <availability>In Stock</availability>
+          <manufacturersku>IE0419.41-1/3</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>41 1/3</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>ID1600</id>
+      <name>Yeezy 500 Stone Taupe</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-500-stone-taupe</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_ecb3f4f0-343a-4939-87de-07449538dd8b.jpg?v=1733150096</image>
+      <category>Sneakers</category>
+      <price_with_vat>535</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>46 2/3</size>
+      <description>Yeezy 500 Stone Taupe</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_d54f7882-bcbc-4e36-8905-4b708c4d5d3e.jpg?v=1733150096</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_ebe99834-ee0c-482b-8841-bc3c3b2e0a00.jpg?v=1733150096</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_08fdde04-b3ec-4ba6-831c-bdaff0da320b.jpg?v=1733150096</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>EG7491</id>
+      <name>Yeezy Boost 350 V2 Hyperspace</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-hyperspace</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_927e3af3-1c2f-4c67-8609-01ab3e6129fe.png?v=1738055687</image>
+      <category>Sneakers</category>
+      <price_with_vat>565</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44 2/3,46</size>
+      <description>Yeezy Boost 350 V2 Hyperspace</description>
+      <quantity>2</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_915a7e44-4812-4154-bf2e-8b27413fab1f.png?v=1738055688</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_50821c7e-4721-4ece-93e1-435c02974f72.png?v=1738055688</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52966017958221.44-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-hyperspace</link>
+          <availability>In Stock</availability>
+          <manufacturersku>EG7491.44-2/3</manufacturersku>
+          <price_with_vat>565</price_with_vat>
+          <size>44 2/3</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52966017958221.46</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-hyperspace</link>
+          <availability>In Stock</availability>
+          <manufacturersku>EG7491.46</manufacturersku>
+          <price_with_vat>600</price_with_vat>
+          <size>46</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>HP7870</id>
+      <name>Yeezy Boost 350 V2 Slate</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-slate</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_572c3ea2-bbee-4aa2-aa47-a1a879b94930.png?v=1738056100</image>
+      <category>Sneakers</category>
+      <price_with_vat>340</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>36,36 2/3,37 1/3</size>
+      <description>Yeezy Boost 350 V2 Slate</description>
+      <quantity>8</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_4c2539ab-1578-4f76-9aa3-117bf5d9435e.png?v=1738056099</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_cf5d1f75-f308-42d7-b291-d379f1310544.png?v=1738056099</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52966070354253.36</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-slate</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HP7870.36</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>36</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>52966070354253.36-2/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-slate</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HP7870.36-2/3</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>36 2/3</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>52966070354253.37-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-slate</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HP7870.37-1/3</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>37 1/3</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>DC0774-501</id>
+      <name>Air Jordan 1 Low Barely Grape</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-low-barely-grape</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_c125233a-b1ff-475d-8eb7-1eeb1f69c83f.png?v=1738056966</image>
+      <category>Sneakers</category>
+      <price_with_vat>310</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>37.5,39,40,40.5</size>
+      <description>Air Jordan 1 Low Barely Grape</description>
+      <quantity>4</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_d8b11780-d48a-4685-942a-4ff86d7000c1.png?v=1738056966</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_15773cf8-48e4-443c-860a-9a0bbcf8b0ea.png?v=1738056966</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52966168396109.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-barely-grape</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DC0774-501.37.5</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>37.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52966168396109.39</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-barely-grape</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DC0774-501.39</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>39</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52966168396109.40</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-barely-grape</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DC0774-501.40</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52966168396109.40.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-barely-grape</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DC0774-501.40.5</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>40.5</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>553558-607</id>
+      <name>Air Jordan 1 Cardinal Red</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-cardinal-red</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_be2597c9-6ac2-481d-ba7c-bb5d86ea2af7.png?v=1738057677</image>
+      <category>Sneakers</category>
+      <price_with_vat>260</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44,45.5</size>
+      <description>Air Jordan 1 Cardinal Red</description>
+      <quantity>2</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_13c262c9-7e50-4962-8c10-d3018a0cc855.png?v=1738057677</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_08792a4a-81b2-446f-8f5b-b9b5ad573fce.png?v=1738057677</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52966287999309.44</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-cardinal-red</link>
+          <availability>In Stock</availability>
+          <manufacturersku>553558-607.44</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>44</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52966287999309.45.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-cardinal-red</link>
+          <availability>In Stock</availability>
+          <manufacturersku>553558-607.45.5</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>45.5</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>FB4420-616</id>
+      <name>Air Jordan 1 Infrared 23</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-infrared-23</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_e6de6877-2495-4cc2-b85c-52fa994853a5.png?v=1738058155</image>
+      <category>Sneakers</category>
+      <price_with_vat>295</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>35.5,36,36.5,37.5,38,38.5,39,40</size>
+      <description>Air Jordan 1 Infrared 23</description>
+      <quantity>15</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_24f86c91-315e-4aae-934c-15f12656d2b2.png?v=1738058156</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_b1e2fbf0-50d2-4c96-9bd0-769ff9320e6b.png?v=1738058156</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52966346359117.35.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-infrared-23</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FB4420-616.35.5</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>35.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52966346359117.36</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-infrared-23</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FB4420-616.36</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>36</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52966346359117.36.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-infrared-23</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FB4420-616.36.5</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>36.5</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52966346359117.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-infrared-23</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FB4420-616.37.5</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>37.5</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52966346359117.38</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-infrared-23</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FB4420-616.38</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>38</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52966346359117.38.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-infrared-23</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FB4420-616.38.5</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>38.5</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>52966346359117.39</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-infrared-23</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FB4420-616.39</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>39</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52966346359117.40</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-infrared-23</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FB4420-616.40</manufacturersku>
+          <price_with_vat>375</price_with_vat>
+          <size>40</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
     </product>
   </products>
 </FlowerKickz>
