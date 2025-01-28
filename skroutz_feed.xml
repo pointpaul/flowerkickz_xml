@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-28 10:03</created_at>
+  <created_at>2025-01-28 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -16475,6 +16475,105 @@
           <price_with_vat>375</price_with_vat>
           <size>40</size>
           <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>DM1199-100</id>
+      <name>Air Jordan 1 Low Tie-Dye</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-low-tie-dye</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_7e98983a-1d3b-4a5d-bf0f-7a3ccdf73dcc.png?v=1738058648</image>
+      <category>Sneakers</category>
+      <price_with_vat>420</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>41,42,42.5,44</size>
+      <description>Air Jordan 1 Low Tie-Dye</description>
+      <quantity>6</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_66f6fd6e-a8fe-43fb-b6ec-274eeb09977b.png?v=1738058648</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c765cea6-1cab-4bc7-b57c-ec595fb33b8c.png?v=1738058648</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52966426640717.41</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-tie-dye</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DM1199-100.41</manufacturersku>
+          <price_with_vat>420</price_with_vat>
+          <size>41</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52966426640717.42</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-tie-dye</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DM1199-100.42</manufacturersku>
+          <price_with_vat>445</price_with_vat>
+          <size>42</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52966426640717.42.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-tie-dye</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DM1199-100.42.5</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>42.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52966426640717.44</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-tie-dye</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DM1199-100.44</manufacturersku>
+          <price_with_vat>330</price_with_vat>
+          <size>44</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>DC0774-141</id>
+      <name>Air Jordan 1 Low Homage Split White Black</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
+      <image/>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>36.5,37.5,38</size>
+      <description>Air Jordan 1 Low Homage Split White Black</description>
+      <quantity>0</quantity>
+      <variations>
+        <variation>
+          <variationid>52966508298573.36.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DC0774-141.36.5</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>36.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52966508298573.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DC0774-141.37.5</manufacturersku>
+          <price_with_vat>275</price_with_vat>
+          <size>37.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52966508298573.38</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DC0774-141.38</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
