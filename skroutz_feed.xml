@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-28 08:02</created_at>
+  <created_at>2025-01-28 09:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -16085,6 +16085,42 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f633c49e-2ada-479f-a2f1-897ef41fd544.jpg?v=1733136080</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_47277823-5edb-4d31-a99c-a25eeaf48318.jpg?v=1733136080</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_88bc309a-bc7e-4e0d-804d-6890bc111e6e.jpg?v=1733136080</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>IE0422</id>
+      <name>Adidas Gazelle Bold Black Gold</name>
+      <link>https://www.flowerkickz.gr/products/adidas-gazelle-bold-black-gold</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Gazelle_Bold_Pink_Glow-H06122.png?v=1738054295</image>
+      <category>Sneakers</category>
+      <price_with_vat>260</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>39 1/3</size>
+      <description>Adidas Gazelle Bold Black Gold</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_d1b9dd25-6302-4bc6-a638-09a917b867e1.png?v=1738054529</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_ba614ad8-1e63-4388-83a6-9ac7fd815209.png?v=1738054529</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>IE0422</id>
+      <name>Adidas Gazelle Bold Energy Ink Gum</name>
+      <link>https://www.flowerkickz.gr/products/adidas-gazelle-bold-energy-ink-gum</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_1a5f42f7-e8c3-4ce6-9700-fe1ae783bc4c.png?v=1738054962</image>
+      <category>Sneakers</category>
+      <price_with_vat>260</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>39 1/3</size>
+      <description>Adidas Gazelle Bold Energy Ink Gum</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_2240ee3f-f0f3-4f7a-9baf-ab9ce63bd58f.png?v=1738054961</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_dcb0ab8e-7003-4f30-869c-e9b63062d4fb.png?v=1738054961</image>
       </additional_images>
     </product>
   </products>
