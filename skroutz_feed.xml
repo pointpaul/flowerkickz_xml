@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-29 03:02</created_at>
+  <created_at>2025-01-29 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -9100,7 +9100,7 @@
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>45.5,47,47.5</size>
+      <size>45.5,47</size>
       <description>Air Jordan 1 High OG Lost And Found</description>
       <quantity>2</quantity>
       <additional_images>
@@ -9126,15 +9126,6 @@
           <price_with_vat>725</price_with_vat>
           <size>47</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52578185052493.47.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-high-og-lost-and-found</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DZ5485-612.47.5</manufacturersku>
-          <price_with_vat>715</price_with_vat>
-          <size>47.5</size>
-          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -10119,7 +10110,7 @@
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>36,36.5,37.5,38,38.5,40,40.5,41,42,42.5,43,45,45.5,46,47.5</size>
+      <size>36,36.5,37.5,38.5,40,40.5,41,42,42.5,43,45,45.5,46,47.5</size>
       <description>Air Jordan 1 Retro Low OG SP Travis Scott Black Phantom</description>
       <quantity>18</quantity>
       <additional_images>
@@ -10154,15 +10145,6 @@
           <price_with_vat>1630</price_with_vat>
           <size>37.5</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52578147893581.38</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-low-og-sp-travis-scott-black-phantom</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DM7866-001.38</manufacturersku>
-          <price_with_vat>1810</price_with_vat>
-          <size>38</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578147893581.38.5</variationid>
@@ -16531,49 +16513,6 @@
           <price_with_vat>330</price_with_vat>
           <size>44</size>
           <quantity>2</quantity>
-        </variation>
-      </variations>
-    </product>
-    <product>
-      <id>DC0774-141</id>
-      <name>Air Jordan 1 Low Homage Split White Black</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
-      <image/>
-      <category>Sneakers</category>
-      <price_with_vat>285</price_with_vat>
-      <manufacturer>Jordan</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>36.5,37.5,38</size>
-      <description>Air Jordan 1 Low Homage Split White Black</description>
-      <quantity>0</quantity>
-      <variations>
-        <variation>
-          <variationid>52966508298573.36.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DC0774-141.36.5</manufacturersku>
-          <price_with_vat>285</price_with_vat>
-          <size>36.5</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52966508298573.37.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DC0774-141.37.5</manufacturersku>
-          <price_with_vat>275</price_with_vat>
-          <size>37.5</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52966508298573.38</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DC0774-141.38</manufacturersku>
-          <price_with_vat>340</price_with_vat>
-          <size>38</size>
-          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
