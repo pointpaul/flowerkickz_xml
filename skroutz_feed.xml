@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-29 08:02</created_at>
+  <created_at>2025-01-29 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -16548,6 +16548,81 @@
       <size>44</size>
       <description>Nike Air Force 1 '07 Black</description>
       <quantity>1</quantity>
+    </product>
+    <product>
+      <id>DR0502-101</id>
+      <name>Air Jordan 1 Low Homage Split White Black</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_e84864b1-2620-42bf-b54e-a28880b0314b.png?v=1738140242</image>
+      <category>Sneakers</category>
+      <price_with_vat>500</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42,42.5,44,44.5</size>
+      <description>Air Jordan 1 Low Homage Split White Black</description>
+      <quantity>6</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_0425cfc0-296a-480d-bf2e-1d67c9976568.png?v=1738140243</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_3acdc01f-efd9-4cc1-b88c-636a7f673f24.png?v=1738140274</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_64b2edd1-f687-4b99-9efa-4eab26207a52.png?v=1738140274</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52966508560717.42</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DR0502-101.42</manufacturersku>
+          <price_with_vat>500</price_with_vat>
+          <size>42</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52966508560717.42.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DR0502-101.42.5</manufacturersku>
+          <price_with_vat>475</price_with_vat>
+          <size>42.5</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52966508560717.44</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DR0502-101.44</manufacturersku>
+          <price_with_vat>580</price_with_vat>
+          <size>44</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52966508560717.44.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DR0502-101.44.5</manufacturersku>
+          <price_with_vat>580</price_with_vat>
+          <size>44.5</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>DD3035-200</id>
+      <name>Nike Sacai Vaporwaffle Villain Red Neptune Green</name>
+      <link>https://www.flowerkickz.gr/products/nike-sacai-vaporwaffle-villain-red-neptune-green</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_b0529b8b-2d1e-472d-a1ba-8641b072721b.png?v=1738141063</image>
+      <category>Sneakers</category>
+      <price_with_vat>850</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40</size>
+      <description>Nike Sacai Vaporwaffle Villain Red Neptune Green</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_34c96e43-2c66-4788-8031-159e2131e737.png?v=1738141063</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_176cdc9b-19c5-4ead-996f-8cc1f6bac6c4.png?v=1738141063</image>
+      </additional_images>
     </product>
   </products>
 </FlowerKickz>
