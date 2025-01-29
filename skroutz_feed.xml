@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-29 09:03</created_at>
+  <created_at>2025-01-29 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15567,9 +15567,9 @@
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>44.5,45.5</size>
+      <size>44.5,45.5,49.5</size>
       <description>Nike Dunk Low World Champ</description>
-      <quantity>2</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_World_Champ-DR9511-100_cfe63843-94aa-46c9-94d5-3f883631806b.jpg?v=1733097475</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_World_Champ-DR9511-100_0f3de15f-54ec-4e85-ac61-39d5bbfb4fe4.jpg?v=1733097475</image>
@@ -15592,6 +15592,15 @@
           <manufacturersku>DR9511-100.45.5</manufacturersku>
           <price_with_vat>260</price_with_vat>
           <size>45.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52577934967117.49.5</variationid>
+          <link>https://www.flowerkickz.gr/products/nike-dunk-low-world-champ</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DR9511-100.49.5</manufacturersku>
+          <price_with_vat>455</price_with_vat>
+          <size>49.5</size>
           <quantity>1</quantity>
         </variation>
       </variations>
@@ -16623,6 +16632,193 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_34c96e43-2c66-4788-8031-159e2131e737.png?v=1738141063</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_176cdc9b-19c5-4ead-996f-8cc1f6bac6c4.png?v=1738141063</image>
       </additional_images>
+    </product>
+    <product>
+      <id>CV0316-400</id>
+      <name>Nike SB Dunk Low Denim Sashiko</name>
+      <link>https://www.flowerkickz.gr/products/nike-sb-dunk-low-denim-sashiko</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_1a365f84-283c-4c13-b962-8c71b998fed2.png?v=1738141569</image>
+      <category>Sneakers</category>
+      <price_with_vat>500</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>36.5</size>
+      <description>Nike SB Dunk Low Denim Sashiko</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_de2de9d9-21fb-40e9-bfb9-7854b4180e5f.png?v=1738141569</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_628432a0-a352-4f91-ba98-0eef646fd63c.png?v=1738141569</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DD3357-100</id>
+      <name>Nike Dunk Low PRM Halloween (2021)</name>
+      <link>https://www.flowerkickz.gr/products/nike-dunk-low-prm-halloween-2021</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_PRM_Halloween_2021_-DD3357-100.jpg?v=1733091608</image>
+      <category>Sneakers</category>
+      <price_with_vat>465</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>37.5,42</size>
+      <description>Nike Dunk Low PRM Halloween (2021)</description>
+      <quantity>2</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_PRM_Halloween_2021_-DD3357-100_482a4122-51d0-49c6-a2bd-80b7c03c0c71.jpg?v=1733091608</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_PRM_Halloween_2021_-DD3357-100_b6c7a142-fd50-490c-9e6f-bd131ce85fb8.jpg?v=1733091608</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_PRM_Halloween_2021_-DD3357-100_b52ce7ac-06a1-49a7-b721-384c25be3b3c.jpg?v=1733091608</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52577357857101.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/nike-dunk-low-prm-halloween-2021</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DD3357-100.37.5</manufacturersku>
+          <price_with_vat>465</price_with_vat>
+          <size>37.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52577357857101.42</variationid>
+          <link>https://www.flowerkickz.gr/products/nike-dunk-low-prm-halloween-2021</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DD3357-100.42</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>42</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>DQ0380-001</id>
+      <name>Nike Dunk Low SE Jackpot</name>
+      <link>https://www.flowerkickz.gr/products/nike-dunk-low-se-jackpot</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_SE_Jackpot-DQ0380-001.jpg?v=1733098873</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>41,43</size>
+      <description>Nike Dunk Low SE Jackpot</description>
+      <quantity>2</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_SE_Jackpot-DQ0380-001_3f536041-b73e-4079-a9a7-9b81bbad8440.jpg?v=1733098873</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_SE_Jackpot-DQ0380-001_f6098da2-7234-43f5-9840-9047be859b5f.jpg?v=1733098873</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_SE_Jackpot-DQ0380-001_817516b1-5612-4be5-807e-5a1f95eac231.jpg?v=1733098873</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52972636701005.41</variationid>
+          <link>https://www.flowerkickz.gr/products/nike-dunk-low-se-jackpot</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DQ0380-001.41</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>41</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52972636701005.43</variationid>
+          <link>https://www.flowerkickz.gr/products/nike-dunk-low-se-jackpot</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DQ0380-001.43</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>43</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>DJ8604-400</id>
+      <name>Nike Air Zoom Flight 95 SP Supreme University Blue</name>
+      <link>https://www.flowerkickz.gr/products/nike-air-zoom-flight-95-sp-supreme-university-blue</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_0076af8a-2643-4f6c-b0ca-a056e70c8496.png?v=1738142344</image>
+      <category>Sneakers</category>
+      <price_with_vat>930</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>45.5</size>
+      <description>Nike Air Zoom Flight 95 SP Supreme University Blue</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_3974da03-4763-4afd-a274-390e9cf5f638.png?v=1738142345</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DO6700-001</id>
+      <name>Air Max Plus Cordura Black</name>
+      <link>https://www.flowerkickz.gr/products/air-max-plus-cordura-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_32f06ac8-d9d1-42a7-981e-06411c6a1278.png?v=1738143652</image>
+      <category>Sneakers</category>
+      <price_with_vat>520</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44.5</size>
+      <description>Air Max Plus Cordura Black</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_7829a00e-1006-4be8-87b4-a00dd1af744d.png?v=1738143652</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_33b709a2-403a-4d74-b22f-84175b01da60.png?v=1738143652</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DJ4600-001</id>
+      <name>Air Max Plus 3 Black White</name>
+      <link>https://www.flowerkickz.gr/products/air-max-plus-3-black-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_e16fb6ca-bc0d-47d7-97c5-a357bff67f72.png?v=1738144014</image>
+      <category>Sneakers</category>
+      <price_with_vat>275</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40</size>
+      <description>Air Max Plus 3 Black White</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_0f91dcf3-1b01-40b2-acfc-975c1d114870.png?v=1738144015</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_a0a02b60-3c7f-4daf-abd4-f9992a5eb1d2.png?v=1738144015</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DM0028-002</id>
+      <name>Air Max 97 OG Silver Bullet (2022)</name>
+      <link>https://www.flowerkickz.gr/products/air-max-97-og-silver-bullet-2022</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_db08c905-48fd-4787-9b22-faedb4ee99d7.png?v=1738144552</image>
+      <category>Sneakers</category>
+      <price_with_vat>545</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>43,46</size>
+      <description>Air Max 97 OG Silver Bullet (2022)</description>
+      <quantity>2</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_af489242-30f5-4384-a47e-c730c00854d5.png?v=1738144551</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_11856340-a920-4ab2-b609-5aab4318b41e.png?v=1738144552</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52972861817165.43</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-97-og-silver-bullet-2022</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DM0028-002.43</manufacturersku>
+          <price_with_vat>545</price_with_vat>
+          <size>43</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52972861817165.46</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-97-og-silver-bullet-2022</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DM0028-002.46</manufacturersku>
+          <price_with_vat>660</price_with_vat>
+          <size>46</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
   </products>
 </FlowerKickz>
