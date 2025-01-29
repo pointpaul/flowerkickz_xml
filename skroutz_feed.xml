@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-29 11:03</created_at>
+  <created_at>2025-01-29 12:04</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -8156,9 +8156,9 @@
       <manufacturer>Yeezy</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>36,36 2/3,37 1/3,42,44</size>
+      <size>36,36 2/3,37 1/3,42,44,45 1/3</size>
       <description>Yeezy Boost 350 V2 Bone</description>
-      <quantity>9</quantity>
+      <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_97aec0d1-1e6d-442b-8f62-4fc9f2c35101.jpg?v=1733150440</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_231704f0-ab87-404d-8573-dc5a921474e4.jpg?v=1733150440</image>
@@ -8208,6 +8208,15 @@
           <manufacturersku>HQ6316.44</manufacturersku>
           <price_with_vat>510</price_with_vat>
           <size>44</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52577640546637.45-1/3</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-bone</link>
+          <availability>In Stock</availability>
+          <manufacturersku>HQ6316.45-1/3</manufacturersku>
+          <price_with_vat>520</price_with_vat>
+          <size>45 1/3</size>
           <quantity>1</quantity>
         </variation>
       </variations>
@@ -16881,6 +16890,107 @@
           <price_with_vat>430</price_with_vat>
           <size>39</size>
           <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>554724-371</id>
+      <name>Air Jordan 1 Mid Sonics (2021)</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-sonics-2021</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_de35646c-8995-4f63-b170-c2e17c930f32.png?v=1738151156</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>35.5,41,42,42.5,43,44,44.5,45,46</size>
+      <description>Air Jordan 1 Mid Sonics (2021)</description>
+      <quantity>21</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_dca330b2-c2cd-4fb7-b2c8-56e3732b9c72.png?v=1738151156</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_dbc219a9-785d-4e90-8751-eaa0f8d3828c.png?v=1738151157</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52973359202637.35.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-sonics-2021</link>
+          <availability>In Stock</availability>
+          <manufacturersku>554724-371.35.5</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>35.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52973359202637.41</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-sonics-2021</link>
+          <availability>In Stock</availability>
+          <manufacturersku>554724-371.41</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>41</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52973359202637.42</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-sonics-2021</link>
+          <availability>In Stock</availability>
+          <manufacturersku>554724-371.42</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>42</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52973359202637.42.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-sonics-2021</link>
+          <availability>In Stock</availability>
+          <manufacturersku>554724-371.42.5</manufacturersku>
+          <price_with_vat>320</price_with_vat>
+          <size>42.5</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52973359202637.43</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-sonics-2021</link>
+          <availability>In Stock</availability>
+          <manufacturersku>554724-371.43</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>43</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>52973359202637.44</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-sonics-2021</link>
+          <availability>In Stock</availability>
+          <manufacturersku>554724-371.44</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>44</size>
+          <quantity>5</quantity>
+        </variation>
+        <variation>
+          <variationid>52973359202637.44.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-sonics-2021</link>
+          <availability>In Stock</availability>
+          <manufacturersku>554724-371.44.5</manufacturersku>
+          <price_with_vat>320</price_with_vat>
+          <size>44.5</size>
+          <quantity>4</quantity>
+        </variation>
+        <variation>
+          <variationid>52973359202637.45</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-sonics-2021</link>
+          <availability>In Stock</availability>
+          <manufacturersku>554724-371.45</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>45</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52973359202637.46</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-sonics-2021</link>
+          <availability>In Stock</availability>
+          <manufacturersku>554724-371.46</manufacturersku>
+          <price_with_vat>455</price_with_vat>
+          <size>46</size>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
