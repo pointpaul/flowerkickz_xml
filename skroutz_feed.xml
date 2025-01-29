@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-29 14:03</created_at>
+  <created_at>2025-01-29 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -852,6 +852,20 @@
       <availability>In Stock</availability>
       <size>MEDIUM</size>
       <description>Fear of God Essentials Tee Seal SS23</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>80997194</id>
+      <name>Fear of God Essentials Tee Stretch-Limo</name>
+      <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-stretch-limo</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/stretchshirt.png?v=1688996244</image>
+      <category>Sneakers</category>
+      <price_with_vat>150</price_with_vat>
+      <manufacturer>Essentials</manufacturer>
+      <ean>74924621</ean>
+      <availability>In Stock</availability>
+      <size>LARGE</size>
+      <description>Fear of God Essentials Tee Stretch-Limo</description>
       <quantity>1</quantity>
     </product>
     <product>
