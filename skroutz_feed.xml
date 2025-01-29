@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-29 10:03</created_at>
+  <created_at>2025-01-29 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2812,7 +2812,7 @@
       <availability>In Stock</availability>
       <size>35/40.5</size>
       <description>Crep Protect Sneaker Guards</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>HF6061-400U</id>
@@ -14722,13 +14722,13 @@
       <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Corduroy-FN7167-100.jpg?v=1733108317</image>
       <category>Sneakers</category>
-      <price_with_vat>400</price_with_vat>
+      <price_with_vat>510</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>38.5,39,40,42,42.5,43,44</size>
+      <size>38,38.5,39,40,42,42.5,43,44</size>
       <description>Nike Dunk Low Pink Corduroy</description>
-      <quantity>12</quantity>
+      <quantity>13</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Corduroy-FN7167-100_dd75cb90-ae6a-40f0-93cb-b1f5ca8a4082.jpg?v=1733108317</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Corduroy-FN7167-100_b04d5cce-e126-4366-9672-80cdfbbba340.jpg?v=1733108317</image>
@@ -14736,7 +14736,16 @@
       </additional_images>
       <variations>
         <variation>
-          <variationid>52579133096269.38.5</variationid>
+          <variationid>52579133063501.38</variationid>
+          <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FN7167-100.38</manufacturersku>
+          <price_with_vat>510</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52579133063501.38.5</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.38.5</manufacturersku>
@@ -14745,7 +14754,7 @@
           <quantity>3</quantity>
         </variation>
         <variation>
-          <variationid>52579133096269.39</variationid>
+          <variationid>52579133063501.39</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.39</manufacturersku>
@@ -14754,7 +14763,7 @@
           <quantity>3</quantity>
         </variation>
         <variation>
-          <variationid>52579133096269.40</variationid>
+          <variationid>52579133063501.40</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.40</manufacturersku>
@@ -14763,7 +14772,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52579133096269.42</variationid>
+          <variationid>52579133063501.42</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.42</manufacturersku>
@@ -14772,7 +14781,7 @@
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>52579133096269.42.5</variationid>
+          <variationid>52579133063501.42.5</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.42.5</manufacturersku>
@@ -14781,7 +14790,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52579133096269.43</variationid>
+          <variationid>52579133063501.43</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.43</manufacturersku>
@@ -14790,7 +14799,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52579133096269.44</variationid>
+          <variationid>52579133063501.44</variationid>
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-pink-corduroy</link>
           <availability>In Stock</availability>
           <manufacturersku>FN7167-100.44</manufacturersku>
@@ -16816,6 +16825,61 @@
           <manufacturersku>DM0028-002.46</manufacturersku>
           <price_with_vat>660</price_with_vat>
           <size>46</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>554724-122</id>
+      <name>Air Jordan 1 Mid Gym Red Black White</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-gym-red-black-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/AdobeExpress-file_4.png?v=1738147484</image>
+      <category>Sneakers</category>
+      <price_with_vat>205</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44</size>
+      <description>Air Jordan 1 Mid Gym Red Black White</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/AdobeExpress-file_5.png?v=1738147484</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DV2959-113</id>
+      <name>Air Jordan 1 Mid Green Python</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-green-python</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_9e096597-45b7-4104-94bd-ab4f5ccad051.png?v=1738146380</image>
+      <category>Sneakers</category>
+      <price_with_vat>985</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>37.5,39</size>
+      <description>Air Jordan 1 Mid Green Python</description>
+      <quantity>2</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_67b2a2ca-6ff5-4616-9d67-15245c84e486.png?v=1738146380</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_5f273974-4975-42de-a964-c7b8c10537b7.png?v=1738146381</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52972997509453.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-green-python</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DV2959-113.37.5</manufacturersku>
+          <price_with_vat>985</price_with_vat>
+          <size>37.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52972997509453.39</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-green-python</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DV2959-113.39</manufacturersku>
+          <price_with_vat>430</price_with_vat>
+          <size>39</size>
           <quantity>1</quantity>
         </variation>
       </variations>
