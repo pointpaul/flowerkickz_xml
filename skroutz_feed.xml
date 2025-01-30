@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-30 11:03</created_at>
+  <created_at>2025-01-30 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -11720,7 +11720,7 @@
       <availability>In Stock</availability>
       <size>42,42.5,44</size>
       <description>Air Jordan 1 Retro High OG UNC Toe 2023</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_UNC_Toe_2023-DZ5485-400_3150c284-8334-4206-b101-10edd335bf9e.jpg?v=1733108289</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_UNC_Toe_2023-DZ5485-400_39ea3292-73b7-4965-b429-09fb7e500bba.jpg?v=1733108289</image>
@@ -11734,7 +11734,7 @@
           <manufacturersku>DZ5485-400.42</manufacturersku>
           <price_with_vat>430</price_with_vat>
           <size>42</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52579128246605.42.5</variationid>
@@ -17324,6 +17324,23 @@
           <quantity>1</quantity>
         </variation>
       </variations>
+    </product>
+    <product>
+      <id>76101618 -2</id>
+      <name>Stüssy Tee Kittens Black</name>
+      <link>https://www.flowerkickz.gr/products/stussy-tee-kittens-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYKITTENSBLACKBACK.png?v=1717056986</image>
+      <category>Sneakers</category>
+      <price_with_vat>170</price_with_vat>
+      <manufacturer>STUSSY</manufacturer>
+      <ean>80572895</ean>
+      <availability>In Stock</availability>
+      <size>X-LARGE</size>
+      <description>Stüssy Tee Kittens Black</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYKITTENSBLACKFRONT.png?v=1717056986</image>
+      </additional_images>
     </product>
   </products>
 </FlowerKickz>
