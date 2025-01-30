@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-30 09:03</created_at>
+  <created_at>2025-01-30 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -17136,6 +17136,192 @@
           <price_with_vat>545</price_with_vat>
           <size>46</size>
           <quantity>0</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>GR530CA</id>
+      <name>New Balance 530 Navy White</name>
+      <link>https://www.flowerkickz.gr/products/new-balance-530-navy-white</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_a36a0470-9079-43fb-b3e8-0fb29c501597.png?v=1738227577</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>36,37,39,40</size>
+      <description>New Balance 530 Navy White</description>
+      <quantity>4</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_e1e98db1-56cd-44b3-94e4-74bbf5cb98ad.png?v=1738227576</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_8c11423e-2f24-4984-b4af-44ff8eb16013.png?v=1738227576</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52978497093965.36</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.36</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>36</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52978497093965.37</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.37</manufacturersku>
+          <price_with_vat>280</price_with_vat>
+          <size>37</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52978497093965.39</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.39</manufacturersku>
+          <price_with_vat>280</price_with_vat>
+          <size>39</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52978497093965.40</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-navy-white</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GR530CA.40</manufacturersku>
+          <price_with_vat>280</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>MR530RA</id>
+      <name>New Balance 530 White Light Chrome Blue</name>
+      <link>https://www.flowerkickz.gr/products/new-balance-530-white-light-chrome-blue</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_5b052c52-e531-4f9d-ac55-065050581af6.png?v=1738228479</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>37,37.5</size>
+      <description>New Balance 530 White Light Chrome Blue</description>
+      <quantity>4</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_cea96667-7698-4ba3-a506-97f0a6dc74fa.png?v=1738228480</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_36cc123a-d9c4-4ef5-bd25-ecc67d477226.png?v=1738228478</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52978539364685.37</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-light-chrome-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RA.37</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>37</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52978539364685.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-light-chrome-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RA.37.5</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>37.5</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>MR530PC</id>
+      <name>New Balance 530 White Light Chrome Blue Clay Ash</name>
+      <link>https://www.flowerkickz.gr/products/new-balance-530-white-light-chrome-blue-clay-ash</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_e010f4d0-4bb9-450c-bd2c-d11e076eec2b.png?v=1738228871</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>36,37,37.5,38,39.5,40,40.5,42</size>
+      <description>New Balance 530 White Light Chrome Blue Clay Ash</description>
+      <quantity>9</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_e8f20c3e-f8d0-4c43-8eab-06c78fea6dd4.png?v=1738228871</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_a8d52c90-a4d6-4ca0-9be2-e6ed8e46c990.png?v=1738228871</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52978547425613.36</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.36</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>36</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52978547425613.37</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.37</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>37</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52978547425613.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.37.5</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>37.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52978547425613.38</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.38</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52978547425613.39.5</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.39.5</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>39.5</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52978547425613.40</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.40</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52978547425613.40.5</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.40.5</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>40.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52978547425613.42</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-light-chrome-blue-clay-ash</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530PC.42</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>42</size>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
