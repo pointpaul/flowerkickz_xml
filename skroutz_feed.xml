@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-30 08:03</created_at>
+  <created_at>2025-01-30 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -16996,6 +16996,146 @@
           <price_with_vat>455</price_with_vat>
           <size>46</size>
           <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>DH6931-001</id>
+      <name>Air Jordan 1 Low Diamond Shorts</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-low-diamond-shorts</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_d9855643-e4bc-4eda-813d-6d5d1badbf95.png?v=1738226093</image>
+      <category>Sneakers</category>
+      <price_with_vat>260</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44</size>
+      <description>Air Jordan 1 Low Diamond Shorts</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_3d8ee47d-5a11-4c7e-b87e-06a195df9b17.png?v=1738226093</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_a3058fb4-1f41-4d0b-b461-46ccbe0facdb.png?v=1738226108</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DQ8423-616</id>
+      <name>Air Jordan 1 Mid Valentine's Day (2023)</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-valentine-039-s-day-2023</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Valentine_s_Day_2023_-DQ8423-616.jpg?v=1733106051</image>
+      <category>Sneakers</category>
+      <price_with_vat>340</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>37.5,38,40</size>
+      <description>Air Jordan 1 Mid Valentine's Day (2023)</description>
+      <quantity>6</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Valentine_s_Day_2023_-DQ8423-616_08bfa556-5b72-48b4-b528-90e44e231db4.jpg?v=1733106051</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Valentine_s_Day_2023_-DQ8423-616_38f0d4b2-de87-41f9-a6a8-c480f18be114.jpg?v=1733106051</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Valentine_s_Day_2023_-DQ8423-616_223ee8f2-cfb0-4f37-963b-89fb1e2d91fb.jpg?v=1733106051</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52978464063821.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-valentine-039-s-day-2023</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DQ8423-616.37.5</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>37.5</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>52978464063821.38</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-valentine-039-s-day-2023</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DQ8423-616.38</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>38</size>
+          <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>52978464063821.40</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-valentine-039-s-day-2023</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DQ8423-616.40</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>BQ6472-110</id>
+      <name>Air Jordan 1 Mid White Snakeskin</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-white-snakeskin</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_2ac9a803-e543-4b33-8bee-08b2cef8dc02.png?v=1738226784</image>
+      <category>Sneakers</category>
+      <price_with_vat>385</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>41</size>
+      <description>Air Jordan 1 Mid White Snakeskin</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_26d67367-ec2e-42f8-86ea-296c092c6360.png?v=1738226784</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_9dd89a6a-ca96-4d1b-9f74-73c26915d800.png?v=1738226784</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DO7097-100</id>
+      <name>Air Jordan 1 Retro High OG A Ma Maniére</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-a-ma-maniere</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_6350f72a-0cc5-49d2-8da0-ba018af69cd7.png?v=1738227159</image>
+      <category>Sneakers</category>
+      <price_with_vat>455</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>41,42.5,43,46</size>
+      <description>Air Jordan 1 Retro High OG A Ma Maniére</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_8abc0684-7d05-46f2-8f9c-504dcc15d344.png?v=1738227160</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_e675dc85-9705-4357-b664-c63efbf243a2.png?v=1738227159</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52978485100877.41</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-a-ma-maniere</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DO7097-100.41</manufacturersku>
+          <price_with_vat>455</price_with_vat>
+          <size>41</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52978485100877.42.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-a-ma-maniere</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DO7097-100.42.5</manufacturersku>
+          <price_with_vat>420</price_with_vat>
+          <size>42.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52978485100877.43</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-a-ma-maniere</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DO7097-100.43</manufacturersku>
+          <price_with_vat>500</price_with_vat>
+          <size>43</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52978485100877.46</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-a-ma-maniere</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DO7097-100.46</manufacturersku>
+          <price_with_vat>545</price_with_vat>
+          <size>46</size>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
