@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-30 13:03</created_at>
+  <created_at>2025-01-30 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -14941,7 +14941,7 @@
       <availability>In Stock</availability>
       <size>42,42.5,43</size>
       <description>Nike Dunk Low Polar Blue</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Polar_Blue-DV0833-400_89702706-8a11-4a52-9c9c-79e423001451.jpg?v=1733109899</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Polar_Blue-DV0833-400_3c8b1afe-4d2c-4cb7-be5e-1d90c85f109a.jpg?v=1733109899</image>
@@ -14955,7 +14955,7 @@
           <manufacturersku>DV0833-400.42</manufacturersku>
           <price_with_vat>260</price_with_vat>
           <size>42</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52579346678093.42.5</variationid>
