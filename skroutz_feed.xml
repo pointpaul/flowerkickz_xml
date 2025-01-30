@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-30 03:02</created_at>
+  <created_at>2025-01-30 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3078,7 +3078,7 @@
       <manufacturer>KAWS</manufacturer>
       <ean>31499905</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM,SMALL,Χ-LARGE</size>
+      <size>LARGE,SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic White Red Tee</description>
       <quantity>7</quantity>
       <additional_images>
@@ -3093,15 +3093,6 @@
           <price_with_vat>85</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52168820883789.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-rred-t-shirt</link>
-          <availability>In Stock</availability>
-          <manufacturersku>476350.MEDIUM</manufacturersku>
-          <price_with_vat>85</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52168820883789.SMALL</variationid>
