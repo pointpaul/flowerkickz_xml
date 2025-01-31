@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-31 09:03</created_at>
+  <created_at>2025-01-31 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -17389,6 +17389,109 @@
           <price_with_vat>285</price_with_vat>
           <size>47.5</size>
           <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>MR530RE</id>
+      <name>New Balance 530 White Violet</name>
+      <link>https://www.flowerkickz.gr/products/new-balance-530-white-violet</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_59aecd2a-88fc-475e-a582-de06ef488bce.png?v=1738313916</image>
+      <category>Sneakers</category>
+      <price_with_vat>310</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>36,37.5,38,38.5</size>
+      <description>New Balance 530 White Violet</description>
+      <quantity>4</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_85c0b008-2a04-45a9-a955-c7ec88d5bcf5.png?v=1738314020</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_12ad7035-e2b8-4f3c-843a-3f740b9473cd.png?v=1738314020</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52983193731405.36</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-violet</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RE.36</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>36</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52983193731405.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-violet</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RE.37.5</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>37.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52983193731405.38</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-violet</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RE.38</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>38</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52983193731405.38.5</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-violet</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RE.38.5</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>38.5</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>DV1308-104</id>
+      <name>Air Jordan 1 Mid SE Ice Blue (2023)</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-se-ice-blue-2023</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_d7842c51-87dc-4b73-bbfb-c94c20b46cb2.png?v=1738314871</image>
+      <category>Sneakers</category>
+      <price_with_vat>400</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>36.5,41,44.5</size>
+      <description>Air Jordan 1 Mid SE Ice Blue (2023)</description>
+      <quantity>3</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_842103f4-0958-4408-bc75-69f14be7bf05.png?v=1738314871</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_30e185ea-85cc-45ec-9406-9f8fb9ed6459.png?v=1738314871</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>52983206871373.36.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-se-ice-blue-2023</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DV1308-104.36.5</manufacturersku>
+          <price_with_vat>400</price_with_vat>
+          <size>36.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52983206871373.41</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-se-ice-blue-2023</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DV1308-104.41</manufacturersku>
+          <price_with_vat>385</price_with_vat>
+          <size>41</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52983206871373.44.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-se-ice-blue-2023</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DV1308-104.44.5</manufacturersku>
+          <price_with_vat>385</price_with_vat>
+          <size>44.5</size>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
