@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-31 14:03</created_at>
+  <created_at>2025-01-31 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2210,7 +2210,7 @@
       <availability>In Stock</availability>
       <size>SMALL</size>
       <description>Kith Arrow Tee White</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>74782287</id>
@@ -3279,7 +3279,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,Χ-LARGE</size>
       <description>KAWS + Warhol Graphic Sweatshirt Grey</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_5fe0b826-bd21-4554-bf2d-6035e780b1e2.png?v=1730285079</image>
       </additional_images>
@@ -3291,7 +3291,7 @@
           <manufacturersku>476119.LARGE</manufacturersku>
           <price_with_vat>125</price_with_vat>
           <size>LARGE</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52491377344845.MEDIUM</variationid>
