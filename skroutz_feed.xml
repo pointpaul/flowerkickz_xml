@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-01-31 03:02</created_at>
+  <created_at>2025-01-31 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2815,20 +2815,6 @@
       </additional_images>
     </product>
     <product>
-      <id>60896578</id>
-      <name>Crep Protect Sneaker Guards</name>
-      <link>https://www.flowerkickz.gr/products/crep-protect-sneaker-guards</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/crep1copy.png?v=1701423809</image>
-      <category>Sneakers</category>
-      <price_with_vat>15</price_with_vat>
-      <manufacturer>Crep Protect</manufacturer>
-      <ean>35614861</ean>
-      <availability>In Stock</availability>
-      <size>35/40.5</size>
-      <description>Crep Protect Sneaker Guards</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
       <id>HF6061-400U</id>
       <name>SB Dunk Low Futura Laboratories Bleached Aqua (USED)</name>
       <link>https://www.flowerkickz.gr/products/sb-dunk-low-futura-laboratories-bleached-aqua-used</link>
@@ -4593,7 +4579,7 @@
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>41,42,42.5,43,44.5,45,45.5,46</size>
+      <size>41,42,42.5,43,44.5,45,45.5</size>
       <description>Air Force 1 Low Black Supreme</description>
       <quantity>27</quantity>
       <additional_images>
@@ -4664,15 +4650,6 @@
           <price_with_vat>375</price_with_vat>
           <size>45.5</size>
           <quantity>4</quantity>
-        </variation>
-        <variation>
-          <variationid>52576869712205.46</variationid>
-          <link>https://www.flowerkickz.gr/products/air-force-1-low-black-supreme</link>
-          <availability>In Stock</availability>
-          <manufacturersku>CU9225-001.46</manufacturersku>
-          <price_with_vat>355</price_with_vat>
-          <size>46</size>
-          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -11714,11 +11691,11 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-unc-toe-2023</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_OG_UNC_Toe_2023-DZ5485-400.jpg?v=1733108289</image>
       <category>Sneakers</category>
-      <price_with_vat>430</price_with_vat>
+      <price_with_vat>400</price_with_vat>
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>42,42.5,44</size>
+      <size>42.5,44</size>
       <description>Air Jordan 1 Retro High OG UNC Toe 2023</description>
       <quantity>4</quantity>
       <additional_images>
@@ -11728,16 +11705,7 @@
       </additional_images>
       <variations>
         <variation>
-          <variationid>52579128246605.42</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-unc-toe-2023</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DZ5485-400.42</manufacturersku>
-          <price_with_vat>430</price_with_vat>
-          <size>42</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52579128246605.42.5</variationid>
+          <variationid>52579128279373.42.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-unc-toe-2023</link>
           <availability>In Stock</availability>
           <manufacturersku>DZ5485-400.42.5</manufacturersku>
@@ -11746,7 +11714,7 @@
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>52579128246605.44</variationid>
+          <variationid>52579128279373.44</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-unc-toe-2023</link>
           <availability>In Stock</availability>
           <manufacturersku>DZ5485-400.44</manufacturersku>
@@ -17089,55 +17057,17 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-a-ma-maniere</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_6350f72a-0cc5-49d2-8da0-ba018af69cd7.png?v=1738227159</image>
       <category>Sneakers</category>
-      <price_with_vat>455</price_with_vat>
+      <price_with_vat>500</price_with_vat>
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>41,42.5,43,46</size>
+      <size>43</size>
       <description>Air Jordan 1 Retro High OG A Ma Maniére</description>
       <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_8abc0684-7d05-46f2-8f9c-504dcc15d344.png?v=1738227160</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_e675dc85-9705-4357-b664-c63efbf243a2.png?v=1738227159</image>
       </additional_images>
-      <variations>
-        <variation>
-          <variationid>52978485100877.41</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-a-ma-maniere</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DO7097-100.41</manufacturersku>
-          <price_with_vat>455</price_with_vat>
-          <size>41</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52978485100877.42.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-a-ma-maniere</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DO7097-100.42.5</manufacturersku>
-          <price_with_vat>420</price_with_vat>
-          <size>42.5</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52978485100877.43</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-a-ma-maniere</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DO7097-100.43</manufacturersku>
-          <price_with_vat>500</price_with_vat>
-          <size>43</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52978485100877.46</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-a-ma-maniere</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DO7097-100.46</manufacturersku>
-          <price_with_vat>545</price_with_vat>
-          <size>46</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>GR530CA</id>
@@ -17324,23 +17254,6 @@
           <quantity>1</quantity>
         </variation>
       </variations>
-    </product>
-    <product>
-      <id>76101618 -2</id>
-      <name>Stüssy Tee Kittens Black</name>
-      <link>https://www.flowerkickz.gr/products/stussy-tee-kittens-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYKITTENSBLACKBACK.png?v=1717056986</image>
-      <category>Sneakers</category>
-      <price_with_vat>170</price_with_vat>
-      <manufacturer>STUSSY</manufacturer>
-      <ean>80572895</ean>
-      <availability>In Stock</availability>
-      <size>X-LARGE</size>
-      <description>Stüssy Tee Kittens Black</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYKITTENSBLACKFRONT.png?v=1717056986</image>
-      </additional_images>
     </product>
   </products>
 </FlowerKickz>
