@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-01 03:02</created_at>
+  <created_at>2025-02-01 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2199,20 +2199,6 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>53563382</id>
-      <name>Kith Arrow Tee White</name>
-      <link>https://www.flowerkickz.gr/products/kith-arrow-tee-white</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/KithArrowTeeWhite.png?v=1700743700</image>
-      <category>Sneakers</category>
-      <price_with_vat>125</price_with_vat>
-      <manufacturer>Kith Clothing</manufacturer>
-      <ean>67133571</ean>
-      <availability>In Stock</availability>
-      <size>SMALL</size>
-      <description>Kith Arrow Tee White</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
       <id>74782287</id>
       <name>Kith Equality Tee Grey</name>
       <link>https://www.flowerkickz.gr/products/kith-equality-tee-grey</link>
@@ -3130,7 +3116,7 @@
       <manufacturer>KAWS</manufacturer>
       <ean>88162100</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM,SMALL,Χ-LARGE</size>
+      <size>LARGE,SMALL,Χ-LARGE</size>
       <description>KAWS + Warhol Graphic Sweatshirt Black</description>
       <quantity>5</quantity>
       <additional_images>
@@ -3145,15 +3131,6 @@
           <price_with_vat>125</price_with_vat>
           <size>LARGE</size>
           <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>52491203739981.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/kaws-warhol-graphic-sweatshirt</link>
-          <availability>In Stock</availability>
-          <manufacturersku>476119.MEDIUM</manufacturersku>
-          <price_with_vat>125</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52491203739981.SMALL</variationid>
