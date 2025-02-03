@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-03 16:03</created_at>
+  <created_at>2025-02-03 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2860,7 +2860,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic Tee Black</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_cd386c2b-ccbd-412a-82c1-006ea34edd5a.png?v=1725369820</image>
       </additional_images>
@@ -2890,7 +2890,7 @@
           <manufacturersku>476351.SMALL</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>SMALL</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52168746107213.Χ-LARGE</variationid>
