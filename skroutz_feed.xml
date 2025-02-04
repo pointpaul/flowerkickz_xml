@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-04 13:03</created_at>
+  <created_at>2025-02-04 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2105,7 +2105,7 @@
       <availability>In Stock</availability>
       <size>2X-LARGE,LARGE,X-LARGE</size>
       <description>Trapstar Hot Rod Strikeout Hoodie Black</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>49626913833293.2X-LARGE</variationid>
@@ -2123,7 +2123,7 @@
           <manufacturersku>60572009.LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49626913833293.X-LARGE</variationid>
