@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-04 03:02</created_at>
+  <created_at>2025-02-04 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -8186,11 +8186,11 @@
       <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-dazzling-blue</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_11f33bbc-79de-46ab-9922-898c06a5d298.jpg?v=1733150497</image>
       <category>Sneakers</category>
-      <price_with_vat>510</price_with_vat>
+      <price_with_vat>580</price_with_vat>
       <manufacturer>Yeezy</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>38,38 2/3</size>
+      <size>38 2/3</size>
       <description>Yeezy Boost 350 V2 Dazzling Blue</description>
       <quantity>1</quantity>
       <additional_images>
@@ -8198,26 +8198,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_f04d7677-658d-4a49-a238-cb988656def3.jpg?v=1733150497</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_232e148e-5068-40d4-8168-a14c60455717.jpg?v=1733150497</image>
       </additional_images>
-      <variations>
-        <variation>
-          <variationid>52577644904781.38</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-dazzling-blue</link>
-          <availability>In Stock</availability>
-          <manufacturersku>GY7164.38</manufacturersku>
-          <price_with_vat>510</price_with_vat>
-          <size>38</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52577644904781.38-2/3</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-dazzling-blue</link>
-          <availability>In Stock</availability>
-          <manufacturersku>GY7164.38-2/3</manufacturersku>
-          <price_with_vat>580</price_with_vat>
-          <size>38 2/3</size>
-          <quantity>1</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>HQ2060</id>
