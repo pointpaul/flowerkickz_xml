@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-05 10:03</created_at>
+  <created_at>2025-02-05 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2779,6 +2779,20 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/now.png?v=1714742421</image>
       </additional_images>
+    </product>
+    <product>
+      <id>60896578</id>
+      <name>Crep Protect Sneaker Guards</name>
+      <link>https://www.flowerkickz.gr/products/crep-protect-sneaker-guards</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/crep1copy.png?v=1701423809</image>
+      <category>Sneakers</category>
+      <price_with_vat>15</price_with_vat>
+      <manufacturer>Crep Protect</manufacturer>
+      <ean>35614861</ean>
+      <availability>In Stock</availability>
+      <size>35/40.5</size>
+      <description>Crep Protect Sneaker Guards</description>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>HF6061-400U</id>
@@ -12228,14 +12242,34 @@
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>40</size>
+      <size>38.5,40</size>
       <description>Air Jordan 4 Retro SE Craft Medium Olive</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Craft_Medium_Olive-FB9927-200_3d32b88d-39a8-4edc-9ff6-2e797b52b065.jpg?v=1733110645</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Craft_Medium_Olive-FB9927-200_a494751d-7cb2-4483-b336-af6702162b5a.jpg?v=1733110645</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Craft_Medium_Olive-FB9927-200_21e00d79-8602-4aef-b27a-3fcd919b3001.jpg?v=1733110645</image>
       </additional_images>
+      <variations>
+        <variation>
+          <variationid>52579663708493.38.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-se-craft-medium-olive</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FB9927-200.38.5</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>38.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52579663708493.40</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-se-craft-medium-olive</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FB9927-200.40</manufacturersku>
+          <price_with_vat>410</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>DH6927-017</id>
@@ -17448,6 +17482,34 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Funkette_Slipper_Chestnut-1113474-CHE-1.jpg?v=1731685818</image>
       </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Bape Tee 1st Camo College Grey</name>
+      <link>https://www.flowerkickz.gr/products/bape-tee-1st-camo-college-grey</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2_b696fb29-2f28-4597-8ad8-a2df02162b95.png?v=1730984361</image>
+      <category>Sneakers</category>
+      <price_with_vat>170</price_with_vat>
+      <manufacturer>Bape Clothing</manufacturer>
+      <ean>27492525</ean>
+      <availability>In Stock</availability>
+      <size>SMALL</size>
+      <description>Bape Tee 1st Camo College Grey</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Bape Tee Reflector Color Camo</name>
+      <link>https://www.flowerkickz.gr/products/bape-tee-reflector-color-camo</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/001TEK801018_BKE_A-removebg-preview.png?v=1730990175</image>
+      <category>Sneakers</category>
+      <price_with_vat>170</price_with_vat>
+      <manufacturer>Bape Clothing</manufacturer>
+      <ean>90835538</ean>
+      <availability>In Stock</availability>
+      <size>SMALL</size>
+      <description>Bape Tee Reflector Color Camo</description>
+      <quantity>1</quantity>
     </product>
   </products>
 </FlowerKickz>
