@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-06 17:03</created_at>
+  <created_at>2025-02-06 18:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7691,7 +7691,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38 2/3,41 1/3,42 2/3</size>
       <description>Yeezy Boost 350 V2 Carbon Beluga</description>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Carbon_Beluga-HQ7045_a81d6c3d-65c1-4006-9785-e6dcdebe2114.jpg?v=1733107941</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Carbon_Beluga-HQ7045_e04573c6-07b6-46dd-ba23-70dbdfaa3592.jpg?v=1733107941</image>
@@ -7741,7 +7741,7 @@
           <manufacturersku>HQ7045.42-2/3</manufacturersku>
           <price_with_vat>455</price_with_vat>
           <size>42 2/3</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
@@ -8475,7 +8475,7 @@
       <availability>In Stock</availability>
       <size>36,37 1/3,38,41 1/3,42,42 2/3</size>
       <description>Yeezy Boost 350 V2 Static</description>
-      <quantity>20</quantity>
+      <quantity>19</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_abb470d7-5bad-4cd3-9b84-e20f58ae7bfd.jpg?v=1733150653</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_b8a7663d-a551-4aaa-bf2b-ff7719fe6115.jpg?v=1733150653</image>
@@ -8534,7 +8534,7 @@
           <manufacturersku>EF2905.42-2/3</manufacturersku>
           <price_with_vat>475</price_with_vat>
           <size>42 2/3</size>
-          <quantity>7</quantity>
+          <quantity>6</quantity>
         </variation>
       </variations>
     </product>
