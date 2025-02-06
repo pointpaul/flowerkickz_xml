@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-06 12:04</created_at>
+  <created_at>2025-02-06 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -9245,7 +9245,7 @@
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>40,42.5,43</size>
+      <size>40,42.5,43,45.5</size>
       <description>Air Jordan 1 Retro High OG True Blue</description>
       <quantity>3</quantity>
       <additional_images>
@@ -9280,6 +9280,15 @@
           <price_with_vat>275</price_with_vat>
           <size>43</size>
           <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52578388443469.45.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-true-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DZ5485-410.45.5</manufacturersku>
+          <price_with_vat>445</price_with_vat>
+          <size>45.5</size>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
