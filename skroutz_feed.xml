@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-07 13:03</created_at>
+  <created_at>2025-02-07 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -17411,12 +17411,32 @@
       <manufacturer>UGG</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>41</size>
+      <size>39,41</size>
       <description>UGG Funkette Slipper Chestnut</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Funkette_Slipper_Chestnut-1113474-CHE-1.jpg?v=1731685818</image>
       </additional_images>
+      <variations>
+        <variation>
+          <variationid>52578536751437.39</variationid>
+          <link>https://www.flowerkickz.gr/products/ugg-funkette-slipper-chestnut</link>
+          <availability>In Stock</availability>
+          <manufacturersku>1113474-CHE.39</manufacturersku>
+          <price_with_vat>275</price_with_vat>
+          <size>39</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52578536751437.41</variationid>
+          <link>https://www.flowerkickz.gr/products/ugg-funkette-slipper-chestnut</link>
+          <availability>In Stock</availability>
+          <manufacturersku>1113474-CHE.41</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>41</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id/>
