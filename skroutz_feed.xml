@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-07 03:02</created_at>
+  <created_at>2025-02-07 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -819,34 +819,6 @@
       <size>LARGE</size>
       <description>Fear of God Essentials Tee Seafoam</description>
       <quantity>5</quantity>
-    </product>
-    <product>
-      <id>53408164</id>
-      <name>Fear of God Essentials Tee Seal SS23</name>
-      <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-seal</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/sealss23.png?v=1688997513</image>
-      <category>Sneakers</category>
-      <price_with_vat>150</price_with_vat>
-      <manufacturer>Essentials</manufacturer>
-      <ean>41877581</ean>
-      <availability>In Stock</availability>
-      <size>MEDIUM</size>
-      <description>Fear of God Essentials Tee Seal SS23</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
-      <id>80997194</id>
-      <name>Fear of God Essentials Tee Stretch-Limo</name>
-      <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-stretch-limo</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/stretchshirt.png?v=1688996244</image>
-      <category>Sneakers</category>
-      <price_with_vat>150</price_with_vat>
-      <manufacturer>Essentials</manufacturer>
-      <ean>74924621</ean>
-      <availability>In Stock</availability>
-      <size>LARGE</size>
-      <description>Fear of God Essentials Tee Stretch-Limo</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>75394668</id>
@@ -3445,7 +3417,7 @@
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>35.5,36,36.5,38.5,40,40.5,41,42,42.5,43,44,44.5,45.5,46,47,47.5</size>
+      <size>35.5,36,36.5,38.5,40,40.5,41,42,42.5,43,44,44.5,45.5,46,47</size>
       <description>Nike Dunk Low White Black (Panda)</description>
       <quantity>52</quantity>
       <additional_images>
@@ -3588,15 +3560,6 @@
           <price_with_vat>240</price_with_vat>
           <size>47</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52577131921741.47.5</variationid>
-          <link>https://www.flowerkickz.gr/products/nike-dunk-low-white-black-panda</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DD1391-100.47.5</manufacturersku>
-          <price_with_vat>250</price_with_vat>
-          <size>47.5</size>
-          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -8175,25 +8138,6 @@
       </variations>
     </product>
     <product>
-      <id>GY7164</id>
-      <name>Yeezy Boost 350 V2 Dazzling Blue</name>
-      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-dazzling-blue</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_11f33bbc-79de-46ab-9922-898c06a5d298.jpg?v=1733150497</image>
-      <category>Sneakers</category>
-      <price_with_vat>580</price_with_vat>
-      <manufacturer>Yeezy</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>38 2/3</size>
-      <description>Yeezy Boost 350 V2 Dazzling Blue</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_b9deb32e-5394-43a1-95bd-52456add947f.jpg?v=1733150497</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_f04d7677-658d-4a49-a238-cb988656def3.jpg?v=1733150497</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_232e148e-5068-40d4-8168-a14c60455717.jpg?v=1733150497</image>
-      </additional_images>
-    </product>
-    <product>
       <id>HQ2060</id>
       <name>Yeezy Boost 350 V2 Jade Ash</name>
       <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-jade-ash</link>
@@ -9254,7 +9198,7 @@
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>40,42.5,43,45.5</size>
+      <size>40,42.5,43</size>
       <description>Air Jordan 1 Retro High OG True Blue</description>
       <quantity>3</quantity>
       <additional_images>
@@ -9289,15 +9233,6 @@
           <price_with_vat>275</price_with_vat>
           <size>43</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52578388443469.45.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-high-og-true-blue</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DZ5485-410.45.5</manufacturersku>
-          <price_with_vat>445</price_with_vat>
-          <size>45.5</size>
-          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -12862,7 +12797,7 @@
       <manufacturer>New Balance</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>40,40.5,41.5,42,42.5,44,44.5,45,45.5,46.5</size>
+      <size>40,40.5,42,42.5,44,44.5,45,45.5,46.5</size>
       <description>New Balance 9060 Shadow Purple</description>
       <quantity>9</quantity>
       <additional_images>
@@ -12888,15 +12823,6 @@
           <price_with_vat>340</price_with_vat>
           <size>40.5</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52581082530125.41.5</variationid>
-          <link>https://www.flowerkickz.gr/products/new-balance-9060-shadow-purple</link>
-          <availability>In Stock</availability>
-          <manufacturersku>U9060SFA.41.5</manufacturersku>
-          <price_with_vat>330</price_with_vat>
-          <size>41.5</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52581082530125.42</variationid>
