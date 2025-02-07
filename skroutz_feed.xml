@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-07 09:03</created_at>
+  <created_at>2025-02-07 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7421,7 +7421,7 @@
       <manufacturer>Adidas</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>37,38,39US</size>
+      <size>37,38,39</size>
       <description>Adidas Handball Spezial Semi Green Spark</description>
       <quantity>5</quantity>
       <variations>
@@ -7444,12 +7444,12 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52709510218061.39US</variationid>
+          <variationid>52709510218061.39</variationid>
           <link>https://www.flowerkickz.gr/products/adidas-handball-spezial-semi-green-spark</link>
           <availability>In Stock</availability>
-          <manufacturersku>IH7498.39US</manufacturersku>
+          <manufacturersku>IH7498.39</manufacturersku>
           <price_with_vat>320</price_with_vat>
-          <size>39US</size>
+          <size>39</size>
           <quantity>1</quantity>
         </variation>
       </variations>
