@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-07 14:03</created_at>
+  <created_at>2025-02-07 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -81,7 +81,7 @@
       <id>DC9936-100SP</id>
       <name>SB Dunk Low Sean Cliver (Special Box)</name>
       <link>https://www.flowerkickz.gr/products/sb-dunk-low-sean-cliver-special-box</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_fd4abfd8-f08a-481f-849b-00c258880b59.jpg?v=1733149849</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_d756c471-d490-481f-b7ea-25310c29c9e4.jpg?v=1738940194</image>
       <category>Sneakers</category>
       <price_with_vat>1560</price_with_vat>
       <manufacturer>Nike</manufacturer>
@@ -90,11 +90,6 @@
       <size>44.5</size>
       <description>SB Dunk Low Sean Cliver (Special Box)</description>
       <quantity>2</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f3a855bf-4b05-4516-986c-b26882adf57c.jpg?v=1733149849</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_2973874d-ea36-49e4-8090-d2f3ee8c8c11.jpg?v=1733149849</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_019d4b34-9adf-4821-9700-a95be9f7ecdc.jpg?v=1733149849</image>
-      </additional_images>
     </product>
     <product>
       <id>SP-HB002</id>
@@ -17465,6 +17460,20 @@
       <size>SMALL</size>
       <description>Bape Tee Reflector Color Camo</description>
       <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Air Force 1 Low Louis Vuitton Green</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-low-louis-vuitton-green</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/12_df8ea352-7fe9-4ce2-89eb-1edbc0aca2c5.png?v=1738940397</image>
+      <category>Sneakers</category>
+      <price_with_vat>16150</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40.5</size>
+      <description>Air Force 1 Low Louis Vuitton Green</description>
+      <quantity>0</quantity>
     </product>
   </products>
 </FlowerKickz>
