@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-07 15:03</created_at>
+  <created_at>2025-02-07 16:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -444,7 +444,7 @@
       <availability>In Stock</availability>
       <size>2X-LARGE,X-LARGE</size>
       <description>Trapstar Can't Trap A Trapper Tee Black</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <variations>
         <variation>
           <variationid>48497030267213.2X-LARGE</variationid>
@@ -462,7 +462,7 @@
           <manufacturersku>86943762.X-LARGE</manufacturersku>
           <price_with_vat>105</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
@@ -17467,12 +17467,68 @@
       <link>https://www.flowerkickz.gr/products/air-force-1-low-louis-vuitton-green</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/12_df8ea352-7fe9-4ce2-89eb-1edbc0aca2c5.png?v=1738940397</image>
       <category>Sneakers</category>
-      <price_with_vat>16150</price_with_vat>
+      <price_with_vat>11415</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40</size>
+      <description>Air Force 1 Low Louis Vuitton Green</description>
+      <quantity>0</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Air Force 1 Low Louis Vuitton Blue</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-low-louis-vuitton-blue</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/23.png?v=1738941335</image>
+      <category>Sneakers</category>
+      <price_with_vat>11415</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40</size>
+      <description>Air Force 1 Low Louis Vuitton Blue</description>
+      <quantity>0</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Air Force 1 Low Louis Vuitton Red</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-low-louis-vuitton-red</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/32_d56c2d18-d021-4b1b-b699-03a33837f21e.png?v=1738941450</image>
+      <category>Sneakers</category>
+      <price_with_vat>12860</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>41</size>
+      <description>Air Force 1 Low Louis Vuitton Red</description>
+      <quantity>0</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Air Force 1 Low Louis Vuitton Metallic Silver (Copy)</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-low-louis-vuitton-metallic-silver-copy</link>
+      <image/>
+      <category>Sneakers</category>
+      <price_with_vat>17685</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
       <size>40.5</size>
-      <description>Air Force 1 Low Louis Vuitton Green</description>
+      <description>Air Force 1 Low Louis Vuitton Metallic Silver (Copy)</description>
+      <quantity>0</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Air Jordan 1 Retro Low Dior</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-low-dior</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_c626b8dd-3306-4222-8744-cd613e5eb77e_1.png?v=1738941709</image>
+      <category>Sneakers</category>
+      <price_with_vat>13450</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>41</size>
+      <description>Air Jordan 1 Retro Low Dior</description>
       <quantity>0</quantity>
     </product>
   </products>
