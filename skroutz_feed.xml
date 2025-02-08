@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-08 03:02</created_at>
+  <created_at>2025-02-08 04:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1934,38 +1934,18 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>64186677</id>
+      <id>53078609</id>
       <name>Trapstar Never Miss Hoodie Black</name>
       <link>https://www.flowerkickz.gr/products/trapstar-never-miss-hoodie-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/nevermiss1.png?v=1698400735</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Trapstar</manufacturer>
-      <ean>27817293</ean>
+      <ean>27850061</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM</size>
+      <size>LARGE</size>
       <description>Trapstar Never Miss Hoodie Black</description>
       <quantity>1</quantity>
-      <variations>
-        <variation>
-          <variationid>49602839118157.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-never-miss-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>64186677.LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>LARGE</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>49602839118157.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-never-miss-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>64186677.MEDIUM</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>555088-105U</id>
@@ -15933,25 +15913,6 @@
       </additional_images>
     </product>
     <product>
-      <id>1122553-SAN</id>
-      <name>UGG Tazz Slipper Sand</name>
-      <link>https://www.flowerkickz.gr/products/ugg-tazz-slipper-sand</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Sand-1122553-SAN-0.jpg?v=1731691099</image>
-      <category>Sneakers</category>
-      <price_with_vat>330</price_with_vat>
-      <manufacturer>UGG</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>38</size>
-      <description>UGG Tazz Slipper Sand</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Sand-1122553-SAN-1.jpg?v=1731691099</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Sand-1122553-SAN-2.jpg?v=1731691099</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Sand-1122553-SAN-3.jpg?v=1731691099</image>
-      </additional_images>
-    </product>
-    <product>
       <id>FJ4181-001</id>
       <name>Nike Air More Uptempo 96 Dark Smoke Grey</name>
       <link>https://www.flowerkickz.gr/products/nike-air-more-uptempo-96-dark-smoke-grey</link>
@@ -17460,76 +17421,6 @@
       <size>SMALL</size>
       <description>Bape Tee Reflector Color Camo</description>
       <quantity>1</quantity>
-    </product>
-    <product>
-      <id/>
-      <name>Air Force 1 Low Louis Vuitton Green</name>
-      <link>https://www.flowerkickz.gr/products/air-force-1-low-louis-vuitton-green</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/12_df8ea352-7fe9-4ce2-89eb-1edbc0aca2c5.png?v=1738940397</image>
-      <category>Sneakers</category>
-      <price_with_vat>11415</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>40</size>
-      <description>Air Force 1 Low Louis Vuitton Green</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
-      <id/>
-      <name>Air Force 1 Low Louis Vuitton Blue</name>
-      <link>https://www.flowerkickz.gr/products/air-force-1-low-louis-vuitton-blue</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/23.png?v=1738941335</image>
-      <category>Sneakers</category>
-      <price_with_vat>11415</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>40</size>
-      <description>Air Force 1 Low Louis Vuitton Blue</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
-      <id/>
-      <name>Air Force 1 Low Louis Vuitton Red</name>
-      <link>https://www.flowerkickz.gr/products/air-force-1-low-louis-vuitton-red</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/32_d56c2d18-d021-4b1b-b699-03a33837f21e.png?v=1738941450</image>
-      <category>Sneakers</category>
-      <price_with_vat>12860</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>41</size>
-      <description>Air Force 1 Low Louis Vuitton Red</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
-      <id/>
-      <name>Air Force 1 Low Louis Vuitton Metallic Silver (Copy)</name>
-      <link>https://www.flowerkickz.gr/products/air-force-1-low-louis-vuitton-metallic-silver-copy</link>
-      <image/>
-      <category>Sneakers</category>
-      <price_with_vat>17685</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>40.5</size>
-      <description>Air Force 1 Low Louis Vuitton Metallic Silver (Copy)</description>
-      <quantity>0</quantity>
-    </product>
-    <product>
-      <id/>
-      <name>Air Jordan 1 Retro Low Dior</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-low-dior</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_c626b8dd-3306-4222-8744-cd613e5eb77e_1.png?v=1738941709</image>
-      <category>Sneakers</category>
-      <price_with_vat>13450</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>41</size>
-      <description>Air Jordan 1 Retro Low Dior</description>
-      <quantity>0</quantity>
     </product>
   </products>
 </FlowerKickz>
