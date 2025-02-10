@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-10 10:03</created_at>
+  <created_at>2025-02-10 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -17407,6 +17407,25 @@
       <size>SMALL</size>
       <description>Bape Tee Reflector Color Camo</description>
       <quantity>1</quantity>
+    </product>
+    <product>
+      <id>AR3566-002</id>
+      <name>Nike Shox TL Black Max Orange</name>
+      <link>https://www.flowerkickz.gr/products/nike-shox-tl-black-max-orange</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Shox_TL_Black_Max_Orange-AR3566-002.jpg?v=1733108220</image>
+      <category>Sneakers</category>
+      <price_with_vat>375</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>39</size>
+      <description>Nike Shox TL Black Max Orange</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Shox_TL_Black_Max_Orange-AR3566-002_2ac2af4a-911b-420c-8fe7-c02de9a5120e.jpg?v=1733108220</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Shox_TL_Black_Max_Orange-AR3566-002_6221f5dc-d0cd-42ff-b4d3-2ac850ed177e.jpg?v=1733108220</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Shox_TL_Black_Max_Orange-AR3566-002_cb9c52f8-b36d-4575-8609-9f6c0d08bb15.jpg?v=1733108220</image>
+      </additional_images>
     </product>
   </products>
 </FlowerKickz>
