@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-12 09:03</created_at>
+  <created_at>2025-02-12 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4003,7 +4003,7 @@
       <availability>In Stock</availability>
       <size>37 1/3,38,38 2/3,40,42,42 2/3</size>
       <description>Adidas Yeezy Boost 350 V2 MX Dark Sea Salt</description>
-      <quantity>15</quantity>
+      <quantity>14</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Yeezy_Boost_350_V2_MX_Dark_Sea_Salt-ID4811_53df4e08-ee2f-4800-8b6c-3176c04aa014.jpg?v=1733109631</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Yeezy_Boost_350_V2_MX_Dark_Sea_Salt-ID4811_98642399-953f-4928-9952-7b80d336cc75.jpg?v=1733109631</image>
@@ -4026,7 +4026,7 @@
           <manufacturersku>ID4811.38</manufacturersku>
           <price_with_vat>375</price_with_vat>
           <size>38</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52579271377229.38-2/3</variationid>
@@ -19081,6 +19081,44 @@
       <size>MEDIUM</size>
       <description>Fear of God Essentials Tee Sycamore SS23</description>
       <quantity>1</quantity>
+    </product>
+    <product>
+      <id>BQ6472-051</id>
+      <name>Air Jordan 1 Mid Purple Black</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-purple-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Purple_Black-BQ6472-051.jpg?v=1733101842</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44.5</size>
+      <description>Air Jordan 1 Mid Purple Black</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Purple_Black-BQ6472-051_24105f17-7966-4e84-aeee-361f9f7e2a9f.jpg?v=1733101842</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Purple_Black-BQ6472-051_bb5e1364-e15b-4ba8-89f1-645365df3a99.jpg?v=1733101842</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Purple_Black-BQ6472-051_330ff92b-e7c4-4a6e-9e1e-4775bda44cf7.jpg?v=1733101842</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>IE1379</id>
+      <name>Adidas Samba XLG Core Black Gum</name>
+      <link>https://www.flowerkickz.gr/products/adidas-samba-xlg-core-black-gum</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_060d2ff6-c45c-4e45-bb8d-6d3eb7aa61a2.jpg?v=1733127489</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>Adidas</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>38</size>
+      <description>Adidas Samba XLG Core Black Gum</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_c689dc98-952e-4698-a82a-ba620fcdb173.jpg?v=1733127489</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_01c5dadd-2c7f-44f7-8b67-263cb31307fe.jpg?v=1733127489</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_f4c55964-c0dd-4cc3-a2b7-3dbecf78a77c.jpg?v=1733127489</image>
+      </additional_images>
     </product>
   </products>
 </FlowerKickz>
