@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-12 03:03</created_at>
+  <created_at>2025-02-12 04:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3625,29 +3625,9 @@
       <manufacturer>STUSSY</manufacturer>
       <ean>72888991</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM</size>
+      <size>MEDIUM</size>
       <description>Stüssy Tee Sport Script Black</description>
       <quantity>2</quantity>
-      <variations>
-        <variation>
-          <variationid>52706018066765.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>None.LARGE</manufacturersku>
-          <price_with_vat>170</price_with_vat>
-          <size>LARGE</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52706018066765.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/stussy-tee-sport-script-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>None.MEDIUM</manufacturersku>
-          <price_with_vat>170</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>2</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id/>
@@ -18009,20 +17989,6 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYBASICBLACKFRON_7ffb6d28-27b5-4803-ae4a-8336ccb2fe3d.png?v=1716980571</image>
       </additional_images>
-    </product>
-    <product>
-      <id>76516646</id>
-      <name>Stüssy Tee Big Stock Black</name>
-      <link>https://www.flowerkickz.gr/products/stussy-tee-big-stock-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYBIGSTOCKBLACK.png?v=1717057494</image>
-      <category>Sneakers</category>
-      <price_with_vat>170</price_with_vat>
-      <manufacturer>STUSSY</manufacturer>
-      <ean>77422032</ean>
-      <availability>In Stock</availability>
-      <size>LARGE</size>
-      <description>Stüssy Tee Big Stock Black</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id/>
