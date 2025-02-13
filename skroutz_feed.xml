@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-13 18:03</created_at>
+  <created_at>2025-02-13 19:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1328,7 +1328,7 @@
       <availability>In Stock</availability>
       <size>2X-LARGE,X-LARGE,X-SMALL</size>
       <description>Trapstar Horizon 2.0 Hoodie Black</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>49651196952909.2X-LARGE</variationid>
@@ -1355,7 +1355,7 @@
           <manufacturersku>63552162.X-SMALL</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
