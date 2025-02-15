@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-15 12:03</created_at>
+  <created_at>2025-02-15 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2016,7 +2016,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,XX-LARGE,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic White Blue Tee</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/11_b3d20fed-25d7-4ff2-bc0b-d308bc001268.png?v=1725370565</image>
       </additional_images>
@@ -2055,7 +2055,7 @@
           <manufacturersku>471321.X-SMALL</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52168799617357.XX-LARGE</variationid>
@@ -8094,7 +8094,7 @@
       <availability>In Stock</availability>
       <size>36.5,37.5,38</size>
       <description>Air Jordan 1 Low Aluminum</description>
-      <quantity>27</quantity>
+      <quantity>26</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Aluminum-DC0774-141_efcd6a51-70fb-43f6-bf7c-1abc19caead8.jpg?v=1733099903</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Aluminum-DC0774-141_1117ab93-e1f6-40bf-bc93-ee77688ec880.jpg?v=1733099903</image>
@@ -8126,7 +8126,7 @@
           <manufacturersku>DC0774-141.38</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>38</size>
-          <quantity>8</quantity>
+          <quantity>7</quantity>
         </variation>
       </variations>
     </product>
