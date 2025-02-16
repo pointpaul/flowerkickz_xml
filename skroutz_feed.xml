@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-16 03:03</created_at>
+  <created_at>2025-02-16 04:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1231,7 +1231,7 @@
       <manufacturer>Trapstar</manufacturer>
       <ean>25520461</ean>
       <availability>In Stock</availability>
-      <size>2X-LARGE,LARGE,MEDIUM,X-LARGE</size>
+      <size>2X-LARGE,LARGE,X-LARGE</size>
       <description>Trapstar All City Hoodie Black</description>
       <quantity>4</quantity>
       <variations>
@@ -1252,15 +1252,6 @@
           <price_with_vat>150</price_with_vat>
           <size>LARGE</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>49604013064525.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/trapstar-all-city-hoodie-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>TPH009.MEDIUM</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49604013064525.X-LARGE</variationid>
@@ -2012,9 +2003,9 @@
       <category>Sneakers</category>
       <price_with_vat>85</price_with_vat>
       <manufacturer>KAWS</manufacturer>
-      <ean>31249905</ean>
+      <ean>55359905</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM,SMALL,X-SMALL,XX-LARGE,Χ-LARGE</size>
+      <size>LARGE,MEDIUM,SMALL,XX-LARGE,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic White Blue Tee</description>
       <quantity>7</quantity>
       <additional_images>
@@ -2022,7 +2013,7 @@
       </additional_images>
       <variations>
         <variation>
-          <variationid>52168799617357.LARGE</variationid>
+          <variationid>52168799650125.LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
           <availability>In Stock</availability>
           <manufacturersku>471321.LARGE</manufacturersku>
@@ -2031,7 +2022,7 @@
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>52168799617357.MEDIUM</variationid>
+          <variationid>52168799650125.MEDIUM</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
           <availability>In Stock</availability>
           <manufacturersku>471321.MEDIUM</manufacturersku>
@@ -2040,7 +2031,7 @@
           <quantity>2</quantity>
         </variation>
         <variation>
-          <variationid>52168799617357.SMALL</variationid>
+          <variationid>52168799650125.SMALL</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
           <availability>In Stock</availability>
           <manufacturersku>471321.SMALL</manufacturersku>
@@ -2049,16 +2040,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52168799617357.X-SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
-          <availability>In Stock</availability>
-          <manufacturersku>471321.X-SMALL</manufacturersku>
-          <price_with_vat>85</price_with_vat>
-          <size>X-SMALL</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52168799617357.XX-LARGE</variationid>
+          <variationid>52168799650125.XX-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
           <availability>In Stock</availability>
           <manufacturersku>471321.XX-LARGE</manufacturersku>
@@ -2067,7 +2049,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52168799617357.Χ-LARGE</variationid>
+          <variationid>52168799650125.Χ-LARGE</variationid>
           <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-blue-t-shirt</link>
           <availability>In Stock</availability>
           <manufacturersku>471321.Χ-LARGE</manufacturersku>
@@ -3008,7 +2990,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
           <availability>In Stock</availability>
           <manufacturersku>FV5029-141.35.5</manufacturersku>
-          <price_with_vat>6370085</price_with_vat>
+          <price_with_vat>7644100</price_with_vat>
           <size>35.5</size>
           <quantity>1</quantity>
         </variation>
@@ -11843,7 +11825,7 @@
           <link>https://www.flowerkickz.gr/products/new-balance-9060-granite</link>
           <availability>In Stock</availability>
           <manufacturersku>U9060SFB.47.5</manufacturersku>
-          <price_with_vat>2125</price_with_vat>
+          <price_with_vat>2555</price_with_vat>
           <size>47.5</size>
           <quantity>1</quantity>
         </variation>
@@ -15521,20 +15503,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Red_White-CW1590-601_0b979fdf-e235-4c47-8120-411a295013ee.jpg?v=1733091091</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Red_White-CW1590-601_bf89d707-0108-44aa-ad47-9eb57b419ddc.jpg?v=1733091091</image>
       </additional_images>
-    </product>
-    <product>
-      <id>315122-001/CW2288-001</id>
-      <name>Nike Air Force 1 '07 Black</name>
-      <link>https://www.flowerkickz.gr/products/nike-air-force-1-039-07-black</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/CW2288-001-0.jpg?v=1731693197</image>
-      <category>Sneakers</category>
-      <price_with_vat>260</price_with_vat>
-      <manufacturer>Nike</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>44</size>
-      <description>Nike Air Force 1 '07 Black</description>
-      <quantity>0</quantity>
     </product>
     <product>
       <id>DR0502-101</id>
