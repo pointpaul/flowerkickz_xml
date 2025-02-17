@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-17 09:03</created_at>
+  <created_at>2025-02-17 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2069,9 +2069,9 @@
       <manufacturer>KAWS</manufacturer>
       <ean>31499905</ean>
       <availability>In Stock</availability>
-      <size>LARGE,SMALL,Χ-LARGE</size>
+      <size>LARGE,MEDIUM,SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic White Red Tee</description>
-      <quantity>7</quantity>
+      <quantity>8</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/111.png?v=1725370855</image>
       </additional_images>
@@ -2083,6 +2083,15 @@
           <manufacturersku>476350.LARGE</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52168820883789.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/kaws-x-uniqlo-warhol-ut-graphic-white-rred-t-shirt</link>
+          <availability>In Stock</availability>
+          <manufacturersku>476350.MEDIUM</manufacturersku>
+          <price_with_vat>85</price_with_vat>
+          <size>MEDIUM</size>
           <quantity>1</quantity>
         </variation>
         <variation>
@@ -17555,14 +17564,34 @@
       <manufacturer>UGG</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>39</size>
+      <size>39,41</size>
       <description>UGG Tazz Slipper Chestnut</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Chestnut-1122553-CHE-1.jpg?v=1731684771</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Chestnut-1122553-CHE-2.jpg?v=1731684771</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Tazz_Slipper_Chestnut-1122553-CHE-3.jpg?v=1731684771</image>
       </additional_images>
+      <variations>
+        <variation>
+          <variationid>52578372747597.39</variationid>
+          <link>https://www.flowerkickz.gr/products/ugg-tazz-slipper-chestnut</link>
+          <availability>In Stock</availability>
+          <manufacturersku>1122553-CHE.39</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>39</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52578372747597.41</variationid>
+          <link>https://www.flowerkickz.gr/products/ugg-tazz-slipper-chestnut</link>
+          <availability>In Stock</availability>
+          <manufacturersku>1122553-CHE.41</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>41</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>SP-BP009</id>
@@ -19048,6 +19077,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_c689dc98-952e-4698-a82a-ba620fcdb173.jpg?v=1733127489</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_01c5dadd-2c7f-44f7-8b67-263cb31307fe.jpg?v=1733127489</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_f4c55964-c0dd-4cc3-a2b7-3dbecf78a77c.jpg?v=1733127489</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>U9060PB</id>
+      <name>New Balance 9060 Mushroom Brown</name>
+      <link>https://www.flowerkickz.gr/products/new-balance-9060-mushroom-brown</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Mushroom_Brown-U9060PB.jpg?v=1733113015</image>
+      <category>Sneakers</category>
+      <price_with_vat>340</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean>13114215</ean>
+      <availability>In Stock</availability>
+      <size>42.5</size>
+      <description>New Balance 9060 Mushroom Brown</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Mushroom_Brown-U9060PB_85b21515-ea2b-4727-84f2-f9f42d3abacf.jpg?v=1733113015</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Mushroom_Brown-U9060PB_4e3da7d3-4161-43a4-b6ff-9914371d8ccf.jpg?v=1733113015</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Mushroom_Brown-U9060PB_31e14722-1143-47b9-99bd-60f7f9aa55b3.jpg?v=1733113015</image>
       </additional_images>
     </product>
   </products>
