@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-17 16:04</created_at>
+  <created_at>2025-02-17 17:04</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -8693,7 +8693,7 @@
       <availability>In Stock</availability>
       <size>38,38.5,39,40,40.5,42</size>
       <description>Air Jordan 1 Low SE Concord</description>
-      <quantity>14</quantity>
+      <quantity>13</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_SE_Concord-DV1309-100_d5b44af1-a528-4ff2-8739-12b465c8040f.jpg?v=1733103757</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_SE_Concord-DV1309-100_f707e163-7685-4755-a507-fa9830f7c1b1.jpg?v=1733103757</image>
@@ -8716,7 +8716,7 @@
           <manufacturersku>DV1309-100.38.5</manufacturersku>
           <price_with_vat>260</price_with_vat>
           <size>38.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52703360516429.39</variationid>
