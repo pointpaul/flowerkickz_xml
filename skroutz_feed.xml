@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-18 03:03</created_at>
+  <created_at>2025-02-18 04:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2999,7 +2999,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
           <availability>In Stock</availability>
           <manufacturersku>FV5029-141.35.5</manufacturersku>
-          <price_with_vat>9172925</price_with_vat>
+          <price_with_vat>11007515</price_with_vat>
           <size>35.5</size>
           <quantity>1</quantity>
         </variation>
@@ -3117,7 +3117,7 @@
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>36.5,37.5,38,38.5,39,40,40.5</size>
+      <size>36.5,37.5,38,38.5,39,40.5</size>
       <description>Nike Dunk Low Rose Whisper</description>
       <quantity>37</quantity>
       <additional_images>
@@ -3170,15 +3170,6 @@
           <price_with_vat>205</price_with_vat>
           <size>39</size>
           <quantity>4</quantity>
-        </variation>
-        <variation>
-          <variationid>52577669349709.40</variationid>
-          <link>https://www.flowerkickz.gr/products/nike-dunk-low-rose-whisper</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DD1503-118.40</manufacturersku>
-          <price_with_vat>205</price_with_vat>
-          <size>40</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577669349709.40.5</variationid>
@@ -11834,7 +11825,7 @@
           <link>https://www.flowerkickz.gr/products/new-balance-9060-granite</link>
           <availability>In Stock</availability>
           <manufacturersku>U9060SFB.47.5</manufacturersku>
-          <price_with_vat>3075</price_with_vat>
+          <price_with_vat>3700</price_with_vat>
           <size>47.5</size>
           <quantity>1</quantity>
         </variation>
