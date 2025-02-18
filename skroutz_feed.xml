@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-18 18:04</created_at>
+  <created_at>2025-02-18 19:04</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4051,7 +4051,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>44</quantity>
+      <quantity>43</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_92f83587-4b6a-4b3f-acc3-11decb796ef5.jpg?v=1733086992</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_b30ae739-1e26-4cce-8d1a-6d4327d962e2.jpg?v=1733086992</image>
@@ -4083,7 +4083,7 @@
           <manufacturersku>CU9225-100.41</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>41</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>52576870400333.42</variationid>
