@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-18 11:04</created_at>
+  <created_at>2025-02-18 12:04</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19087,6 +19087,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Mushroom_Brown-U9060PB_85b21515-ea2b-4727-84f2-f9f42d3abacf.jpg?v=1733113015</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Mushroom_Brown-U9060PB_4e3da7d3-4161-43a4-b6ff-9914371d8ccf.jpg?v=1733113015</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_9060_Mushroom_Brown-U9060PB_31e14722-1143-47b9-99bd-60f7f9aa55b3.jpg?v=1733113015</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>BY9612</id>
+      <name>Yeezy Boost 350 V2 Black Red</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-black-red</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_3946166b-a4ea-4829-8960-9a16e14be82a.jpg?v=1733150424</image>
+      <category>Sneakers</category>
+      <price_with_vat>445</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42 2/3</size>
+      <description>Yeezy Boost 350 V2 Black Red</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_466aaf96-fbf3-40ed-8a64-78b69ede950a.jpg?v=1733150424</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_0d8a3b40-6d33-42d0-a932-8c84aaacf0ba.jpg?v=1733150424</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_412a95e9-a3c3-4f1c-97e6-2e2e69a969b4.jpg?v=1733150424</image>
       </additional_images>
     </product>
   </products>
