@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-18 02:03</created_at>
+  <created_at>2025-02-18 03:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4655,7 +4655,7 @@
       <link>https://www.flowerkickz.gr/products/adidas-campus-00s-core-black</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Campus_00s_Core_Black-HQ8708.jpg?v=1733105929</image>
       <category>Sneakers</category>
-      <price_with_vat>1425</price_with_vat>
+      <price_with_vat>1720</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -4673,7 +4673,7 @@
           <link>https://www.flowerkickz.gr/products/adidas-campus-00s-core-black</link>
           <availability>In Stock</availability>
           <manufacturersku>HQ8708.35</manufacturersku>
-          <price_with_vat>1425</price_with_vat>
+          <price_with_vat>1720</price_with_vat>
           <size>35</size>
           <quantity>1</quantity>
         </variation>
@@ -4895,7 +4895,7 @@
       <link>https://www.flowerkickz.gr/products/adidas-campus-00s-grey-white</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Campus_00s_Grey_White-HQ8707.jpg?v=1733105944</image>
       <category>Sneakers</category>
-      <price_with_vat>1720</price_with_vat>
+      <price_with_vat>2070</price_with_vat>
       <manufacturer>Adidas</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -4913,7 +4913,7 @@
           <link>https://www.flowerkickz.gr/products/adidas-campus-00s-grey-white</link>
           <availability>In Stock</availability>
           <manufacturersku>HQ8707.35</manufacturersku>
-          <price_with_vat>1720</price_with_vat>
+          <price_with_vat>2070</price_with_vat>
           <size>35</size>
           <quantity>1</quantity>
         </variation>
@@ -6093,7 +6093,7 @@
           <link>https://www.flowerkickz.gr/products/adidas-handball-spezial-white-black-gum</link>
           <availability>In Stock</availability>
           <manufacturersku>IE3403.35-1/2</manufacturersku>
-          <price_with_vat>15346530</price_with_vat>
+          <price_with_vat>18415840</price_with_vat>
           <size>35 1/2</size>
           <quantity>1</quantity>
         </variation>
@@ -8383,7 +8383,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-low-elevate-tan-suede</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Elevate_Tan_Suede-DH7004-101.jpg?v=1733100021</image>
       <category>Sneakers</category>
-      <price_with_vat>12510</price_with_vat>
+      <price_with_vat>15020</price_with_vat>
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -12900,7 +12900,7 @@
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-clear-jade</link>
           <availability>In Stock</availability>
           <manufacturersku>DV0833-101.49.5</manufacturersku>
-          <price_with_vat>1765</price_with_vat>
+          <price_with_vat>2125</price_with_vat>
           <size>49.5</size>
           <quantity>2</quantity>
         </variation>
@@ -16679,7 +16679,7 @@
           <link>https://www.flowerkickz.gr/products/nike-dunk-low-retro-gorge-green-midnight-navy</link>
           <availability>In Stock</availability>
           <manufacturersku>DD1503-300.35.5</manufacturersku>
-          <price_with_vat>1955</price_with_vat>
+          <price_with_vat>2355</price_with_vat>
           <size>35.5</size>
           <quantity>1</quantity>
         </variation>
