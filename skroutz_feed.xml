@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-21 11:03</created_at>
+  <created_at>2025-02-21 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -11533,7 +11533,7 @@
       <availability>In Stock</availability>
       <size>36,37,37.5,38,38.5,39.5,40</size>
       <description>New Balance 530 White Blue Oasis</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_530_White_Blue_Oasis-MR530EA_06b48cca-405d-4c4d-9a53-aa8710bfba99.jpg?v=1733113561</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-New_Balance_530_White_Blue_Oasis-MR530EA_927e7471-e903-41b6-a766-67ca05e6316e.jpg?v=1733113561</image>
@@ -11556,7 +11556,7 @@
           <manufacturersku>MR530EA.37</manufacturersku>
           <price_with_vat>260</price_with_vat>
           <size>37</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52580124262733.37.5</variationid>
@@ -11617,7 +11617,7 @@
       <availability>In Stock</availability>
       <size>37,39.5,40,42.5,44</size>
       <description>New Balance MR 530 SG White Navy</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_66473b38-5f2e-49c2-b98b-3b58568919cb.jpg?v=1733147216</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_57e2dc66-1d43-4acc-b8ac-51f25f557e90.jpg?v=1733147216</image>
@@ -11667,7 +11667,7 @@
           <manufacturersku>MR530SG.44</manufacturersku>
           <price_with_vat>275</price_with_vat>
           <size>44</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
