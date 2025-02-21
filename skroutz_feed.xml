@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-21 10:03</created_at>
+  <created_at>2025-02-21 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -11012,7 +11012,7 @@
       <availability>In Stock</availability>
       <size>41,47,47.5</size>
       <description>Air Jordan 4 Retro Military Black</description>
-      <quantity>14</quantity>
+      <quantity>13</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Military_Black-DH6927-111_c2a56963-d805-4a5c-bd1d-ea51443abdfb.jpg?v=1733095169</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Military_Black-DH6927-111_c47a50a7-9a87-499f-aa26-be0101cc5cd4.jpg?v=1733095169</image>
@@ -11026,7 +11026,7 @@
           <manufacturersku>DH6927-111.41</manufacturersku>
           <price_with_vat>1055</price_with_vat>
           <size>41</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52577751105869.47</variationid>
