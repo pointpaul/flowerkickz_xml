@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-22 03:03</created_at>
+  <created_at>2025-02-22 04:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2999,7 +2999,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
           <availability>In Stock</availability>
           <manufacturersku>FV5029-141.35.5</manufacturersku>
-          <price_with_vat>19021000</price_with_vat>
+          <price_with_vat>22825200</price_with_vat>
           <size>35.5</size>
           <quantity>1</quantity>
         </variation>
@@ -11531,7 +11531,7 @@
       <manufacturer>New Balance</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>36,37,37.5,38,38.5,39.5,40</size>
+      <size>36,37.5,38,38.5,39.5,40</size>
       <description>New Balance 530 White Blue Oasis</description>
       <quantity>6</quantity>
       <additional_images>
@@ -11548,15 +11548,6 @@
           <price_with_vat>275</price_with_vat>
           <size>36</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52580124262733.37</variationid>
-          <link>https://www.flowerkickz.gr/products/new-balance-530-white-blue-oasis</link>
-          <availability>In Stock</availability>
-          <manufacturersku>MR530EA.37</manufacturersku>
-          <price_with_vat>260</price_with_vat>
-          <size>37</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52580124262733.37.5</variationid>
@@ -11615,7 +11606,7 @@
       <manufacturer>New Balance</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>37,39.5,40,42.5,44</size>
+      <size>37,39.5,40,42.5</size>
       <description>New Balance MR 530 SG White Navy</description>
       <quantity>7</quantity>
       <additional_images>
@@ -11659,15 +11650,6 @@
           <price_with_vat>260</price_with_vat>
           <size>42.5</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52577226129741.44</variationid>
-          <link>https://www.flowerkickz.gr/products/new-balance-mr-530-sg-white-navy</link>
-          <availability>In Stock</availability>
-          <manufacturersku>MR530SG.44</manufacturersku>
-          <price_with_vat>275</price_with_vat>
-          <size>44</size>
-          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
