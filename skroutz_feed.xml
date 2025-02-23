@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-23 03:03</created_at>
+  <created_at>2025-02-23 04:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -708,38 +708,18 @@
       <quantity>1</quantity>
     </product>
     <product>
-      <id>15629672</id>
+      <id>39884711</id>
       <name>Fear of God Essentials Tee Sand SS23</name>
       <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/shirtsandss23.png?v=1688997835</image>
       <category>Sneakers</category>
       <price_with_vat>150</price_with_vat>
       <manufacturer>Essentials</manufacturer>
-      <ean>75890765</ean>
+      <ean>79003725</ean>
       <availability>In Stock</availability>
-      <size>LARGE,MEDIUM</size>
+      <size>LARGE</size>
       <description>Fear of God Essentials Tee Sand SS23</description>
       <quantity>2</quantity>
-      <variations>
-        <variation>
-          <variationid>49041472422221.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
-          <availability>In Stock</availability>
-          <manufacturersku>15629672.LARGE</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>LARGE</size>
-          <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>49041472422221.MEDIUM</variationid>
-          <link>https://www.flowerkickz.gr/products/fear-of-god-essentials-t-shirt-sand-ss23</link>
-          <availability>In Stock</availability>
-          <manufacturersku>15629672.MEDIUM</manufacturersku>
-          <price_with_vat>150</price_with_vat>
-          <size>MEDIUM</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id>96119478</id>
@@ -6136,7 +6116,7 @@
       <manufacturer>Adidas</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>38,38 2/3,39 1/3,40</size>
+      <size>38,38 2/3,40</size>
       <description>Adidas Handball Spezial Wonder Silver Gum</description>
       <quantity>5</quantity>
       <additional_images>
@@ -6162,15 +6142,6 @@
           <price_with_vat>170</price_with_vat>
           <size>38 2/3</size>
           <quantity>2</quantity>
-        </variation>
-        <variation>
-          <variationid>52580219617613.39-1/3</variationid>
-          <link>https://www.flowerkickz.gr/products/adidas-handball-spezial-wonder-silver-gum</link>
-          <availability>In Stock</availability>
-          <manufacturersku>IF6491.39-1/3</manufacturersku>
-          <price_with_vat>205</price_with_vat>
-          <size>39 1/3</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52580219617613.40</variationid>
@@ -10719,25 +10690,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_11_Retro_Cherry_2022_-CT8012-116_8c6b6c89-3fed-4644-a744-e36d756aa617.jpg?v=1733101437</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_11_Retro_Cherry_2022_-CT8012-116_97e27141-1b75-450b-8787-71f495e2691f.jpg?v=1733101437</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_11_Retro_Cherry_2022_-CT8012-116_78657c15-771c-4380-aab1-4d4a5a723d5e.jpg?v=1733101437</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>DN3802-001</id>
-      <name>Air Jordan 2 Retro SP Union Grey Fog</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-2-retro-sp-union-grey-fog</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_bd5836ba-13de-4329-ad45-3a5d4f00b165.jpg?v=1733130822</image>
-      <category>Sneakers</category>
-      <price_with_vat>375</price_with_vat>
-      <manufacturer>Jordan</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>46</size>
-      <description>Air Jordan 2 Retro SP Union Grey Fog</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_8ab89797-8503-4b57-96fd-26ef6ba493df.jpg?v=1733130822</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_4c9b1196-398e-4730-8250-e302a99d5f22.jpg?v=1733130822</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_cb3a0ae8-1a4c-402d-8961-c5e1ebf3d6c2.jpg?v=1733130822</image>
       </additional_images>
     </product>
     <product>
