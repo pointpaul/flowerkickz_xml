@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-24 13:03</created_at>
+  <created_at>2025-02-24 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1923,7 +1923,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic Tee Black Red</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_720d8b65-6be2-4612-87a4-0e90d083d92a.png?v=1725370199</image>
       </additional_images>
@@ -1944,7 +1944,7 @@
           <manufacturersku>476352.MEDIUM</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52168761704781.SMALL</variationid>
