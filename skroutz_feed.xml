@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-25 20:03</created_at>
+  <created_at>2025-02-25 21:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -16061,7 +16061,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47,47.5</size>
       <description>Air Force 1 Low '07 White</description>
-      <quantity>120</quantity>
+      <quantity>119</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f4253e77-e740-44f8-9e79-5f3c4c0497c9.png?v=1738313375</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_147c72de-5ed0-4c6a-949f-66be9c7ae244.png?v=1738313376</image>
@@ -16101,7 +16101,7 @@
           <manufacturersku>315122-111/CW2288-111.42</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>42</size>
-          <quantity>10</quantity>
+          <quantity>9</quantity>
         </variation>
         <variation>
           <variationid>52983176069453.42.5</variationid>
