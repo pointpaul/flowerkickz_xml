@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-25 11:03</created_at>
+  <created_at>2025-02-25 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -9492,7 +9492,7 @@
       <availability>In Stock</availability>
       <size>42.5,43,44</size>
       <description>Air Jordan 1 Mid SE Light Mulberry</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_SE_Light_Mulberry-DC7267-500_b0715a77-e0e8-4ebd-8a46-0783894bed71.jpg?v=1733095392</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_SE_Light_Mulberry-DC7267-500_1f342856-ca43-4a88-be92-12f231d9e714.jpg?v=1733095392</image>
@@ -9506,7 +9506,7 @@
           <manufacturersku>DC7267-500.42.5</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>42.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577769652557.43</variationid>
@@ -19022,6 +19022,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_466aaf96-fbf3-40ed-8a64-78b69ede950a.jpg?v=1733150424</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_0d8a3b40-6d33-42d0-a932-8c84aaacf0ba.jpg?v=1733150424</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_412a95e9-a3c3-4f1c-97e6-2e2e69a969b4.jpg?v=1733150424</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>CZ0790-041</id>
+      <name>Air Jordan 1 Retro Low OG Mystic Navy</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-low-og-mystic-navy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_Mystic_Navy-CZ0790-041.jpg?v=1733096535</image>
+      <category>Sneakers</category>
+      <price_with_vat>275</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42</size>
+      <description>Air Jordan 1 Retro Low OG Mystic Navy</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_Mystic_Navy-CZ0790-041_9ab672af-e4b0-460a-9be2-76e75ab7c3bd.jpg?v=1733096535</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_Mystic_Navy-CZ0790-041_b0c4bfcb-6ef9-41c1-bbef-01917d6ddcbe.jpg?v=1733096535</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_Mystic_Navy-CZ0790-041_c31cfc97-d2bd-4c0c-bbb6-9145bd73d512.jpg?v=1733096535</image>
       </additional_images>
     </product>
   </products>
