@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-26 03:03</created_at>
+  <created_at>2025-02-26 04:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2961,7 +2961,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-military-blue-2024</link>
           <availability>In Stock</availability>
           <manufacturersku>FV5029-141.35.5</manufacturersku>
-          <price_with_vat>39441950</price_with_vat>
+          <price_with_vat>47330345</price_with_vat>
           <size>35.5</size>
           <quantity>1</quantity>
         </variation>
@@ -9486,11 +9486,11 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-se-light-mulberry</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_SE_Light_Mulberry-DC7267-500.jpg?v=1733095392</image>
       <category>Sneakers</category>
-      <price_with_vat>230</price_with_vat>
+      <price_with_vat>310</price_with_vat>
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>42.5,43,44</size>
+      <size>43,44</size>
       <description>Air Jordan 1 Mid SE Light Mulberry</description>
       <quantity>2</quantity>
       <additional_images>
@@ -9500,16 +9500,7 @@
       </additional_images>
       <variations>
         <variation>
-          <variationid>52577769652557.42.5</variationid>
-          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-se-light-mulberry</link>
-          <availability>In Stock</availability>
-          <manufacturersku>DC7267-500.42.5</manufacturersku>
-          <price_with_vat>230</price_with_vat>
-          <size>42.5</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52577769652557.43</variationid>
+          <variationid>52577769685325.43</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-se-light-mulberry</link>
           <availability>In Stock</availability>
           <manufacturersku>DC7267-500.43</manufacturersku>
@@ -9518,7 +9509,7 @@
           <quantity>1</quantity>
         </variation>
         <variation>
-          <variationid>52577769652557.44</variationid>
+          <variationid>52577769685325.44</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-se-light-mulberry</link>
           <availability>In Stock</availability>
           <manufacturersku>DC7267-500.44</manufacturersku>
