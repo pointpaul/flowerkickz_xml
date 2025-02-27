@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-02-27 12:03</created_at>
+  <created_at>2025-02-27 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -719,7 +719,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Fear of God Essentials Tee Sand SS23</description>
-      <quantity>2</quantity>
+      <quantity>3</quantity>
     </product>
     <product>
       <id>96119478</id>
@@ -19052,6 +19052,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_Mystic_Navy-CZ0790-041_9ab672af-e4b0-460a-9be2-76e75ab7c3bd.jpg?v=1733096535</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_Mystic_Navy-CZ0790-041_b0c4bfcb-6ef9-41c1-bbef-01917d6ddcbe.jpg?v=1733096535</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_Mystic_Navy-CZ0790-041_c31cfc97-d2bd-4c0c-bbb6-9145bd73d512.jpg?v=1733096535</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>U9060TAT</id>
+      <name>New Balance 9060 Turtledove</name>
+      <link>https://www.flowerkickz.gr/products/new-balance-9060-turtledove</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_26b33c2b-198c-4f89-853f-b0fdf2cf3e99.jpg?v=1733135308</image>
+      <category>Sneakers</category>
+      <price_with_vat>410</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>37</size>
+      <description>New Balance 9060 Turtledove</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_64842cb8-4dc6-4f92-83ba-ce2a82e5138a.jpg?v=1733135308</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c6124862-0a25-4a95-a416-d2cc320cd7ce.jpg?v=1733135309</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_97156d5f-40a4-4525-add7-88c3353039a4.jpg?v=1733135309</image>
       </additional_images>
     </product>
   </products>
