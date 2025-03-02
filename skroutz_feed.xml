@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-02 03:03</created_at>
+  <created_at>2025-03-02 04:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3692,31 +3692,11 @@
       <category>Sneakers</category>
       <price_with_vat>170</price_with_vat>
       <manufacturer>STUSSY</manufacturer>
-      <ean>66806892</ean>
+      <ean>37729530</ean>
       <availability>In Stock</availability>
-      <size>LARGE,SMALL</size>
+      <size>LARGE</size>
       <description>Stüssy Tee Surfwalk Black</description>
       <quantity>1</quantity>
-      <variations>
-        <variation>
-          <variationid>52706202091853.LARGE</variationid>
-          <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>None.LARGE</manufacturersku>
-          <price_with_vat>170</price_with_vat>
-          <size>LARGE</size>
-          <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52706202091853.SMALL</variationid>
-          <link>https://www.flowerkickz.gr/products/stussy-tee-surfwalk-black</link>
-          <availability>In Stock</availability>
-          <manufacturersku>None.SMALL</manufacturersku>
-          <price_with_vat>170</price_with_vat>
-          <size>SMALL</size>
-          <quantity>0</quantity>
-        </variation>
-      </variations>
     </product>
     <product>
       <id/>
