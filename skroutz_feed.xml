@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-04 13:03</created_at>
+  <created_at>2025-03-04 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -10734,7 +10734,7 @@
       <availability>In Stock</availability>
       <size>45.5,46</size>
       <description>Air Jordan 4 Retro SE Black Canvas</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Black_Canvas-DH7138-006_633b38ad-fcf5-4791-a145-a62a29197cf8.jpg?v=1733098274</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Black_Canvas-DH7138-006_f30906ce-c474-4132-8b74-c2e5cf7590ba.jpg?v=1733098274</image>
@@ -10757,7 +10757,7 @@
           <manufacturersku>DH7138-006.46</manufacturersku>
           <price_with_vat>660</price_with_vat>
           <size>46</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -10851,7 +10851,7 @@
       <availability>In Stock</availability>
       <size>44,45,45.5,46,49.5</size>
       <description>Air Jordan 4 Midnight Navy</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Midnight_Navy-DH6927-140_06eef3e9-2c69-4eb3-b043-f5ba519cd1b8.jpg?v=1733099061</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Midnight_Navy-DH6927-140_59e36a1c-bdb5-488d-84f4-ea4157810a6f.jpg?v=1733099061</image>
@@ -10892,7 +10892,7 @@
           <manufacturersku>DH6927-140.46</manufacturersku>
           <price_with_vat>690</price_with_vat>
           <size>46</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578074198349.49.5</variationid>
