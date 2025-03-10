@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-10 14:03</created_at>
+  <created_at>2025-03-10 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -16260,13 +16260,22 @@
       <manufacturer>UGG</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>39,41</size>
+      <size>38,39,41</size>
       <description>UGG Funkette Slipper Chestnut</description>
       <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzUGG_Funkette_Slipper_Chestnut-1113474-CHE-1.jpg?v=1731685818</image>
       </additional_images>
       <variations>
+        <variation>
+          <variationid>52578536751437.38</variationid>
+          <link>https://www.flowerkickz.gr/products/ugg-funkette-slipper-chestnut</link>
+          <availability>In Stock</availability>
+          <manufacturersku>1113474-CHE.38</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
+        </variation>
         <variation>
           <variationid>52578536751437.39</variationid>
           <link>https://www.flowerkickz.gr/products/ugg-funkette-slipper-chestnut</link>
@@ -18356,7 +18365,7 @@
       <availability>In Stock</availability>
       <size>X-LARGE</size>
       <description>Bape Tee A Bathing Ape ABC Camo College White</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id/>
@@ -19032,6 +19041,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_64842cb8-4dc6-4f92-83ba-ce2a82e5138a.jpg?v=1733135308</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c6124862-0a25-4a95-a416-d2cc320cd7ce.jpg?v=1733135309</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_97156d5f-40a4-4525-add7-88c3353039a4.jpg?v=1733135309</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FZ4616-600</id>
+      <name>Nike Dunk Low Dark Team Red Black</name>
+      <link>https://www.flowerkickz.gr/products/nike-dunk-low-dark-team-red-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_dc2dce4b-3f3a-4c1d-8308-91abcf521b84.jpg?v=1733147485</image>
+      <category>Sneakers</category>
+      <price_with_vat>205</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42</size>
+      <description>Nike Dunk Low Dark Team Red Black</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_2e769f27-6559-4dce-8255-294551392389.jpg?v=1733147485</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_f3ac9cb1-df2e-4b14-beab-970fabd5c5ce.jpg?v=1733147485</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_93df2ce9-f971-43a1-b5a1-9d07d9c2238c.jpg?v=1733147485</image>
       </additional_images>
     </product>
   </products>
