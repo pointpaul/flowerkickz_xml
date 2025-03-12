@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-12 18:03</created_at>
+  <created_at>2025-03-12 19:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7364,7 +7364,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5</size>
       <description>Yeezy Foam RNR MX Granite</description>
-      <quantity>26</quantity>
+      <quantity>25</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_9dbc2635-1fa4-4825-9467-4301589324d9.jpg?v=1733150911</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c9570fdf-2536-4482-9543-30c4859796b0.jpg?v=1733150911</image>
@@ -7432,7 +7432,7 @@
           <manufacturersku>IE4931.44.5</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>44.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52580216504653.46</variationid>
