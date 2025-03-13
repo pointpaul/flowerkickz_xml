@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-13 11:03</created_at>
+  <created_at>2025-03-13 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19069,6 +19069,24 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_2e769f27-6559-4dce-8255-294551392389.jpg?v=1733147485</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_f3ac9cb1-df2e-4b14-beab-970fabd5c5ce.jpg?v=1733147485</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_93df2ce9-f971-43a1-b5a1-9d07d9c2238c.jpg?v=1733147485</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FN8675-104</id>
+      <name>Nike Jordan Air Ship PE SP Awake NY Game Royal</name>
+      <link>https://www.flowerkickz.gr/products/nike-jordan-air-ship-pe-sp-awake-ny-game-royal</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_5ac21efe-52b4-469a-b081-44a96f8e775c.png?v=1741863935</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44</size>
+      <description>Nike Jordan Air Ship PE SP Awake NY Game Royal</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_d19b20eb-eece-4b62-a32b-7f996d446d8a.png?v=1741863936</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_8fdb65cd-7249-4e61-b6e5-89e8d30a14f8.png?v=1741863935</image>
       </additional_images>
     </product>
   </products>
