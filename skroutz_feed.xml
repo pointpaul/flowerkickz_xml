@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-15 16:03</created_at>
+  <created_at>2025-03-15 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4104,7 +4104,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,46,47,48.5</size>
       <description>Yeezy Foam RNNR Onyx</description>
-      <quantity>24</quantity>
+      <quantity>23</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Foam_RNNR_Onyx-HP8739_cd69a2d4-b832-4f1a-a0b9-1cdc63976a96.jpg?v=1733095676</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Foam_RNNR_Onyx-HP8739_af096810-5c74-443c-8338-c08278247bd7.jpg?v=1733095676</image>
@@ -4136,7 +4136,7 @@
           <manufacturersku>HP8739.39</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>39</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52577789083981.40.5</variationid>
