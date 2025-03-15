@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-15 08:03</created_at>
+  <created_at>2025-03-15 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -18618,7 +18618,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE</size>
       <description>Bape Tee Color Camo a NYC Logo</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>52529877090637.LARGE</variationid>
@@ -18627,7 +18627,7 @@
           <manufacturersku>None.LARGE</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52529877090637.SMALL</variationid>
