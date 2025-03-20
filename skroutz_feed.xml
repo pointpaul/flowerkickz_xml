@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-20 20:03</created_at>
+  <created_at>2025-03-20 21:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3491,7 +3491,7 @@
       <availability>In Stock</availability>
       <size>X-LARGE,X-SMALL</size>
       <description>Stüssy Tee Basic White</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYBASICWHITEFRONT.png?v=1717054812</image>
       </additional_images>
@@ -3512,7 +3512,7 @@
           <manufacturersku>None.X-SMALL</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
       </variations>
     </product>
