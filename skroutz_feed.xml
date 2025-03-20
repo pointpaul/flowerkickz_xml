@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-20 17:03</created_at>
+  <created_at>2025-03-20 18:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1923,7 +1923,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic Tee Black Red</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_720d8b65-6be2-4612-87a4-0e90d083d92a.png?v=1725370199</image>
       </additional_images>
@@ -1962,7 +1962,7 @@
           <manufacturersku>476352.X-SMALL</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52168761704781.Χ-LARGE</variationid>
@@ -2568,7 +2568,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,38,38 2/3,39 1/3,40,40 2/3,41 1/3,49</size>
       <description>Yeezy Boost 350 V2 Onyx</description>
-      <quantity>65</quantity>
+      <quantity>64</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Onyx-HQ4540_e0f8f3ca-978a-44dd-b509-cb7193fbe134.jpg?v=1733097530</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Onyx-HQ4540_6a48cd56-59b6-4d5b-b663-876185f84f18.jpg?v=1733097530</image>
@@ -2618,7 +2618,7 @@
           <manufacturersku>HQ4540.38-2/3</manufacturersku>
           <price_with_vat>465</price_with_vat>
           <size>38 2/3</size>
-          <quantity>11</quantity>
+          <quantity>10</quantity>
         </variation>
         <variation>
           <variationid>52577943748941.39-1/3</variationid>
@@ -7072,7 +7072,7 @@
       <availability>In Stock</availability>
       <size>36,37 1/3,38,38 2/3,41 1/3,42,42 2/3,43 1/3,45 1/3,46</size>
       <description>Yeezy Boost 350 V2 Static</description>
-      <quantity>24</quantity>
+      <quantity>22</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_abb470d7-5bad-4cd3-9b84-e20f58ae7bfd.jpg?v=1733150653</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_b8a7663d-a551-4aaa-bf2b-ff7719fe6115.jpg?v=1733150653</image>
@@ -7104,7 +7104,7 @@
           <manufacturersku>EF2905.38</manufacturersku>
           <price_with_vat>385</price_with_vat>
           <size>38</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52576777109837.38-2/3</variationid>
@@ -7113,7 +7113,7 @@
           <manufacturersku>EF2905.38-2/3</manufacturersku>
           <price_with_vat>400</price_with_vat>
           <size>38 2/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52576777109837.41-1/3</variationid>
@@ -16159,7 +16159,7 @@
       <availability>In Stock</availability>
       <size>36,37.5,38,38.5</size>
       <description>New Balance 530 White Violet</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_85c0b008-2a04-45a9-a955-c7ec88d5bcf5.png?v=1738314020</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_12ad7035-e2b8-4f3c-843a-3f740b9473cd.png?v=1738314020</image>
@@ -16199,7 +16199,7 @@
           <manufacturersku>MR530RE.38.5</manufacturersku>
           <price_with_vat>155</price_with_vat>
           <size>38.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
