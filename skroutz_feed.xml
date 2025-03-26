@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-26 14:03</created_at>
+  <created_at>2025-03-26 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -521,7 +521,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Shorts Stretch-Limo</description>
-      <quantity>23</quantity>
+      <quantity>22</quantity>
       <variations>
         <variation>
           <variationid>49041182196045.LARGE</variationid>
@@ -548,7 +548,7 @@
           <manufacturersku>54608014.X-LARGE</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>12</quantity>
+          <quantity>11</quantity>
         </variation>
         <variation>
           <variationid>49041182196045.X-SMALL</variationid>
@@ -747,7 +747,7 @@
       <availability>In Stock</availability>
       <size>LARGE,X-LARGE</size>
       <description>Fear of God Essentials Tee Stretch-Limo</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>49041271456077.LARGE</variationid>
@@ -765,7 +765,7 @@
           <manufacturersku>80997194.X-LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -17830,7 +17830,7 @@
       <availability>In Stock</availability>
       <size>X-LARGE</size>
       <description>Stüssy Tee Basic Black</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYBASICBLACKFRON_7ffb6d28-27b5-4803-ae4a-8336ccb2fe3d.png?v=1716980571</image>
       </additional_images>
