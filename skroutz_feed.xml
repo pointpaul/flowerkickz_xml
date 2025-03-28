@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-28 13:03</created_at>
+  <created_at>2025-03-28 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2949,7 +2949,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,37.5,42,42.5,43,44.5</size>
       <description>Air Jordan 4 Retro Military Blue (2024)</description>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Military_Blue_2024_-FV5029-141_8a7e666a-570c-46cf-bfe7-3cf7f03ec3d8.jpg?v=1733116010</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Military_Blue_2024_-FV5029-141_41f9e96d-1b6c-4bff-b616-122ad2820ed9.jpg?v=1733116010</image>
@@ -3017,7 +3017,7 @@
           <manufacturersku>FV5029-141.44.5</manufacturersku>
           <price_with_vat>420</price_with_vat>
           <size>44.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -8332,7 +8332,7 @@
       <availability>In Stock</availability>
       <size>37.5,38,38.5,40,40.5</size>
       <description>Air Jordan 1 Low Lemonade</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Lemonade-DC0774-007_5361fa60-80e7-40e7-84d2-c5c6c7f4517b.jpg?v=1733095963</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Lemonade-DC0774-007_0a29b762-5064-405e-b3c0-2668405cb680.jpg?v=1733095963</image>
@@ -8355,7 +8355,7 @@
           <manufacturersku>DC0774-007.38</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>38</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52577815888205.38.5</variationid>
