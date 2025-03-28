@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-28 15:03</created_at>
+  <created_at>2025-03-28 16:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7514,7 +7514,7 @@
       <availability>In Stock</availability>
       <size>37,42,43,44.5,48.5</size>
       <description>Yeezy Slide Glow Green (Restock Pair 2022)</description>
-      <quantity>18</quantity>
+      <quantity>17</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Glow_Green_Restock_Pair_2022_-HQ6447_57c8903c-7bee-448e-8bb8-2a13d707f2fb.jpg?v=1733095524</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Glow_Green_Restock_Pair_2022_-HQ6447_31bb3ffd-c40e-4ed7-a60b-8def72ee1050.jpg?v=1733095524</image>
@@ -7546,7 +7546,7 @@
           <manufacturersku>HQ6447.43</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>43</size>
-          <quantity>12</quantity>
+          <quantity>11</quantity>
         </variation>
         <variation>
           <variationid>52577776533837.44.5</variationid>
@@ -18486,7 +18486,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,X-LARGE</size>
       <description>Bape Tee Flyer Pattern Print</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>52527839674701.LARGE</variationid>
@@ -18504,7 +18504,7 @@
           <manufacturersku>None.MEDIUM</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52527839674701.X-LARGE</variationid>
