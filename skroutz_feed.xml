@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-31 11:03</created_at>
+  <created_at>2025-03-31 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2949,7 +2949,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,37.5,42,42.5,43,44.5</size>
       <description>Air Jordan 4 Retro Military Blue (2024)</description>
-      <quantity>16</quantity>
+      <quantity>15</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Military_Blue_2024_-FV5029-141_8a7e666a-570c-46cf-bfe7-3cf7f03ec3d8.jpg?v=1733116010</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Military_Blue_2024_-FV5029-141_41f9e96d-1b6c-4bff-b616-122ad2820ed9.jpg?v=1733116010</image>
@@ -2999,7 +2999,7 @@
           <manufacturersku>FV5029-141.42.5</manufacturersku>
           <price_with_vat>420</price_with_vat>
           <size>42.5</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>52580996809037.43</variationid>
@@ -19347,6 +19347,25 @@
       <size>One Size</size>
       <description>Sprayground Ai Pink Fur Backpack</description>
       <quantity>1</quantity>
+    </product>
+    <product>
+      <id>FQ7331-001</id>
+      <name>Air Max Plus Premium Black Racer Blue</name>
+      <link>https://www.flowerkickz.gr/products/air-max-plus-premium-black-racer-blue</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Max_Plus_Premium_Black_Racer_Blue-FQ7331-001.jpg?v=1733119169</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40.5</size>
+      <description>Air Max Plus Premium Black Racer Blue</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Max_Plus_Premium_Black_Racer_Blue-FQ7331-001_0553bc75-9263-43fc-ae0e-5d8d661437a1.jpg?v=1733119169</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Max_Plus_Premium_Black_Racer_Blue-FQ7331-001_bd526681-b093-4234-a6d2-696a6154ec1c.jpg?v=1733119169</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Max_Plus_Premium_Black_Racer_Blue-FQ7331-001_d502e261-dec3-47f8-9cdb-dedfaea02b17.jpg?v=1733119169</image>
+      </additional_images>
     </product>
   </products>
 </FlowerKickz>
