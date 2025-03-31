@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-03-31 14:03</created_at>
+  <created_at>2025-03-31 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -625,7 +625,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Shorts Dark Oatmeal</description>
-      <quantity>12</quantity>
+      <quantity>11</quantity>
       <variations>
         <variation>
           <variationid>49041225384269.LARGE</variationid>
@@ -661,7 +661,7 @@
           <manufacturersku>91455455.X-SMALL</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
       </variations>
     </product>
@@ -719,7 +719,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Fear of God Essentials Tee Sand SS23</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
     </product>
     <product>
       <id>96119478</id>
@@ -3491,7 +3491,7 @@
       <availability>In Stock</availability>
       <size>X-LARGE,X-SMALL</size>
       <description>Stüssy Tee Basic White</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/STUSSYBASICWHITEFRONT.png?v=1717054812</image>
       </additional_images>
@@ -3512,7 +3512,7 @@
           <manufacturersku>None.X-SMALL</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
       </variations>
     </product>
