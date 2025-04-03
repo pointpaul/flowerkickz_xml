@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-03 09:03</created_at>
+  <created_at>2025-04-03 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2949,7 +2949,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,37.5,42,42.5,43,44.5</size>
       <description>Air Jordan 4 Retro Military Blue (2024)</description>
-      <quantity>15</quantity>
+      <quantity>14</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Military_Blue_2024_-FV5029-141_8a7e666a-570c-46cf-bfe7-3cf7f03ec3d8.jpg?v=1733116010</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Military_Blue_2024_-FV5029-141_41f9e96d-1b6c-4bff-b616-122ad2820ed9.jpg?v=1733116010</image>
@@ -2990,7 +2990,7 @@
           <manufacturersku>FV5029-141.42</manufacturersku>
           <price_with_vat>420</price_with_vat>
           <size>42</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52580996809037.42.5</variationid>
@@ -3156,7 +3156,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>68</quantity>
+      <quantity>67</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
@@ -3215,7 +3215,7 @@
           <manufacturersku>ID5103.43</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>43</size>
-          <quantity>7</quantity>
+          <quantity>6</quantity>
         </variation>
         <variation>
           <variationid>52580198220109.44.5</variationid>
@@ -3753,7 +3753,7 @@
       <availability>In Stock</availability>
       <size>SMALL</size>
       <description>Stüssy Tee Tucan White</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>GZ0953</id>
@@ -8096,7 +8096,7 @@
       <availability>In Stock</availability>
       <size>40,42,42.5,44,44.5,46</size>
       <description>Air Jordan 1 Low Bred Toe (2021)</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Bred_Toe_2021_-553558-612_2435cc22-27a1-436b-9aff-dbc97e2fadef.jpg?v=1733091656</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Bred_Toe_2021_-553558-612_ab8de0d8-e460-4fe2-b838-5ca7099ce858.jpg?v=1733091656</image>
@@ -8119,7 +8119,7 @@
           <manufacturersku>553558-612.42</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>42</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577364705613.42.5</variationid>
@@ -17915,7 +17915,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE</size>
       <description>Bape Tee 1st Camo College White</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>52530009473357.LARGE</variationid>
@@ -17933,7 +17933,7 @@
           <manufacturersku>None.SMALL</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52530009473357.X-LARGE</variationid>
