@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-03 10:03</created_at>
+  <created_at>2025-04-03 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -573,7 +573,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Shorts Light Oatmeal</description>
-      <quantity>3</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>49041194582349.LARGE</variationid>
@@ -582,7 +582,7 @@
           <manufacturersku>10147271.LARGE</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49041194582349.SMALL</variationid>
@@ -609,7 +609,7 @@
           <manufacturersku>10147271.X-SMALL</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -863,7 +863,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,X-LARGE</size>
       <description>Fear of God Essentials Shorts Off-Black SS23</description>
-      <quantity>13</quantity>
+      <quantity>12</quantity>
       <variations>
         <variation>
           <variationid>49041107353933.LARGE</variationid>
@@ -872,7 +872,7 @@
           <manufacturersku>47432195.LARGE</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>LARGE</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>49041107353933.MEDIUM</variationid>
@@ -10965,7 +10965,7 @@
       <availability>In Stock</availability>
       <size>36,36.5,40,43,45.5,47.5</size>
       <description>Air Jordan 4 Retro Oxidized Green</description>
-      <quantity>8</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Oxidized_Green-FQ8138-103_a356e9fb-bc92-4cbb-890e-982ff868f455.jpg?v=1733117242</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Oxidized_Green-FQ8138-103_77662714-b4f6-413c-b9df-f44952b38e2d.jpg?v=1733117242</image>
@@ -10997,7 +10997,7 @@
           <manufacturersku>FQ8138-103.40</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>40</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52581087248717.43</variationid>
@@ -11250,15 +11250,24 @@
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>40.5,41,42,43,44,48.5</size>
+      <size>38.5,40.5,41,42,43,44,48.5</size>
       <description>Air Jordan 4 Retro SE Craft Photon Dust</description>
-      <quantity>11</quantity>
+      <quantity>12</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Craft_Photon_Dust-DV3742-021_807c16e0-4d62-4340-b180-3fa9af645413.jpg?v=1733101731</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Craft_Photon_Dust-DV3742-021_9a99fa6b-d1e4-4b3c-8c13-91368159c694.jpg?v=1733101731</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Craft_Photon_Dust-DV3742-021_2876bad9-a734-4914-9aff-d1eccc54d088.jpg?v=1733101731</image>
       </additional_images>
       <variations>
+        <variation>
+          <variationid>52578347581773.38.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-se-craft-photon-dust</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DV3742-021.38.5</manufacturersku>
+          <price_with_vat>310</price_with_vat>
+          <size>38.5</size>
+          <quantity>1</quantity>
+        </variation>
         <variation>
           <variationid>52578347581773.40.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-se-craft-photon-dust</link>
