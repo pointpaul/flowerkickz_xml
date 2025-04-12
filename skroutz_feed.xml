@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-12 14:03</created_at>
+  <created_at>2025-04-12 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3576,7 +3576,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL</size>
       <description>Stüssy Tee Dot Stamp Black</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <variations>
         <variation>
           <variationid>52706080817485.LARGE</variationid>
@@ -3585,7 +3585,7 @@
           <manufacturersku>None.LARGE</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52706080817485.MEDIUM</variationid>
@@ -18906,7 +18906,7 @@
       <availability>In Stock</availability>
       <size>X-LARGE</size>
       <description>Fear of God Essentials Tee Desert Taupe</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>64209670</id>
