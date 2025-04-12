@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-12 10:03</created_at>
+  <created_at>2025-04-12 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -8219,7 +8219,7 @@
       <availability>In Stock</availability>
       <size>35.5,37.5,38,38.5,39,40</size>
       <description>Air Jordan 1 Low Desert Berry</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Desert_Berry-553560-616_bd41a4f0-e464-4594-ad7f-5710160bfaab.jpg?v=1733106080</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Desert_Berry-553560-616_8d3fb230-f492-4ea4-b471-8fc0f272057a.jpg?v=1733106080</image>
@@ -8278,7 +8278,7 @@
           <manufacturersku>553560-616.40</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>40</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
