@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-14 11:26</created_at>
+  <created_at>2025-04-14 12:00</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -507,7 +507,7 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>Trapstar Irongate T Cross-Body Bag Black</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
     </product>
     <product>
       <id>54608014</id>
@@ -7580,7 +7580,7 @@
       <availability>In Stock</availability>
       <size>38,42,43</size>
       <description>Yeezy Slide Ochre</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_6e022baa-9f70-44f4-8cd7-c6c27598e492.jpg?v=1733150973</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_563e9612-58d1-4fa7-8de7-821a4749fea9.jpg?v=1733150973</image>
@@ -7594,7 +7594,7 @@
           <manufacturersku>GW1931.38</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>38</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52577777746253.42</variationid>
@@ -19374,6 +19374,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Max_Plus_Premium_Black_Racer_Blue-FQ7331-001_0553bc75-9263-43fc-ae0e-5d8d661437a1.jpg?v=1733119169</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Max_Plus_Premium_Black_Racer_Blue-FQ7331-001_bd526681-b093-4234-a6d2-696a6154ec1c.jpg?v=1733119169</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Max_Plus_Premium_Black_Racer_Blue-FQ7331-001_d502e261-dec3-47f8-9cdb-dedfaea02b17.jpg?v=1733119169</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>AQ9129-101</id>
+      <name>Air Jordan 4 Retro Vivid Sulfur</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-vivid-sulfur</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Vivid_Sulfur-AQ9129-101.jpg?v=1733114806</image>
+      <category>Sneakers</category>
+      <price_with_vat>330</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40</size>
+      <description>Air Jordan 4 Retro Vivid Sulfur</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Vivid_Sulfur-AQ9129-101_c3761e9b-dcb8-4656-9c9b-e229fa9e69e0.jpg?v=1733114806</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Vivid_Sulfur-AQ9129-101_4da0f698-f727-40a9-a4f7-8ae3a8d06569.jpg?v=1733114806</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Vivid_Sulfur-AQ9129-101_ed712388-3087-419e-91dc-4cf9c31f3082.jpg?v=1733114806</image>
       </additional_images>
     </product>
   </products>
