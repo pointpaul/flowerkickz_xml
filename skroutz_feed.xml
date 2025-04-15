@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-15 08:03</created_at>
+  <created_at>2025-04-15 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2763,7 +2763,7 @@
       <availability>In Stock</availability>
       <size>36,36.5,38,42.5,46,48.5</size>
       <description>Air Force 1 Low NOCTA Drake Certified Lover Boy</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_a35c87c2-edd9-4f4e-ad56-a1ea9145e7c4.jpg?v=1733127997</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_e1343892-9c04-49bf-8158-44eae2db873b.jpg?v=1733127997</image>
@@ -2813,7 +2813,7 @@
           <manufacturersku>CZ8065-100.46</manufacturersku>
           <price_with_vat>365</price_with_vat>
           <size>46</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578305933645.48.5</variationid>
@@ -2838,7 +2838,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38.5,40.5,41,42,42.5,43</size>
       <description>Nike Dunk Low Cacao Wow</description>
-      <quantity>18</quantity>
+      <quantity>17</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124_f2f78e13-c62f-4a80-8cfb-7090e66f2586.jpg?v=1733107831</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124_8c2a0049-7022-4043-9d33-6d5fc90a106b.jpg?v=1733107831</image>
@@ -2924,7 +2924,7 @@
           <manufacturersku>DD1503-124.42.5</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>42.5</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52579070050637.43</variationid>
