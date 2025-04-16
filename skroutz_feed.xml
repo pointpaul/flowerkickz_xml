@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-16 12:03</created_at>
+  <created_at>2025-04-16 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19426,7 +19426,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>Sprayground Global Mogul Billionaire Backpack</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id/>
@@ -19440,11 +19440,11 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>Sprayground Paris Patch Backpack</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id/>
-      <name>France Napoleon Checkers DLXSV Backpack</name>
+      <name>Sprayground France Napoleon Checkers DLXSV Backpack</name>
       <link>https://www.flowerkickz.gr/products/france-napoleon-checkers-dlxsv-backpack</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_a11bb9b3-ed95-4613-9a1a-fa4cc5b207ab.png?v=1744804583</image>
       <category>Sneakers</category>
@@ -19453,8 +19453,8 @@
       <ean/>
       <availability>In Stock</availability>
       <size>One Size</size>
-      <description>France Napoleon Checkers DLXSV Backpack</description>
-      <quantity>0</quantity>
+      <description>Sprayground France Napoleon Checkers DLXSV Backpack</description>
+      <quantity>1</quantity>
     </product>
     <product>
       <id/>
@@ -19468,7 +19468,63 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>Sprayground Godfather Money Dlxv Backpack</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Bag To Future Backpack II</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-bag-to-future-backpack-ii</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_c6b97e2e-ccf6-450b-a7d9-0d839a9867ec.png?v=1744804903</image>
+      <category>Sneakers</category>
+      <price_with_vat>400</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Bag To Future Backpack II</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground James Edition Global Chateau Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-james-edition-global-chateau-backpack</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_83138d9e-e64a-4e23-9d08-8a4974677dad.png?v=1744805103</image>
+      <category>Sneakers</category>
+      <price_with_vat>185</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground James Edition Global Chateau Backpack</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Psycho World Of Fun DLXSV Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-psycho-world-of-fun-dlxsv-backpack</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_8e45d21b-8e06-4bcb-88e6-57ccf596bd12.png?v=1744805245</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Psycho World Of Fun DLXSV Backpack</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Spec Ops Sateen DLX Cargo Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-spec-ops-sateen-dlx-cargo-backpack</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_c7b91a9e-e5f0-471f-a805-5578a6be3e77.png?v=1744805347</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Spec Ops Sateen DLX Cargo Backpack</description>
+      <quantity>1</quantity>
     </product>
   </products>
 </FlowerKickz>
