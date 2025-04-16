@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-16 11:03</created_at>
+  <created_at>2025-04-16 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -9784,7 +9784,7 @@
       <availability>In Stock</availability>
       <size>36.5,37.5,38,38.5,39,40</size>
       <description>Air Jordan 1 Mid Orange Suede</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Orange_Suede-DV1336-800_3ee6b4b0-c92d-4627-a222-21ac830e255d.jpg?v=1733103047</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Orange_Suede-DV1336-800_e161d699-cef0-4cd4-bcf6-e0a2fc0a6724.jpg?v=1733103047</image>
@@ -9834,7 +9834,7 @@
           <manufacturersku>DV1336-800.39</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>39</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52703344165197.40</variationid>
@@ -19005,7 +19005,7 @@
       <availability>In Stock</availability>
       <size>38 2/3,42 2/3,44 2/3</size>
       <description>Yeezy Boost 350 V2 Black Red</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_466aaf96-fbf3-40ed-8a64-78b69ede950a.jpg?v=1733150424</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_0d8a3b40-6d33-42d0-a932-8c84aaacf0ba.jpg?v=1733150424</image>
@@ -19017,9 +19017,9 @@
           <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-black-red</link>
           <availability>In Stock</availability>
           <manufacturersku>BY9612.38-2/3</manufacturersku>
-          <price_with_vat>365</price_with_vat>
+          <price_with_vat>420</price_with_vat>
           <size>38 2/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52576796541261.42-2/3</variationid>
@@ -19413,6 +19413,62 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c79b6202-0d89-4270-9181-eb85ba65ac6b.jpg?v=1733148027</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_fe20da74-a47b-4b66-9c0f-ca062023b3e5.jpg?v=1733148027</image>
       </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Global Mogul Billionaire Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-global-mogul-billionaire-backpack</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_616cb4b3-84d3-49ea-a66c-154a8e950550.png?v=1744804307</image>
+      <category>Sneakers</category>
+      <price_with_vat>225</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Global Mogul Billionaire Backpack</description>
+      <quantity>0</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Paris Patch Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-paris-patch-backpack</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_0f921ff1-d278-4781-bc83-b0ace43511c1.png?v=1744804451</image>
+      <category>Sneakers</category>
+      <price_with_vat>185</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Paris Patch Backpack</description>
+      <quantity>0</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>France Napoleon Checkers DLXSV Backpack</name>
+      <link>https://www.flowerkickz.gr/products/france-napoleon-checkers-dlxsv-backpack</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_a11bb9b3-ed95-4613-9a1a-fa4cc5b207ab.png?v=1744804583</image>
+      <category>Sneakers</category>
+      <price_with_vat>130</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>France Napoleon Checkers DLXSV Backpack</description>
+      <quantity>0</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Godfather Money Dlxv Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-godfather-money-dlxv-backpack</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_a85be01b-5aae-4022-a14e-347967d55516.png?v=1744804775</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Godfather Money Dlxv Backpack</description>
+      <quantity>0</quantity>
     </product>
   </products>
 </FlowerKickz>
