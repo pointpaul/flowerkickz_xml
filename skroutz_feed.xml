@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-18 10:03</created_at>
+  <created_at>2025-04-18 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7298,7 +7298,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,42,48.5</size>
       <description>Yeezy Foam RNR MX Cinder</description>
-      <quantity>16</quantity>
+      <quantity>15</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Foam_RNR_MX_Cinder-ID4126_cd77570a-e16a-4851-9a02-47ff076bfa3b.jpg?v=1733107698</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Foam_RNR_MX_Cinder-ID4126_e38462a1-b4cf-4483-ad42-9ce9d7c11fe9.jpg?v=1733107698</image>
@@ -7321,7 +7321,7 @@
           <manufacturersku>ID4126.38</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>38</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>52579059171661.39</variationid>
@@ -19426,7 +19426,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>Sprayground Global Mogul Billionaire Backpack</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id/>
