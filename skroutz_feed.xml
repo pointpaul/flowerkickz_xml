@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-22 09:03</created_at>
+  <created_at>2025-04-22 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1857,7 +1857,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic Tee Black</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_cd386c2b-ccbd-412a-82c1-006ea34edd5a.png?v=1725369820</image>
       </additional_images>
@@ -1869,7 +1869,7 @@
           <manufacturersku>476351.LARGE</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52168730378573.MEDIUM</variationid>
@@ -4703,7 +4703,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,38,39 1/3,40,41 1/3,42 2/3,43 1/3,44 2/3</size>
       <description>Adidas Campus 00s Dark Green</description>
-      <quantity>12</quantity>
+      <quantity>11</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Campus_00s_Dark_Green-H03472_a127c873-074f-4087-8ee0-fda19db3617b.jpg?v=1733106027</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Campus_00s_Dark_Green-H03472_48395349-c1cb-4d7e-aebf-de1cdb5d3392.jpg?v=1733106028</image>
@@ -4771,7 +4771,7 @@
           <manufacturersku>H03472.41-1/3</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>41 1/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578803548493.42-2/3</variationid>
