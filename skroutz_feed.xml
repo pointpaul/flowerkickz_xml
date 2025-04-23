@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-23 16:03</created_at>
+  <created_at>2025-04-23 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1967,7 +1967,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,XX-LARGE,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic White Blue Tee</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/11_b3d20fed-25d7-4ff2-bc0b-d308bc001268.png?v=1725370565</image>
       </additional_images>
@@ -1988,7 +1988,7 @@
           <manufacturersku>471321.MEDIUM</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52168799650125.SMALL</variationid>
@@ -18659,7 +18659,7 @@
       <availability>In Stock</availability>
       <size>MEDIUM</size>
       <description>BAPE x Marvel Tee Comics Camo Mighty Thor</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id/>
