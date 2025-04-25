@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-25 10:03</created_at>
+  <created_at>2025-04-25 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19578,6 +19578,25 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_9f353c38-9d11-4bc5-8805-a1f6070c25b2.png?v=1745327639</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_d780bfce-05d1-43c9-b36d-71878498651f.png?v=1745327639</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Air Force 1 Mid Stussy Fossil</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-mid-stussy-fossil</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Stussy_AF1_Mid_Fossil_Side.png?v=1745575971</image>
+      <category>Sneakers</category>
+      <price_with_vat>705</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40.5</size>
+      <description>Air Force 1 Mid Stussy Fossil</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Stussy_AF1_Mid_Fossil_Side_Back.png?v=1745575971</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Stussy_AF1_Mid_Fossil_Side_Front.png?v=1745575971</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Stussy_AF1_Mid_Fossil_Bottom.png?v=1745575971</image>
       </additional_images>
     </product>
   </products>
