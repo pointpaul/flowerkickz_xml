@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-26 11:03</created_at>
+  <created_at>2025-04-26 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3973,7 +3973,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>35</quantity>
+      <quantity>34</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_92f83587-4b6a-4b3f-acc3-11decb796ef5.jpg?v=1733086992</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_b30ae739-1e26-4cce-8d1a-6d4327d962e2.jpg?v=1733086992</image>
@@ -4059,7 +4059,7 @@
           <manufacturersku>CU9225-100.46</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>46</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>52576870400333.47.5</variationid>
@@ -6108,7 +6108,7 @@
       <availability>In Stock</availability>
       <size>38 2/3,39 1/3,40,40 2/3,43 1/3</size>
       <description>Adidas Samba OG Cloud White</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Samba_OG_Cloud_White-B75806_9955f8b7-98f9-4181-b970-5a22a086dfae.jpg?v=1733101607</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Samba_OG_Cloud_White-B75806_4f1fed3e-19f8-4068-a589-1bd8d3796897.jpg?v=1733101607</image>
@@ -6122,7 +6122,7 @@
           <manufacturersku>B75806.38-2/3</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>38 2/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578336637261.39-1/3</variationid>
