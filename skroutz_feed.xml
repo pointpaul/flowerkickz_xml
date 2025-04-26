@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-26 12:03</created_at>
+  <created_at>2025-04-26 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1967,7 +1967,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,XX-LARGE,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic White Blue Tee</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/11_b3d20fed-25d7-4ff2-bc0b-d308bc001268.png?v=1725370565</image>
       </additional_images>
@@ -1979,7 +1979,7 @@
           <manufacturersku>471321.LARGE</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52168799650125.MEDIUM</variationid>
@@ -2160,7 +2160,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,X-LARGE</size>
       <description>KAWS + Warhol Sweatpants Grey</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions2_1cc54e17-2260-4853-96c6-a372ffc01fd2.png?v=1730284750</image>
       </additional_images>
@@ -2181,7 +2181,7 @@
           <manufacturersku>473557.MEDIUM</manufacturersku>
           <price_with_vat>125</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52491343364429.X-LARGE</variationid>
@@ -3973,7 +3973,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>34</quantity>
+      <quantity>33</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_92f83587-4b6a-4b3f-acc3-11decb796ef5.jpg?v=1733086992</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_b30ae739-1e26-4cce-8d1a-6d4327d962e2.jpg?v=1733086992</image>
@@ -4041,7 +4041,7 @@
           <manufacturersku>CU9225-100.45</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>45</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>52576870400333.45.5</variationid>
@@ -7344,7 +7344,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5</size>
       <description>Yeezy Foam RNR MX Granite</description>
-      <quantity>21</quantity>
+      <quantity>20</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_9dbc2635-1fa4-4825-9467-4301589324d9.jpg?v=1733150911</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c9570fdf-2536-4482-9543-30c4859796b0.jpg?v=1733150911</image>
@@ -7394,7 +7394,7 @@
           <manufacturersku>IE4931.42</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>42</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52580216504653.43</variationid>
@@ -11232,7 +11232,7 @@
       <availability>In Stock</availability>
       <size>38.5,40.5,41,42,43,44,48.5</size>
       <description>Air Jordan 4 Retro SE Craft Photon Dust</description>
-      <quantity>12</quantity>
+      <quantity>11</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Craft_Photon_Dust-DV3742-021_807c16e0-4d62-4340-b180-3fa9af645413.jpg?v=1733101731</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Craft_Photon_Dust-DV3742-021_9a99fa6b-d1e4-4b3c-8c13-91368159c694.jpg?v=1733101731</image>
@@ -11291,7 +11291,7 @@
           <manufacturersku>DV3742-021.44</manufacturersku>
           <price_with_vat>475</price_with_vat>
           <size>44</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52578347581773.48.5</variationid>
