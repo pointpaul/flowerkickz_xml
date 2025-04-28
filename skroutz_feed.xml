@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-28 20:03</created_at>
+  <created_at>2025-04-28 21:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -625,7 +625,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Shorts Dark Oatmeal</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <variations>
         <variation>
           <variationid>49041225384269.LARGE</variationid>
@@ -634,7 +634,7 @@
           <manufacturersku>91455455.LARGE</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49041225384269.SMALL</variationid>
