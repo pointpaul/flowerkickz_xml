@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-29 17:03</created_at>
+  <created_at>2025-04-29 18:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19518,7 +19518,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,45 1/3</size>
       <description>adidas Yeezy Boost 350 V2 Synth Reflective</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_eaa50ca4-1b8a-4c9d-ae34-da30bd4ff80f.png?v=1745326981</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_64438bfd-36dd-4416-9b46-24cd50dab884.png?v=1745326981</image>
@@ -19558,7 +19558,7 @@
           <manufacturersku>None.45-1/3</manufacturersku>
           <price_with_vat>625</price_with_vat>
           <size>45 1/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
