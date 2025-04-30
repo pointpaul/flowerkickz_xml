@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-04-30 14:03</created_at>
+  <created_at>2025-04-30 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4186,7 +4186,7 @@
       <availability>In Stock</availability>
       <size>37 1/3,38 2/3</size>
       <description>Yeezy Boost 350 V2 Bred</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f78ee3cf-0542-4932-8ebe-81a9f714b6ef.jpg?v=1733150450</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_e551e2e4-bbf8-4055-9ca0-3e278d39e87e.jpg?v=1733150450</image>
@@ -4200,7 +4200,7 @@
           <manufacturersku>CP9652.37-1/3</manufacturersku>
           <price_with_vat>420</price_with_vat>
           <size>37 1/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52576725991757.38-2/3</variationid>
@@ -7608,7 +7608,7 @@
       <availability>In Stock</availability>
       <size>37,42,43,44.5,46</size>
       <description>Yeezy Slide Resin</description>
-      <quantity>24</quantity>
+      <quantity>23</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_298918b9-95e8-48d6-9ff2-116232d0c10d.jpg?v=1733150986</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_80a50e78-dd99-4298-9cd8-a7bc3dec0b21.jpg?v=1733150986</image>
@@ -7622,7 +7622,7 @@
           <manufacturersku>FX0494.37</manufacturersku>
           <price_with_vat>500</price_with_vat>
           <size>37</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52577263124813.42</variationid>
@@ -15649,7 +15649,7 @@
       <availability>In Stock</availability>
       <size>35.5,41,42,42.5,43,44,44.5,45,46</size>
       <description>Air Jordan 1 Mid Sonics (2021)</description>
-      <quantity>28</quantity>
+      <quantity>27</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_dca330b2-c2cd-4fb7-b2c8-56e3732b9c72.png?v=1738151156</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_dbc219a9-785d-4e90-8751-eaa0f8d3828c.png?v=1738151157</image>
@@ -15671,7 +15671,7 @@
           <manufacturersku>554724-371.41</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>41</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52973359202637.42</variationid>
