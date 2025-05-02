@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-02 14:03</created_at>
+  <created_at>2025-05-02 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -761,7 +761,7 @@
       <availability>In Stock</availability>
       <size>LARGE,X-LARGE</size>
       <description>Fear of God Essentials Tee Applique Logo Black</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>49045840200013.LARGE</variationid>
@@ -779,7 +779,7 @@
           <manufacturersku>75394668.X-LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -9491,7 +9491,7 @@
       <availability>In Stock</availability>
       <size>40.5,42,42.5,46,47</size>
       <description>Air Jordan 1 Mid Light Smoke Grey Anthracite</description>
-      <quantity>7</quantity>
+      <quantity>8</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Light_Smoke_Grey_Anthracite-554724-078_5731aee6-ffcc-48c8-a56b-28cb4b7ecc99.jpg?v=1733092714</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Light_Smoke_Grey_Anthracite-554724-078_0dcade0b-3556-4301-ba51-88c2f0b1c030.jpg?v=1733092714</image>
@@ -9514,7 +9514,7 @@
           <manufacturersku>554724-078.42</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>42</size>
-          <quantity>1</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52577490927949.42.5</variationid>
