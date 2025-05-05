@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-05 11:03</created_at>
+  <created_at>2025-05-05 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19597,6 +19597,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Stussy_AF1_Mid_Fossil_Side_Back.png?v=1745575971</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Stussy_AF1_Mid_Fossil_Side_Front.png?v=1745575971</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Stussy_AF1_Mid_Fossil_Bottom.png?v=1745575971</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DN3707-160</id>
+      <name>Air Jordan 3 OG Fire Red</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-3-og-fire-red</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_3_OG_Fire_Red-DN3707-160.jpg?v=1733098903</image>
+      <category>Sneakers</category>
+      <price_with_vat>510</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42.5</size>
+      <description>Air Jordan 3 OG Fire Red</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_3_OG_Fire_Red-DN3707-160_fcb5e9d6-f549-41aa-910d-1edbce99f2d1.jpg?v=1733098903</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_3_OG_Fire_Red-DN3707-160_e8642af5-a88b-4a51-8568-7d1d73157e92.jpg?v=1733098903</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_3_OG_Fire_Red-DN3707-160_7d5feb85-8a81-4422-85c7-8816340a7b35.jpg?v=1733098903</image>
       </additional_images>
     </product>
   </products>
