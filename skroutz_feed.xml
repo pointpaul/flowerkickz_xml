@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-05 13:03</created_at>
+  <created_at>2025-05-05 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -9329,7 +9329,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38,39</size>
       <description>Air Jordan 1 Mid Ice Blue (2022)</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Ice_Blue_2022_-555112-401_076d21bc-9f5e-4c6f-8f0b-aafcbb83e580.jpg?v=1733100313</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Ice_Blue_2022_-555112-401_0bb3280d-1ac0-4088-93b4-9a6e340ee066.jpg?v=1733100313</image>
@@ -9388,7 +9388,7 @@
           <manufacturersku>555112-401.39</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>39</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
