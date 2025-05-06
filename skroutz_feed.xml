@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-06 12:03</created_at>
+  <created_at>2025-05-06 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15007,7 +15007,7 @@
       <availability>In Stock</availability>
       <size>44 2/3,46</size>
       <description>Yeezy Boost 350 V2 Hyperspace</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_915a7e44-4812-4154-bf2e-8b27413fab1f.png?v=1738055688</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_50821c7e-4721-4ece-93e1-435c02974f72.png?v=1738055688</image>
@@ -15029,7 +15029,7 @@
           <manufacturersku>EG7491.46</manufacturersku>
           <price_with_vat>600</price_with_vat>
           <size>46</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
