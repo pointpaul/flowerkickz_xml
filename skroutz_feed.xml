@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-07 13:03</created_at>
+  <created_at>2025-05-07 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -6174,7 +6174,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38 2/3,41 1/3,42 2/3</size>
       <description>Yeezy Boost 350 V2 Carbon Beluga</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Carbon_Beluga-HQ7045_a81d6c3d-65c1-4006-9785-e6dcdebe2114.jpg?v=1733107941</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Carbon_Beluga-HQ7045_e04573c6-07b6-46dd-ba23-70dbdfaa3592.jpg?v=1733107941</image>
@@ -6224,7 +6224,7 @@
           <manufacturersku>HQ7045.42-2/3</manufacturersku>
           <price_with_vat>455</price_with_vat>
           <size>42 2/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -7052,7 +7052,7 @@
       <availability>In Stock</availability>
       <size>36,37 1/3,38,38 2/3,41 1/3,42,42 2/3,43 1/3,45 1/3,46</size>
       <description>Yeezy Boost 350 V2 Static</description>
-      <quantity>18</quantity>
+      <quantity>17</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_abb470d7-5bad-4cd3-9b84-e20f58ae7bfd.jpg?v=1733150653</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_b8a7663d-a551-4aaa-bf2b-ff7719fe6115.jpg?v=1733150653</image>
@@ -7111,7 +7111,7 @@
           <manufacturersku>EF2905.42</manufacturersku>
           <price_with_vat>465</price_with_vat>
           <size>42</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>52576777109837.42-2/3</variationid>
@@ -7560,7 +7560,7 @@
       <availability>In Stock</availability>
       <size>38,42,43</size>
       <description>Yeezy Slide Ochre</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_6e022baa-9f70-44f4-8cd7-c6c27598e492.jpg?v=1733150973</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_563e9612-58d1-4fa7-8de7-821a4749fea9.jpg?v=1733150973</image>
@@ -7574,7 +7574,7 @@
           <manufacturersku>GW1931.38</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>38</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577777746253.42</variationid>
@@ -7608,7 +7608,7 @@
       <availability>In Stock</availability>
       <size>37,42,43,44.5,46</size>
       <description>Yeezy Slide Resin</description>
-      <quantity>23</quantity>
+      <quantity>24</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_298918b9-95e8-48d6-9ff2-116232d0c10d.jpg?v=1733150986</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_80a50e78-dd99-4298-9cd8-a7bc3dec0b21.jpg?v=1733150986</image>
@@ -7622,7 +7622,7 @@
           <manufacturersku>FX0494.37</manufacturersku>
           <price_with_vat>500</price_with_vat>
           <size>37</size>
-          <quantity>1</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52577263124813.42</variationid>
