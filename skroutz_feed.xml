@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-07 16:03</created_at>
+  <created_at>2025-05-07 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19617,6 +19617,64 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_3_OG_Fire_Red-DN3707-160_e8642af5-a88b-4a51-8568-7d1d73157e92.jpg?v=1733098903</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_3_OG_Fire_Red-DN3707-160_7d5feb85-8a81-4422-85c7-8816340a7b35.jpg?v=1733098903</image>
       </additional_images>
+    </product>
+    <product>
+      <id>MR530RE</id>
+      <name>New Balance 530 White New Spruce</name>
+      <link>https://www.flowerkickz.gr/products/new-balance-530-white-violet-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/MR530RB_SIDE.png?v=1746635262</image>
+      <category>Sneakers</category>
+      <price_with_vat>260</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>36,37.5,38,38.5</size>
+      <description>New Balance 530 White New Spruce</description>
+      <quantity>2</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/MR530RB_SIDE_FRONT.png?v=1746635262</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/MR530RB_SIDE_BACK.png?v=1746635262</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/MR530RB_TOP1.png?v=1746635262</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/MR530RB_TOP.png?v=1746635262</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>53663294783821.36</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-violet-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RE.36</manufacturersku>
+          <price_with_vat>260</price_with_vat>
+          <size>36</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>53663294783821.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-violet-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RE.37.5</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>37.5</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>53663294783821.38</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-violet-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RE.38</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>38</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>53663294783821.38.5</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-530-white-violet-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>MR530RE.38.5</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>38.5</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
     </product>
   </products>
 </FlowerKickz>
