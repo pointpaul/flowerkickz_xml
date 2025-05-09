@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-09 17:03</created_at>
+  <created_at>2025-05-09 18:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3556,7 +3556,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL</size>
       <description>Stüssy Tee Dot Stamp Black</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <variations>
         <variation>
           <variationid>52706080817485.LARGE</variationid>
@@ -3583,7 +3583,7 @@
           <manufacturersku>None.SMALL</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -3898,7 +3898,7 @@
       <availability>In Stock</availability>
       <size>37 1/3,38,38 2/3,40,42,42 2/3</size>
       <description>Adidas Yeezy Boost 350 V2 MX Dark Sea Salt</description>
-      <quantity>13</quantity>
+      <quantity>12</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Yeezy_Boost_350_V2_MX_Dark_Sea_Salt-ID4811_53df4e08-ee2f-4800-8b6c-3176c04aa014.jpg?v=1733109631</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Yeezy_Boost_350_V2_MX_Dark_Sea_Salt-ID4811_98642399-953f-4928-9952-7b80d336cc75.jpg?v=1733109631</image>
@@ -3957,7 +3957,7 @@
           <manufacturersku>ID4811.42-2/3</manufacturersku>
           <price_with_vat>465</price_with_vat>
           <size>42 2/3</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -19675,6 +19675,25 @@
           <quantity>0</quantity>
         </variation>
       </variations>
+    </product>
+    <product>
+      <id>GY7164</id>
+      <name>Yeezy Boost 350 V2 Dazzling Blue</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-dazzling-blue</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_11f33bbc-79de-46ab-9922-898c06a5d298.jpg?v=1733150497</image>
+      <category>Sneakers</category>
+      <price_with_vat>590</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42</size>
+      <description>Yeezy Boost 350 V2 Dazzling Blue</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_b9deb32e-5394-43a1-95bd-52456add947f.jpg?v=1733150497</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_f04d7677-658d-4a49-a238-cb988656def3.jpg?v=1733150497</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_232e148e-5068-40d4-8168-a14c60455717.jpg?v=1733150497</image>
+      </additional_images>
     </product>
   </products>
 </FlowerKickz>
