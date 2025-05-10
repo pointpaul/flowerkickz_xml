@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-10 15:03</created_at>
+  <created_at>2025-05-10 16:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7276,7 +7276,7 @@
       <manufacturer>Yeezy</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>37,38,39,42,48.5</size>
+      <size>37,38,42,48.5</size>
       <description>Yeezy Foam RNR MX Cinder</description>
       <quantity>10</quantity>
       <additional_images>
@@ -7302,15 +7302,6 @@
           <price_with_vat>215</price_with_vat>
           <size>38</size>
           <quantity>1</quantity>
-        </variation>
-        <variation>
-          <variationid>52579059171661.39</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-foam-rnr-mx-cinder</link>
-          <availability>In Stock</availability>
-          <manufacturersku>ID4126.39</manufacturersku>
-          <price_with_vat>215</price_with_vat>
-          <size>39</size>
-          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52579059171661.42</variationid>
