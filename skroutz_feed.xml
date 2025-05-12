@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-12 08:03</created_at>
+  <created_at>2025-05-12 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7278,7 +7278,7 @@
       <availability>In Stock</availability>
       <size>37,38,42,48.5</size>
       <description>Yeezy Foam RNR MX Cinder</description>
-      <quantity>10</quantity>
+      <quantity>11</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Foam_RNR_MX_Cinder-ID4126_cd77570a-e16a-4851-9a02-47ff076bfa3b.jpg?v=1733107698</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Foam_RNR_MX_Cinder-ID4126_e38462a1-b4cf-4483-ad42-9ce9d7c11fe9.jpg?v=1733107698</image>
@@ -7301,7 +7301,7 @@
           <manufacturersku>ID4126.38</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>38</size>
-          <quantity>1</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52579059171661.42</variationid>
@@ -7335,7 +7335,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5</size>
       <description>Yeezy Foam RNR MX Granite</description>
-      <quantity>19</quantity>
+      <quantity>18</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_9dbc2635-1fa4-4825-9467-4301589324d9.jpg?v=1733150911</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c9570fdf-2536-4482-9543-30c4859796b0.jpg?v=1733150911</image>
@@ -7367,7 +7367,7 @@
           <manufacturersku>IE4931.39</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>39</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52580216504653.40.5</variationid>
