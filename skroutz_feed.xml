@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-17 10:03</created_at>
+  <created_at>2025-05-17 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3136,7 +3136,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>66</quantity>
+      <quantity>65</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
@@ -3177,7 +3177,7 @@
           <manufacturersku>ID5103.40.5</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>40.5</size>
-          <quantity>7</quantity>
+          <quantity>6</quantity>
         </variation>
         <variation>
           <variationid>52580198220109.42</variationid>
@@ -3973,7 +3973,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>33</quantity>
+      <quantity>32</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_92f83587-4b6a-4b3f-acc3-11decb796ef5.jpg?v=1733086992</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_b30ae739-1e26-4cce-8d1a-6d4327d962e2.jpg?v=1733086992</image>
@@ -4005,7 +4005,7 @@
           <manufacturersku>CU9225-100.41</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>41</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52576870400333.42</variationid>
@@ -6687,7 +6687,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38,38 2/3,39 1/3,41 1/3,42,42 2/3,43 1/3,44,44 2/3,45 1/3</size>
       <description>Yeezy Boost 350 V2 Jade Ash</description>
-      <quantity>19</quantity>
+      <quantity>18</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Jade_Ash-HQ2060_2be73f5f-6265-4694-a7e9-147261edf2c1.jpg?v=1733100110</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Jade_Ash-HQ2060_4f4ccc18-eca6-4104-a79d-8d09adca7129.jpg?v=1733100110</image>
@@ -6764,7 +6764,7 @@
           <manufacturersku>HQ2060.42-2/3</manufacturersku>
           <price_with_vat>410</price_with_vat>
           <size>42 2/3</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52578188591437.43-1/3</variationid>
