@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-17 11:03</created_at>
+  <created_at>2025-05-17 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -677,7 +677,7 @@
       <availability>In Stock</availability>
       <size>X-LARGE</size>
       <description>Fear of God Essentials Tee Applique Logo Cream</description>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
     </product>
     <product>
       <id>53016153</id>
@@ -3136,7 +3136,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>65</quantity>
+      <quantity>64</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
@@ -3213,7 +3213,7 @@
           <manufacturersku>ID5103.46</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>46</size>
-          <quantity>7</quantity>
+          <quantity>6</quantity>
         </variation>
         <variation>
           <variationid>52580198220109.47</variationid>
@@ -7052,7 +7052,7 @@
       <availability>In Stock</availability>
       <size>36,37 1/3,38,38 2/3,41 1/3,42,42 2/3,43 1/3,45 1/3,46</size>
       <description>Yeezy Boost 350 V2 Static</description>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_abb470d7-5bad-4cd3-9b84-e20f58ae7bfd.jpg?v=1733150653</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_b8a7663d-a551-4aaa-bf2b-ff7719fe6115.jpg?v=1733150653</image>
@@ -7138,7 +7138,7 @@
           <manufacturersku>EF2905.45-1/3</manufacturersku>
           <price_with_vat>500</price_with_vat>
           <size>45 1/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52576777109837.46</variationid>
