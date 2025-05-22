@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-22 07:03</created_at>
+  <created_at>2025-05-22 08:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2306,15 +2306,24 @@
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>42.5,43,44,44.5,45</size>
+      <size>40,42.5,43,44,44.5,45,45.5,46</size>
       <description>Air Jordan 1 Mid Lakers (2022)</description>
-      <quantity>12</quantity>
+      <quantity>16</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517_fe2b186e-4a22-4258-824f-b3eb54cd951e.jpg?v=1733100346</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517_1d31cd6b-fdd3-48d2-8746-211f3979d40b.jpg?v=1733100346</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517_99fee088-f961-4254-a050-fa13e10e3902.jpg?v=1733100346</image>
       </additional_images>
       <variations>
+        <variation>
+          <variationid>52578214183245.40</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-lakers-2022</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DQ8426-517.40</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>40</size>
+          <quantity>1</quantity>
+        </variation>
         <variation>
           <variationid>52578214183245.42.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-lakers-2022</link>
@@ -2349,7 +2358,7 @@
           <manufacturersku>DQ8426-517.44.5</manufacturersku>
           <price_with_vat>275</price_with_vat>
           <size>44.5</size>
-          <quantity>4</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>52578214183245.45</variationid>
@@ -2359,6 +2368,24 @@
           <price_with_vat>275</price_with_vat>
           <size>45</size>
           <quantity>3</quantity>
+        </variation>
+        <variation>
+          <variationid>52578214183245.45.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-lakers-2022</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DQ8426-517.45.5</manufacturersku>
+          <price_with_vat>400</price_with_vat>
+          <size>45.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52578214183245.46</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-mid-lakers-2022</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DQ8426-517.46</manufacturersku>
+          <price_with_vat>320</price_with_vat>
+          <size>46</size>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -3973,7 +4000,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>32</quantity>
+      <quantity>33</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_92f83587-4b6a-4b3f-acc3-11decb796ef5.jpg?v=1733086992</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_b30ae739-1e26-4cce-8d1a-6d4327d962e2.jpg?v=1733086992</image>
@@ -4005,7 +4032,7 @@
           <manufacturersku>CU9225-100.41</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>41</size>
-          <quantity>2</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>52576870400333.42</variationid>
@@ -12363,7 +12390,7 @@
       <availability>In Stock</availability>
       <size>36,36.5,37.5,38.5,40</size>
       <description>Nike Dunk Low Animal Print Black</description>
-      <quantity>10</quantity>
+      <quantity>11</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_935f5320-7358-4db1-82f1-bb57899736ba.jpg?v=1733136806</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_532f8af9-2aab-4aa5-bb89-b940043cda08.jpg?v=1733136806</image>
@@ -12404,7 +12431,7 @@
           <manufacturersku>DD7099-001.38.5</manufacturersku>
           <price_with_vat>145</price_with_vat>
           <size>38.5</size>
-          <quantity>1</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52577369358669.40</variationid>
@@ -12794,7 +12821,7 @@
       <availability>In Stock</availability>
       <size>38,38.5,39,40,40.5,41,42,42.5</size>
       <description>Nike Dunk Low Grey Corduroy</description>
-      <quantity>17</quantity>
+      <quantity>18</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Grey_Corduroy-FN7658-100_ef0356a7-1158-490c-9c0a-7173f07b7b77.jpg?v=1733108463</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Grey_Corduroy-FN7658-100_b83407d5-364d-43e3-994e-318cd8b40e03.jpg?v=1733108463</image>
@@ -12808,7 +12835,7 @@
           <manufacturersku>FN7658-100.38</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>38</size>
-          <quantity>1</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52579144368461.38.5</variationid>
@@ -15369,9 +15396,9 @@
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>42,42.5,44,44.5</size>
+      <size>36,42,42.5,44,44.5</size>
       <description>Air Jordan 1 Low Homage Split White Black</description>
-      <quantity>9</quantity>
+      <quantity>11</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_0425cfc0-296a-480d-bf2e-1d67c9976568.png?v=1738140243</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_3acdc01f-efd9-4cc1-b88c-636a7f673f24.png?v=1738140274</image>
@@ -15379,13 +15406,22 @@
       </additional_images>
       <variations>
         <variation>
+          <variationid>52966508560717.36</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DR0502-101.36</manufacturersku>
+          <price_with_vat>355</price_with_vat>
+          <size>36</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
           <variationid>52966508560717.42</variationid>
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-homage-split-white-black</link>
           <availability>In Stock</availability>
           <manufacturersku>DR0502-101.42</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>42</size>
-          <quantity>3</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>52966508560717.42.5</variationid>
@@ -15649,7 +15685,7 @@
       <availability>In Stock</availability>
       <size>35.5,41,42,42.5,43,44,44.5,45,46</size>
       <description>Air Jordan 1 Mid Sonics (2021)</description>
-      <quantity>27</quantity>
+      <quantity>28</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_dca330b2-c2cd-4fb7-b2c8-56e3732b9c72.png?v=1738151156</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_dbc219a9-785d-4e90-8751-eaa0f8d3828c.png?v=1738151157</image>
@@ -15716,7 +15752,7 @@
           <manufacturersku>554724-371.44.5</manufacturersku>
           <price_with_vat>320</price_with_vat>
           <size>44.5</size>
-          <quantity>4</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>52973359202637.45</variationid>
@@ -17264,14 +17300,34 @@
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>37.5</size>
+      <size>36,37.5</size>
       <description>Nike Dunk Low Two Tone Grey</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Two_Tone_Grey-DJ6188-001_bcec9c13-af19-475f-9f43-7d508c650da6.jpg?v=1733100788</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Two_Tone_Grey-DJ6188-001_19bbc98f-0a67-47be-bd98-2c9a80616092.jpg?v=1733100788</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Two_Tone_Grey-DJ6188-001_d853da68-10d4-4b50-9729-acc2d4c3d511.jpg?v=1733100788</image>
       </additional_images>
+      <variations>
+        <variation>
+          <variationid>52703303434573.36</variationid>
+          <link>https://www.flowerkickz.gr/products/nike-dunk-low-two-tone-grey</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DJ6188-001.36</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>36</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52703303434573.37.5</variationid>
+          <link>https://www.flowerkickz.gr/products/nike-dunk-low-two-tone-grey</link>
+          <availability>In Stock</availability>
+          <manufacturersku>DJ6188-001.37.5</manufacturersku>
+          <price_with_vat>205</price_with_vat>
+          <size>37.5</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>FB7160-161</id>
@@ -19693,6 +19749,44 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_b9deb32e-5394-43a1-95bd-52456add947f.jpg?v=1733150497</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_f04d7677-658d-4a49-a238-cb988656def3.jpg?v=1733150497</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_232e148e-5068-40d4-8168-a14c60455717.jpg?v=1733150497</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DV3770-400</id>
+      <name>Nike Air Presto Hello Kitty (2022)</name>
+      <link>https://www.flowerkickz.gr/products/nike-air-presto-hello-kitty-2022</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Air_Presto_Hello_Kitty_2022_-DV3770-400.jpg?v=1733095347</image>
+      <category>Sneakers</category>
+      <price_with_vat>310</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>37.5</size>
+      <description>Nike Air Presto Hello Kitty (2022)</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Air_Presto_Hello_Kitty_2022_-DV3770-400_ff855ac7-0898-45ce-9158-8fb7106d8c02.jpg?v=1733095348</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Air_Presto_Hello_Kitty_2022_-DV3770-400_8438d80b-3cd9-4a70-84df-2f6fb0451a43.jpg?v=1733095348</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Air_Presto_Hello_Kitty_2022_-DV3770-400_8af77657-3b6b-4e59-8f09-298c971c5131.jpg?v=1733095348</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DC0774-500</id>
+      <name>Air Jordan 1 Low Psychic Purple</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-1-low-psychic-purple</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_5ca26a5c-672d-41fa-949a-afd0d4c94460.jpg?v=1733128925</image>
+      <category>Sneakers</category>
+      <price_with_vat>335</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>36.5</size>
+      <description>Air Jordan 1 Low Psychic Purple</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_268a4c89-8797-461f-bc23-a15caa846443.jpg?v=1733128925</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_3a354e0a-15ce-48a3-b40c-294c3a84789b.jpg?v=1733128925</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_78e675b2-07ad-4325-b37f-d7b228a030c8.jpg?v=1733128925</image>
       </additional_images>
     </product>
   </products>
