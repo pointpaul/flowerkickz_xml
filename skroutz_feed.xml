@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-23 08:03</created_at>
+  <created_at>2025-05-23 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2206,7 +2206,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,Χ-LARGE</size>
       <description>KAWS + Warhol Graphic Sweatshirt Grey</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_5fe0b826-bd21-4554-bf2d-6035e780b1e2.png?v=1730285079</image>
       </additional_images>
@@ -2227,7 +2227,7 @@
           <manufacturersku>476119.MEDIUM</manufacturersku>
           <price_with_vat>125</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52491377344845.Χ-LARGE</variationid>
@@ -13787,7 +13787,7 @@
       <availability>In Stock</availability>
       <size>45</size>
       <description>Nike Dunk Low QS LeBron James Fruity Pebbles</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_QS_LeBron_James_Fruity_Pebbles-DH8009-600_cfd868d6-ff7e-484d-98b2-a6be0d9d1198.jpg?v=1733100437</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_QS_LeBron_James_Fruity_Pebbles-DH8009-600_210d2e9b-816c-42ef-9165-6a16f6dce0db.jpg?v=1733100437</image>
