@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-24 13:03</created_at>
+  <created_at>2025-05-24 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -691,7 +691,7 @@
       <availability>In Stock</availability>
       <size>X-LARGE</size>
       <description>Fear of God Essentials Tee Applique Logo Taupe</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>72125281</id>
@@ -795,7 +795,7 @@
       <availability>In Stock</availability>
       <size>LARGE,X-SMALL</size>
       <description>Fear of God Essentials Shorts Seafoam</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>49041138581837.LARGE</variationid>
@@ -804,7 +804,7 @@
           <manufacturersku>04496538.LARGE</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49041138581837.X-SMALL</variationid>
