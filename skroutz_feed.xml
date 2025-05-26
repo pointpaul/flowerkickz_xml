@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-26 16:03</created_at>
+  <created_at>2025-05-26 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3703,7 +3703,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Stüssy Tee Surfwalk Black</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id/>
