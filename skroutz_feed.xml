@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-27 09:03</created_at>
+  <created_at>2025-05-27 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4109,7 +4109,7 @@
       <manufacturer>Yeezy</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>37,38,39,40.5,42,43,46,47,48.5</size>
+      <size>37,38,39,40.5,42,46,47,48.5</size>
       <description>Yeezy Foam RNNR Onyx</description>
       <quantity>16</quantity>
       <additional_images>
@@ -4161,15 +4161,6 @@
           <manufacturersku>HP8739.42</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>42</size>
-          <quantity>0</quantity>
-        </variation>
-        <variation>
-          <variationid>52577789083981.43</variationid>
-          <link>https://www.flowerkickz.gr/products/yeezy-foam-rnnr-onyx</link>
-          <availability>In Stock</availability>
-          <manufacturersku>HP8739.43</manufacturersku>
-          <price_with_vat>215</price_with_vat>
-          <size>43</size>
           <quantity>0</quantity>
         </variation>
         <variation>
@@ -7248,7 +7239,7 @@
       <availability>In Stock</availability>
       <size>37,40.5,43,50US</size>
       <description>Yeezy Foam RNR Clay Taupe</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_7e019787-4665-4f56-aa7d-5f7f6060d308.jpg?v=1733150900</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_a5a1e2d2-373c-4a28-a8c3-4ee8caabcf1c.jpg?v=1733150900</image>
@@ -7280,7 +7271,7 @@
           <manufacturersku>GV6842.43</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>43</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52579069395277.50US</variationid>
@@ -7371,7 +7362,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5</size>
       <description>Yeezy Foam RNR MX Granite</description>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_9dbc2635-1fa4-4825-9467-4301589324d9.jpg?v=1733150911</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c9570fdf-2536-4482-9543-30c4859796b0.jpg?v=1733150911</image>
@@ -7430,7 +7421,7 @@
           <manufacturersku>IE4931.43</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>43</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52580216504653.44.5</variationid>
@@ -16056,7 +16047,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47,47.5</size>
       <description>Air Force 1 Low '07 White</description>
-      <quantity>114</quantity>
+      <quantity>115</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f4253e77-e740-44f8-9e79-5f3c4c0497c9.png?v=1738313375</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_147c72de-5ed0-4c6a-949f-66be9c7ae244.png?v=1738313376</image>
@@ -16096,7 +16087,7 @@
           <manufacturersku>315122-111/CW2288-111.42</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>42</size>
-          <quantity>8</quantity>
+          <quantity>9</quantity>
         </variation>
         <variation>
           <variationid>52983176069453.42.5</variationid>
