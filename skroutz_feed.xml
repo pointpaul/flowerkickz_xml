@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-05-27 16:03</created_at>
+  <created_at>2025-05-27 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -795,7 +795,7 @@
       <availability>In Stock</availability>
       <size>LARGE,X-SMALL</size>
       <description>Fear of God Essentials Shorts Seafoam</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <variations>
         <variation>
           <variationid>49041138581837.LARGE</variationid>
@@ -813,7 +813,7 @@
           <manufacturersku>04496538.X-SMALL</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
