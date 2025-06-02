@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-02 13:03</created_at>
+  <created_at>2025-06-02 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -6497,7 +6497,7 @@
       <availability>In Stock</availability>
       <size>42 2/3,44,44 2/3,46</size>
       <description>Yeezy Boost 350 V2 Antlia</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_dd1e2695-3ab5-4c51-b267-710a88629043.jpg?v=1733150287</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_7747764a-1dd4-421f-a7a9-3c764d95b4b0.jpg?v=1733150287</image>
@@ -6511,7 +6511,7 @@
           <manufacturersku>FV3250.42-2/3</manufacturersku>
           <price_with_vat>400</price_with_vat>
           <size>42 2/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52576805781837.44</variationid>
@@ -19786,7 +19786,7 @@
       <link>https://www.flowerkickz.gr/products/labubu-the-monsters-have-a-seat-vinyl-plush-blind-box-6-pack</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/haveaseatbigbox.png?v=1748625450</image>
       <category>Sneakers</category>
-      <price_with_vat>455</price_with_vat>
+      <price_with_vat>580</price_with_vat>
       <manufacturer>Flower Kickz</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -19803,7 +19803,7 @@
       <link>https://www.flowerkickz.gr/products/labubu-the-monsters-have-a-seat-vinyl-plush-blind-box-6-pack-copy</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/6BOX.png?v=1748626139</image>
       <category>Sneakers</category>
-      <price_with_vat>795</price_with_vat>
+      <price_with_vat>815</price_with_vat>
       <manufacturer>Flower Kickz</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -19820,7 +19820,7 @@
       <link>https://www.flowerkickz.gr/products/labubu-the-monsters-big-into-energy-series-vinyl-plush-pendant-blind-box-6-pack-copy</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/6BOX_16595afd-61f7-4b40-ab90-9cfa46eb1750.png?v=1748626678</image>
       <category>Sneakers</category>
-      <price_with_vat>565</price_with_vat>
+      <price_with_vat>645</price_with_vat>
       <manufacturer>Flower Kickz</manufacturer>
       <ean/>
       <availability>In Stock</availability>
