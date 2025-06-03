@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-03 09:03</created_at>
+  <created_at>2025-06-03 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -8609,7 +8609,7 @@
       <link>https://www.flowerkickz.gr/products/air-jordan-1-low-se-concord</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_SE_Concord-DV1309-100.jpg?v=1733103757</image>
       <category>Sneakers</category>
-      <price_with_vat>310</price_with_vat>
+      <price_with_vat>260</price_with_vat>
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -8627,7 +8627,7 @@
           <link>https://www.flowerkickz.gr/products/air-jordan-1-low-se-concord</link>
           <availability>In Stock</availability>
           <manufacturersku>DV1309-100.38</manufacturersku>
-          <price_with_vat>310</price_with_vat>
+          <price_with_vat>260</price_with_vat>
           <size>38</size>
           <quantity>3</quantity>
         </variation>
@@ -17695,7 +17695,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>Bape New Era Jet Cap Yellow Camo</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>BP-S1</id>
