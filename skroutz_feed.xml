@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-07 12:03</created_at>
+  <created_at>2025-06-07 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -843,7 +843,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,X-LARGE</size>
       <description>Fear of God Essentials Shorts Off-Black SS23</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <variations>
         <variation>
           <variationid>49041107353933.LARGE</variationid>
@@ -861,7 +861,7 @@
           <manufacturersku>47432195.MEDIUM</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49041107353933.X-LARGE</variationid>
@@ -3446,7 +3446,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Hoodie Off Black</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>49950568120653.LARGE</variationid>
@@ -3482,7 +3482,7 @@
           <manufacturersku>56263867.X-SMALL</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
