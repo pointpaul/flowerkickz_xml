@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-09 16:03</created_at>
+  <created_at>2025-06-09 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -625,7 +625,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Shorts Dark Oatmeal</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>49041225384269.LARGE</variationid>
@@ -661,7 +661,7 @@
           <manufacturersku>91455455.X-SMALL</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -1042,7 +1042,7 @@
       <availability>In Stock</availability>
       <size>X-SMALL</size>
       <description>Fear of God Essentials 1977 Shorts Dark Oatmeal</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>FD9874-100</id>
@@ -18212,7 +18212,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Bape Tee Shark White</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id/>
@@ -18753,7 +18753,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Bape Tee Pocket Reverse Ape Grey</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id/>
