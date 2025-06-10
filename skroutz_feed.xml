@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-10 09:03</created_at>
+  <created_at>2025-06-10 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15296,7 +15296,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,44,45</size>
       <description>Air Jordan 1 Low Tie-Dye</description>
-      <quantity>9</quantity>
+      <quantity>8</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_66f6fd6e-a8fe-43fb-b6ec-274eeb09977b.png?v=1738058648</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c765cea6-1cab-4bc7-b57c-ec595fb33b8c.png?v=1738058648</image>
@@ -15336,7 +15336,7 @@
           <manufacturersku>DM1199-100.44</manufacturersku>
           <price_with_vat>275</price_with_vat>
           <size>44</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52966426640717.45</variationid>
