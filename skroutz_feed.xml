@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-11 11:03</created_at>
+  <created_at>2025-06-11 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -507,7 +507,7 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>Trapstar Irongate T Cross-Body Bag Black</description>
-      <quantity>0</quantity>
+      <quantity>3</quantity>
     </product>
     <product>
       <id>54608014</id>
@@ -521,7 +521,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Shorts Stretch-Limo</description>
-      <quantity>13</quantity>
+      <quantity>14</quantity>
       <variations>
         <variation>
           <variationid>49041182196045.LARGE</variationid>
@@ -548,7 +548,7 @@
           <manufacturersku>54608014.X-LARGE</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>10</quantity>
+          <quantity>11</quantity>
         </variation>
         <variation>
           <variationid>49041182196045.X-SMALL</variationid>
@@ -1458,7 +1458,7 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>Bape ABC Slippers &amp; Pouch Set Green</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
     </product>
     <product>
       <id>B-AC010</id>
@@ -1683,7 +1683,7 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>Supreme x Morphie Encore Plus 20K Red</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>SP-AC011</id>
