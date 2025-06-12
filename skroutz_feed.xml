@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-12 13:03</created_at>
+  <created_at>2025-06-12 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19829,6 +19829,24 @@
       <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL_aaf2b457-2bce-4c51-b3ba-24ba8e21ec2e.png?v=1748865101</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>AF1C-9</id>
+      <name>Air Force 1 Custom Lacet Corde Noir Rose</name>
+      <link>https://www.flowerkickz.gr/products/air-force-1-custom-lacet-corde-noir-rose</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Custom_Lacet_Corde_Noir_Rose-AF1C-9-0.jpg?v=1731718749</image>
+      <category>Sneakers</category>
+      <price_with_vat>205</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>46</size>
+      <description>Air Force 1 Custom Lacet Corde Noir Rose</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Custom_Lacet_Corde_Noir_Rose-AF1C-9-1.jpg?v=1731718749</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Custom_Lacet_Corde_Noir_Rose-AF1C-9-2.jpg?v=1731718749</image>
       </additional_images>
     </product>
     <product>
