@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-14 15:03</created_at>
+  <created_at>2025-06-14 16:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -11173,7 +11173,7 @@
       <availability>In Stock</availability>
       <size>37.5,45</size>
       <description>Air Jordan 4 Retro Thunder (2023)</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Thunder_2023_-DH6927-017_ff8b18bb-2327-496b-a651-d8c510c10aed.jpg?v=1733106528</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Thunder_2023_-DH6927-017_a4947f79-b491-4176-aa83-5fdbfd362340.jpg?v=1733106528</image>
@@ -11196,7 +11196,7 @@
           <manufacturersku>DH6927-017.45</manufacturersku>
           <price_with_vat>590</price_with_vat>
           <size>45</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
