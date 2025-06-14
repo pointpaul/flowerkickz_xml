@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-14 14:03</created_at>
+  <created_at>2025-06-14 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1444,7 +1444,7 @@
       <availability>In Stock</availability>
       <size>O/S - 100€</size>
       <description>Bape 1st Camo Scarf Green</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>B-AC011</id>
