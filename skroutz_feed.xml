@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-16 15:03</created_at>
+  <created_at>2025-06-16 16:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -14,7 +14,7 @@
       <availability>In Stock</availability>
       <size>38.5,39,40,42,43,44.5</size>
       <description>Nike Dunk Low By You Syracuse</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzDunk_Low_SP_Orange_Blaze_Syracuse_-CU1726-101-1_7fcea07c-f610-463f-a228-7074b9f702bd.png?v=1677916936</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/products/flowerkickzDunk_Low_SP_Orange_Blaze_Syracuse_-CU1726-101-2_29b2d6d5-adf9-4adc-aeb0-c1c54dc2b468.png?v=1677916936</image>
@@ -55,7 +55,7 @@
           <manufacturersku>FK1726-101.42</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>42</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>46870704521549.43</variationid>
@@ -3163,7 +3163,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>55</quantity>
+      <quantity>54</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
@@ -3213,7 +3213,7 @@
           <manufacturersku>ID5103.42</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>42</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>52580198220109.43</variationid>
@@ -7296,7 +7296,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,42,46,48.5</size>
       <description>Yeezy Foam RNR MX Cinder</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Foam_RNR_MX_Cinder-ID4126_cd77570a-e16a-4851-9a02-47ff076bfa3b.jpg?v=1733107698</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Foam_RNR_MX_Cinder-ID4126_e38462a1-b4cf-4483-ad42-9ce9d7c11fe9.jpg?v=1733107698</image>
@@ -7337,7 +7337,7 @@
           <manufacturersku>ID4126.42</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>42</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52579059171661.46</variationid>
