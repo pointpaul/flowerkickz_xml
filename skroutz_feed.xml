@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-17 16:03</created_at>
+  <created_at>2025-06-17 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -18488,7 +18488,7 @@
       <availability>In Stock</availability>
       <size>LARGE,X-LARGE</size>
       <description>Bape Tee A Bathing Ape ABC Camo College</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>52530090180941.LARGE</variationid>
@@ -18497,7 +18497,7 @@
           <manufacturersku>None.LARGE</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52530090180941.X-LARGE</variationid>
@@ -19847,40 +19847,6 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Custom_Lacet_Corde_Noir_Rose-AF1C-9-1.jpg?v=1731718749</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Custom_Lacet_Corde_Noir_Rose-AF1C-9-2.jpg?v=1731718749</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>LABUBU_HAS_1PCK</id>
-      <name>LABUBU - The Monsters Have a Seat Vinyl Plush Blind Box - SINGLE PACK</name>
-      <link>https://www.flowerkickz.gr/products/labubu-the-monsters-have-a-seat-vinyl-plush-blind-box-6-pack-copy-1</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/have_a_seat_box.png?v=1748864617</image>
-      <category>Sneakers</category>
-      <price_with_vat>100</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>Default Title</size>
-      <description>LABUBU - The Monsters Have a Seat Vinyl Plush Blind Box - SINGLE PACK</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/haveaseatall.png?v=1748864617</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>LABUBU_BIE_1PCK</id>
-      <name>LABUBU - The Monsters Big into Energy Series-Vinyl Plush Pendant Blind Box - SINGLE PACK</name>
-      <link>https://www.flowerkickz.gr/products/labubu-the-monsters-big-into-energy-series-vinyl-plush-pendant-blind-box-6-pack-copy-1</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SINGLE.png?v=1748864920</image>
-      <category>Sneakers</category>
-      <price_with_vat>195</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>Default Title</size>
-      <description>LABUBU - The Monsters Big into Energy Series-Vinyl Plush Pendant Blind Box - SINGLE PACK</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL.png?v=1748864920</image>
       </additional_images>
     </product>
     <product>
