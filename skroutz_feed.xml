@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-17 17:03</created_at>
+  <created_at>2025-06-17 18:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -14296,7 +14296,7 @@
       <availability>In Stock</availability>
       <size>44.5,45.5,47,48.5,49.5</size>
       <description>Nike Dunk Low World Champ</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_World_Champ-DR9511-100_cfe63843-94aa-46c9-94d5-3f883631806b.jpg?v=1733097475</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_World_Champ-DR9511-100_0f3de15f-54ec-4e85-ac61-39d5bbfb4fe4.jpg?v=1733097475</image>
@@ -14328,7 +14328,7 @@
           <manufacturersku>DR9511-100.47</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>47</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577934967117.48.5</variationid>
