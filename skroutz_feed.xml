@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-17 13:03</created_at>
+  <created_at>2025-06-17 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -11529,7 +11529,7 @@
       <availability>In Stock</availability>
       <size>37,39.5,40,42.5</size>
       <description>New Balance MR 530 SG White Navy</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_66473b38-5f2e-49c2-b98b-3b58568919cb.jpg?v=1733147216</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_57e2dc66-1d43-4acc-b8ac-51f25f557e90.jpg?v=1733147216</image>
@@ -11543,7 +11543,7 @@
           <manufacturersku>MR530SG.37</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>37</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577226129741.39.5</variationid>
@@ -19881,23 +19881,6 @@
       <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL.png?v=1748864920</image>
-      </additional_images>
-    </product>
-    <product>
-      <id>LABUBU_EM_1PCK</id>
-      <name>LABUBU - The Monsters Exciting Macaron Vinyl Face Blind Box - SINGLE PACK</name>
-      <link>https://www.flowerkickz.gr/products/labubu-the-monsters-exciting-macaron-vinyl-face-blind-box-single-pack</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SINGLE_a742f157-d375-4fbb-8710-c974f26cb3d7.png?v=1748865101</image>
-      <category>Sneakers</category>
-      <price_with_vat>170</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>Default Title</size>
-      <description>LABUBU - The Monsters Exciting Macaron Vinyl Face Blind Box - SINGLE PACK</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL_aaf2b457-2bce-4c51-b3ba-24ba8e21ec2e.png?v=1748865101</image>
       </additional_images>
     </product>
     <product>
