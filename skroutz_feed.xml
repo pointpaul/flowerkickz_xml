@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-18 14:03</created_at>
+  <created_at>2025-06-18 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19867,6 +19867,63 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_0c5cacda-dd16-4919-af57-b1d2f77627b3.jpg?v=1733148131</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_723a18a7-9429-459c-bf83-e7b4b32f78a0.jpg?v=1733148131</image>
       </additional_images>
+    </product>
+    <product>
+      <id>GV6842</id>
+      <name>Yeezy Foam RNNR SULFUR</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-foam-rnr-sulfur</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Stussy_AF1_Mid_Fossil_Bottom_28b89671-60bd-4881-af18-cf8cc0bad2bc.png?v=1750258243</image>
+      <category>Sneakers</category>
+      <price_with_vat>215</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>37,40.5,43,50US</size>
+      <description>Yeezy Foam RNNR SULFUR</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SULFRURBACK.png?v=1750258243</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SULFURBOTTOM.png?v=1750258243</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SULFURSIDE2-3.png?v=1750258243</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>53905595007309.37</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-foam-rnr-sulfur</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GV6842.37</manufacturersku>
+          <price_with_vat>215</price_with_vat>
+          <size>37</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>53905595007309.40.5</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-foam-rnr-sulfur</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GV6842.40.5</manufacturersku>
+          <price_with_vat>195</price_with_vat>
+          <size>40.5</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>53905595007309.43</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-foam-rnr-sulfur</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GV6842.43</manufacturersku>
+          <price_with_vat>250</price_with_vat>
+          <size>43</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>53905595007309.50US</variationid>
+          <link>https://www.flowerkickz.gr/products/yeezy-foam-rnr-sulfur</link>
+          <availability>In Stock</availability>
+          <manufacturersku>GV6842.50US</manufacturersku>
+          <price_with_vat>230</price_with_vat>
+          <size>50US</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
     </product>
   </products>
 </FlowerKickz>
