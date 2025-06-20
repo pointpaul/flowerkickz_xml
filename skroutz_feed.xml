@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-20 12:03</created_at>
+  <created_at>2025-06-20 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -6705,7 +6705,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38,38 2/3,39 1/3,41 1/3,42,42 2/3,43 1/3,44,44 2/3,45 1/3</size>
       <description>Yeezy Boost 350 V2 Jade Ash</description>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Jade_Ash-HQ2060_2be73f5f-6265-4694-a7e9-147261edf2c1.jpg?v=1733100110</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Jade_Ash-HQ2060_4f4ccc18-eca6-4104-a79d-8d09adca7129.jpg?v=1733100110</image>
@@ -6764,7 +6764,7 @@
           <manufacturersku>HQ2060.41-1/3</manufacturersku>
           <price_with_vat>410</price_with_vat>
           <size>41 1/3</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52578188591437.42</variationid>
@@ -19792,7 +19792,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Have a Seat Vinyl Plush Blind Box - 6 PACK</description>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/haveaseatall.png?v=1748864617</image>
       </additional_images>
@@ -19809,7 +19809,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Big into Energy Series-Vinyl Plush Pendant Blind Box - 6 PACK</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL.png?v=1748864920</image>
       </additional_images>
@@ -19826,7 +19826,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Exciting Macaron Vinyl Face Blind Box - 6 PACK</description>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL_aaf2b457-2bce-4c51-b3ba-24ba8e21ec2e.png?v=1748865101</image>
       </additional_images>
@@ -19847,6 +19847,57 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Custom_Lacet_Corde_Noir_Rose-AF1C-9-1.jpg?v=1731718749</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Custom_Lacet_Corde_Noir_Rose-AF1C-9-2.jpg?v=1731718749</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>LABUBU_HAS_1PCK</id>
+      <name>LABUBU - The Monsters Have a Seat Vinyl Plush Blind Box - SINGLE PACK</name>
+      <link>https://www.flowerkickz.gr/products/labubu-the-monsters-have-a-seat-vinyl-plush-blind-box-6-pack-copy-1</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/have_a_seat_box.png?v=1748864617</image>
+      <category>Sneakers</category>
+      <price_with_vat>100</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>LABUBU - The Monsters Have a Seat Vinyl Plush Blind Box - SINGLE PACK</description>
+      <quantity>27</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/haveaseatall.png?v=1748864617</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>LABUBU_BIE_1PCK</id>
+      <name>LABUBU - The Monsters Big into Energy Series-Vinyl Plush Pendant Blind Box - SINGLE PACK</name>
+      <link>https://www.flowerkickz.gr/products/labubu-the-monsters-big-into-energy-series-vinyl-plush-pendant-blind-box-6-pack-copy-1</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SINGLE.png?v=1748864920</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>LABUBU - The Monsters Big into Energy Series-Vinyl Plush Pendant Blind Box - SINGLE PACK</description>
+      <quantity>17</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL.png?v=1748864920</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>LABUBU_EM_1PCK</id>
+      <name>LABUBU - The Monsters Exciting Macaron Vinyl Face Blind Box - SINGLE PACK</name>
+      <link>https://www.flowerkickz.gr/products/labubu-the-monsters-exciting-macaron-vinyl-face-blind-box-single-pack</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SINGLE_a742f157-d375-4fbb-8710-c974f26cb3d7.png?v=1748865101</image>
+      <category>Sneakers</category>
+      <price_with_vat>170</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>LABUBU - The Monsters Exciting Macaron Vinyl Face Blind Box - SINGLE PACK</description>
+      <quantity>26</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL_aaf2b457-2bce-4c51-b3ba-24ba8e21ec2e.png?v=1748865101</image>
       </additional_images>
     </product>
     <product>
