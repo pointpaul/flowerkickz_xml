@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-20 17:03</created_at>
+  <created_at>2025-06-20 18:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15213,7 +15213,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38,38.5,39,40</size>
       <description>Air Jordan 1 Infrared 23</description>
-      <quantity>18</quantity>
+      <quantity>17</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_24f86c91-315e-4aae-934c-15f12656d2b2.png?v=1738058156</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_b1e2fbf0-50d2-4c96-9bd0-769ff9320e6b.png?v=1738058156</image>
@@ -15226,7 +15226,7 @@
           <manufacturersku>FB4420-616.35.5</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>35.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52966346359117.36</variationid>
@@ -19861,7 +19861,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Have a Seat Vinyl Plush Blind Box - SINGLE PACK</description>
-      <quantity>24</quantity>
+      <quantity>22</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/haveaseatall.png?v=1748864617</image>
       </additional_images>
