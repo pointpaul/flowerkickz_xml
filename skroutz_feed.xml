@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-21 09:02</created_at>
+  <created_at>2025-06-21 10:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2031,7 +2031,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic White Red Tee</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/111.png?v=1725370855</image>
       </additional_images>
@@ -2061,7 +2061,7 @@
           <manufacturersku>476350.SMALL</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>SMALL</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52168820883789.Χ-LARGE</variationid>
@@ -19855,7 +19855,7 @@
       <link>https://www.flowerkickz.gr/products/labubu-the-monsters-have-a-seat-vinyl-plush-blind-box-6-pack-copy-1</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/have_a_seat_box.png?v=1748864617</image>
       <category>Sneakers</category>
-      <price_with_vat>100</price_with_vat>
+      <price_with_vat>115</price_with_vat>
       <manufacturer>Flower Kickz</manufacturer>
       <ean/>
       <availability>In Stock</availability>
