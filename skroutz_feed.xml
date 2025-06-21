@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-21 16:02</created_at>
+  <created_at>2025-06-21 17:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3163,7 +3163,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>54</quantity>
+      <quantity>53</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
@@ -3204,7 +3204,7 @@
           <manufacturersku>ID5103.40.5</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>40.5</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>52580198220109.42</variationid>
@@ -6554,7 +6554,7 @@
       <availability>In Stock</availability>
       <size>41 1/3</size>
       <description>Yeezy Boost 350 V2 Ash Stone</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_75e810e3-f2d3-42dd-888d-b5e6718ae403.jpg?v=1733150344</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_350d64a6-abbb-4fd2-b6c8-828481d733e5.jpg?v=1733150344</image>
@@ -12466,7 +12466,7 @@
       <availability>In Stock</availability>
       <size>45</size>
       <description>Nike Dunk Low AS Safari Swoosh Chlorophyll</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_ba1d045a-29fa-44ec-a57d-dea110bf6dae.jpg?v=1733147323</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_8b5adb75-f52a-4921-aa31-7b83fac53564.jpg?v=1733147323</image>
@@ -15843,7 +15843,7 @@
       <availability>In Stock</availability>
       <size>41</size>
       <description>Air Jordan 1 Mid White Snakeskin</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_26d67367-ec2e-42f8-86ea-296c092c6360.png?v=1738226784</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_9dd89a6a-ca96-4d1b-9f74-73c26915d800.png?v=1738226784</image>
