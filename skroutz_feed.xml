@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-23 17:03</created_at>
+  <created_at>2025-06-23 18:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -761,7 +761,7 @@
       <availability>In Stock</availability>
       <size>LARGE,X-LARGE</size>
       <description>Fear of God Essentials Tee Applique Logo Black</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <variations>
         <variation>
           <variationid>49045840200013.LARGE</variationid>
@@ -779,7 +779,7 @@
           <manufacturersku>75394668.X-LARGE</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -843,7 +843,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,X-LARGE</size>
       <description>Fear of God Essentials Shorts Off-Black SS23</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <variations>
         <variation>
           <variationid>49041107353933.LARGE</variationid>
@@ -852,7 +852,7 @@
           <manufacturersku>47432195.LARGE</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>LARGE</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>49041107353933.MEDIUM</variationid>
@@ -16047,7 +16047,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,42.5,43,44,44.5,45,45.5,46,47,47.5</size>
       <description>Air Force 1 Low '07 White</description>
-      <quantity>115</quantity>
+      <quantity>114</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f4253e77-e740-44f8-9e79-5f3c4c0497c9.png?v=1738313375</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_147c72de-5ed0-4c6a-949f-66be9c7ae244.png?v=1738313376</image>
@@ -16132,7 +16132,7 @@
           <manufacturersku>315122-111/CW2288-111.45</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>45</size>
-          <quantity>12</quantity>
+          <quantity>11</quantity>
         </variation>
         <variation>
           <variationid>52983176069453.45.5</variationid>
