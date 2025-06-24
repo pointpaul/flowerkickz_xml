@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-24 07:03</created_at>
+  <created_at>2025-06-24 08:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -17994,7 +17994,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE</size>
       <description>Bape Tee Japan Autumn Big Ape Head</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>52527741337933.LARGE</variationid>
@@ -18012,7 +18012,7 @@
           <manufacturersku>.SMALL</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52527741337933.X-LARGE</variationid>
