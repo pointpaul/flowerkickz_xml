@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-25 09:03</created_at>
+  <created_at>2025-06-25 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3163,7 +3163,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>53</quantity>
+      <quantity>52</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
@@ -3195,7 +3195,7 @@
           <manufacturersku>ID5103.39</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>39</size>
-          <quantity>7</quantity>
+          <quantity>6</quantity>
         </variation>
         <variation>
           <variationid>52580198220109.40.5</variationid>
@@ -4000,7 +4000,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>32</quantity>
+      <quantity>31</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_92f83587-4b6a-4b3f-acc3-11decb796ef5.jpg?v=1733086992</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_b30ae739-1e26-4cce-8d1a-6d4327d962e2.jpg?v=1733086992</image>
@@ -4014,7 +4014,7 @@
           <manufacturersku>CU9225-100.40</manufacturersku>
           <price_with_vat>365</price_with_vat>
           <size>40</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>52576870400333.40.5</variationid>
@@ -7371,7 +7371,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5</size>
       <description>Yeezy Foam RNR MX Granite</description>
-      <quantity>15</quantity>
+      <quantity>14</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_9dbc2635-1fa4-4825-9467-4301589324d9.jpg?v=1733150911</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c9570fdf-2536-4482-9543-30c4859796b0.jpg?v=1733150911</image>
@@ -7412,7 +7412,7 @@
           <manufacturersku>IE4931.40.5</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>40.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52580216504653.42</variationid>
@@ -19878,7 +19878,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Exciting Macaron Vinyl Face Blind Box - SINGLE PACK</description>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL_aaf2b457-2bce-4c51-b3ba-24ba8e21ec2e.png?v=1748865101</image>
       </additional_images>
