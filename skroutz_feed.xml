@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-27 12:03</created_at>
+  <created_at>2025-06-27 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19890,6 +19890,25 @@
       <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL_aaf2b457-2bce-4c51-b3ba-24ba8e21ec2e.png?v=1748865101</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>ID5480</id>
+      <name>Yeezy Slide Salt</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-slide-salt</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Salt-ID5480.jpg?v=1733114512</image>
+      <category>Sneakers</category>
+      <price_with_vat>205</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42</size>
+      <description>Yeezy Slide Salt</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Salt-ID5480_0aa63fb1-0b13-4dec-9e23-e5f39d0c6c1b.jpg?v=1733114512</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Salt-ID5480_f5dc4d10-9838-4ed6-8609-f7b3eb1b76f8.jpg?v=1733114512</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Salt-ID5480_6e065cda-f7c4-4897-a1de-08af5bde44ce.jpg?v=1733114512</image>
       </additional_images>
     </product>
     <product>
