@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-28 11:02</created_at>
+  <created_at>2025-06-28 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1857,7 +1857,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic Tee Black</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_cd386c2b-ccbd-412a-82c1-006ea34edd5a.png?v=1725369820</image>
       </additional_images>
@@ -1887,7 +1887,7 @@
           <manufacturersku>476351.Χ-LARGE</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>Χ-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -1903,7 +1903,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-SMALL,Χ-LARGE</size>
       <description>KAWS x Uniqlo Warhol UT Graphic Tee Black Red</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/Dimensions1_720d8b65-6be2-4612-87a4-0e90d083d92a.png?v=1725370199</image>
       </additional_images>
@@ -1933,7 +1933,7 @@
           <manufacturersku>476352.SMALL</manufacturersku>
           <price_with_vat>85</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52168761704781.X-SMALL</variationid>
@@ -3163,7 +3163,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>52</quantity>
+      <quantity>51</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
@@ -3195,7 +3195,7 @@
           <manufacturersku>ID5103.39</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>39</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>52580198220109.40.5</variationid>
@@ -7380,7 +7380,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5</size>
       <description>Yeezy Foam RNR MX Granite</description>
-      <quantity>13</quantity>
+      <quantity>12</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_9dbc2635-1fa4-4825-9467-4301589324d9.jpg?v=1733150911</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c9570fdf-2536-4482-9543-30c4859796b0.jpg?v=1733150911</image>
@@ -7457,7 +7457,7 @@
           <manufacturersku>IE4931.46</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>46</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52580216504653.47</variationid>
