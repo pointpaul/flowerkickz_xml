@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-30 12:03</created_at>
+  <created_at>2025-06-30 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1725,7 +1725,7 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>ΜΠΑΣΟΚ Bucket Hat White</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id/>
@@ -3163,7 +3163,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>50</quantity>
+      <quantity>49</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
@@ -3195,7 +3195,7 @@
           <manufacturersku>ID5103.39</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>39</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>52580198220109.40.5</variationid>
@@ -11259,7 +11259,7 @@
       <availability>In Stock</availability>
       <size>38.5,40.5,41,42,43,44,48.5</size>
       <description>Air Jordan 4 Retro SE Craft Photon Dust</description>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Craft_Photon_Dust-DV3742-021_807c16e0-4d62-4340-b180-3fa9af645413.jpg?v=1733101731</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Craft_Photon_Dust-DV3742-021_9a99fa6b-d1e4-4b3c-8c13-91368159c694.jpg?v=1733101731</image>
@@ -11273,7 +11273,7 @@
           <manufacturersku>DV3742-021.38.5</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>38.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578347581773.40.5</variationid>
@@ -19801,7 +19801,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Big into Energy Series-Vinyl Plush Pendant Blind Box - 6 PACK</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL.png?v=1748864920</image>
       </additional_images>
@@ -19818,7 +19818,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Exciting Macaron Vinyl Face Blind Box - 6 PACK</description>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL_aaf2b457-2bce-4c51-b3ba-24ba8e21ec2e.png?v=1748865101</image>
       </additional_images>
@@ -19853,7 +19853,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Have a Seat Vinyl Plush Blind Box - SINGLE PACK</description>
-      <quantity>6</quantity>
+      <quantity>17</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/haveaseatall.png?v=1748864617</image>
       </additional_images>
@@ -19870,7 +19870,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Big into Energy Series-Vinyl Plush Pendant Blind Box - SINGLE PACK</description>
-      <quantity>8</quantity>
+      <quantity>14</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL.png?v=1748864920</image>
       </additional_images>
@@ -19887,7 +19887,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Exciting Macaron Vinyl Face Blind Box - SINGLE PACK</description>
-      <quantity>1</quantity>
+      <quantity>11</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL_aaf2b457-2bce-4c51-b3ba-24ba8e21ec2e.png?v=1748865101</image>
       </additional_images>
