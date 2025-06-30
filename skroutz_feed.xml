@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-30 14:03</created_at>
+  <created_at>2025-06-30 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7239,7 +7239,7 @@
       <availability>In Stock</availability>
       <size>37,40.5,43,50US</size>
       <description>Yeezy Foam RNR Clay Taupe</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_7e019787-4665-4f56-aa7d-5f7f6060d308.jpg?v=1733150900</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_a5a1e2d2-373c-4a28-a8c3-4ee8caabcf1c.jpg?v=1733150900</image>
@@ -7262,7 +7262,7 @@
           <manufacturersku>GV6842.40.5</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>40.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52579069395277.43</variationid>
