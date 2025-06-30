@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-06-30 13:03</created_at>
+  <created_at>2025-06-30 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19887,7 +19887,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Exciting Macaron Vinyl Face Blind Box - SINGLE PACK</description>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL_aaf2b457-2bce-4c51-b3ba-24ba8e21ec2e.png?v=1748865101</image>
       </additional_images>
@@ -20003,6 +20003,47 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/haveaseatall.png?v=1748864617</image>
       </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>New Balance 1906L Silver Metallic Cream</name>
+      <link>https://www.flowerkickz.gr/products/new-balance-1906a-concrete-silver-metallic-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE_FINAL_2024c337-e2a8-402b-9d2b-24c891c3c5f4.png?v=1751288572</image>
+      <category>Sneakers</category>
+      <price_with_vat>445</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>47,47.5</size>
+      <description>New Balance 1906L Silver Metallic Cream</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE_2_FRONT.png?v=1751288572</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE_FRONT_FINAL.png?v=1751288572</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/TOP_FINAL.png?v=1751288572</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BOTTOM_FINAL.png?v=1751288572</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BACK_FINAL_0c451562-f60a-40ff-863c-af73dd95e558.png?v=1751288570</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>53984985416013.47</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-1906a-concrete-silver-metallic-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.47</manufacturersku>
+          <price_with_vat>445</price_with_vat>
+          <size>47</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>53984985416013.47.5</variationid>
+          <link>https://www.flowerkickz.gr/products/new-balance-1906a-concrete-silver-metallic-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.47.5</manufacturersku>
+          <price_with_vat>365</price_with_vat>
+          <size>47.5</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
     </product>
   </products>
 </FlowerKickz>
