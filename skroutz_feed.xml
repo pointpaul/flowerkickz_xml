@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-01 14:03</created_at>
+  <created_at>2025-07-01 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -10979,7 +10979,7 @@
       <manufacturer>Jordan</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>36,36.5,40,43,45.5</size>
+      <size>36,36.5,40,43,45.5,47.5</size>
       <description>Air Jordan 4 Retro Oxidized Green</description>
       <quantity>7</quantity>
       <additional_images>
@@ -11032,6 +11032,15 @@
           <price_with_vat>555</price_with_vat>
           <size>45.5</size>
           <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>52581087248717.47.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-jordan-4-retro-oxidized-green</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FQ8138-103.47.5</manufacturersku>
+          <price_with_vat>520</price_with_vat>
+          <size>47.5</size>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -19862,7 +19871,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Have a Seat Vinyl Plush Blind Box - SINGLE PACK</description>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/haveaseatall.png?v=1748864617</image>
       </additional_images>
@@ -19937,6 +19946,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_13d88d46-0fa9-4d6e-8679-df55cf351997.jpg?v=1733148131</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_0c5cacda-dd16-4919-af57-b1d2f77627b3.jpg?v=1733148131</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_723a18a7-9429-459c-bf83-e7b4b32f78a0.jpg?v=1733148131</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FX9764</id>
+      <name>Yeezy Boost 380 Mist</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-boost-380-mist</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_15d39221-9830-4610-85a4-0827a5f277e1.jpg?v=1733150723</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>46</size>
+      <description>Yeezy Boost 380 Mist</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f255d55a-62de-44bd-9fee-3cf7cae10090.jpg?v=1733150723</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_f1726ae3-2d49-4919-b703-a0a9892d3a5a.jpg?v=1733150723</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_96bc09bf-d08b-4f49-860d-3ed0eb4f30a5.jpg?v=1733150723</image>
       </additional_images>
     </product>
     <product>
