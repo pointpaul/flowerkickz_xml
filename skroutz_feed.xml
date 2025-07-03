@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-03 12:03</created_at>
+  <created_at>2025-07-03 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -20084,16 +20084,16 @@
     </product>
     <product>
       <id/>
-      <name>New Balance 1906L Silver Metallic Cream (Copy)</name>
+      <name>New Balance 1906L Silver Metallic Black</name>
       <link>https://www.flowerkickz.gr/products/new-balance-1906l-silver-metallic-cream-copy</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE_FINAL_a36b05c8-88fa-4f51-aa17-36b7c90b7259.png?v=1751543891</image>
       <category>Sneakers</category>
-      <price_with_vat>445</price_with_vat>
+      <price_with_vat>500</price_with_vat>
       <manufacturer>New Balance</manufacturer>
       <ean/>
       <availability>In Stock</availability>
       <size>47,47.5</size>
-      <description>New Balance 1906L Silver Metallic Cream (Copy)</description>
+      <description>New Balance 1906L Silver Metallic Black</description>
       <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE_2_FINAL.png?v=1751543891</image>
@@ -20107,7 +20107,7 @@
           <link>https://www.flowerkickz.gr/products/new-balance-1906l-silver-metallic-cream-copy</link>
           <availability>In Stock</availability>
           <manufacturersku>None.47</manufacturersku>
-          <price_with_vat>445</price_with_vat>
+          <price_with_vat>500</price_with_vat>
           <size>47</size>
           <quantity>0</quantity>
         </variation>
@@ -20116,7 +20116,7 @@
           <link>https://www.flowerkickz.gr/products/new-balance-1906l-silver-metallic-cream-copy</link>
           <availability>In Stock</availability>
           <manufacturersku>None.47.5</manufacturersku>
-          <price_with_vat>365</price_with_vat>
+          <price_with_vat>600</price_with_vat>
           <size>47.5</size>
           <quantity>0</quantity>
         </variation>
