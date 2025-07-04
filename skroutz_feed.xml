@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-04 13:03</created_at>
+  <created_at>2025-07-04 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3163,7 +3163,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>48</quantity>
+      <quantity>47</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
@@ -3240,7 +3240,7 @@
           <manufacturersku>ID5103.46</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>46</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>52580198220109.47</variationid>
@@ -3626,7 +3626,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM</size>
       <description>Stüssy Tee Dot Stamp White</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <variations>
         <variation>
           <variationid>52706091073869.LARGE</variationid>
@@ -3644,7 +3644,7 @@
           <manufacturersku>None.MEDIUM</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
@@ -9052,7 +9052,7 @@
       <availability>In Stock</availability>
       <size>36</size>
       <description>Air Jordan 1 Low Wolf Grey</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Wolf_Grey-DC0774-105_e674e5a3-14fd-40e6-9f84-22461616052e.jpg?v=1733091437</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Wolf_Grey-DC0774-105_56385614-5c03-4406-8061-98f0fcb3fdb4.jpg?v=1733091437</image>
