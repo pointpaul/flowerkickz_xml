@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-07 08:03</created_at>
+  <created_at>2025-07-07 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19339,7 +19339,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>Sprayground Cheetah Chenille DLXSV Backpack</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id/>
@@ -19871,7 +19871,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Have a Seat Vinyl Plush Blind Box - SINGLE PACK</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/haveaseatall.png?v=1748864617</image>
       </additional_images>
