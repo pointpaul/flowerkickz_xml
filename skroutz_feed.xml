@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-08 14:03</created_at>
+  <created_at>2025-07-08 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -20238,6 +20238,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE3.png?v=1751980050</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE2_3593b12b-c26d-47a9-8f8e-3c156cd2ae84.png?v=1751980050</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BACK_0ad5a52a-fe9c-417f-af59-26fb4fc99e3f.png?v=1751980050</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Air Johanssen Basketball DLXSR Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-la-macchina-italiana-dlxsv-backpack-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FRONT_137303b4-8ba7-4407-ae12-fc16233811e4.png?v=1751986617</image>
+      <category>Sneakers</category>
+      <price_with_vat>160</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Air Johanssen Basketball DLXSR Backpack</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE_2_c2a183b1-3826-4f88-8183-2597da313f91.png?v=1751986617</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/side_1.png?v=1751986617</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BACK_cf8a0e01-655c-4a30-bfe4-337ada7ecae6.png?v=1751986617</image>
       </additional_images>
     </product>
   </products>
