@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-09 09:03</created_at>
+  <created_at>2025-07-09 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -20257,6 +20257,58 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE_2_c2a183b1-3826-4f88-8183-2597da313f91.png?v=1751986617</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/side_1.png?v=1751986617</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BACK_cf8a0e01-655c-4a30-bfe4-337ada7ecae6.png?v=1751986617</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620032839</id>
+      <name>My Arcade Gaming Street Fighter Ii Mini Machine</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-gaming-street-fighter-ii-mini-machine</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/MACHINE.png?v=1752054225</image>
+      <category>Sneakers</category>
+      <price_with_vat>115</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade Gaming Street Fighter Ii Mini Machine</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE_423583d1-6f01-41bf-8b55-d9b5a27aedb8.png?v=1752054225</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BOX.png?v=1752054225</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620032792</id>
+      <name>My Arcade Gaming Space Invaders Mini Machine</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-gaming-space-invaders-mini-machine</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ARCADE.png?v=1752054495</image>
+      <category>Sneakers</category>
+      <price_with_vat>115</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade Gaming Space Invaders Mini Machine</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BOX_f5ab0a67-f612-41fc-a063-0060cf801ed0.png?v=1752054494</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620032006</id>
+      <name>My Arcade Gaming Data East Hits 10 In Retro Mini Portable Machine</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-gaming-data-east-hits-10-in-retro-mini-portable-machine</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FRONT2.png?v=1752054624</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade Gaming Data East Hits 10 In Retro Mini Portable Machine</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FRONT_a7b69a1d-0fc0-4d07-abf5-b19b9983b8c7.png?v=1752054624</image>
       </additional_images>
     </product>
   </products>
