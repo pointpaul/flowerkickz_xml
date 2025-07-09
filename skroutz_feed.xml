@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-09 07:03</created_at>
+  <created_at>2025-07-09 08:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7491,7 +7491,7 @@
       <availability>In Stock</availability>
       <size>38,39</size>
       <description>Adidas Yeezy Slide Azure</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Yeezy_Slide_Azure-ID4133_6b3374b2-d95d-44e4-aa1a-ef9158d203c0.jpg?v=1733107248</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Adidas_Yeezy_Slide_Azure-ID4133_a1454cf1-4331-4cb6-941a-a17bd02e4795.jpg?v=1733107248</image>
@@ -7505,7 +7505,7 @@
           <manufacturersku>ID4133.38</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>38</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52579001106765.39</variationid>
