@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-10 12:03</created_at>
+  <created_at>2025-07-10 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -20465,6 +20465,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Medium_Olive-DM7866-200_1b6d21c4-5784-44d4-966b-484759a7e2a6.jpg?v=1733122171</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Medium_Olive-DM7866-200_8399084f-6f4d-42b8-a327-0710f941ee65.jpg?v=1733122171</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Medium_Olive-DM7866-200_3888ca9b-759a-427f-9416-fb3f71dfd390.jpg?v=1733122171</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>HM3698-006</id>
+      <name>Nike Dunk Low LX Metallic Silver Pink Foam</name>
+      <link>https://www.flowerkickz.gr/products/nike-dunk-low-lx-metallic-silver-pink-foam</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Metallic_Silver_Pink_Foam-HM3698-006.jpg?v=1733120585</image>
+      <category>Sneakers</category>
+      <price_with_vat>260</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>40</size>
+      <description>Nike Dunk Low LX Metallic Silver Pink Foam</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Metallic_Silver_Pink_Foam-HM3698-006_04ced59e-9017-43d6-9c25-455f23660928.jpg?v=1733120585</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Metallic_Silver_Pink_Foam-HM3698-006_9e0da8b5-54ce-4e1d-a3d6-af7d7c6d776e.jpg?v=1733120585</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Metallic_Silver_Pink_Foam-HM3698-006_760e4378-059f-4fab-b225-35e592654188.jpg?v=1733120585</image>
       </additional_images>
     </product>
   </products>
