@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-10 16:03</created_at>
+  <created_at>2025-07-10 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19979,7 +19979,7 @@
       <availability>In Stock</availability>
       <size>37,40.5,43,50US</size>
       <description>Yeezy Foam RNNR SULFUR</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SULFRURBACK.png?v=1750258243</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SULFURBOTTOM.png?v=1750258243</image>
@@ -20002,7 +20002,7 @@
           <manufacturersku>GV6842.40.5</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>40.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>53905595007309.43</variationid>
