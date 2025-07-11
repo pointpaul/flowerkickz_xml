@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-11 16:03</created_at>
+  <created_at>2025-07-11 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -958,7 +958,7 @@
       <availability>In Stock</availability>
       <size>X-LARGE</size>
       <description>Trapstar TRP Tee White/Revolution Edition</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>80170284</id>
@@ -18549,7 +18549,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,X-LARGE</size>
       <description>Bape Tee Flyer Pattern Print</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>52527839674701.LARGE</variationid>
@@ -18576,7 +18576,7 @@
           <manufacturersku>None.X-LARGE</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
