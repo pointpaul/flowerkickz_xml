@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-11 10:03</created_at>
+  <created_at>2025-07-11 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -13949,7 +13949,7 @@
       <availability>In Stock</availability>
       <size>38,40.5</size>
       <description>Nike Dunk Low SE 85 Double Swoosh Sail Orange</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_SE_85_Double_Swoosh_Sail_Orange-DO9457-100_c405e8b4-b8a2-4a04-be04-a628c7d097f8.jpg?v=1733097411</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_SE_85_Double_Swoosh_Sail_Orange-DO9457-100_6882d629-1015-4722-9c05-6958a6e02386.jpg?v=1733097411</image>
@@ -13972,7 +13972,7 @@
           <manufacturersku>DO9457-100.40.5</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>40.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
