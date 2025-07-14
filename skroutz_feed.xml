@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-14 13:04</created_at>
+  <created_at>2025-07-14 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -20271,7 +20271,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>My Arcade Gaming Street Fighter Ii Mini Machine</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE_423583d1-6f01-41bf-8b55-d9b5a27aedb8.png?v=1752054225</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BOX.png?v=1752054225</image>
@@ -20484,6 +20484,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Metallic_Silver_Pink_Foam-HM3698-006_04ced59e-9017-43d6-9c25-455f23660928.jpg?v=1733120585</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Metallic_Silver_Pink_Foam-HM3698-006_9e0da8b5-54ce-4e1d-a3d6-af7d7c6d776e.jpg?v=1733120585</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_LX_Metallic_Silver_Pink_Foam-HM3698-006_760e4378-059f-4fab-b225-35e592654188.jpg?v=1733120585</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Yeezy Boost 350 V2 Cinder</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-cinder</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Cinder-FY2903.jpg?v=1733087011</image>
+      <category>Sneakers</category>
+      <price_with_vat>705</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>48</size>
+      <description>Yeezy Boost 350 V2 Cinder</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Cinder-FY2903_5f2780ff-f528-4626-97ad-d918c654f921.jpg?v=1733087011</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Cinder-FY2903_c990bfec-0f1e-4399-adae-bbb911909164.jpg?v=1733087011</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Cinder-FY2903_b072166a-e7bf-4f71-b9fc-b97e4af8360a.jpg?v=1733087011</image>
       </additional_images>
     </product>
   </products>
