@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-17 15:03</created_at>
+  <created_at>2025-07-17 16:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1131,7 +1131,7 @@
       <availability>In Stock</availability>
       <size>MEDIUM,SMALL</size>
       <description>Trapstar Dream Team Hoodie Black</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>49600160563533.MEDIUM</variationid>
@@ -1149,7 +1149,7 @@
           <manufacturersku>06506099.SMALL</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -17978,7 +17978,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE</size>
       <description>Bape Tee 1st Camo College White</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>52530009473357.LARGE</variationid>
@@ -18005,7 +18005,7 @@
           <manufacturersku>None.X-LARGE</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -19871,7 +19871,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Have a Seat Vinyl Plush Blind Box - SINGLE PACK</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/haveaseatall.png?v=1748864617</image>
       </additional_images>
