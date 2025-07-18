@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-18 12:03</created_at>
+  <created_at>2025-07-18 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1638,7 +1638,7 @@
       <availability>In Stock</availability>
       <size>O/S - 100€</size>
       <description>Bape Yank STA Scarf Black</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>B-AC019</id>
@@ -20503,6 +20503,26 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Cinder-FY2903_5f2780ff-f528-4626-97ad-d918c654f921.jpg?v=1733087011</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Cinder-FY2903_c990bfec-0f1e-4399-adae-bbb911909164.jpg?v=1733087011</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Cinder-FY2903_b072166a-e7bf-4f71-b9fc-b97e4af8360a.jpg?v=1733087011</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Nike Dunk Low Off-White Lot 32</name>
+      <link>https://www.flowerkickz.gr/products/nike-dunk-low-off-white-lot-32</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDEFINAL.png?v=1752843443</image>
+      <category>Sneakers</category>
+      <price_with_vat>985</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44</size>
+      <description>Nike Dunk Low Off-White Lot 32</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/DOUBLEFINAL.png?v=1752843443</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FRONTSIDEFINAL.png?v=1752843443</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BACKSIDEFINAL.png?v=1752843443</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BOTTOMFINAL.png?v=1752843443</image>
       </additional_images>
     </product>
   </products>
