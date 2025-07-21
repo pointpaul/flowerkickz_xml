@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-21 12:03</created_at>
+  <created_at>2025-07-21 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7596,7 +7596,7 @@
       <availability>In Stock</availability>
       <size>38,42,43</size>
       <description>Yeezy Slide Ochre</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_6e022baa-9f70-44f4-8cd7-c6c27598e492.jpg?v=1733150973</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_563e9612-58d1-4fa7-8de7-821a4749fea9.jpg?v=1733150973</image>
@@ -7628,7 +7628,7 @@
           <manufacturersku>GW1931.43</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>43</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
