@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-25 16:03</created_at>
+  <created_at>2025-07-25 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -507,7 +507,7 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>Trapstar Irongate T Cross-Body Bag Black</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id>54608014</id>
@@ -15565,7 +15565,7 @@
       <availability>In Stock</availability>
       <size>44.5</size>
       <description>Air Max Plus Cordura Black</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_7829a00e-1006-4be8-87b4-a00dd1af744d.png?v=1738143652</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_33b709a2-403a-4d74-b22f-84175b01da60.png?v=1738143652</image>
