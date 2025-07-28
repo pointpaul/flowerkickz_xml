@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-28 16:03</created_at>
+  <created_at>2025-07-28 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1131,7 +1131,7 @@
       <availability>In Stock</availability>
       <size>MEDIUM,SMALL</size>
       <description>Trapstar Dream Team Hoodie Black</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>49600160563533.MEDIUM</variationid>
@@ -1140,7 +1140,7 @@
           <manufacturersku>06506099.MEDIUM</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49600160563533.SMALL</variationid>
@@ -18460,7 +18460,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-LARGE</size>
       <description>Bape Crewneck  1st Camo Big Ape Head</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_d87abf74-17df-486f-9945-c1955e1bb43b.png?v=1730973628</image>
       </additional_images>
@@ -18472,7 +18472,7 @@
           <manufacturersku>None.LARGE</manufacturersku>
           <price_with_vat>300</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52528072753485.MEDIUM</variationid>
