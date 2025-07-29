@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-07-29 12:03</created_at>
+  <created_at>2025-07-29 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3660,7 +3660,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL</size>
       <description>Stüssy Tee Surfwalk White</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <variations>
         <variation>
           <variationid>52706161918285.LARGE</variationid>
@@ -3669,7 +3669,7 @@
           <manufacturersku>.LARGE</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52706161918285.MEDIUM</variationid>
@@ -20550,7 +20550,7 @@
       <link>https://www.flowerkickz.gr/products/labubu-the-monsters-big-into-energy-series-vinyl-plush-pendant-blind-box-single-pack-copy</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BOX_cb2e9b38-7d35-4a40-9b85-825580d2c5e8.png?v=1753785079</image>
       <category>Sneakers</category>
-      <price_with_vat>150</price_with_vat>
+      <price_with_vat>160</price_with_vat>
       <manufacturer>Flower Kickz</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -20565,9 +20565,9 @@
       <id/>
       <name>LABUBU - THE MONSTERS COCA-COLA SERIES - Vinyl Face Blind Box - 6 PACK</name>
       <link>https://www.flowerkickz.gr/products/labubu-the-monsters-exciting-macaron-vinyl-face-blind-box-6-pack-copy</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/6BOX_8a38f446-a471-4ee0-beeb-065e176be4f2.png?v=1753785136</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/111_bf5f8002-d9ac-4962-ac48-2934dd5917d4.png?v=1753792081</image>
       <category>Sneakers</category>
-      <price_with_vat>885</price_with_vat>
+      <price_with_vat>950</price_with_vat>
       <manufacturer>Flower Kickz</manufacturer>
       <ean/>
       <availability>In Stock</availability>
@@ -20575,7 +20575,7 @@
       <description>LABUBU - THE MONSTERS COCA-COLA SERIES - Vinyl Face Blind Box - 6 PACK</description>
       <quantity>1</quantity>
       <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/111_bf5f8002-d9ac-4962-ac48-2934dd5917d4.png?v=1753785137</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/6BOX_8a38f446-a471-4ee0-beeb-065e176be4f2.png?v=1753792081</image>
       </additional_images>
     </product>
   </products>
