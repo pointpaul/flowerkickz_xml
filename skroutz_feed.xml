@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-01 17:03</created_at>
+  <created_at>2025-08-01 18:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2252,7 +2252,7 @@
       <availability>In Stock</availability>
       <size>MEDIUM</size>
       <description>Bape Shark Sweatpants Black</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id/>
@@ -4000,7 +4000,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>29</quantity>
+      <quantity>28</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_92f83587-4b6a-4b3f-acc3-11decb796ef5.jpg?v=1733086992</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_b30ae739-1e26-4cce-8d1a-6d4327d962e2.jpg?v=1733086992</image>
@@ -4032,7 +4032,7 @@
           <manufacturersku>CU9225-100.41</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>41</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52576870400333.42</variationid>
@@ -12248,7 +12248,7 @@
       <availability>In Stock</availability>
       <size>45</size>
       <description>Nike Dunk High Premium EMB World Champ</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_High_Premium_EMB_World_Champ-DR9512-001_7256c5c2-87a9-4c9d-9c62-fae93c6903c6.jpg?v=1733097572</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_High_Premium_EMB_World_Champ-DR9512-001_12559ac9-d97d-4ad1-8fe5-684c767c3a5c.jpg?v=1733097572</image>
