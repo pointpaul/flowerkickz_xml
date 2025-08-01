@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-01 07:03</created_at>
+  <created_at>2025-08-01 08:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -625,7 +625,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Shorts Dark Oatmeal</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <variations>
         <variation>
           <variationid>49041225384269.LARGE</variationid>
@@ -652,7 +652,7 @@
           <manufacturersku>91455455.X-LARGE</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>49041225384269.X-SMALL</variationid>
@@ -3385,7 +3385,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Hoodie Coral</description>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <variations>
         <variation>
           <variationid>49950543675725.LARGE</variationid>
@@ -3394,7 +3394,7 @@
           <manufacturersku>54399544.LARGE</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>LARGE</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>49950543675725.MEDIUM</variationid>
@@ -18021,7 +18021,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL,X-LARGE</size>
       <description>Bape Tee Japan Autumn Big Ape Head</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <variations>
         <variation>
           <variationid>52527741337933.LARGE</variationid>
@@ -18048,7 +18048,7 @@
           <manufacturersku>.X-LARGE</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
