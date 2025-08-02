@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-02 13:03</created_at>
+  <created_at>2025-08-02 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -20594,6 +20594,158 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_227d474d-2279-4d25-a590-5968787e814f.png?v=1754139637</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_4941b0f5-d0df-4538-87c8-856ca43dec90.png?v=1754139637</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Metallic Printed Denim Shark DLXSV Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-mini-bear-pockets-dlx-backpack-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_8567fc6d-4a02-424c-8cd3-27db65400c04.png?v=1754139739</image>
+      <category>Sneakers</category>
+      <price_with_vat>170</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Metallic Printed Denim Shark DLXSV Backpack</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_43549804-7d28-4469-946d-11da371c2115.png?v=1754139759</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_3ed26c7a-9fb2-49c2-b04c-f4831a7b6747.png?v=1754139759</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_3cefb377-5a4e-4611-958b-6ecd13a0744f.png?v=1754139759</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Rick And Morty Reveal Dlsxv Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-metallic-printed-denim-shark-dlxsv-backpack-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_2b94befd-610a-4f10-a2ba-2cd0652f5e41.png?v=1754139846</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Rick And Morty Reveal Dlsxv Backpack</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_9047c9bd-e305-44b0-b0cf-3010b28559b1.png?v=1754139879</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_93ab8a83-ecf3-4e37-92db-2e619e872e99.png?v=1754139879</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/5_076e0041-f0e1-4c50-a4bf-1488a1cd4525.png?v=1754139879</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_801ba62f-5ce1-4cfc-90e7-f9fef71d9511.png?v=1754139879</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Ron English DBD Portrait DLXSV Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-rick-and-morty-reveal-dlsxv-backpack-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_3809da1c-e9c4-48d5-9a8d-3e8ffd97dabb.png?v=1754140380</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Ron English DBD Portrait DLXSV Backpack</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f15ebd16-11eb-4486-8066-6fbd80b36d78.png?v=1754140379</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_c2d14783-a245-4467-814d-84569e848b0f.png?v=1754140380</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Keith Harring Embossed Shark Dlxsv Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-ron-english-dbd-portrait-dlxsv-backpack-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_8d3feb78-da00-437c-8644-47a2a9874b07.png?v=1754140511</image>
+      <category>Sneakers</category>
+      <price_with_vat>170</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Keith Harring Embossed Shark Dlxsv Backpack</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_786bbffa-e9c2-425a-8bfa-0cb6c7a074f9.png?v=1754140510</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_4b963c5f-98e4-40c9-9325-5282c1889400.png?v=1754140510</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_1f9f57a2-c3ff-4b6b-adb6-83309a105bbb.png?v=1754140510</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Diablo Jetpack DLX-WING Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-keith-harring-embossed-shark-dlxsv-backpack-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_33bb06e8-5d1b-4cac-a4dc-1eb966872192.png?v=1754140591</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Diablo Jetpack DLX-WING Backpack</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_14a1081e-b9e8-4105-ad70-88b5105f35d2.png?v=1754140590</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_7003c1db-1d71-459e-8e45-65e9144634fe.png?v=1754140590</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_6ad6d025-ba90-4472-92a0-87038a47f7cf.png?v=1754140591</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Packed Away DLX Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-diablo-jetpack-dlx-wing-backpack-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_e7e3a1dd-acf2-4bc1-8b0a-55542ae9eb66.png?v=1754140718</image>
+      <category>Sneakers</category>
+      <price_with_vat>160</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Packed Away DLX Backpack</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_5933906e-8413-4a6c-93ef-91f189271d25.png?v=1754140741</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_710fe644-6adb-495d-a982-642361888764.png?v=1754140741</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Air Mesh Weld V3 DLX Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-packed-away-dlx-backpack-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_1ed5ae86-1536-443c-a316-40d683d3c4f9.png?v=1754140806</image>
+      <category>Sneakers</category>
+      <price_with_vat>170</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Air Mesh Weld V3 DLX Backpack</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_cbc4bf6b-f030-4bd0-bbb5-19639421d427.png?v=1754140806</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_d2bba015-822e-4935-a3b3-3be99caa25af.png?v=1754140806</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_c99f5a7d-8371-4bbf-bb0a-b03b8ada0525.png?v=1754140806</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/5_4b526460-8dbe-40aa-839e-b0d9df0b47de.png?v=1754140806</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Sprayground Denim Shark Special OPS Backpack</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-air-mesh-weld-v3-dlx-backpack-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_e4394b2d-8b2d-40e4-87b0-b1ea1271f961.png?v=1754140879</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>Sprayground Denim Shark Special OPS Backpack</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_9af00185-97cf-4403-8183-f184def85f45.png?v=1754140879</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_27c89757-b7aa-4bc6-9ece-9e888dc06f9d.png?v=1754140879</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_68a0682b-0168-4763-87be-fac26d9be1f0.png?v=1754140879</image>
       </additional_images>
     </product>
   </products>
