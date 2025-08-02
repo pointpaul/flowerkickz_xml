@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-02 16:03</created_at>
+  <created_at>2025-08-02 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -8348,7 +8348,7 @@
       <availability>In Stock</availability>
       <size>37.5,38,38.5,40,40.5</size>
       <description>Air Jordan 1 Low Lemonade</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Lemonade-DC0774-007_5361fa60-80e7-40e7-84d2-c5c6c7f4517b.jpg?v=1733095963</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Lemonade-DC0774-007_0a29b762-5064-405e-b3c0-2668405cb680.jpg?v=1733095963</image>
@@ -8389,7 +8389,7 @@
           <manufacturersku>DC0774-007.40</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>40</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577815888205.40.5</variationid>
@@ -12691,7 +12691,7 @@
       <availability>In Stock</availability>
       <size>42,42.5,43,44,44.5,45,45.5,47,47.5,48.5,49.5</size>
       <description>Nike Dunk Low Clear Jade</description>
-      <quantity>24</quantity>
+      <quantity>23</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Clear_Jade-DV0833-101_02eeec04-39aa-45e4-8a84-0133161dbbdd.jpg?v=1733108137</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Clear_Jade-DV0833-101_b74b7b3d-e5e2-4218-b928-a9aa1bebfc01.jpg?v=1733108137</image>
@@ -12741,7 +12741,7 @@
           <manufacturersku>DV0833-101.44.5</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>44.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52579105997133.45</variationid>
@@ -19888,7 +19888,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Big into Energy Series-Vinyl Plush Pendant Blind Box - SINGLE PACK</description>
-      <quantity>22</quantity>
+      <quantity>21</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL.png?v=1748864920</image>
       </additional_images>
