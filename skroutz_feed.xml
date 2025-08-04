@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-04 14:03</created_at>
+  <created_at>2025-08-04 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -10933,7 +10933,7 @@
       <availability>In Stock</availability>
       <size>41,47,47.5</size>
       <description>Air Jordan 4 Retro Military Black</description>
-      <quantity>13</quantity>
+      <quantity>12</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Military_Black-DH6927-111_c2a56963-d805-4a5c-bd1d-ea51443abdfb.jpg?v=1733095169</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Military_Black-DH6927-111_c47a50a7-9a87-499f-aa26-be0101cc5cd4.jpg?v=1733095169</image>
@@ -10956,7 +10956,7 @@
           <manufacturersku>DH6927-111.47</manufacturersku>
           <price_with_vat>780</price_with_vat>
           <size>47</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>52577751105869.47.5</variationid>
@@ -20765,6 +20765,23 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_Cream_Black_Metallic_Plum-1201A019-108_72c3cbf8-f296-4e01-b677-a74b51df71fc.jpg?v=1733107817</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_Cream_Black_Metallic_Plum-1201A019-108_6dfdece1-4846-4870-bd2f-f7a838372a45.jpg?v=1733107817</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_Cream_Black_Metallic_Plum-1201A019-108_33e8174f-226e-444a-b29a-e830b291d546.jpg?v=1733107817</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>Trapstar Hyperdrive Cap</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-hyperdrive-cap</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_2f12fe04-0f34-49d8-9986-ef2af27c6477.png?v=1754319115</image>
+      <category>Sneakers</category>
+      <price_with_vat>115</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One size</size>
+      <description>Trapstar Hyperdrive Cap</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_099e3bf6-05b6-43f4-8006-911a8e15ac3c.png?v=1754319114</image>
       </additional_images>
     </product>
   </products>
