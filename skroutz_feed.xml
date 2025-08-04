@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-04 10:03</created_at>
+  <created_at>2025-08-04 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -20746,6 +20746,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_9af00185-97cf-4403-8183-f184def85f45.png?v=1754140879</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_27c89757-b7aa-4bc6-9ece-9e888dc06f9d.png?v=1754140879</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_68a0682b-0168-4763-87be-fac26d9be1f0.png?v=1754140879</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>1201A019-108</id>
+      <name>ASICS Gel-Kayano 14 Cream Black Metallic Plum</name>
+      <link>https://www.flowerkickz.gr/products/asics-gel-kayano-14-cream-black-metallic-plum</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_Cream_Black_Metallic_Plum-1201A019-108.jpg?v=1733107817</image>
+      <category>Sneakers</category>
+      <price_with_vat>420</price_with_vat>
+      <manufacturer>Asics</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>45</size>
+      <description>ASICS Gel-Kayano 14 Cream Black Metallic Plum</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_Cream_Black_Metallic_Plum-1201A019-108_72c3cbf8-f296-4e01-b677-a74b51df71fc.jpg?v=1733107817</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_Cream_Black_Metallic_Plum-1201A019-108_6dfdece1-4846-4870-bd2f-f7a838372a45.jpg?v=1733107817</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_Cream_Black_Metallic_Plum-1201A019-108_33e8174f-226e-444a-b29a-e830b291d546.jpg?v=1733107817</image>
       </additional_images>
     </product>
   </products>
