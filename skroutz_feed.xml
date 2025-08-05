@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-05 14:03</created_at>
+  <created_at>2025-08-05 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21091,6 +21091,152 @@
           <quantity>2</quantity>
         </variation>
       </variations>
+    </product>
+    <product>
+      <id>845620070282</id>
+      <name>My Arcade Tetris® Pocket Player Pro</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-gaming-street-fighter-ii-mini-machine-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_6c4e9605-849f-4cdf-94e0-bf7f3e292437.png?v=1754402855</image>
+      <category>Sneakers</category>
+      <price_with_vat>80</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade Tetris® Pocket Player Pro</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_d766f307-714d-4a8e-ae21-e0f4d215dc13.png?v=1754402856</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3F_498ac03c-8d5e-484d-8885-031db4db0aa2.png?v=1754402855</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620041886</id>
+      <name>My Arcade Mega Man Nano Player Pro</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-tetris®-pocket-player-pro-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_a9218a8f-468a-4a1d-848b-8ae8c4690096.png?v=1754402986</image>
+      <category>Sneakers</category>
+      <price_with_vat>60</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade Mega Man Nano Player Pro</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_d2b9338e-09fc-4a92-b21a-2525b4898cb4.png?v=1754402986</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3F_888cd2e3-be26-4697-96b0-17c133e70551.png?v=1754402987</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4F.png?v=1754402986</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620070138</id>
+      <name>My Arcade ATARI Micro Player Pro</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-mega-man-nano-player-pro-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_17198f25-4698-4d3c-90b6-dfaf7ad953b8.png?v=1754403108</image>
+      <category>Sneakers</category>
+      <price_with_vat>70</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade ATARI Micro Player Pro</description>
+      <quantity>2</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_7b159ad9-0f4e-4444-9525-7ed934a05ae7.png?v=1754403108</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3F_55a0c58a-b413-42b3-a753-a9ef1a8cc395.png?v=1754403107</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4F_2fd1b010-7ca4-4b7f-b905-bcb574c642c5.png?v=1754403108</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620041947</id>
+      <name>My Arcade PAC-MAN Micro Player Pro</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-atari-micro-player-pro-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_b015023a-f8a7-49d2-99d2-fe4ee6c46596.png?v=1754403431</image>
+      <category>Sneakers</category>
+      <price_with_vat>80</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade PAC-MAN Micro Player Pro</description>
+      <quantity>2</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_18a7f2fc-89a9-4a15-bef5-b1f64064269b.png?v=1754403431</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620032839</id>
+      <name>My Arcade Street Fighter 2 Champion Edition Micro Player</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-pac-man-micro-player-pro-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_df4b7859-144c-4eeb-b05c-56748e66365a.png?v=1754403271</image>
+      <category>Sneakers</category>
+      <price_with_vat>115</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade Street Fighter 2 Champion Edition Micro Player</description>
+      <quantity>2</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_0e2287ab-a588-485a-860e-67c14813a95b.png?v=1754403271</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3F_439c9f30-24bd-48d5-8699-0b3ebe4e222f.png?v=1754403271</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4F_29eac1da-e003-47fd-bf4d-d2b42d951b27.png?v=1754403271</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620070732</id>
+      <name>My Arcade Joystick Player Pac-Man Portable Retro Arcade</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-street-fighter-2-champion-edition-micro-player-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_362aa8f8-ef02-444a-ae4d-981ab8612f1a.png?v=1754403369</image>
+      <category>Sneakers</category>
+      <price_with_vat>100</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade Joystick Player Pac-Man Portable Retro Arcade</description>
+      <quantity>2</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_bc63dbe9-99e2-4b2b-99e3-1839ecc40e2e.png?v=1754403369</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620070008</id>
+      <name>My Arcade Shop Galaga Joystick Player</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-pac-man-micro-player-pro-copy-1</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_dce454bd-bb6c-481b-b680-28239cb1eeef.png?v=1754403505</image>
+      <category>Sneakers</category>
+      <price_with_vat>105</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade Shop Galaga Joystick Player</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_1856f2d5-355a-4d07-beee-034207703eee.png?v=1754403505</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3F_6d6cf0a2-e0c1-4ab4-8a05-4126e428aae9.png?v=1754403505</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4F_29cc8c02-a3bc-473a-b2a0-1fea3cd2e93c.png?v=1754403505</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620032419</id>
+      <name>My Arcade BUBBLE BOBBLE™ Micro Player</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-bubble-bobble™-micro-player</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_e1c1e1d0-1118-4aab-bbcf-71c0566c7d5d.png?v=1754403574</image>
+      <category>Sneakers</category>
+      <price_with_vat>80</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade BUBBLE BOBBLE™ Micro Player</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_6687359a-7795-43c7-be4d-8b7417956d84.png?v=1754403574</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3F_4b781869-d23c-4cdd-8135-a3a6e6cb26d4.png?v=1754403574</image>
+      </additional_images>
     </product>
   </products>
 </FlowerKickz>
