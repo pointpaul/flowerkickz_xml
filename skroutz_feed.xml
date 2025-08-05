@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-05 09:03</created_at>
+  <created_at>2025-08-05 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -20779,7 +20779,7 @@
       <availability>In Stock</availability>
       <size>One size</size>
       <description>Trapstar Hyperdrive Cap</description>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_099e3bf6-05b6-43f4-8006-911a8e15ac3c.png?v=1754319114</image>
       </additional_images>
@@ -20796,10 +20796,321 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>Trapstar Irongate Drawstring Bag</description>
-      <quantity>0</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_856e6739-439b-40a9-9fc8-9b077b9193f1.png?v=1754320552</image>
       </additional_images>
+    </product>
+    <product>
+      <id>TP0022</id>
+      <name>Trapstar Airforce Irongate T Tee</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-chrome-flame-ss23-tee-white-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FINAL.png?v=1754317433</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Trapstar</manufacturer>
+      <ean>65779021</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,SMALL</size>
+      <description>Trapstar Airforce Irongate T Tee</description>
+      <quantity>3</quantity>
+      <variations>
+        <variation>
+          <variationid>54211260318029.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-chrome-flame-ss23-tee-white-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.LARGE</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>54211260318029.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-chrome-flame-ss23-tee-white-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.SMALL</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>TP0022</id>
+      <name>Trapstar Decoded All Terrain Tee</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-shooters-breakthrough-tee-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1FINAL.png?v=1754317606</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Trapstar</manufacturer>
+      <ean>65779021</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL</size>
+      <description>Trapstar Decoded All Terrain Tee</description>
+      <quantity>4</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2FINAL.png?v=1754317606</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>54211345875277.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-shooters-breakthrough-tee-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.LARGE</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>54211345875277.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-shooters-breakthrough-tee-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.MEDIUM</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>54211345875277.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-shooters-breakthrough-tee-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.SMALL</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>SMALL</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>05846756</id>
+      <name>Trapstar Foundation Gilet</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-foundation-gilet</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_8014d2c3-f735-43cf-884e-2e326970866c.png?v=1754317941</image>
+      <category>Sneakers</category>
+      <price_with_vat>205</price_with_vat>
+      <manufacturer>Trapstar</manufacturer>
+      <ean>26878029</ean>
+      <availability>In Stock</availability>
+      <size>MEDIUM,SMALL</size>
+      <description>Trapstar Foundation Gilet</description>
+      <quantity>2</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_153ef2f5-3d6f-4b22-ab41-88f0440d91a3.png?v=1754317941</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>54211400401229.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-foundation-gilet</link>
+          <availability>In Stock</availability>
+          <manufacturersku>05846756.MEDIUM</manufacturersku>
+          <price_with_vat>205</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>54211400401229.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-foundation-gilet</link>
+          <availability>In Stock</availability>
+          <manufacturersku>05846756.SMALL</manufacturersku>
+          <price_with_vat>205</price_with_vat>
+          <size>SMALL</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>TP0022</id>
+      <name>Trapstar Irongate T Tee Desert Camo Edition</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-decoded-all-terrain-tee-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_81a59b74-f282-4178-83cd-064eca494e5d.png?v=1754317648</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Trapstar</manufacturer>
+      <ean>65779021</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,SMALL</size>
+      <description>Trapstar Irongate T Tee Desert Camo Edition</description>
+      <quantity>3</quantity>
+      <variations>
+        <variation>
+          <variationid>54211354788173.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-decoded-all-terrain-tee-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.LARGE</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>LARGE</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>54211354788173.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-decoded-all-terrain-tee-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.SMALL</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>SMALL</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>TP0022</id>
+      <name>Trapstar London Strikeout Tee</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-airforce-irongate-t-tee-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F.png?v=1754317470</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Trapstar</manufacturer>
+      <ean>65779021</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL</size>
+      <description>Trapstar London Strikeout Tee</description>
+      <quantity>5</quantity>
+      <variations>
+        <variation>
+          <variationid>54211276472653.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-airforce-irongate-t-tee-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.LARGE</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>54211276472653.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-airforce-irongate-t-tee-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.MEDIUM</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>54211276472653.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-airforce-irongate-t-tee-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.SMALL</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>TP0022</id>
+      <name>Trapstar Shooters Breakthrough Tee</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-spin-print-tee-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_197fa37a-f8a0-40aa-9ede-e780dfff7b70.png?v=1754317569</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Trapstar</manufacturer>
+      <ean>65844557</ean>
+      <availability>In Stock</availability>
+      <size>LARGE</size>
+      <description>Trapstar Shooters Breakthrough Tee</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>TP0022</id>
+      <name>Trapstar Spin Print Tee</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-ts-star-tee-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_42694ba1-2bd7-42fd-a3bb-39debd2c0eb4.png?v=1754317538</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Trapstar</manufacturer>
+      <ean>65779021</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL</size>
+      <description>Trapstar Spin Print Tee</description>
+      <quantity>5</quantity>
+      <variations>
+        <variation>
+          <variationid>54211325755725.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-ts-star-tee-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.LARGE</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>54211325755725.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-ts-star-tee-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.MEDIUM</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>54211325755725.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-ts-star-tee-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.SMALL</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>TP0022</id>
+      <name>Trapstar TS-Star Tee</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-london-strikeout-tee-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_7e5eed5c-7d84-4525-ad0f-b00364ca6920.png?v=1754317510</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Trapstar</manufacturer>
+      <ean>65844557</ean>
+      <availability>In Stock</availability>
+      <size>LARGE</size>
+      <description>Trapstar TS-Star Tee</description>
+      <quantity>1</quantity>
+    </product>
+    <product>
+      <id>TP0022</id>
+      <name>Trapstar x Central Cee Arch Tee</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-irongate-t-tee-desert-camo-edition-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_fd7c045b-4d94-4673-a529-ae3c365e45d2.png?v=1754317723</image>
+      <category>Sneakers</category>
+      <price_with_vat>140</price_with_vat>
+      <manufacturer>Trapstar</manufacturer>
+      <ean>65779021</ean>
+      <availability>In Stock</availability>
+      <size>LARGE,MEDIUM,SMALL</size>
+      <description>Trapstar x Central Cee Arch Tee</description>
+      <quantity>5</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F.png?v=1754317723</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>54211358884173.LARGE</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-irongate-t-tee-desert-camo-edition-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.LARGE</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>LARGE</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>54211358884173.MEDIUM</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-irongate-t-tee-desert-camo-edition-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.MEDIUM</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>MEDIUM</size>
+          <quantity>2</quantity>
+        </variation>
+        <variation>
+          <variationid>54211358884173.SMALL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-irongate-t-tee-desert-camo-edition-copy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>TP0022.SMALL</manufacturersku>
+          <price_with_vat>140</price_with_vat>
+          <size>SMALL</size>
+          <quantity>2</quantity>
+        </variation>
+      </variations>
     </product>
   </products>
 </FlowerKickz>
