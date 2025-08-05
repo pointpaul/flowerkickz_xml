@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-05 11:03</created_at>
+  <created_at>2025-08-05 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4111,7 +4111,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,46,47,48.5</size>
       <description>Yeezy Foam RNNR Onyx</description>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Foam_RNNR_Onyx-HP8739_cd69a2d4-b832-4f1a-a0b9-1cdc63976a96.jpg?v=1733095676</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Foam_RNNR_Onyx-HP8739_af096810-5c74-443c-8338-c08278247bd7.jpg?v=1733095676</image>
@@ -4188,7 +4188,7 @@
           <manufacturersku>HP8739.48.5</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>48.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -20571,7 +20571,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>Sprayground Mini Bear Pockets DLX Backpack</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_227d474d-2279-4d25-a590-5968787e814f.png?v=1754139637</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_4941b0f5-d0df-4538-87c8-856ca43dec90.png?v=1754139637</image>
@@ -20638,7 +20638,7 @@
       <id/>
       <name>Sprayground Keith Harring Embossed Shark Dlxsv Backpack</name>
       <link>https://www.flowerkickz.gr/products/sprayground-ron-english-dbd-portrait-dlxsv-backpack-copy</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_8d3feb78-da00-437c-8644-47a2a9874b07.png?v=1754140511</image>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1f_8436768a-1b0d-4125-a02a-be25195cf208.png?v=1754392590</image>
       <category>Sneakers</category>
       <price_with_vat>170</price_with_vat>
       <manufacturer>Sprayground</manufacturer>
@@ -20648,9 +20648,8 @@
       <description>Sprayground Keith Harring Embossed Shark Dlxsv Backpack</description>
       <quantity>1</quantity>
       <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_786bbffa-e9c2-425a-8bfa-0cb6c7a074f9.png?v=1754140510</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_4b963c5f-98e4-40c9-9325-5282c1889400.png?v=1754140510</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_1f9f57a2-c3ff-4b6b-adb6-83309a105bbb.png?v=1754140510</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2f_a0f2bcc3-bfe6-4201-91e5-9d42158affe4.png?v=1754392590</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3f.png?v=1754392589</image>
       </additional_images>
     </product>
     <product>
