@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-05 10:03</created_at>
+  <created_at>2025-08-05 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2086,7 +2086,7 @@
       <availability>In Stock</availability>
       <size>LARGE,Χ-LARGE</size>
       <description>KAWS + Warhol Graphic Sweatshirt Black</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/22_5aa96823-1b94-4df6-b136-f71662c038c1.png?v=1730283426</image>
       </additional_images>
@@ -2098,7 +2098,7 @@
           <manufacturersku>476119.LARGE</manufacturersku>
           <price_with_vat>125</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52491203805517.Χ-LARGE</variationid>
@@ -11547,7 +11547,7 @@
       <availability>In Stock</availability>
       <size>37,39.5,40,42.5</size>
       <description>New Balance MR 530 SG White Navy</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_66473b38-5f2e-49c2-b98b-3b58568919cb.jpg?v=1733147216</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_57e2dc66-1d43-4acc-b8ac-51f25f557e90.jpg?v=1733147216</image>
@@ -11588,7 +11588,7 @@
           <manufacturersku>MR530SG.42.5</manufacturersku>
           <price_with_vat>150</price_with_vat>
           <size>42.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -20449,25 +20449,6 @@
       </additional_images>
     </product>
     <product>
-      <id/>
-      <name>Air Jordan 1 Retro Low OG SP Travis Scott Medium Olive</name>
-      <link>https://www.flowerkickz.gr/products/air-jordan-1-retro-low-og-sp-travis-scott-medium-olive</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Medium_Olive-DM7866-200.jpg?v=1733122171</image>
-      <category>Sneakers</category>
-      <price_with_vat>1245</price_with_vat>
-      <manufacturer>Jordan</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>45</size>
-      <description>Air Jordan 1 Retro Low OG SP Travis Scott Medium Olive</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Medium_Olive-DM7866-200_1b6d21c4-5784-44d4-966b-484759a7e2a6.jpg?v=1733122171</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Medium_Olive-DM7866-200_8399084f-6f4d-42b8-a327-0710f941ee65.jpg?v=1733122171</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Medium_Olive-DM7866-200_3888ca9b-759a-427f-9416-fb3f71dfd390.jpg?v=1733122171</image>
-      </additional_images>
-    </product>
-    <product>
       <id>HM3698-006</id>
       <name>Nike Dunk Low LX Metallic Silver Pink Foam</name>
       <link>https://www.flowerkickz.gr/products/nike-dunk-low-lx-metallic-silver-pink-foam</link>
@@ -20556,7 +20537,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - THE MONSTERS COCA-COLA SERIES - Vinyl Face Blind Box - SINGLE PACK</description>
-      <quantity>15</quantity>
+      <quantity>14</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/6BOX_8d000804-486a-4fb8-93b7-3cd4a27f4e58.png?v=1753785079</image>
       </additional_images>
