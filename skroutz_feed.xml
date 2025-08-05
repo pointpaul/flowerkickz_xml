@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-05 15:03</created_at>
+  <created_at>2025-08-05 16:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19905,7 +19905,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Exciting Macaron Vinyl Face Blind Box - SINGLE PACK</description>
-      <quantity>28</quantity>
+      <quantity>27</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL_aaf2b457-2bce-4c51-b3ba-24ba8e21ec2e.png?v=1748865101</image>
       </additional_images>
@@ -21236,6 +21236,142 @@
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_6687359a-7795-43c7-be4d-8b7417956d84.png?v=1754403574</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3F_4b781869-d23c-4cdd-8135-a3a6e6cb26d4.png?v=1754403574</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>ICHOR - Baby Aphrodite</name>
+      <link>https://www.flowerkickz.gr/products/ichor-baby-aphrodite</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_213e07e2-994f-4894-9f39-7caea68fd4d1.png?v=1754406221</image>
+      <category>Sneakers</category>
+      <price_with_vat>30</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>ICHOR - Baby Aphrodite</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_35e729a9-1d71-4ac3-8a59-f18697c31c1e.png?v=1754406221</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>ICHOR - Baby Apollo</name>
+      <link>https://www.flowerkickz.gr/products/ichor-baby-aphrodite-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_6baf6daa-42d9-455e-a9b4-63d5d83a424c.png?v=1754406288</image>
+      <category>Sneakers</category>
+      <price_with_vat>30</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>ICHOR - Baby Apollo</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_b521b768-a6cf-431b-9968-0cc21c247305.png?v=1754406289</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>ICHOR - Baby Ares</name>
+      <link>https://www.flowerkickz.gr/products/ichor-baby-apollo-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_712a7f78-926f-426a-b3fc-37c325b7a29a.png?v=1754406334</image>
+      <category>Sneakers</category>
+      <price_with_vat>30</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>ICHOR - Baby Ares</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_aa1eb901-c4b4-44fc-beb1-c64864f50af1.png?v=1754406335</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>ICHOR - Baby Artemis</name>
+      <link>https://www.flowerkickz.gr/products/ichor-baby-ares-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_996f7a8b-9924-4dbf-a06a-8f1ecf0ada96.png?v=1754406377</image>
+      <category>Sneakers</category>
+      <price_with_vat>30</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>ICHOR - Baby Artemis</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_c837cebe-9165-4402-aa8d-ae2d66515fae.png?v=1754406377</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>ICHOR - Baby Athena</name>
+      <link>https://www.flowerkickz.gr/products/ichor-baby-artemis-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_fff8d25a-6f9c-49a8-a1eb-78b3c367b9ee.png?v=1754406416</image>
+      <category>Sneakers</category>
+      <price_with_vat>30</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>ICHOR - Baby Athena</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_ad592e05-a534-4117-bab5-3b571a8f0412.png?v=1754406416</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>ICHOR - Baby Hades</name>
+      <link>https://www.flowerkickz.gr/products/ichor-baby-athena-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_710b1159-e30c-4d70-9281-4a7377cccd8c.png?v=1754406457</image>
+      <category>Sneakers</category>
+      <price_with_vat>30</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>ICHOR - Baby Hades</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_93dd3bb9-420e-4c92-bc53-203423812d77.png?v=1754406457</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>ICHOR - Baby Poseidon</name>
+      <link>https://www.flowerkickz.gr/products/ichor-baby-hades-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_ae7ecaa1-b431-4b00-b0af-140ec59648a0.png?v=1754406506</image>
+      <category>Sneakers</category>
+      <price_with_vat>30</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>ICHOR - Baby Poseidon</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_11821e6d-a2ea-4de5-b465-0c9f0d809698.png?v=1754406506</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>ICHOR - Baby Zeus</name>
+      <link>https://www.flowerkickz.gr/products/ichor-baby-poseidon-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_eee3e3fe-adcb-4228-be27-27671def1e62.png?v=1754406557</image>
+      <category>Sneakers</category>
+      <price_with_vat>30</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>ICHOR - Baby Zeus</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_bb8b64a4-8530-4eff-bfdb-4aca43cd56fc.png?v=1754406558</image>
       </additional_images>
     </product>
   </products>
