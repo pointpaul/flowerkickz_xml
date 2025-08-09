@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-09 13:03</created_at>
+  <created_at>2025-08-09 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -13997,7 +13997,7 @@
       <availability>In Stock</availability>
       <size>36.5,37.5,38,38.5,39,40</size>
       <description>Nike Dunk Low University Blue UNC (2021)</description>
-      <quantity>30</quantity>
+      <quantity>29</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_University_Blue_UNC_2021_-DD1391-102_9aca0c75-990e-4b79-b41e-a08580d8c7ce.jpg?v=1733090258</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_University_Blue_UNC_2021_-DD1391-102_50c761ac-3e2a-4f33-bfc6-01827e904b37.jpg?v=1733090258</image>
@@ -14056,7 +14056,7 @@
           <manufacturersku>DD1391-102.40</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>40</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
       </variations>
     </product>
