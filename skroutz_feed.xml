@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-12 13:03</created_at>
+  <created_at>2025-08-12 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15610,7 +15610,7 @@
       <availability>In Stock</availability>
       <size>42.5,43,46</size>
       <description>Air Max 97 OG Silver Bullet (2022)</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_af489242-30f5-4384-a47e-c730c00854d5.png?v=1738144551</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_11856340-a920-4ab2-b609-5aab4318b41e.png?v=1738144552</image>
@@ -15632,7 +15632,7 @@
           <manufacturersku>DM0028-002.43</manufacturersku>
           <price_with_vat>400</price_with_vat>
           <size>43</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52972861817165.46</variationid>
@@ -19897,7 +19897,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Big into Energy Series-Vinyl Plush Pendant Blind Box - SINGLE PACK</description>
-      <quantity>19</quantity>
+      <quantity>18</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL.png?v=1748864920</image>
       </additional_images>
@@ -20617,7 +20617,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>Sprayground Rick And Morty Reveal Dlsxv Backpack</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_9047c9bd-e305-44b0-b0cf-3010b28559b1.png?v=1754139879</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_93ab8a83-ecf3-4e37-92db-2e619e872e99.png?v=1754139879</image>
