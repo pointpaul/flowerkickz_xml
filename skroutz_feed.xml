@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-18 08:03</created_at>
+  <created_at>2025-08-18 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -4000,7 +4000,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>27</quantity>
+      <quantity>26</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_92f83587-4b6a-4b3f-acc3-11decb796ef5.jpg?v=1733086992</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_b30ae739-1e26-4cce-8d1a-6d4327d962e2.jpg?v=1733086992</image>
@@ -4068,7 +4068,7 @@
           <manufacturersku>CU9225-100.45</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>45</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52576870400333.45.5</variationid>
@@ -7209,7 +7209,7 @@
       <availability>In Stock</availability>
       <size>36,42 2/3</size>
       <description>Yeezy Boost 350 V2 Zebra</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Zebra-CP9654_3b1cf504-d5d0-463f-9e81-4fb51e5d4dd2.jpg?v=1733085743</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Boost_350_V2_Zebra-CP9654_bfb5bca5-6304-4d64-b256-42f3ed65fb79.jpg?v=1733085743</image>
@@ -7232,7 +7232,7 @@
           <manufacturersku>CP9654.42-2/3</manufacturersku>
           <price_with_vat>645</price_with_vat>
           <size>42 2/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -7539,7 +7539,7 @@
       <availability>In Stock</availability>
       <size>37,42,43,44.5,48.5</size>
       <description>Yeezy Slide Glow Green (Restock Pair 2022)</description>
-      <quantity>16</quantity>
+      <quantity>15</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Glow_Green_Restock_Pair_2022_-HQ6447_57c8903c-7bee-448e-8bb8-2a13d707f2fb.jpg?v=1733095524</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Glow_Green_Restock_Pair_2022_-HQ6447_31bb3ffd-c40e-4ed7-a60b-8def72ee1050.jpg?v=1733095524</image>
@@ -7580,7 +7580,7 @@
           <manufacturersku>HQ6447.44.5</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>44.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577776533837.48.5</variationid>
@@ -8838,7 +8838,7 @@
       <availability>In Stock</availability>
       <size>36,36.5,37.5,39,40,40.5,41,42,42.5,43,45,45.5,47.5</size>
       <description>Air Jordan 1 Retro Low OG SP Travis Scott Black Phantom</description>
-      <quantity>22</quantity>
+      <quantity>21</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Black_Phantom-DM7866-001_325885de-e350-42cc-ac51-20a676368a31.jpg?v=1733099714</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_Low_OG_SP_Travis_Scott_Black_Phantom-DM7866-001_6bd8e59e-f3bd-4f31-8e22-d49083e70700.jpg?v=1733099714</image>
@@ -8924,7 +8924,7 @@
           <manufacturersku>DM7866-001.42.5</manufacturersku>
           <price_with_vat>1540</price_with_vat>
           <size>42.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52578147893581.43</variationid>
@@ -19914,7 +19914,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Exciting Macaron Vinyl Face Blind Box - SINGLE PACK</description>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL_aaf2b457-2bce-4c51-b3ba-24ba8e21ec2e.png?v=1748865101</image>
       </additional_images>
