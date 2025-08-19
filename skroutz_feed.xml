@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-19 16:03</created_at>
+  <created_at>2025-08-19 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21327,7 +21327,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>ICHOR - Baby Athena</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_ad592e05-a534-4117-bab5-3b571a8f0412.png?v=1754406416</image>
       </additional_images>
