@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-21 16:03</created_at>
+  <created_at>2025-08-21 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -12998,7 +12998,7 @@
       <availability>In Stock</availability>
       <size>36,36.5,37.5,38,38.5,40,41,42,42.5</size>
       <description>Nike Dunk Low Venice</description>
-      <quantity>15</quantity>
+      <quantity>14</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Venice-DD1503-116_bdf849ca-c45f-4bf3-aa2d-25466ab69cdd.jpg?v=1733093331</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Venice-DD1503-116_51e0d900-e92c-49a3-aed3-c953322c8c46.jpg?v=1733093331</image>
@@ -13057,7 +13057,7 @@
           <manufacturersku>DD1503-116.40</manufacturersku>
           <price_with_vat>260</price_with_vat>
           <size>40</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52577541226829.41</variationid>
