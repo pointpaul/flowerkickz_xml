@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-24 23:03</created_at>
+  <created_at>2025-08-25 00:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -383,7 +383,7 @@
       <availability>In Stock</availability>
       <size>2X-LARGE,LARGE,X-LARGE</size>
       <description>Trapstar Can't Trap A Trapper Tee White</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <variations>
         <variation>
           <variationid>48497027514701.2X-LARGE</variationid>
@@ -401,7 +401,7 @@
           <manufacturersku>12993892.LARGE</manufacturersku>
           <price_with_vat>105</price_with_vat>
           <size>LARGE</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>48497027514701.X-LARGE</variationid>
