@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-28 08:03</created_at>
+  <created_at>2025-08-28 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3163,7 +3163,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>38</quantity>
+      <quantity>37</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
@@ -3204,7 +3204,7 @@
           <manufacturersku>ID5103.40.5</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>40.5</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52580198220109.42</variationid>
