@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-29 14:03</created_at>
+  <created_at>2025-08-29 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -12503,7 +12503,7 @@
       <availability>In Stock</availability>
       <size>40.5,42.5,43,45.5</size>
       <description>Nike Dunk Low White Black Red</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_White_Black_Red-FB3354-001_742d9e5f-f59b-4e5b-b663-13910da109a1.jpg?v=1733101650</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_White_Black_Red-FB3354-001_2e5710a0-0e71-4ec5-aeee-94110e8e8151.jpg?v=1733101650</image>
@@ -12544,7 +12544,7 @@
           <manufacturersku>FB3354-001.45.5</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>45.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
