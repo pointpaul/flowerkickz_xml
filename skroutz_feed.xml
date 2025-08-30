@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-08-30 14:03</created_at>
+  <created_at>2025-08-30 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -10111,7 +10111,7 @@
       <availability>In Stock</availability>
       <size>36,37.5,38,38.5,39,40,41,42.5,44</size>
       <description>Air Jordan 1 Mid True Blue</description>
-      <quantity>13</quantity>
+      <quantity>12</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_True_Blue-DQ8426-014_0e8748b3-f20a-45c1-9cbc-1101d769672f.jpg?v=1733102720</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_True_Blue-DQ8426-014_66795569-1b06-40ba-b717-15b7d514b2ce.jpg?v=1733102720</image>
@@ -10161,7 +10161,7 @@
           <manufacturersku>DQ8426-014.39</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>39</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52703340364109.40</variationid>
@@ -19905,7 +19905,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>LABUBU - The Monsters Exciting Macaron Vinyl Face Blind Box - SINGLE PACK</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/ALL_aaf2b457-2bce-4c51-b3ba-24ba8e21ec2e.png?v=1748865101</image>
       </additional_images>
