@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-09-04 11:03</created_at>
+  <created_at>2025-09-04 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7968,7 +7968,7 @@
       <availability>In Stock</availability>
       <size>40,42.5,43,45.5</size>
       <description>Air Jordan 1 Retro High OG True Blue</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_349b78fa-d4f6-4145-8f93-a05597c30aa3.jpg?v=1733130347</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_56a17abd-1f66-4d31-8426-8bb81e83f9e3.jpg?v=1733130347</image>
@@ -8000,7 +8000,7 @@
           <manufacturersku>DZ5485-410.43</manufacturersku>
           <price_with_vat>275</price_with_vat>
           <size>43</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578388443469.45.5</variationid>
