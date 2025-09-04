@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-09-04 08:03</created_at>
+  <created_at>2025-09-04 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -13873,7 +13873,7 @@
       <availability>In Stock</availability>
       <size>42.5,43,44,44.5</size>
       <description>Nike Dunk Low Reverse Brazil</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Reverse_Brazil-DV0833-300_53479ef6-4cd9-4180-b638-9046c65845d4.jpg?v=1733102089</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Reverse_Brazil-DV0833-300_43e90552-a56d-4f67-b8ca-6971dd149ac2.jpg?v=1733102089</image>
@@ -13905,7 +13905,7 @@
           <manufacturersku>DV0833-300.44</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>44</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578384904525.44.5</variationid>
@@ -18314,7 +18314,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,X-LARGE</size>
       <description>Bape Crewneck Japanese Tattoo Side Big Ape Head Black</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>52528869704013.LARGE</variationid>
@@ -18323,7 +18323,7 @@
           <manufacturersku>None.LARGE</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52528869704013.MEDIUM</variationid>
