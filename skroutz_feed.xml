@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-09-09 15:03</created_at>
+  <created_at>2025-09-09 16:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -8576,7 +8576,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5</size>
       <description>Air Jordan 1 Low Palomino</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Palomino-553558-215_2dc701b6-088c-4470-89f4-7697718cbbfd.jpg?v=1733103313</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Palomino-553558-215_eb83e15b-d21b-47e7-9ba1-8ec19ec00956.jpg?v=1733103313</image>
@@ -8599,7 +8599,7 @@
           <manufacturersku>553558-215.36</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>36</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>52578504311117.36.5</variationid>
