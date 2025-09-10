@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-09-10 10:03</created_at>
+  <created_at>2025-09-10 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3163,7 +3163,7 @@
       <availability>In Stock</availability>
       <size>37,38,39,40.5,42,43,44.5,46,47,48.5,50,51</size>
       <description>Yeezy Slide Dark Onyx</description>
-      <quantity>36</quantity>
+      <quantity>35</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_310fe177-a607-4f34-b803-6ac3f6470dd1.jpg?v=1733114339</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Dark_Onyx-ID5103_cb81036b-0b82-4545-9cd3-51bc955d174b.jpg?v=1733114339</image>
@@ -3249,7 +3249,7 @@
           <manufacturersku>ID5103.47</manufacturersku>
           <price_with_vat>385</price_with_vat>
           <size>47</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>52580198220109.48.5</variationid>
@@ -21242,7 +21242,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>My Arcade Shop Galaga Joystick Player</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_1856f2d5-355a-4d07-beee-034207703eee.png?v=1754403505</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3F_6d6cf0a2-e0c1-4ab4-8a05-4126e428aae9.png?v=1754403505</image>
