@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-09-13 16:03</created_at>
+  <created_at>2025-09-13 18:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -6078,7 +6078,7 @@
       <availability>In Stock</availability>
       <size>38,38 2/3,40</size>
       <description>Adidas Handball Spezial Wonder Silver Gum</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_ae80acdb-6a30-45f6-af7c-98270909b98c.jpg?v=1733127092</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_0e60e8f7-d420-4af9-95a6-995cdfbda85e.jpg?v=1733127092</image>
@@ -6101,7 +6101,7 @@
           <manufacturersku>IF6491.38-2/3</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>38 2/3</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52580219617613.40</variationid>
@@ -7807,7 +7807,7 @@
       <availability>In Stock</availability>
       <size>41,42.5,44.5,46</size>
       <description>Air Jordan 1 High OG Patent Bred</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_High_OG_Patent_Bred-555088-063_87fc400f-44af-453b-82cd-12374533d916.jpg?v=1733091881</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_High_OG_Patent_Bred-555088-063_53854a07-a037-47a7-8442-ddaf7f60d85e.jpg?v=1733091881</image>
@@ -7830,7 +7830,7 @@
           <manufacturersku>555088-063.42.5</manufacturersku>
           <price_with_vat>420</price_with_vat>
           <size>42.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52577383448909.44.5</variationid>
@@ -15231,7 +15231,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38,38.5,39,40</size>
       <description>Air Jordan 1 Infrared 23</description>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_24f86c91-315e-4aae-934c-15f12656d2b2.png?v=1738058156</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_b1e2fbf0-50d2-4c96-9bd0-769ff9320e6b.png?v=1738058156</image>
@@ -15280,7 +15280,7 @@
           <manufacturersku>FB4420-616.38</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>38</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52966346359117.38.5</variationid>
