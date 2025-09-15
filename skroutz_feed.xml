@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-09-15 11:03</created_at>
+  <created_at>2025-09-15 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21401,6 +21401,82 @@
       <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_bb8b64a4-8530-4eff-bfdb-4aca43cd56fc.png?v=1754406558</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FZ1267</id>
+      <name>Yeezy Boost 350 V2 Zyon</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-boost-350-v2-zyon</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_11ba0c15-ab04-405c-96a1-c4c9ba62c7c9.jpg?v=1733150697</image>
+      <category>Sneakers</category>
+      <price_with_vat>385</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>48</size>
+      <description>Yeezy Boost 350 V2 Zyon</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_ab152a23-d1ae-4d67-ba0e-26ef5b2d9454.jpg?v=1733150697</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_956559d1-3fc6-4086-a61f-c3461e873562.jpg?v=1733150697</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_44c2ecd2-1616-4e95-af3a-3b91c457d14e.jpg?v=1733150697</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FZ8319-300</id>
+      <name>Nike SB Dunk Low The Powerpuff Girls Buttercup</name>
+      <link>https://www.flowerkickz.gr/products/nike-sb-dunk-low-the-powerpuff-girls-buttercup</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_SB_Dunk_Low_The_Powerpuff_Girls_Buttercup-FZ8319-300.jpg?v=1733111357</image>
+      <category>Sneakers</category>
+      <price_with_vat>535</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42</size>
+      <description>Nike SB Dunk Low The Powerpuff Girls Buttercup</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_SB_Dunk_Low_The_Powerpuff_Girls_Buttercup-FZ8319-300_dbfb7c4c-493c-457f-923b-4ccb7bfe5577.jpg?v=1733111357</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_SB_Dunk_Low_The_Powerpuff_Girls_Buttercup-FZ8319-300_0060ca0b-eaeb-46b9-ac3d-ada5723afc9a.jpg?v=1733111357</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_SB_Dunk_Low_The_Powerpuff_Girls_Buttercup-FZ8319-300_05b43ce5-025a-4cd1-8b29-5de17226eb78.jpg?v=1733111357</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FZ5897</id>
+      <name>Yeezy Slide Bone (Restock Pair)</name>
+      <link>https://www.flowerkickz.gr/products/yeezy-slide-bone-restock-pair</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Bone_Restock_Pair_-FZ5897.jpg?v=1733097501</image>
+      <category>Sneakers</category>
+      <price_with_vat>295</price_with_vat>
+      <manufacturer>Yeezy</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42</size>
+      <description>Yeezy Slide Bone (Restock Pair)</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Bone_Restock_Pair_-FZ5897_7645c46c-a19b-4083-8b29-734d4e135549.jpg?v=1733097501</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Bone_Restock_Pair_-FZ5897_857b75bb-501d-40da-af6d-fd9ab8c2b1f1.jpg?v=1733097501</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Bone_Restock_Pair_-FZ5897_a88e4314-9034-4310-b1fc-ce3a0ad868a4.jpg?v=1733097501</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FD4290-003</id>
+      <name>Air Max Plus Drift All Day</name>
+      <link>https://www.flowerkickz.gr/products/air-max-plus-drift-all-day</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_815bce28-9c2b-4667-b98b-44eeb00a2b56.jpg?v=1733131899</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>43</size>
+      <description>Air Max Plus Drift All Day</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_35ff48d8-fb87-4228-b0b8-338a19c3ff54.jpg?v=1733131899</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_8b855989-e1c1-4fef-8f09-fc395bba054a.jpg?v=1733131899</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_7640776d-f972-41bc-aa2c-607f3f59b94b.jpg?v=1733131899</image>
       </additional_images>
     </product>
   </products>
