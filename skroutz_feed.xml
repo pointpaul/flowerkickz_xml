@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-09-18 12:03</created_at>
+  <created_at>2025-09-18 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -20910,7 +20910,7 @@
       <availability>In Stock</availability>
       <size>LARGE,SMALL</size>
       <description>Trapstar Irongate T Tee Desert Camo Edition</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>54211354788173.LARGE</variationid>
@@ -20928,7 +20928,7 @@
           <manufacturersku>TP0022.SMALL</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
