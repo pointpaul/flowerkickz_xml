@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-09-18 07:03</created_at>
+  <created_at>2025-09-18 08:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -17110,7 +17110,7 @@
       <availability>In Stock</availability>
       <size>36.5</size>
       <description>Air Jordan 4 Retro Frozen Moments</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Frozen_Moments-AQ9129-001_50b1b1b1-8bf8-4c7c-9e30-d2aafcb9f965.jpg?v=1733109486</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Frozen_Moments-AQ9129-001_1ef5b312-c371-4d7a-9837-f9db450d0854.jpg?v=1733109486</image>
@@ -21477,6 +21477,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_35ff48d8-fb87-4228-b0b8-338a19c3ff54.jpg?v=1733131899</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_8b855989-e1c1-4fef-8f09-fc395bba054a.jpg?v=1733131899</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_7640776d-f972-41bc-aa2c-607f3f59b94b.jpg?v=1733131899</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>HV4794-030</id>
+      <name>Air Jordan 9 Retro Olive (2024)</name>
+      <link>https://www.flowerkickz.gr/products/air-jordan-9-retro-olive-2024</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_9_Retro_Olive_2024_-HV4794-030.jpg?v=1733123762</image>
+      <category>Sneakers</category>
+      <price_with_vat>510</price_with_vat>
+      <manufacturer>Jordan</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>46</size>
+      <description>Air Jordan 9 Retro Olive (2024)</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_9_Retro_Olive_2024_-HV4794-030_1c9a99b4-c65c-4742-9da8-bd104221645d.jpg?v=1733123762</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_9_Retro_Olive_2024_-HV4794-030_df506233-6133-4599-8d71-4329504de8c6.jpg?v=1733123762</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_9_Retro_Olive_2024_-HV4794-030_421360aa-27f7-4c58-b386-6f819a50e939.jpg?v=1733123762</image>
       </additional_images>
     </product>
   </products>
