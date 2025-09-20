@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-09-20 10:03</created_at>
+  <created_at>2025-09-20 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -8348,7 +8348,7 @@
       <availability>In Stock</availability>
       <size>37.5,38,38.5,40,40.5</size>
       <description>Air Jordan 1 Low Lemonade</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Lemonade-DC0774-007_5361fa60-80e7-40e7-84d2-c5c6c7f4517b.jpg?v=1733095963</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Lemonade-DC0774-007_0a29b762-5064-405e-b3c0-2668405cb680.jpg?v=1733095963</image>
@@ -8380,7 +8380,7 @@
           <manufacturersku>DC0774-007.38.5</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>38.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52577815888205.40</variationid>
@@ -9875,7 +9875,7 @@
       <availability>In Stock</availability>
       <size>36,40.5,42,42.5,43,44</size>
       <description>Air Jordan 1 Mid SE Sport Spice</description>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_51a8180f-b722-4cce-8293-e3e93cbbe530.jpg?v=1733129714</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_db0b7506-1736-48cf-8649-aaa4ccc43c58.jpg?v=1733129714</image>
@@ -9916,7 +9916,7 @@
           <manufacturersku>DV1302-100.42.5</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>42.5</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52578477670733.43</variationid>
