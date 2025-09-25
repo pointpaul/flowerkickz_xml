@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-09-25 11:03</created_at>
+  <created_at>2025-09-25 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -18107,7 +18107,7 @@
       <availability>In Stock</availability>
       <size>LARGE,X-LARGE</size>
       <description>Bape Tee Check Big Ape Head Orange</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_80177451-19a6-4022-84ae-1a744941fcce.png?v=1730986435</image>
       </additional_images>
@@ -18128,7 +18128,7 @@
           <manufacturersku>None.X-LARGE</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -18549,7 +18549,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,X-LARGE</size>
       <description>Bape Tee Flyer Pattern Print</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <variations>
         <variation>
           <variationid>52527839674701.LARGE</variationid>
@@ -18558,7 +18558,7 @@
           <manufacturersku>None.LARGE</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52527839674701.MEDIUM</variationid>
