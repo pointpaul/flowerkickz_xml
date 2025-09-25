@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-09-25 15:03</created_at>
+  <created_at>2025-09-25 16:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1341,7 +1341,7 @@
       <availability>In Stock</availability>
       <size>O/S - 260€</size>
       <description>Bape Backpack Splinter Beige Camo</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>B-BP003</id>
@@ -21070,7 +21070,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL</size>
       <description>Trapstar x Central Cee Arch Tee</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F.png?v=1754317723</image>
       </additional_images>
@@ -21100,7 +21100,7 @@
           <manufacturersku>TP0022.SMALL</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
