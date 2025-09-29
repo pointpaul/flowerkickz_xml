@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-09-29 13:03</created_at>
+  <created_at>2025-09-29 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21172,7 +21172,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>My Arcade PAC-MAN Micro Player Pro</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_18a7f2fc-89a9-4a15-bef5-b1f64064269b.png?v=1754403431</image>
       </additional_images>
