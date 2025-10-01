@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-01 11:03</created_at>
+  <created_at>2025-10-01 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21479,6 +21479,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_9_Retro_Olive_2024_-HV4794-030_1c9a99b4-c65c-4742-9da8-bd104221645d.jpg?v=1733123762</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_9_Retro_Olive_2024_-HV4794-030_df506233-6133-4599-8d71-4329504de8c6.jpg?v=1733123762</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_9_Retro_Olive_2024_-HV4794-030_421360aa-27f7-4c58-b386-6f819a50e939.jpg?v=1733123762</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>DD1391-101</id>
+      <name>Nike Dunk Low Spartan Green</name>
+      <link>https://www.flowerkickz.gr/products/nike-dunk-low-spartan-green</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Spartan_Green-DD1391-101.jpg?v=1733091152</image>
+      <category>Sneakers</category>
+      <price_with_vat>240</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42.5</size>
+      <description>Nike Dunk Low Spartan Green</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Spartan_Green-DD1391-101_8e34548e-5629-4bbe-b443-f8784865a03b.jpg?v=1733091152</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Spartan_Green-DD1391-101_5b973bab-2b94-47fb-8ba0-024991f5c5d6.jpg?v=1733091152</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Spartan_Green-DD1391-101_700e1602-cf93-4d7b-be24-27f13cebd1ea.jpg?v=1733091152</image>
       </additional_images>
     </product>
   </products>
