@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-04 08:02</created_at>
+  <created_at>2025-10-04 09:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -677,7 +677,7 @@
       <availability>In Stock</availability>
       <size>X-LARGE</size>
       <description>Fear of God Essentials Tee Applique Logo Cream</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
     </product>
     <product>
       <id>53016153</id>
@@ -10414,7 +10414,7 @@
       <availability>In Stock</availability>
       <size>40,43,47.5</size>
       <description>Air Jordan 1 High OG Skyline</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_High_OG_Skyline-DX0054-805_b5f4e590-a929-4af8-a2ab-49a68a22f90c.jpg?v=1733105011</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_High_OG_Skyline-DX0054-805_95c09505-7084-4119-b02e-ce92a041fe36.jpg?v=1733105011</image>
@@ -10446,7 +10446,7 @@
           <manufacturersku>DX0054-805.47.5</manufacturersku>
           <price_with_vat>430</price_with_vat>
           <size>47.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
