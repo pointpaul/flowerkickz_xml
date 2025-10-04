@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-04 13:02</created_at>
+  <created_at>2025-10-04 14:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7530,7 +7530,7 @@
       <availability>In Stock</availability>
       <size>37,42,43,44.5,48.5</size>
       <description>Yeezy Slide Glow Green (Restock Pair 2022)</description>
-      <quantity>15</quantity>
+      <quantity>14</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Glow_Green_Restock_Pair_2022_-HQ6447_57c8903c-7bee-448e-8bb8-2a13d707f2fb.jpg?v=1733095524</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Yeezy_Slide_Glow_Green_Restock_Pair_2022_-HQ6447_31bb3ffd-c40e-4ed7-a60b-8def72ee1050.jpg?v=1733095524</image>
@@ -7562,7 +7562,7 @@
           <manufacturersku>HQ6447.43</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>43</size>
-          <quantity>10</quantity>
+          <quantity>9</quantity>
         </variation>
         <variation>
           <variationid>52577776533837.44.5</variationid>
@@ -13988,7 +13988,7 @@
       <availability>In Stock</availability>
       <size>36.5,37.5,38,38.5,39,40</size>
       <description>Nike Dunk Low University Blue UNC (2021)</description>
-      <quantity>29</quantity>
+      <quantity>28</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_University_Blue_UNC_2021_-DD1391-102_9aca0c75-990e-4b79-b41e-a08580d8c7ce.jpg?v=1733090258</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_University_Blue_UNC_2021_-DD1391-102_50c761ac-3e2a-4f33-bfc6-01827e904b37.jpg?v=1733090258</image>
@@ -14038,7 +14038,7 @@
           <manufacturersku>DD1391-102.39</manufacturersku>
           <price_with_vat>160</price_with_vat>
           <size>39</size>
-          <quantity>5</quantity>
+          <quantity>4</quantity>
         </variation>
         <variation>
           <variationid>52675386507597.40</variationid>
@@ -15388,7 +15388,7 @@
       <availability>In Stock</availability>
       <size>34</size>
       <description>Nike Dunk Low Pink Red White</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Red_White-CW1590-601_3414b0d3-5f36-4788-8642-71ec75e43e8a.jpg?v=1733091091</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Pink_Red_White-CW1590-601_0b979fdf-e235-4c47-8120-411a295013ee.jpg?v=1733091091</image>
