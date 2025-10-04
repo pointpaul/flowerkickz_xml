@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-04 10:02</created_at>
+  <created_at>2025-10-04 11:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -14941,7 +14941,7 @@
       <availability>In Stock</availability>
       <size>36 2/3,37 1/3,38,38 2/3,39 1/3,40,41 1/3</size>
       <description>Adidas Gazelle Bold Energy Ink Gum</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_2240ee3f-f0f3-4f7a-9baf-ab9ce63bd58f.png?v=1738054961</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_dcb0ab8e-7003-4f30-869c-e9b63062d4fb.png?v=1738054961</image>
@@ -14972,7 +14972,7 @@
           <manufacturersku>IE0419.38</manufacturersku>
           <price_with_vat>165</price_with_vat>
           <size>38</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52965952323917.38-2/3</variationid>
