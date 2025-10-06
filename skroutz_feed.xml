@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-06 08:03</created_at>
+  <created_at>2025-10-06 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19578,7 +19578,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>Sprayground Spec Ops Sateen DLX Cargo Backpack</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
     </product>
     <product>
       <id/>
@@ -21479,6 +21479,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_9_Retro_Olive_2024_-HV4794-030_1c9a99b4-c65c-4742-9da8-bd104221645d.jpg?v=1733123762</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_9_Retro_Olive_2024_-HV4794-030_df506233-6133-4599-8d71-4329504de8c6.jpg?v=1733123762</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_9_Retro_Olive_2024_-HV4794-030_421360aa-27f7-4c58-b386-6f819a50e939.jpg?v=1733123762</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FN7783-400</id>
+      <name>Nike Dunk Low Knicks</name>
+      <link>https://www.flowerkickz.gr/products/nike-dunk-low-knicks</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_08ba62a7-e574-40d4-a20a-5187a16b0b80.jpg?v=1733147748</image>
+      <category>Sneakers</category>
+      <price_with_vat>195</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>38.5</size>
+      <description>Nike Dunk Low Knicks</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_77d08f99-347c-4af6-a32f-201156038e07.jpg?v=1733147748</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_f5963e24-da50-49d5-be9c-01151b8a4ae3.jpg?v=1733147748</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_506e331d-f1e7-426e-94e7-e87049952818.jpg?v=1733147748</image>
       </additional_images>
     </product>
     <product>
