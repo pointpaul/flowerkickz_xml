@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-08 12:03</created_at>
+  <created_at>2025-10-08 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15509,7 +15509,7 @@
       <availability>In Stock</availability>
       <size>37.5,42</size>
       <description>Nike Dunk Low PRM Halloween (2021)</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_PRM_Halloween_2021_-DD3357-100_482a4122-51d0-49c6-a2bd-80b7c03c0c71.jpg?v=1733091608</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_PRM_Halloween_2021_-DD3357-100_b6c7a142-fd50-490c-9e6f-bd131ce85fb8.jpg?v=1733091608</image>
@@ -15532,7 +15532,7 @@
           <manufacturersku>DD3357-100.42</manufacturersku>
           <price_with_vat>320</price_with_vat>
           <size>42</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
