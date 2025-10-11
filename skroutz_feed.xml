@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-11 09:03</created_at>
+  <created_at>2025-10-11 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -16596,7 +16596,7 @@
       <availability>In Stock</availability>
       <size>35.5,36.5,38,38.5,42.5,44</size>
       <description>Nike Dunk Low Retro Gorge Green Midnight Navy</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Retro_Gorge_Green_Midnight_Navy-DD1503-300_c65fdbca-dbde-4f61-a739-744d97e00f4f.jpg?v=1733110182</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Retro_Gorge_Green_Midnight_Navy-DD1503-300_22cb01ab-b876-4e91-9464-5587321d7126.jpg?v=1733110182</image>
@@ -16637,7 +16637,7 @@
           <manufacturersku>DD1503-300.38.5</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>38.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52579440853325.42.5</variationid>
