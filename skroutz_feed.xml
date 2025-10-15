@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-15 14:03</created_at>
+  <created_at>2025-10-15 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7644,7 +7644,7 @@
       <availability>In Stock</availability>
       <size>37,42,43,44.5,46</size>
       <description>Yeezy Slide Resin</description>
-      <quantity>21</quantity>
+      <quantity>20</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_298918b9-95e8-48d6-9ff2-116232d0c10d.jpg?v=1733150986</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_80a50e78-dd99-4298-9cd8-a7bc3dec0b21.jpg?v=1733150986</image>
@@ -7676,7 +7676,7 @@
           <manufacturersku>FX0494.43</manufacturersku>
           <price_with_vat>475</price_with_vat>
           <size>43</size>
-          <quantity>10</quantity>
+          <quantity>9</quantity>
         </variation>
         <variation>
           <variationid>52577263124813.44.5</variationid>
@@ -12503,7 +12503,7 @@
       <availability>In Stock</availability>
       <size>40.5,42.5,43,45.5</size>
       <description>Nike Dunk Low White Black Red</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_White_Black_Red-FB3354-001_742d9e5f-f59b-4e5b-b663-13910da109a1.jpg?v=1733101650</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_White_Black_Red-FB3354-001_2e5710a0-0e71-4ec5-aeee-94110e8e8151.jpg?v=1733101650</image>
@@ -12517,7 +12517,7 @@
           <manufacturersku>FB3354-001.40.5</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>40.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578341945677.42.5</variationid>
