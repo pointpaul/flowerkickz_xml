@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-17 14:03</created_at>
+  <created_at>2025-10-17 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15694,7 +15694,7 @@
       <availability>In Stock</availability>
       <size>35.5,41,42,42.5,43,44,44.5,45,46</size>
       <description>Air Jordan 1 Mid Sonics (2021)</description>
-      <quantity>27</quantity>
+      <quantity>26</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_dca330b2-c2cd-4fb7-b2c8-56e3732b9c72.png?v=1738151156</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_dbc219a9-785d-4e90-8751-eaa0f8d3828c.png?v=1738151157</image>
@@ -15707,7 +15707,7 @@
           <manufacturersku>554724-371.35.5</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>35.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52973359202637.41</variationid>
