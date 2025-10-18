@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-18 16:03</created_at>
+  <created_at>2025-10-18 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -11047,7 +11047,7 @@
       <availability>In Stock</availability>
       <size>44,44.5,46,47</size>
       <description>Air Jordan 4 Retro Red Cement</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Red_Cement-DH6927-161_6d42ac87-7edc-498b-9eb0-0730920ff01c.jpg?v=1733108911</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_Red_Cement-DH6927-161_03372431-4d89-4e0a-adc0-bd119d446adc.jpg?v=1733108911</image>
@@ -11061,7 +11061,7 @@
           <manufacturersku>DH6927-161.44</manufacturersku>
           <price_with_vat>465</price_with_vat>
           <size>44</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52579184542029.44.5</variationid>
