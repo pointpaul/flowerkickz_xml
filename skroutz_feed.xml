@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-22 06:02</created_at>
+  <created_at>2025-10-22 07:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -19412,7 +19412,7 @@
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>40.5</size>
+      <size>40.5,44.5</size>
       <description>Air Max Plus Premium Black Racer Blue</description>
       <quantity>0</quantity>
       <additional_images>
@@ -19420,6 +19420,26 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Max_Plus_Premium_Black_Racer_Blue-FQ7331-001_bd526681-b093-4234-a6d2-696a6154ec1c.jpg?v=1733119169</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Max_Plus_Premium_Black_Racer_Blue-FQ7331-001_d502e261-dec3-47f8-9cdb-dedfaea02b17.jpg?v=1733119169</image>
       </additional_images>
+      <variations>
+        <variation>
+          <variationid>52581212750157.40.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-plus-premium-black-racer-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FQ7331-001.40.5</manufacturersku>
+          <price_with_vat>285</price_with_vat>
+          <size>40.5</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>52581212750157.44.5</variationid>
+          <link>https://www.flowerkickz.gr/products/air-max-plus-premium-black-racer-blue</link>
+          <availability>In Stock</availability>
+          <manufacturersku>FQ7331-001.44.5</manufacturersku>
+          <price_with_vat>295</price_with_vat>
+          <size>44.5</size>
+          <quantity>0</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>AQ9129-101</id>
@@ -21508,6 +21528,44 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Spartan_Green-DD1391-101_8e34548e-5629-4bbe-b443-f8784865a03b.jpg?v=1733091152</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Spartan_Green-DD1391-101_5b973bab-2b94-47fb-8ba0-024991f5c5d6.jpg?v=1733091152</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Spartan_Green-DD1391-101_700e1602-cf93-4d7b-be24-27f13cebd1ea.jpg?v=1733091152</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>FB2709-003</id>
+      <name>Nike Air Max 95 SP Corteiz Honey Black</name>
+      <link>https://www.flowerkickz.gr/products/nike-air-max-95-sp-corteiz-honey-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE_FINAL.png?v=1751032992</image>
+      <category>Sneakers</category>
+      <price_with_vat>465</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44.5</size>
+      <description>Nike Air Max 95 SP Corteiz Honey Black</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE_FRINT_FINAL.png?v=1751032992</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/6ca52ef6372f6b241760075b3e1ec645.png?v=1751032992</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BACK_FINAL.png?v=1751032992</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>924453-004</id>
+      <name>Nike Air VaporMax Plus Triple Black</name>
+      <link>https://www.flowerkickz.gr/products/nike-air-vapormax-plus-triple-black</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_25cec72b-f620-409c-95ab-bd606595318b.jpg?v=1733147268</image>
+      <category>Sneakers</category>
+      <price_with_vat>510</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>46</size>
+      <description>Nike Air VaporMax Plus Triple Black</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_b2a87aa7-2ac0-49e6-918e-df90bbb70a3c.jpg?v=1733147268</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_9e43d024-3c97-47be-b2ef-c172eb2819f2.jpg?v=1733147268</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_f4237fbc-dc7d-48a7-b74e-bb06e877566a.jpg?v=1733147268</image>
       </additional_images>
     </product>
   </products>
