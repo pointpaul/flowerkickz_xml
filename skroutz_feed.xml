@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-25 15:03</created_at>
+  <created_at>2025-10-25 16:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -9998,7 +9998,7 @@
       <availability>In Stock</availability>
       <size>42,42.5,44,46,47</size>
       <description>Air Jordan 1 Mid SE Zen Master</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_SE_Zen_Master-DM1200-001_e8a95c13-0e18-46ad-8ecf-417a4c323ecc.jpg?v=1733095254</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_SE_Zen_Master-DM1200-001_89e0b13f-10f6-4f48-8673-bfdbbcc3d9e4.jpg?v=1733095254</image>
@@ -10030,7 +10030,7 @@
           <manufacturersku>DM1200-001.44</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>44</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52577757364557.46</variationid>
@@ -21542,7 +21542,7 @@
       <availability>In Stock</availability>
       <size>44.5</size>
       <description>Nike Air Max 95 SP Corteiz Honey Black</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SIDE_FRINT_FINAL.png?v=1751032992</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/6ca52ef6372f6b241760075b3e1ec645.png?v=1751032992</image>
