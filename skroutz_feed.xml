@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-29 10:03</created_at>
+  <created_at>2025-10-29 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -20300,7 +20300,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>My Arcade Gaming Space Invaders Mini Machine</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BOX_f5ab0a67-f612-41fc-a063-0060cf801ed0.png?v=1752054494</image>
       </additional_images>
