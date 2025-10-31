@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-31 08:03</created_at>
+  <created_at>2025-10-31 09:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -5042,7 +5042,7 @@
       <availability>In Stock</availability>
       <size>35,36,36 2/3</size>
       <description>Adidas Gazelle Bold Active Pink Blue Burst</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <variations>
         <variation>
           <variationid>52580057678157.35</variationid>
@@ -5060,7 +5060,7 @@
           <manufacturersku>IE0421.36</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>36</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52580057678157.36-2/3</variationid>
