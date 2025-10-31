@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-10-31 11:03</created_at>
+  <created_at>2025-10-31 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21566,6 +21566,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_b2a87aa7-2ac0-49e6-918e-df90bbb70a3c.jpg?v=1733147268</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_9e43d024-3c97-47be-b2ef-c172eb2819f2.jpg?v=1733147268</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_f4237fbc-dc7d-48a7-b74e-bb06e877566a.jpg?v=1733147268</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>HJ3386-300</id>
+      <name>Nike SB Dunk Low Alexis Sablone Chameleon</name>
+      <link>https://www.flowerkickz.gr/products/nike-sb-dunk-low-alexis-sablone-chameleon</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_SB_Dunk_Low_Alexis_Sablone_Chameleon-HJ3386-300.jpg?v=1733120823</image>
+      <category>Sneakers</category>
+      <price_with_vat>275</price_with_vat>
+      <manufacturer>Nike</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>44</size>
+      <description>Nike SB Dunk Low Alexis Sablone Chameleon</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_SB_Dunk_Low_Alexis_Sablone_Chameleon-HJ3386-300_6538c523-598d-4870-871c-b6fd4ef67014.jpg?v=1733120823</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_SB_Dunk_Low_Alexis_Sablone_Chameleon-HJ3386-300_4e8b1c68-ad12-401c-9288-ed171a054d6b.jpg?v=1733120823</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_SB_Dunk_Low_Alexis_Sablone_Chameleon-HJ3386-300_84f4c708-47a0-4d4c-aa7d-b0bcffbd25fa.jpg?v=1733120823</image>
       </additional_images>
     </product>
   </products>
