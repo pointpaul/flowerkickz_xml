@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-01 10:03</created_at>
+  <created_at>2025-11-01 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21127,7 +21127,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>My Arcade Tetris® Pocket Player Pro</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_d766f307-714d-4a8e-ae21-e0f4d215dc13.png?v=1754402856</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3F_498ac03c-8d5e-484d-8885-031db4db0aa2.png?v=1754402855</image>
