@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-01 09:03</created_at>
+  <created_at>2025-11-01 10:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -6488,7 +6488,7 @@
       <availability>In Stock</availability>
       <size>44,44 2/3,46</size>
       <description>Yeezy Boost 350 V2 Antlia</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_dd1e2695-3ab5-4c51-b267-710a88629043.jpg?v=1733150287</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_7747764a-1dd4-421f-a7a9-3c764d95b4b0.jpg?v=1733150287</image>
@@ -6502,7 +6502,7 @@
           <manufacturersku>FV3250.44</manufacturersku>
           <price_with_vat>455</price_with_vat>
           <size>44</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52576805847373.44-2/3</variationid>
@@ -7061,7 +7061,7 @@
       <availability>In Stock</availability>
       <size>36,37 1/3,38,38 2/3,41 1/3,42,42 2/3,43 1/3,45 1/3,46</size>
       <description>Yeezy Boost 350 V2 Static</description>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_abb470d7-5bad-4cd3-9b84-e20f58ae7bfd.jpg?v=1733150653</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_b8a7663d-a551-4aaa-bf2b-ff7719fe6115.jpg?v=1733150653</image>
@@ -7129,7 +7129,7 @@
           <manufacturersku>EF2905.42-2/3</manufacturersku>
           <price_with_vat>475</price_with_vat>
           <size>42 2/3</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>52576777109837.43-1/3</variationid>
