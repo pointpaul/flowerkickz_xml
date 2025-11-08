@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-08 12:03</created_at>
+  <created_at>2025-11-08 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2845,7 +2845,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38.5,40.5,41,42,42.5,43</size>
       <description>Nike Dunk Low Cacao Wow</description>
-      <quantity>16</quantity>
+      <quantity>15</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124_f2f78e13-c62f-4a80-8cfb-7090e66f2586.jpg?v=1733107831</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124_8c2a0049-7022-4043-9d33-6d5fc90a106b.jpg?v=1733107831</image>
@@ -2859,7 +2859,7 @@
           <manufacturersku>DD1503-124.35.5</manufacturersku>
           <price_with_vat>215</price_with_vat>
           <size>35.5</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52579070050637.36</variationid>
@@ -21630,7 +21630,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>SPRAYGROUND HANGING CHARMS DLX BACKPACK</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_5e6f2e54-f4fc-4132-84aa-2b86118286ea.png?v=1762433098</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_f7233c5c-309f-4a1b-8903-c3894e320ced.png?v=1762433098</image>
@@ -21891,7 +21891,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>SPRAYGROUND SIP CARGO DLXSV BACKPACK</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_8bc00ed4-0601-4d05-b949-e4d9c6248ac0.png?v=1762434164</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_ddd4a6e9-a383-4c0f-921c-ce1b83770452.png?v=1762434164</image>
