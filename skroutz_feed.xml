@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-10 13:03</created_at>
+  <created_at>2025-11-10 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -131,7 +131,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Bape Jacket Anorak 1st Camo Purple</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
     </product>
     <product>
       <id>03520573</id>
