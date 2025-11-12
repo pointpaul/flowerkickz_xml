@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-12 16:03</created_at>
+  <created_at>2025-11-12 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7644,7 +7644,7 @@
       <availability>In Stock</availability>
       <size>37,42,43,44.5,46</size>
       <description>Yeezy Slide Resin</description>
-      <quantity>20</quantity>
+      <quantity>19</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_298918b9-95e8-48d6-9ff2-116232d0c10d.jpg?v=1733150986</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_80a50e78-dd99-4298-9cd8-a7bc3dec0b21.jpg?v=1733150986</image>
@@ -7685,7 +7685,7 @@
           <manufacturersku>FX0494.44.5</manufacturersku>
           <price_with_vat>240</price_with_vat>
           <size>44.5</size>
-          <quantity>8</quantity>
+          <quantity>7</quantity>
         </variation>
         <variation>
           <variationid>52577263124813.46</variationid>
@@ -21650,7 +21650,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>SPRAYGROUND LED STRIPE SHARKS DLX BACKPACK</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f76a65fc-4daa-4cfc-a3fe-0ca25a76b5b7.png?v=1762433198</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_cb1ff9a6-d374-4611-9e17-46674f4b5a13.png?v=1762433199</image>
@@ -21791,7 +21791,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>SPRAYGROUND JAMES FLAGS SPECIAL OPS CARGO BACKPACK</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_3c47d3d2-3597-4bb8-b185-c5f292b34832.png?v=1762433764</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_cc241d84-f812-4503-a372-80ee32c51246.png?v=1762433763</image>
