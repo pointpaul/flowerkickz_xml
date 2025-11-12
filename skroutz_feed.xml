@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-12 17:03</created_at>
+  <created_at>2025-11-12 18:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -10290,7 +10290,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,44.5</size>
       <description>Air Jordan 1 Mid Wolf Grey Blue Aluminum</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Wolf_Grey_Blue_Aluminum-BQ6472-105_68b77116-a390-4c32-82e7-43585003426d.jpg?v=1733090843</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Wolf_Grey_Blue_Aluminum-BQ6472-105_968d8482-a8b9-4ade-b723-b3caee8e1a30.jpg?v=1733090843</image>
@@ -10322,7 +10322,7 @@
           <manufacturersku>BQ6472-105.44.5</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>44.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
