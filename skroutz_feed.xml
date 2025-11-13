@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-13 16:03</created_at>
+  <created_at>2025-11-13 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -7644,7 +7644,7 @@
       <availability>In Stock</availability>
       <size>37,42,43,44.5,46</size>
       <description>Yeezy Slide Resin</description>
-      <quantity>19</quantity>
+      <quantity>18</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_298918b9-95e8-48d6-9ff2-116232d0c10d.jpg?v=1733150986</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_80a50e78-dd99-4298-9cd8-a7bc3dec0b21.jpg?v=1733150986</image>
@@ -7676,7 +7676,7 @@
           <manufacturersku>FX0494.43</manufacturersku>
           <price_with_vat>475</price_with_vat>
           <size>43</size>
-          <quantity>9</quantity>
+          <quantity>8</quantity>
         </variation>
         <variation>
           <variationid>52577263124813.44.5</variationid>
