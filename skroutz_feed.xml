@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-14 10:03</created_at>
+  <created_at>2025-11-14 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21173,7 +21173,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>My Arcade ATARI Micro Player Pro</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_7b159ad9-0f4e-4444-9525-7ed934a05ae7.png?v=1754403108</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3F_55a0c58a-b413-42b3-a753-a9ef1a8cc395.png?v=1754403107</image>
@@ -21785,13 +21785,13 @@
       <link>https://www.flowerkickz.gr/products/sprayground-james-flags-special-ops-cargo-backpack</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_36102d58-83a9-45eb-a47d-5dc82db81a75.png?v=1762433764</image>
       <category>Sneakers</category>
-      <price_with_vat>320</price_with_vat>
+      <price_with_vat>375</price_with_vat>
       <manufacturer>Sprayground</manufacturer>
       <ean/>
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>SPRAYGROUND JAMES FLAGS SPECIAL OPS CARGO BACKPACK</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_3c47d3d2-3597-4bb8-b185-c5f292b34832.png?v=1762433764</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_cc241d84-f812-4503-a372-80ee32c51246.png?v=1762433763</image>
