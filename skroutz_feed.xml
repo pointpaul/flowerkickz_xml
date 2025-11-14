@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-14 16:03</created_at>
+  <created_at>2025-11-14 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -13815,7 +13815,7 @@
       <availability>In Stock</availability>
       <size>43,46</size>
       <description>Nike Dunk Low Retro Miami Hurricanes</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Retro_Miami_Hurricanes-DD1391-300_00a394c4-3a34-43b8-8f3a-61ead6b1c84d.jpg?v=1733100466</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Retro_Miami_Hurricanes-DD1391-300_16de6ea0-f14d-422d-b19b-6393aaa4a981.jpg?v=1733100466</image>
@@ -13838,7 +13838,7 @@
           <manufacturersku>DD1391-300.46</manufacturersku>
           <price_with_vat>230</price_with_vat>
           <size>46</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
