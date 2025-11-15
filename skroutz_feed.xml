@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-15 14:03</created_at>
+  <created_at>2025-11-15 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15906,7 +15906,7 @@
       <availability>In Stock</availability>
       <size>36,37,40</size>
       <description>New Balance 530 Navy White</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_e1e98db1-56cd-44b3-94e4-74bbf5cb98ad.png?v=1738227576</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_8c11423e-2f24-4984-b4af-44ff8eb16013.png?v=1738227576</image>
@@ -15919,7 +15919,7 @@
           <manufacturersku>GR530CA.36</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>36</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52978497093965.37</variationid>
