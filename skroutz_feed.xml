@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-15 13:03</created_at>
+  <created_at>2025-11-15 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -18515,7 +18515,7 @@
       <availability>In Stock</availability>
       <size>LARGE,X-LARGE</size>
       <description>Bape Tee A Bathing Ape ABC Camo College</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <variations>
         <variation>
           <variationid>52530090180941.LARGE</variationid>
@@ -18533,7 +18533,7 @@
           <manufacturersku>None.X-LARGE</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -19867,7 +19867,7 @@
       <link>https://www.flowerkickz.gr/products/air-force-1-custom-lacet-corde-noir-rose</link>
       <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickzAir_Force_1_Custom_Lacet_Corde_Noir_Rose-AF1C-9-0.jpg?v=1731718749</image>
       <category>Sneakers</category>
-      <price_with_vat>205</price_with_vat>
+      <price_with_vat>275</price_with_vat>
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
