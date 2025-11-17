@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-17 13:03</created_at>
+  <created_at>2025-11-17 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21897,6 +21897,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_ddd4a6e9-a383-4c0f-921c-ce1b83770452.png?v=1762434164</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_b07e3432-b9f9-43a3-a564-668550828713.png?v=1762434163</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/5_09b0c99e-a465-4813-b1d3-3d66b2f88d80.png?v=1762434164</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>1202A056-109</id>
+      <name>ASICS Gel-Kayano 14 White Midnight</name>
+      <link>https://www.flowerkickz.gr/products/asics-gel-kayano-14-white-midnight</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_White_Midnight-1202A056-109.jpg?v=1733107758</image>
+      <category>Sneakers</category>
+      <price_with_vat>285</price_with_vat>
+      <manufacturer>Asics</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>42</size>
+      <description>ASICS Gel-Kayano 14 White Midnight</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_White_Midnight-1202A056-109_a4051f89-efff-456e-9266-6d180f378267.jpg?v=1733107758</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_White_Midnight-1202A056-109_b5d8cbed-399d-4b63-9c4c-7be00c1b37dc.jpg?v=1733107758</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_White_Midnight-1202A056-109_a4b5f1a5-73be-4d19-a376-e1210a5daab5.jpg?v=1733107758</image>
       </additional_images>
     </product>
   </products>
