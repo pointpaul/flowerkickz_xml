@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-18 10:03</created_at>
+  <created_at>2025-11-18 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21650,7 +21650,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>SPRAYGROUND LED STRIPE SHARKS DLX BACKPACK</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_f76a65fc-4daa-4cfc-a3fe-0ca25a76b5b7.png?v=1762433198</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_cb1ff9a6-d374-4611-9e17-46674f4b5a13.png?v=1762433199</image>
@@ -21711,7 +21711,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>SPRAYGROUND OPERATION SMOOTH DLXV BACKPACK</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_0985b898-3068-4715-b49f-d66937d44680.png?v=1762433478</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_954bb5db-9e3b-4ca1-b48a-036b36bda8fd.png?v=1762433478</image>
@@ -21791,7 +21791,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>SPRAYGROUND JAMES FLAGS SPECIAL OPS CARGO BACKPACK</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_3c47d3d2-3597-4bb8-b185-c5f292b34832.png?v=1762433764</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_cc241d84-f812-4503-a372-80ee32c51246.png?v=1762433763</image>
@@ -21891,7 +21891,7 @@
       <availability>In Stock</availability>
       <size>One Size</size>
       <description>SPRAYGROUND SIP CARGO DLXSV BACKPACK</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_8bc00ed4-0601-4d05-b949-e4d9c6248ac0.png?v=1762434164</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_ddd4a6e9-a383-4c0f-921c-ce1b83770452.png?v=1762434164</image>
@@ -21916,6 +21916,66 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_White_Midnight-1202A056-109_a4051f89-efff-456e-9266-6d180f378267.jpg?v=1733107758</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_White_Midnight-1202A056-109_b5d8cbed-399d-4b63-9c4c-7be00c1b37dc.jpg?v=1733107758</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-ASICS_Gel-Kayano_14_White_Midnight-1202A056-109_a4b5f1a5-73be-4d19-a376-e1210a5daab5.jpg?v=1733107758</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>SPRAYGROUND MIDNIGHT CHATEAU MONTE CARLO</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-midnight-chateau-monte-carlo</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_498df081-db3e-4731-8abd-95e149d56550.png?v=1763461585</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>SPRAYGROUND MIDNIGHT CHATEAU MONTE CARLO</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_91303e96-500b-46fc-9419-983058990d33.png?v=1763461585</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_2efef12e-e6cc-4a72-afb7-5f06f90f796d.png?v=1763461585</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_f553a8ee-c641-4539-94ea-faef4cffe643.png?v=1763461584</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/5_77694b98-6269-414f-be32-3de7eb169590.png?v=1763461585</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>SPRAYGROUND SAWTOOTH SHARKS IN PARIS MONTE CARLO</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-midnight-chateau-monte-carlo-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_dfdfd64a-1db9-481f-b06b-9ea84299ae98.png?v=1763461690</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>SPRAYGROUND SAWTOOTH SHARKS IN PARIS MONTE CARLO</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_4f7b41e2-519b-4d8c-8e88-3106b59443e3.png?v=1763461691</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_9d80e621-d6dc-4b32-99ff-57975e405d46.png?v=1763461690</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_5d12c64c-10d6-4273-aa2e-1ebc1ca36eef.png?v=1763461690</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/5_a9ad68db-ac1b-4090-9511-239d49cb1acb.png?v=1763461691</image>
+      </additional_images>
+    </product>
+    <product>
+      <id/>
+      <name>SPRAYGROUND HENNYVILLE MONTE CARLO</name>
+      <link>https://www.flowerkickz.gr/products/sprayground-hennyville-monte-carlo</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_9feecef4-0fae-45f7-bc3e-225eadc06b0a.png?v=1763461748</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>Sprayground</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One Size</size>
+      <description>SPRAYGROUND HENNYVILLE MONTE CARLO</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_8474b69b-ed99-47a7-9386-bbae97957785.png?v=1763461749</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_73691b22-6be4-475f-9d35-7debebdacdf9.png?v=1763461748</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_2381533e-90aa-4d07-ab04-eb8a8de75005.png?v=1763461748</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/5_91ba34a8-bfec-48b6-8bbe-6513e827a9a0.png?v=1763461749</image>
       </additional_images>
     </product>
   </products>
