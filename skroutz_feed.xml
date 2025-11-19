@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-19 12:03</created_at>
+  <created_at>2025-11-19 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -10750,7 +10750,7 @@
       <availability>In Stock</availability>
       <size>45.5,46</size>
       <description>Air Jordan 4 Retro SE Black Canvas</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Black_Canvas-DH7138-006_633b38ad-fcf5-4791-a145-a62a29197cf8.jpg?v=1733098274</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Black_Canvas-DH7138-006_f30906ce-c474-4132-8b74-c2e5cf7590ba.jpg?v=1733098274</image>
@@ -10764,7 +10764,7 @@
           <manufacturersku>DH7138-006.45.5</manufacturersku>
           <price_with_vat>715</price_with_vat>
           <size>45.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577995063629.46</variationid>
