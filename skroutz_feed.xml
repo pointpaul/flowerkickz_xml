@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-20 12:03</created_at>
+  <created_at>2025-11-20 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -11268,7 +11268,7 @@
       <availability>In Stock</availability>
       <size>38.5,40.5,41,42,43,44,48.5</size>
       <description>Air Jordan 4 Retro SE Craft Photon Dust</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Craft_Photon_Dust-DV3742-021_807c16e0-4d62-4340-b180-3fa9af645413.jpg?v=1733101731</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Retro_SE_Craft_Photon_Dust-DV3742-021_9a99fa6b-d1e4-4b3c-8c13-91368159c694.jpg?v=1733101731</image>
@@ -11318,7 +11318,7 @@
           <manufacturersku>DV3742-021.43</manufacturersku>
           <price_with_vat>535</price_with_vat>
           <size>43</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52578347581773.44</variationid>
