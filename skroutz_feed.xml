@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-21 13:03</created_at>
+  <created_at>2025-11-21 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -6497,7 +6497,7 @@
       <availability>In Stock</availability>
       <size>44,44 2/3,46</size>
       <description>Yeezy Boost 350 V2 Antlia</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_dd1e2695-3ab5-4c51-b267-710a88629043.jpg?v=1733150287</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_7747764a-1dd4-421f-a7a9-3c764d95b4b0.jpg?v=1733150287</image>
@@ -6520,7 +6520,7 @@
           <manufacturersku>FV3250.44-2/3</manufacturersku>
           <price_with_vat>545</price_with_vat>
           <size>44 2/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52576805847373.46</variationid>
