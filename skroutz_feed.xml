@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-21 18:03</created_at>
+  <created_at>2025-11-21 19:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -237,7 +237,7 @@
       <availability>In Stock</availability>
       <size>2X-LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Sweatpants Coral</description>
-      <quantity>26</quantity>
+      <quantity>25</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FearofGodEssentialsSweatpantsCoralBack1.png?v=1690468629</image>
       </additional_images>
@@ -285,7 +285,7 @@
           <manufacturersku>29720294.X-SMALL</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>X-SMALL</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
       </variations>
     </product>
@@ -3385,7 +3385,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Hoodie Coral</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <variations>
         <variation>
           <variationid>49950543675725.LARGE</variationid>
@@ -3412,7 +3412,7 @@
           <manufacturersku>54399544.SMALL</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>SMALL</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>49950543675725.X-LARGE</variationid>
@@ -3717,7 +3717,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL</size>
       <description>Stüssy Tee Tucan Black</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <variations>
         <variation>
           <variationid>52706221687117.LARGE</variationid>
@@ -3744,7 +3744,7 @@
           <manufacturersku>None.SMALL</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>SMALL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
