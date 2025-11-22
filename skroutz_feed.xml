@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-22 13:03</created_at>
+  <created_at>2025-11-22 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21936,26 +21936,6 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_2efef12e-e6cc-4a72-afb7-5f06f90f796d.png?v=1763461585</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_f553a8ee-c641-4539-94ea-faef4cffe643.png?v=1763461584</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/5_77694b98-6269-414f-be32-3de7eb169590.png?v=1763461585</image>
-      </additional_images>
-    </product>
-    <product>
-      <id/>
-      <name>SPRAYGROUND SAWTOOTH SHARKS IN PARIS MONTE CARLO</name>
-      <link>https://www.flowerkickz.gr/products/sprayground-midnight-chateau-monte-carlo-copy</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_dfdfd64a-1db9-481f-b06b-9ea84299ae98.png?v=1763461690</image>
-      <category>Sneakers</category>
-      <price_with_vat>250</price_with_vat>
-      <manufacturer>Sprayground</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>One Size</size>
-      <description>SPRAYGROUND SAWTOOTH SHARKS IN PARIS MONTE CARLO</description>
-      <quantity>1</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_4f7b41e2-519b-4d8c-8e88-3106b59443e3.png?v=1763461691</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_9d80e621-d6dc-4b32-99ff-57975e405d46.png?v=1763461690</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_5d12c64c-10d6-4273-aa2e-1ebc1ca36eef.png?v=1763461690</image>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/5_a9ad68db-ac1b-4090-9511-239d49cb1acb.png?v=1763461691</image>
       </additional_images>
     </product>
     <product>
