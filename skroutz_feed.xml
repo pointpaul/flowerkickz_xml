@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-25 14:03</created_at>
+  <created_at>2025-11-25 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21957,6 +21957,72 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_2381533e-90aa-4d07-ab04-eb8a8de75005.png?v=1763461748</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/5_91ba34a8-bfec-48b6-8bbe-6513e827a9a0.png?v=1763461749</image>
       </additional_images>
+    </product>
+    <product>
+      <id>845620032419</id>
+      <name>My Arcade Galaga Micro Player 6.7&quot;: Portable Gaming System</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-galaga-micro-player-6-7-portable-gaming-system</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_f62a6fe7-fe45-4f40-86cf-4d46c7bacf4a.png?v=1764079933</image>
+      <category>Sneakers</category>
+      <price_with_vat>70</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade Galaga Micro Player 6.7&quot;: Portable Gaming System</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_2913a1c5-b927-4b3c-bc38-57ad267f40a9.png?v=1764079933</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620032419</id>
+      <name>My Arcade Micro Player Pro - Ms.Pac-Man Portable Arcade</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-micro-player-pro-ms-pac-man-portable-arcade</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_dbf9a91d-3d48-48c2-865f-14acba78eae1.png?v=1764080120</image>
+      <category>Sneakers</category>
+      <price_with_vat>70</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade Micro Player Pro - Ms.Pac-Man Portable Arcade</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_28d5ba46-8387-43cf-90e8-b54626213969.png?v=1764080120</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620032419</id>
+      <name>My Arcade PIXEL PLAYER</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-micro-player-pro-ms-pac-man-portable-arcade-copy</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_8e9f7078-788e-4273-ad16-14144fd73fed.png?v=1764080255</image>
+      <category>Sneakers</category>
+      <price_with_vat>60</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade PIXEL PLAYER</description>
+      <quantity>1</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_0aeaf065-2366-4121-a497-2ed2cc94b599.png?v=1764080255</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_44d72d4a-4dd6-4019-a0fc-0ebba21af95c.png?v=1764080255</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>845620032419</id>
+      <name>My Arcade Super Street Fighter II Pocket Player Pro: Portable Gaming System</name>
+      <link>https://www.flowerkickz.gr/products/my-arcade-super-street-fighter-ii-pocket-player-pro-portable-gaming-system</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_d0754bf0-47c0-4fdb-931d-d2e2c7217809.png?v=1764080316</image>
+      <category>Sneakers</category>
+      <price_with_vat>70</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>Default Title</size>
+      <description>My Arcade Super Street Fighter II Pocket Player Pro: Portable Gaming System</description>
+      <quantity>1</quantity>
     </product>
   </products>
 </FlowerKickz>
