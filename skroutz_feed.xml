@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-27 23:02</created_at>
+  <created_at>2025-11-28 00:02</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3832,7 +3832,7 @@
       <availability>In Stock</availability>
       <size>40.5,41,44,44.5,45,45.5,46,47</size>
       <description>Nike Dunk Low Court Purple 2022</description>
-      <quantity>20</quantity>
+      <quantity>19</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Court_Purple_2022-DD1391-104_70c35c59-d882-4245-b37a-ed87d7cfadc1.jpg?v=1733092541</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Court_Purple_2022-DD1391-104_9d53433a-bd15-411a-90ca-a4e8554d6c3b.jpg?v=1733092541</image>
@@ -3846,7 +3846,7 @@
           <manufacturersku>DD1391-104.40.5</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>40.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577471365453.41</variationid>
