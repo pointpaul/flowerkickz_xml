@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-28 10:03</created_at>
+  <created_at>2025-11-28 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -20779,7 +20779,7 @@
       <availability>In Stock</availability>
       <size>O/S</size>
       <description>Trapstar Irongate Drawstring Bag</description>
-      <quantity>2</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_856e6739-439b-40a9-9fc8-9b077b9193f1.png?v=1754320552</image>
       </additional_images>
@@ -22023,6 +22023,242 @@
       <size>Default Title</size>
       <description>My Arcade Super Street Fighter II Pocket Player Pro: Portable Gaming System</description>
       <quantity>1</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Trapstar Irongate T Cap</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-irongate-t-cap</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_f541d5f8-da3f-4265-8339-97e0d1e120d6.png?v=1764325134</image>
+      <category>Sneakers</category>
+      <price_with_vat>115</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>One size</size>
+      <description>Trapstar Irongate T Cap</description>
+      <quantity>5</quantity>
+    </product>
+    <product>
+      <id/>
+      <name>Trapstar TRP Print Hoodie</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-trp-print-hoodie</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_f7c5616b-545a-4506-9175-cb3623615837.png?v=1764325250</image>
+      <category>Sneakers</category>
+      <price_with_vat>160</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>L,M,S,XL</size>
+      <description>Trapstar TRP Print Hoodie</description>
+      <quantity>2</quantity>
+      <variations>
+        <variation>
+          <variationid>54881611678029.L</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-trp-print-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.L</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>L</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>54881611678029.M</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-trp-print-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.M</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>M</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>54881611678029.S</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-trp-print-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.S</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>S</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>54881611678029.XL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-trp-print-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.XL</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>XL</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id/>
+      <name>Trapstar Foundation Zip Through Hoodie</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-foundation-zip-through-hoodie</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_e3a8dbe9-509c-4bbd-890d-38eb3efb71fa.png?v=1764325331</image>
+      <category>Sneakers</category>
+      <price_with_vat>160</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>L,M,S,XL,XS</size>
+      <description>Trapstar Foundation Zip Through Hoodie</description>
+      <quantity>2</quantity>
+      <variations>
+        <variation>
+          <variationid>54881611907405.L</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-foundation-zip-through-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.L</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>L</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>54881611907405.M</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-foundation-zip-through-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.M</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>M</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>54881611907405.S</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-foundation-zip-through-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.S</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>S</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>54881611907405.XL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-foundation-zip-through-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.XL</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>XL</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>54881611907405.XS</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-foundation-zip-through-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.XS</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>XS</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id/>
+      <name>Trapstar Decoded Camo Hoodie</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-decoded-camo-hoodie</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_168ed153-7c24-4468-adaf-212790df3df7.png?v=1764325432</image>
+      <category>Sneakers</category>
+      <price_with_vat>160</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>L,M,S,XL</size>
+      <description>Trapstar Decoded Camo Hoodie</description>
+      <quantity>1</quantity>
+      <variations>
+        <variation>
+          <variationid>54881612300621.L</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-decoded-camo-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.L</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>L</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>54881612300621.M</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-decoded-camo-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.M</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>M</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>54881612300621.S</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-decoded-camo-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.S</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>S</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
+          <variationid>54881612300621.XL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-decoded-camo-hoodie</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.XL</manufacturersku>
+          <price_with_vat>160</price_with_vat>
+          <size>XL</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id/>
+      <name>Trapstar It's A Secret Hooded Puffer</name>
+      <link>https://www.flowerkickz.gr/products/trapstar-its-a-secret-hooded-puffer</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1F_b13433d3-e291-4079-bb8e-d4cf54599eab.png?v=1764325489</image>
+      <category>Sneakers</category>
+      <price_with_vat>340</price_with_vat>
+      <manufacturer>Flower Kickz</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>L,M,S,XL</size>
+      <description>Trapstar It's A Secret Hooded Puffer</description>
+      <quantity>4</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_a93dc251-2f67-4593-9644-be49508338e4.png?v=1764325489</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3F_9ce69243-c20d-4597-b137-3ebb8c2645c4.png?v=1764325490</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4F_ac442a90-ca62-46bc-b3f1-d249643c1fd1.png?v=1764325489</image>
+      </additional_images>
+      <variations>
+        <variation>
+          <variationid>54881613185357.L</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-its-a-secret-hooded-puffer</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.L</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>L</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>54881613185357.M</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-its-a-secret-hooded-puffer</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.M</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>M</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>54881613185357.S</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-its-a-secret-hooded-puffer</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.S</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>S</size>
+          <quantity>1</quantity>
+        </variation>
+        <variation>
+          <variationid>54881613185357.XL</variationid>
+          <link>https://www.flowerkickz.gr/products/trapstar-its-a-secret-hooded-puffer</link>
+          <availability>In Stock</availability>
+          <manufacturersku>None.XL</manufacturersku>
+          <price_with_vat>340</price_with_vat>
+          <size>XL</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
   </products>
 </FlowerKickz>
