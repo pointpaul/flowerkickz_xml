@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-29 11:03</created_at>
+  <created_at>2025-11-29 12:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -237,7 +237,7 @@
       <availability>In Stock</availability>
       <size>2X-LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Sweatpants Coral</description>
-      <quantity>24</quantity>
+      <quantity>22</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FearofGodEssentialsSweatpantsCoralBack1.png?v=1690468629</image>
       </additional_images>
@@ -267,7 +267,7 @@
           <manufacturersku>29720294.SMALL</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>SMALL</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>46872855314765.X-LARGE</variationid>
@@ -276,7 +276,7 @@
           <manufacturersku>29720294.X-LARGE</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>4</quantity>
+          <quantity>3</quantity>
         </variation>
         <variation>
           <variationid>46872855314765.X-SMALL</variationid>
