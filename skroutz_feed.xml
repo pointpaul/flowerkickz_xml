@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-11-30 13:03</created_at>
+  <created_at>2025-11-30 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -15231,7 +15231,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38,38.5,39,40</size>
       <description>Air Jordan 1 Infrared 23</description>
-      <quantity>16</quantity>
+      <quantity>15</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_24f86c91-315e-4aae-934c-15f12656d2b2.png?v=1738058156</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_b1e2fbf0-50d2-4c96-9bd0-769ff9320e6b.png?v=1738058156</image>
@@ -15253,7 +15253,7 @@
           <manufacturersku>FB4420-616.36</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>36</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52966346359117.36.5</variationid>
