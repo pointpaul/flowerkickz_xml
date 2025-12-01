@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-01 10:03</created_at>
+  <created_at>2025-12-01 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -21897,6 +21897,25 @@
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_ddd4a6e9-a383-4c0f-921c-ce1b83770452.png?v=1762434164</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_b07e3432-b9f9-43a3-a564-668550828713.png?v=1762434163</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/5_09b0c99e-a465-4813-b1d3-3d66b2f88d80.png?v=1762434164</image>
+      </additional_images>
+    </product>
+    <product>
+      <id>M1906REH</id>
+      <name>New Balance 1906R Harbor Grey</name>
+      <link>https://www.flowerkickz.gr/products/new-balance-1906r-harbor-grey</link>
+      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/1_9a519806-ee80-4b7b-9d7d-dbadeb2084f0.jpg?v=1733133093</image>
+      <category>Sneakers</category>
+      <price_with_vat>250</price_with_vat>
+      <manufacturer>New Balance</manufacturer>
+      <ean/>
+      <availability>In Stock</availability>
+      <size>38.5</size>
+      <description>New Balance 1906R Harbor Grey</description>
+      <quantity>0</quantity>
+      <additional_images>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_04437ab9-1e58-4b40-ac97-18efccc2c0fe.jpg?v=1733133093</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_b9bc22be-e735-4122-b261-f20b820aae71.jpg?v=1733133093</image>
+        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/4_86f611f2-7bfd-40cb-b242-e2247311c6d9.jpg?v=1733133093</image>
       </additional_images>
     </product>
     <product>
