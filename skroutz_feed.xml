@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-19 14:03</created_at>
+  <created_at>2025-12-19 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -1823,7 +1823,7 @@
       <availability>In Stock</availability>
       <size>47.5,48</size>
       <description>ΜΠΑΣΟΚ LOWS “H EPISTROFI”</description>
-      <quantity>19</quantity>
+      <quantity>18</quantity>
       <variations>
         <variation>
           <variationid>51967381143885.47.5</variationid>
@@ -1841,7 +1841,7 @@
           <manufacturersku>None.48</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>48</size>
-          <quantity>9</quantity>
+          <quantity>8</quantity>
         </variation>
       </variations>
     </product>
@@ -7006,7 +7006,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,38,42,44,47 1/3</size>
       <description>Yeezy Boost 350 V2 Sesame</description>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_0b9fe90f-0aa8-44d3-b43e-dfc38a1273e0.jpg?v=1733150646</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_d02e087d-b8d8-487e-8357-c14b81eb8e66.jpg?v=1733150646</image>
@@ -7074,7 +7074,7 @@
           <manufacturersku>F99710.47-1/3</manufacturersku>
           <price_with_vat>565</price_with_vat>
           <size>47 1/3</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -8521,7 +8521,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42.5,43,44</size>
       <description>Air Jordan 1 Low OG UNC (2022)</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_OG_UNC_2022_-CZ0790-104_d622ce41-05ed-4fb7-b486-6ad469397307.jpg?v=1733097489</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_OG_UNC_2022_-CZ0790-104_7286dd38-0f9a-40e7-bd95-4723b12b85ad.jpg?v=1733097489</image>
@@ -8580,7 +8580,7 @@
           <manufacturersku>CZ0790-104.44</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>44</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
