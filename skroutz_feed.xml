@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-19 16:03</created_at>
+  <created_at>2025-12-19 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -22202,7 +22202,7 @@
       <availability>In Stock</availability>
       <size>L,M,S,XL</size>
       <description>Trapstar Decoded Camo Hoodie</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <variations>
         <variation>
           <variationid>54881612300621.L</variationid>
@@ -22238,7 +22238,7 @@
           <manufacturersku>None.XL</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>XL</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
