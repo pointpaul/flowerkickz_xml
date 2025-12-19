@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-19 12:03</created_at>
+  <created_at>2025-12-19 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -237,7 +237,7 @@
       <availability>In Stock</availability>
       <size>2X-LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Sweatpants Coral</description>
-      <quantity>22</quantity>
+      <quantity>21</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FearofGodEssentialsSweatpantsCoralBack1.png?v=1690468629</image>
       </additional_images>
@@ -276,7 +276,7 @@
           <manufacturersku>29720294.X-LARGE</manufacturersku>
           <price_with_vat>185</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>46872855314765.X-SMALL</variationid>
@@ -3385,7 +3385,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Hoodie Coral</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>49950543675725.LARGE</variationid>
@@ -3421,7 +3421,7 @@
           <manufacturersku>54399544.X-LARGE</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>49950543675725.X-SMALL</variationid>
