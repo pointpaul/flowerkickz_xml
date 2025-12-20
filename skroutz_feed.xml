@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-20 16:03</created_at>
+  <created_at>2025-12-20 17:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -176,7 +176,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-LARGE,X-SMALL</size>
       <description>Fear of God Essentials Sweatpants Off-Black</description>
-      <quantity>63</quantity>
+      <quantity>61</quantity>
       <variations>
         <variation>
           <variationid>46870881239373.LARGE</variationid>
@@ -185,7 +185,7 @@
           <manufacturersku>40640922.LARGE</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>LARGE</size>
-          <quantity>29</quantity>
+          <quantity>28</quantity>
         </variation>
         <variation>
           <variationid>46870881239373.MEDIUM</variationid>
@@ -194,7 +194,7 @@
           <manufacturersku>40640922.MEDIUM</manufacturersku>
           <price_with_vat>115</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>14</quantity>
+          <quantity>13</quantity>
         </variation>
         <variation>
           <variationid>46870881239373.SMALL</variationid>
@@ -3292,7 +3292,7 @@
       <availability>In Stock</availability>
       <size>41,42,42.5,43,44.5,45,45.5,47.5</size>
       <description>Air Force 1 Low Black Supreme</description>
-      <quantity>13</quantity>
+      <quantity>12</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_Black_Supreme-CU9225-001_ee401b6b-b79d-495e-955e-07df681556ec.jpg?v=1733086983</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_Black_Supreme-CU9225-001_d3f475b0-406a-4e9f-bacf-d90d3cc94429.jpg?v=1733086983</image>
@@ -3324,7 +3324,7 @@
           <manufacturersku>CU9225-001.42.5</manufacturersku>
           <price_with_vat>355</price_with_vat>
           <size>42.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52576869712205.43</variationid>
@@ -8255,7 +8255,7 @@
       <availability>In Stock</availability>
       <size>35.5,37.5,38,38.5,39,40</size>
       <description>Air Jordan 1 Low Desert Berry</description>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Desert_Berry-553560-616_bd41a4f0-e464-4594-ad7f-5710160bfaab.jpg?v=1733106080</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_Desert_Berry-553560-616_8d3fb230-f492-4ea4-b471-8fc0f272057a.jpg?v=1733106080</image>
@@ -8296,7 +8296,7 @@
           <manufacturersku>553560-616.38.5</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>38.5</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52709303681357.39</variationid>
