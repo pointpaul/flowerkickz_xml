@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-20 14:03</created_at>
+  <created_at>2025-12-20 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -12618,7 +12618,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,42.5,44,44.5,47</size>
       <description>Nike Dunk Low Chlorophyll</description>
-      <quantity>23</quantity>
+      <quantity>22</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Chlorophyll-DJ6188-300_8328f685-8c44-44d3-a301-bfbe651fcdff.jpg?v=1733095707</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Chlorophyll-DJ6188-300_c73e5600-3014-4a6b-b5f9-e551df4e66aa.jpg?v=1733095707</image>
@@ -12668,7 +12668,7 @@
           <manufacturersku>DJ6188-300.42.5</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>42.5</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52577790493005.44</variationid>
