@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-21 10:03</created_at>
+  <created_at>2025-12-21 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -18655,7 +18655,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL,X-LARGE</size>
       <description>Bape Tee Check Big Ape Head Blue</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/0ZXTEM110046NBKX-pdp-2__1_-removebg-preview.png?v=1731056679</image>
       </additional_images>
@@ -18694,7 +18694,7 @@
           <manufacturersku>None.X-LARGE</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>X-LARGE</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
