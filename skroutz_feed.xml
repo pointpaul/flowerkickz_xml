@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-24 14:03</created_at>
+  <created_at>2025-12-24 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -3660,7 +3660,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL</size>
       <description>Stüssy Tee Surfwalk White</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <variations>
         <variation>
           <variationid>52706161918285.LARGE</variationid>
@@ -3687,7 +3687,7 @@
           <manufacturersku>.SMALL</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>SMALL</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
@@ -9736,7 +9736,7 @@
       <availability>In Stock</availability>
       <size>38.5,39,40,41,42,44,44.5</size>
       <description>Air Jordan 1 Mid SE Ice Blue</description>
-      <quantity>12</quantity>
+      <quantity>11</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_SE_Ice_Blue-DV1302-400_cfa0c42b-aab2-4d61-aaca-13bf050f44d4.jpg?v=1733102359</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_SE_Ice_Blue-DV1302-400_78289a89-b210-4f2e-bf59-9625ebee116c.jpg?v=1733102359</image>
@@ -9750,7 +9750,7 @@
           <manufacturersku>DV1302-400.38.5</manufacturersku>
           <price_with_vat>285</price_with_vat>
           <size>38.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578412069197.39</variationid>
@@ -10597,7 +10597,7 @@
       <availability>In Stock</availability>
       <size>42.5</size>
       <description>Air Jordan 1 Retro High Silver Toe</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_Silver_Toe-CD0461-001_1738b86f-032c-43ce-bb6a-3db3e7d63fe4.jpg?v=1733089422</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_Silver_Toe-CD0461-001_026d122b-d0b1-4968-8ad1-6e7bcf7538d5.jpg?v=1733089422</image>
@@ -20363,7 +20363,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>Numskull Tubbz First Edition: Naruto Uzumaki</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FRONT53.png?v=1752060939</image>
       </additional_images>
@@ -20398,7 +20398,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>Universal Monsters Mini Tubbz - Frankenstein</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FRONT_4c181f9e-f9fe-40ea-a718-914bfc1f6e06.png?v=1752061116</image>
       </additional_images>
@@ -20432,7 +20432,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>Numskull Tubbz First Edition: Jujutsu Kaisen</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/NOBOX.png?v=1752061272</image>
       </additional_images>
