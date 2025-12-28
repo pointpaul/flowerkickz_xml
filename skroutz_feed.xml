@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-28 15:03</created_at>
+  <created_at>2025-12-28 16:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -20443,40 +20443,6 @@
       <quantity>1</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/NIGHT.png?v=1752061367</image>
-      </additional_images>
-    </product>
-    <product>
-      <id/>
-      <name>Back to the Future: Doc Brown TUBBZ (Boxed Edition)</name>
-      <link>https://www.flowerkickz.gr/products/back-to-the-future-doc-brown-tubbz-boxed-edition</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/SF.png?v=1752062335</image>
-      <category>Sneakers</category>
-      <price_with_vat>40</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>Default Title</size>
-      <description>Back to the Future: Doc Brown TUBBZ (Boxed Edition)</description>
-      <quantity>1</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FRONT_30b5761c-96d5-4f0b-8865-cb474f681454.png?v=1752062336</image>
-      </additional_images>
-    </product>
-    <product>
-      <id/>
-      <name>Back to the Future: Marty McFly TUBBZ (Boxed Edition)</name>
-      <link>https://www.flowerkickz.gr/products/back-to-the-future-marty-mcfly-tubbz-boxed-edition</link>
-      <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FRONT_3fb0a07a-9c59-4c80-9429-ca9eb5021ab4.png?v=1752062445</image>
-      <category>Sneakers</category>
-      <price_with_vat>40</price_with_vat>
-      <manufacturer>Flower Kickz</manufacturer>
-      <ean/>
-      <availability>In Stock</availability>
-      <size>Default Title</size>
-      <description>Back to the Future: Marty McFly TUBBZ (Boxed Edition)</description>
-      <quantity>0</quantity>
-      <additional_images>
-        <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/BOX_3372e96f-a41c-4686-85ca-1d052b6bb90c.png?v=1752062445</image>
       </additional_images>
     </product>
     <product>
