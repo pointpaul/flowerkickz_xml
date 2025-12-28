@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-28 14:03</created_at>
+  <created_at>2025-12-28 15:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -22034,7 +22034,7 @@
       <availability>In Stock</availability>
       <size>Default Title</size>
       <description>My Arcade PIXEL PLAYER</description>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_0aeaf065-2366-4121-a497-2ed2cc94b599.png?v=1764080255</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_44d72d4a-4dd6-4019-a0fc-0ebba21af95c.png?v=1764080255</image>
