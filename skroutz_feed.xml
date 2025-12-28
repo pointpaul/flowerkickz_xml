@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-28 10:03</created_at>
+  <created_at>2025-12-28 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -6641,7 +6641,7 @@
       <availability>In Stock</availability>
       <size>36,36 2/3,37 1/3,38 2/3,42,44,45 1/3</size>
       <description>Yeezy Boost 350 V2 Bone</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_97aec0d1-1e6d-442b-8f62-4fc9f2c35101.jpg?v=1733150440</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_231704f0-ab87-404d-8573-dc5a921474e4.jpg?v=1733150440</image>
@@ -6691,7 +6691,7 @@
           <manufacturersku>HQ6316.42</manufacturersku>
           <price_with_vat>520</price_with_vat>
           <size>42</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577640546637.44</variationid>
