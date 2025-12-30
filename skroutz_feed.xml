@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-30 13:03</created_at>
+  <created_at>2025-12-30 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -9178,7 +9178,7 @@
       <availability>In Stock</availability>
       <size>40.5,41,42,42.5,43,44,45</size>
       <description>Air Jordan 1 Mid Diamond Shorts</description>
-      <quantity>13</quantity>
+      <quantity>12</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Diamond_Shorts-DH6933-100_4e12d13f-960d-47a5-95e2-2c0abbf32ada.jpg?v=1733093261</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Diamond_Shorts-DH6933-100_8686742e-95da-49c5-bd52-af788cb39535.jpg?v=1733093261</image>
@@ -9192,7 +9192,7 @@
           <manufacturersku>DH6933-100.40.5</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>40.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52577535426893.41</variationid>
