@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-30 17:03</created_at>
+  <created_at>2025-12-30 18:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2308,7 +2308,7 @@
       <availability>In Stock</availability>
       <size>40,42.5,43,44,44.5,45,45.5,46</size>
       <description>Air Jordan 1 Mid Lakers (2022)</description>
-      <quantity>15</quantity>
+      <quantity>14</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517_fe2b186e-4a22-4258-824f-b3eb54cd951e.jpg?v=1733100346</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_Lakers_2022_-DQ8426-517_1d31cd6b-fdd3-48d2-8746-211f3979d40b.jpg?v=1733100346</image>
@@ -2322,7 +2322,7 @@
           <manufacturersku>DQ8426-517.40</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>40</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578214183245.42.5</variationid>
@@ -9262,7 +9262,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,37.5,42,42.5,44</size>
       <description>Air Jordan 1 Mid French Blue Fire Red</description>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_French_Blue_Fire_Red-DN3706-401_8a80a0c2-6ebe-46b0-a09b-57ed2b51837f.jpg?v=1733098358</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_French_Blue_Fire_Red-DN3706-401_c020cee3-20b1-4046-852f-9abc783102da.jpg?v=1733098358</image>
@@ -9303,7 +9303,7 @@
           <manufacturersku>DN3706-401.42</manufacturersku>
           <price_with_vat>410</price_with_vat>
           <size>42</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52578005254477.42.5</variationid>
