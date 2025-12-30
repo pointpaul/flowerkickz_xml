@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-30 10:03</created_at>
+  <created_at>2025-12-30 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -10607,7 +10607,7 @@
       <availability>In Stock</availability>
       <size>38,40</size>
       <description>Air Jordan 1 Retro High Tie Dye</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_Tie_Dye-CD0461-100_229b0fda-cc63-4929-a531-1fb01e0224c4.jpg?v=1733087722</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Retro_High_Tie_Dye-CD0461-100_a8b0fe1e-d0c3-4477-9153-05f1a7feca42.jpg?v=1733087722</image>
@@ -10621,7 +10621,7 @@
           <manufacturersku>CD0461-100.38</manufacturersku>
           <price_with_vat>385</price_with_vat>
           <size>38</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52576964936013.40</variationid>
@@ -21024,7 +21024,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM,SMALL</size>
       <description>Trapstar TS-Star Tee</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <variations>
         <variation>
           <variationid>54211324576077.LARGE</variationid>
@@ -21051,7 +21051,7 @@
           <manufacturersku>TP0022.SMALL</manufacturersku>
           <price_with_vat>140</price_with_vat>
           <size>SMALL</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
