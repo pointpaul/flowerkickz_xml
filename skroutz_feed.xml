@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2025-12-30 12:03</created_at>
+  <created_at>2025-12-30 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -10878,7 +10878,7 @@
       <availability>In Stock</availability>
       <size>44,45,45.5,46,49.5</size>
       <description>Air Jordan 4 Midnight Navy</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Midnight_Navy-DH6927-140_06eef3e9-2c69-4eb3-b043-f5ba519cd1b8.jpg?v=1733099061</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_4_Midnight_Navy-DH6927-140_59e36a1c-bdb5-488d-84f4-ea4157810a6f.jpg?v=1733099061</image>
@@ -10892,7 +10892,7 @@
           <manufacturersku>DH6927-140.44</manufacturersku>
           <price_with_vat>615</price_with_vat>
           <size>44</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52578074198349.45</variationid>
