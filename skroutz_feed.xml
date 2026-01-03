@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2026-01-03 17:03</created_at>
+  <created_at>2026-01-03 18:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -8512,7 +8512,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42.5,43,44</size>
       <description>Air Jordan 1 Low OG UNC (2022)</description>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_OG_UNC_2022_-CZ0790-104_d622ce41-05ed-4fb7-b486-6ad469397307.jpg?v=1733097489</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Low_OG_UNC_2022_-CZ0790-104_7286dd38-0f9a-40e7-bd95-4723b12b85ad.jpg?v=1733097489</image>
@@ -8553,7 +8553,7 @@
           <manufacturersku>CZ0790-104.42.5</manufacturersku>
           <price_with_vat>330</price_with_vat>
           <size>42.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577939587405.43</variationid>
