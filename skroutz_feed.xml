@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2026-01-03 10:03</created_at>
+  <created_at>2026-01-03 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -10018,7 +10018,7 @@
       <availability>In Stock</availability>
       <size>42,42.5,44,46,47</size>
       <description>Air Jordan 1 Mid SE Zen Master</description>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_SE_Zen_Master-DM1200-001_e8a95c13-0e18-46ad-8ecf-417a4c323ecc.jpg?v=1733095254</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Jordan_1_Mid_SE_Zen_Master-DM1200-001_89e0b13f-10f6-4f48-8673-bfdbbcc3d9e4.jpg?v=1733095254</image>
@@ -10041,7 +10041,7 @@
           <manufacturersku>DM1200-001.42.5</manufacturersku>
           <price_with_vat>295</price_with_vat>
           <size>42.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52577757364557.44</variationid>
