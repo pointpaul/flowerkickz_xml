@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2026-01-05 13:03</created_at>
+  <created_at>2026-01-05 14:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -14241,7 +14241,7 @@
       <availability>In Stock</availability>
       <size>42,42.5,43,44.5,45,46,47</size>
       <description>Nike Dunk Low USC</description>
-      <quantity>13</quantity>
+      <quantity>12</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_153c0b42-02b0-453e-96ea-398aa6dda07a.jpg?v=1733148395</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_3406a44f-3d3f-4006-96f4-977ccd5842bd.jpg?v=1733148395</image>
@@ -14282,7 +14282,7 @@
           <manufacturersku>DD1391-602.44.5</manufacturersku>
           <price_with_vat>195</price_with_vat>
           <size>44.5</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52577949221197.45</variationid>
