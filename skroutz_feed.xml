@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2026-01-07 18:03</created_at>
+  <created_at>2026-01-07 19:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -14552,7 +14552,7 @@
       <availability>In Stock</availability>
       <size>38.5,40,40.5,41</size>
       <description>Nike SB Dunk Low Pro ISO Black Gum</description>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_SB_Dunk_Low_Pro_ISO_Black_Gum-CD2563-006_8dba146c-f240-4965-8202-af2339c39309.jpg?v=1733103031</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_SB_Dunk_Low_Pro_ISO_Black_Gum-CD2563-006_ac65eed0-adb7-4a3f-8865-8974daa988a7.jpg?v=1733103031</image>
@@ -14584,7 +14584,7 @@
           <manufacturersku>CD2563-006.40.5</manufacturersku>
           <price_with_vat>310</price_with_vat>
           <size>40.5</size>
-          <quantity>3</quantity>
+          <quantity>2</quantity>
         </variation>
         <variation>
           <variationid>52578481439053.41</variationid>
