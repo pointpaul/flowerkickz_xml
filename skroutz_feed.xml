@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2026-01-14 12:03</created_at>
+  <created_at>2026-01-14 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2657,9 +2657,9 @@
       <manufacturer>Nike</manufacturer>
       <ean/>
       <availability>In Stock</availability>
-      <size>36,36.5,38,42.5,44.5,46,48.5</size>
+      <size>36,36.5,38,42.5,43,44.5,46,48.5</size>
       <description>Air Force 1 Low NOCTA Drake Certified Lover Boy</description>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2_a35c87c2-edd9-4f4e-ad56-a1ea9145e7c4.jpg?v=1733127997</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3_e1343892-9c04-49bf-8158-44eae2db873b.jpg?v=1733127997</image>
@@ -2703,13 +2703,22 @@
           <quantity>0</quantity>
         </variation>
         <variation>
+          <variationid>52578305933645.43</variationid>
+          <link>https://www.flowerkickz.gr/products/air-force-1-low-nocta-drake-certified-lover-boy</link>
+          <availability>In Stock</availability>
+          <manufacturersku>CZ8065-100.43</manufacturersku>
+          <price_with_vat>385</price_with_vat>
+          <size>43</size>
+          <quantity>0</quantity>
+        </variation>
+        <variation>
           <variationid>52578305933645.44.5</variationid>
           <link>https://www.flowerkickz.gr/products/air-force-1-low-nocta-drake-certified-lover-boy</link>
           <availability>In Stock</availability>
           <manufacturersku>CZ8065-100.44.5</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>44.5</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
         <variation>
           <variationid>52578305933645.46</variationid>
@@ -3991,7 +4000,7 @@
       <availability>In Stock</availability>
       <size>40,40.5,41,42,44,44.5,45,45.5,46,47.5</size>
       <description>Air Force 1 Low White Supreme</description>
-      <quantity>24</quantity>
+      <quantity>22</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_92f83587-4b6a-4b3f-acc3-11decb796ef5.jpg?v=1733086992</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Air_Force_1_Low_White_Supreme-CU9225-100_b30ae739-1e26-4cce-8d1a-6d4327d962e2.jpg?v=1733086992</image>
@@ -4014,7 +4023,7 @@
           <manufacturersku>CU9225-100.40.5</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>40.5</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>52576870400333.41</variationid>
@@ -4068,7 +4077,7 @@
           <manufacturersku>CU9225-100.45.5</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>45.5</size>
-          <quantity>6</quantity>
+          <quantity>5</quantity>
         </variation>
         <variation>
           <variationid>52576870400333.46</variationid>
