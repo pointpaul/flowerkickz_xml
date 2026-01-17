@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2026-01-17 10:03</created_at>
+  <created_at>2026-01-17 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -159,7 +159,7 @@
       <availability>In Stock</availability>
       <size>LARGE</size>
       <description>Fear of God Essentials Sweatpants Stretch-Limo</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/FearofGodEssentialsSweatpantsStretch-LimoBack.png?v=1690469839</image>
       </additional_images>
@@ -3626,7 +3626,7 @@
       <availability>In Stock</availability>
       <size>LARGE,MEDIUM</size>
       <description>Stüssy Tee Dot Stamp White</description>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>52706091073869.LARGE</variationid>
@@ -3644,7 +3644,7 @@
           <manufacturersku>None.MEDIUM</manufacturersku>
           <price_with_vat>170</price_with_vat>
           <size>MEDIUM</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
       </variations>
     </product>
@@ -22220,7 +22220,7 @@
       <availability>In Stock</availability>
       <size>L,M,S,XL</size>
       <description>Trapstar It's A Secret Hooded Puffer</description>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/2F_a93dc251-2f67-4593-9644-be49508338e4.png?v=1764325489</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/3F_9ce69243-c20d-4597-b137-3ebb8c2645c4.png?v=1764325490</image>
@@ -22234,7 +22234,7 @@
           <manufacturersku>None.L</manufacturersku>
           <price_with_vat>340</price_with_vat>
           <size>L</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>54881613185357.M</variationid>
