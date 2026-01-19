@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2026-01-19 12:03</created_at>
+  <created_at>2026-01-19 13:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -2752,7 +2752,7 @@
       <availability>In Stock</availability>
       <size>35.5,36,36.5,37.5,38.5,40.5,41,42,42.5,43</size>
       <description>Nike Dunk Low Cacao Wow</description>
-      <quantity>15</quantity>
+      <quantity>14</quantity>
       <additional_images>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124_f2f78e13-c62f-4a80-8cfb-7090e66f2586.jpg?v=1733107831</image>
         <image>https://cdn.shopify.com/s/files/1/0388/8847/2707/files/flowerkickz-Nike_Dunk_Low_Cacao_Wow-DD1503-124_8c2a0049-7022-4043-9d33-6d5fc90a106b.jpg?v=1733107831</image>
@@ -2802,7 +2802,7 @@
           <manufacturersku>DD1503-124.38.5</manufacturersku>
           <price_with_vat>250</price_with_vat>
           <size>38.5</size>
-          <quantity>1</quantity>
+          <quantity>0</quantity>
         </variation>
         <variation>
           <variationid>52579070050637.40.5</variationid>
