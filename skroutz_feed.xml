@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <FlowerKickz>
-  <created_at>2026-01-19 10:03</created_at>
+  <created_at>2026-01-19 11:03</created_at>
   <products>
     <product>
       <id>FK1726-101</id>
@@ -22055,7 +22055,7 @@
       <availability>In Stock</availability>
       <size>L,M,S,XL</size>
       <description>Trapstar TRP Print Hoodie</description>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <variations>
         <variation>
           <variationid>54881611678029.L</variationid>
@@ -22091,7 +22091,7 @@
           <manufacturersku>None.XL</manufacturersku>
           <price_with_vat>205</price_with_vat>
           <size>XL</size>
-          <quantity>0</quantity>
+          <quantity>1</quantity>
         </variation>
       </variations>
     </product>
